@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 44 100% 97%;
+    --surface: 60 56% 91%;
+    --primary: 120 61% 34%;
+    --primary-foreground: 0 0% 100%;
+    --muted: 0 0% 66%;
+  }
+
+  body {
+    background-color: hsl(var(--background));
+    color: #1a1a1a;
+  }
+}
+
+@layer utilities {
+  .animate-slow-zoom {
+    animation: slow-zoom 20s ease-in-out infinite alternate;
+  }
+}
