@@ -1,7 +1,7 @@
 import { useState, useEffect, useCallback, useRef } from 'react';
 import { useParams, Link } from 'react-router-dom';
 import { motion, AnimatePresence } from 'framer-motion';
-import { Helmet } from 'react-helmet-async';
+import SEO from '../../components/SEO';
 import { MapPin, Calendar, ArrowRight } from 'lucide-react';
 import regionsData from '../../data/regions.json';
 import imgGohadoMain from '../../assets/gohado-main.webp';
@@ -81,10 +81,10 @@ export default function RegionGallery() {
 
   return (
     <div className="min-h-screen pt-24 pb-16 px-4 sm:px-6 lg:px-8 max-w-7xl mx-auto">
-      <Helmet>
-        <title>{currentRegionName} 여행 갤러리 | 남도아트정원</title>
-        <meta name="description" content={`${currentRegionName}의 아름다운 관광지와 추천 명소를 사진과 함께 확인하세요.`} />
-      </Helmet>
+      <SEO 
+        title={`${currentRegionName} 여행 갤러리`}
+        description={`${currentRegionName}의 아름다운 관광지와 추천 명소를 사진과 함께 확인하세요. AI 리서처가 남도예술정원의 숨겨진 매력을 안내해 드립니다.`}
+      />
 
       {/* Header Section */}
       <motion.div
