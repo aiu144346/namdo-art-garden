@@ -33,116 +33,57 @@ export default function Header() {
   ];
 
   return (
-    <header className="sticky top-0 z-[100] w-full border-b border-surface/30 bg-background/80 backdrop-blur-xl">
-      <div className="container mx-auto flex h-20 md:h-32 items-center justify-between px-6 md:px-12">
-        
-        {/* Logo */}
-        <Link to="/" className="flex items-center group relative z-[110]">
-          <img 
-            src="/images/logo-main.svg" 
-            alt="남도예술정원 로고" 
-            className="h-12 md:h-24 w-auto hover:opacity-80 transition-opacity" 
-          />
-        </Link>
+    <header className="sticky top-0 z-[100] w-full border-b border-surface/30 bg-background/95 backdrop-blur-xl">
+      <div className="container mx-auto px-6 md:px-12">
+        {/* Main Header Row */}
+        <div className="flex h-16 md:h-32 items-center justify-between">
+          {/* Logo */}
+          <Link to="/" className="flex items-center group relative z-[110]">
+            <img 
+              src="/images/logo-main.svg" 
+              alt="남도예술정원 로고" 
+              className="h-10 md:h-24 w-auto hover:opacity-80 transition-opacity" 
+            />
+          </Link>
 
-        {/* Desktop Navigation */}
-        <div className="hidden md:block">
-          <NavigationMenu.Root className="relative flex justify-center">
-            <NavigationMenu.List className="flex items-center gap-10">
-              {navLinks.map((link) => (
-                <NavItem 
-                  key={link.to} 
-                  to={link.to} 
-                  current={location.pathname === link.to || location.pathname.startsWith(link.to + '/')}
-                >
-                  {link.label}
-                </NavItem>
-              ))}
-            </NavigationMenu.List>
-          </NavigationMenu.Root>
+          {/* Desktop Navigation */}
+          <div className="hidden md:block">
+            <NavigationMenu.Root className="relative flex justify-center">
+              <NavigationMenu.List className="flex items-center gap-10">
+                {navLinks.map((link) => (
+                  <NavItem 
+                    key={link.to} 
+                    to={link.to} 
+                    current={location.pathname === link.to || location.pathname.startsWith(link.to + '/')}
+                  >
+                    {link.label}
+                  </NavItem>
+                ))}
+              </NavigationMenu.List>
+            </NavigationMenu.Root>
+          </div>
         </div>
 
-        {/* Mobile Menu Button */}
-        <button 
-          className="md:hidden relative z-[110] p-2 text-primary focus:outline-none"
-          onClick={() => setIsOpen(!isOpen)}
-          aria-label={isOpen ? "메뉴 닫기" : "메뉴 열기"}
-        >
-          <div className="relative w-8 h-8 flex items-center justify-center">
-            <AnimatePresence mode="wait">
-              {isOpen ? (
-                <motion.div
-                  key="close"
-                  initial={{ rotate: -90, opacity: 0 }}
-                  animate={{ rotate: 0, opacity: 1 }}
-                  exit={{ rotate: 90, opacity: 0 }}
-                >
-                  <X size={32} strokeWidth={1.5} />
-                </motion.div>
-              ) : (
-                <motion.div
-                  key="menu"
-                  initial={{ rotate: 90, opacity: 0 }}
-                  animate={{ rotate: 0, opacity: 1 }}
-                  exit={{ rotate: -90, opacity: 0 }}
-                  className="flex flex-col gap-1.5"
-                >
-                  <div className="w-8 h-0.5 bg-primary rounded-full" />
-                  <div className="w-6 h-0.5 bg-primary rounded-full self-end" />
-                  <div className="w-8 h-0.5 bg-primary rounded-full" />
-                </motion.div>
-              )}
-            </AnimatePresence>
-          </div>
-        </button>
-
-        {/* Mobile Navigation Overlay - Ultra Solid version */}
-        <AnimatePresence>
-          {isOpen && (
-            <motion.div
-              initial={{ opacity: 0 }}
-              animate={{ opacity: 1 }}
-              exit={{ opacity: 0 }}
-              className="fixed inset-0 bg-[#f9f8f3] md:hidden z-[105] flex flex-col overflow-y-auto"
-            >
-              <div className="flex flex-col items-center pt-24 pb-20 px-6">
-                <span className="text-[10px] font-bold tracking-[0.4em] uppercase mb-10 text-neutral-400">
-                  권역별 정원 탐방
-                </span>
-                
-                <nav className="flex flex-col items-center gap-7 w-full">
-                  {navLinks.map((link) => {
-                    const isActive = location.pathname === link.to || location.pathname.startsWith(link.to + '/');
-                    return (
-                      <Link
-                        key={link.to}
-                        to={link.to}
-                        className="flex flex-col items-center gap-1 py-3 w-full max-w-xs transition-transform active:scale-95"
-                      >
-                        <span className={cn(
-                          "text-3xl font-bold tracking-tight",
-                          isActive ? "text-primary" : "text-neutral-900"
-                        )}>
-                          {link.label}
-                        </span>
-                        <span className={cn(
-                          "text-[9px] font-bold tracking-[0.2em] uppercase",
-                          isActive ? "text-primary/70" : "text-neutral-300"
-                        )}>
-                          {link.en}
-                        </span>
-                      </Link>
-                    );
-                  })}
-                </nav>
-
-                <div className="mt-16 opacity-10">
-                  <Leaf size={50} />
-                </div>
-              </div>
-            </motion.div>
-          )}
-        </AnimatePresence>
+        {/* Mobile Horizontal Region Navigation (Sub-navigation) */}
+        <div className="md:hidden border-t border-surface/20 flex items-center h-12 overflow-x-auto scrollbar-hide -mx-6 px-6 gap-6 whitespace-nowrap">
+          {navLinks.map((link) => {
+            const isActive = location.pathname === link.to || location.pathname.startsWith(link.to + '/');
+            return (
+              <Link
+                key={link.to}
+                to={link.to}
+                className={cn(
+                  "text-sm font-bold tracking-tight py-1 transition-all",
+                  isActive 
+                    ? "text-primary border-b-2 border-primary" 
+                    : "text-neutral-500 hover:text-primary opacity-70"
+                )}
+              >
+                {link.label}
+              </Link>
+            );
+          })}
+        </div>
       </div>
     </header>
   );
