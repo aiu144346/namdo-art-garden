@@ -96,67 +96,49 @@ export default function Header() {
           </div>
         </button>
 
-        {/* Mobile Navigation Overlay */}
+        {/* Mobile Navigation Overlay - Ultra Solid version */}
         <AnimatePresence>
           {isOpen && (
             <motion.div
               initial={{ opacity: 0 }}
               animate={{ opacity: 1 }}
               exit={{ opacity: 0 }}
-              transition={{ duration: 0.3 }}
-              className="fixed inset-0 bg-background/99 backdrop-blur-2xl md:hidden z-[105] overflow-y-auto"
+              className="fixed inset-0 bg-[#f9f8f3] md:hidden z-[105] flex flex-col overflow-y-auto"
             >
-              <div className="flex flex-col items-center justify-start min-h-full pt-32 pb-16 px-6">
-                <motion.span 
-                  initial={{ opacity: 0, y: 10 }}
-                  animate={{ opacity: 0.4, y: 0 }}
-                  className="text-[10px] font-bold tracking-[0.5em] uppercase mb-12 text-neutral-500"
-                >
+              <div className="flex flex-col items-center pt-24 pb-20 px-6">
+                <span className="text-[10px] font-bold tracking-[0.4em] uppercase mb-10 text-neutral-400">
                   권역별 정원 탐방
-                </motion.span>
+                </span>
                 
-                <nav className="flex flex-col items-center gap-6 w-full">
-                  {navLinks.map((link, idx) => {
+                <nav className="flex flex-col items-center gap-7 w-full">
+                  {navLinks.map((link) => {
                     const isActive = location.pathname === link.to || location.pathname.startsWith(link.to + '/');
                     return (
-                      <motion.div
+                      <Link
                         key={link.to}
-                        initial={{ opacity: 0, y: 20 }}
-                        animate={{ opacity: 1, y: 0 }}
-                        transition={{ delay: 0.05 * idx + 0.1, duration: 0.5, ease: "easeOut" }}
-                        className="w-full flex justify-center"
+                        to={link.to}
+                        className="flex flex-col items-center gap-1 py-3 w-full max-w-xs transition-transform active:scale-95"
                       >
-                        <Link
-                          to={link.to}
-                          className="group flex flex-col items-center gap-1 active:scale-95 transition-transform py-2 w-full max-w-[280px]"
-                        >
-                          <span className={cn(
-                            "text-3xl font-serif font-bold tracking-tight transition-all duration-300",
-                            isActive ? "text-primary scale-110" : "text-neutral-800"
-                          )}>
-                            {link.label}
-                          </span>
-                          <span className={cn(
-                            "text-[10px] font-bold tracking-[0.3em] uppercase transition-opacity duration-300",
-                            isActive ? "opacity-100 text-primary" : "opacity-30 text-neutral-500"
-                          )}>
-                            {link.en}
-                          </span>
-                        </Link>
-                      </motion.div>
+                        <span className={cn(
+                          "text-3xl font-bold tracking-tight",
+                          isActive ? "text-primary" : "text-neutral-900"
+                        )}>
+                          {link.label}
+                        </span>
+                        <span className={cn(
+                          "text-[9px] font-bold tracking-[0.2em] uppercase",
+                          isActive ? "text-primary/70" : "text-neutral-300"
+                        )}>
+                          {link.en}
+                        </span>
+                      </Link>
                     );
                   })}
                 </nav>
 
-                {/* Decorative Element */}
-                <motion.div
-                  initial={{ opacity: 0, scale: 0.8 }}
-                  animate={{ opacity: 0.05, scale: 1 }}
-                  transition={{ delay: 0.6 }}
-                  className="mt-16 pointer-events-none"
-                >
-                  <Leaf size={60} />
-                </motion.div>
+                <div className="mt-16 opacity-10">
+                  <Leaf size={50} />
+                </div>
               </div>
             </motion.div>
           )}
