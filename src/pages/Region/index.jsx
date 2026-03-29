@@ -2,11 +2,38 @@ import { useState, useEffect, useCallback, useRef } from 'react';
 import { useParams, Link } from 'react-router-dom';
 import { motion, AnimatePresence } from 'framer-motion';
 import SEO from '../../components/SEO';
-import { MapPin, Calendar, ArrowRight } from 'lucide-react';
+import { MapPin, Calendar, ArrowRight, Plus, Minus, HelpCircle } from 'lucide-react';
 import regionsData from '../../data/regions.json';
+import faqData from '../../data/faqs.json';
 import imgGohadoMain from '../../assets/gohado-main.webp';
 
 const ITEMS_PER_PAGE = 12;
+
+const FaqItem = ({ q, a }) => {
+  const [isOpen, setIsOpen] = useState(false);
+  return (
+    <div className="border-b border-neutral-200 py-4 last:border-b-0">
+      <button onClick={() => setIsOpen(!isOpen)} className="flex w-full items-center justify-between text-left focus:outline-none group">
+        <span className="font-bold text-neutral-900 pr-4 group-hover:text-primary transition-colors">{q}</span>
+        <span className="text-neutral-400 group-hover:text-primary flex-shrink-0 transition-colors">
+          {isOpen ? <Minus size={20} /> : <Plus size={20} />}
+        </span>
+      </button>
+      <AnimatePresence>
+        {isOpen && (
+          <motion.div 
+            initial={{ height: 0, opacity: 0 }} 
+            animate={{ height: 'auto', opacity: 1 }} 
+            exit={{ height: 0, opacity: 0 }} 
+            className="overflow-hidden"
+          >
+            <p className="pt-4 text-neutral-600 leading-relaxed text-sm pr-6">{a}</p>
+          </motion.div>
+        )}
+      </AnimatePresence>
+    </div>
+  );
+};
 
 export default function RegionGallery() {
   const { regionId } = useParams();
@@ -27,6 +54,19 @@ export default function RegionGallery() {
   };
 
   const currentRegionName = regionNameMap[regionId] || '관광지';
+  const regionFaqs = faqData[regionId] || [];
+
+  const faqSchema = regionFaqs.length > 0 ? {
+    "@type": "FAQPage",
+    "mainEntity": regionFaqs.map(faq => ({
+      "@type": "Question",
+      "name": faq.q,
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": faq.a
+      }
+    }))
+  } : null;
 
   useEffect(() => {
     // Simulate API fetch delay
@@ -84,6 +124,7 @@ export default function RegionGallery() {
       <SEO 
         title={`${currentRegionName} 여행 갤러리`}
         description={`${currentRegionName}의 아름다운 관광지와 추천 명소를 사진과 함께 확인하세요. AI 리서처가 남도예술정원의 숨겨진 매력을 안내해 드립니다.`}
+        schemaData={faqSchema}
       />
 
       {/* Header Section */}
@@ -183,6 +224,27 @@ export default function RegionGallery() {
         >
           모든 관광지({items.length}곳)를 다 불러왔습니다.
         </motion.div>
+      )}
+
+      {/* AI Integrated Search FAQ Section */}
+      {regionFaqs.length > 0 && (
+        <motion.section 
+          initial={{ opacity: 0, y: 30 }}
+          whileInView={{ opacity: 1, y: 0 }}
+          viewport={{ once: true }}
+          transition={{ duration: 0.6 }}
+          className="max-w-3xl mx-auto mt-20 mb-12"
+        >
+          <div className="flex items-center gap-3 mb-8 justify-center">
+            <HelpCircle className="w-7 h-7 text-primary" />
+            <h2 className="text-2xl font-bold font-serif text-neutral-900">AI 검색 가이드: {currentRegionName} 자주 묻는 질문</h2>
+          </div>
+          <div className="bg-white rounded-3xl shadow-sm border border-neutral-100 p-6 md:p-8">
+            {regionFaqs.map((faq, i) => (
+               <FaqItem key={i} q={faq.q} a={faq.a} />
+            ))}
+          </div>
+        </motion.section>
       )}
     </div>
   );
