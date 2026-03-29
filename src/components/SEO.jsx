@@ -15,6 +15,7 @@ export default function SEO({ title, description, keywords, url, image, schemaDa
     <Helmet>
       <title>{fullTitle}</title>
       <meta name="description" content={description || defaultDescription} />
+      <meta name="naver-site-verification" content="5e38da9792f1d152a3a93b14cd33b28004ab813" />
       {keywords && <meta name="keywords" content={keywords} />}
       <link rel="canonical" href={canonicalUrl} />
 
