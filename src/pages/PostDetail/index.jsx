@@ -73,7 +73,7 @@ export default function PostDetail() {
         image={post.image}
       />
       {/* Hero Section */}
-      <section className="relative h-[60vh] min-h-[500px] max-h-[700px] flex items-center justify-center overflow-hidden">
+      <section className="relative h-[50vh] md:h-[60vh] min-h-[300px] md:min-h-[500px] max-h-[700px] flex items-center justify-center overflow-hidden">
         <div className="absolute inset-0">
           <img src={post.image} alt={post.title} className="w-full h-full object-cover" />
           <div className="absolute inset-0 bg-neutral-900/40" />
@@ -90,7 +90,7 @@ export default function PostDetail() {
               <span className="opacity-60">•</span>
               <span className="opacity-90">{post.date}</span>
             </div>
-            <h1 className="text-3xl md:text-5xl lg:text-[56px] font-serif text-white tracking-tight leading-[1.4] mb-8 drop-shadow-[0_4px_16px_rgba(0,0,0,0.7)]">
+            <h1 className="text-3xl md:text-5xl lg:text-[56px] font-serif text-white tracking-tight leading-[1.2] md:leading-[1.4] mb-8 drop-shadow-[0_4px_16px_rgba(0,0,0,0.7)]">
               {post.title.split('\n').map((line, idx) => (
                 <React.Fragment key={idx}>
                   {line}

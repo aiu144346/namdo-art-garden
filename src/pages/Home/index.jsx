@@ -186,7 +186,7 @@ export default function Home() {
               animate={{ opacity: 1, y: 0 }}
               exit={{ opacity: 0, y: -10 }}
               transition={{ duration: 1.2, ease: "easeInOut" }}
-              className="text-6xl md:text-8xl lg:text-[110px] font-serif text-white font-bold leading-none tracking-tight drop-shadow-[0_5px_15px_rgba(0,0,0,0.7)] mb-10"
+              className="text-4xl sm:text-6xl md:text-8xl lg:text-[110px] font-serif text-white font-bold leading-none tracking-tight drop-shadow-[0_5px_15px_rgba(0,0,0,0.7)] mb-10"
             >
               NAMDO<br/>ART GARDEN
             </motion.h1>
@@ -229,9 +229,8 @@ export default function Home() {
         </div>
       </section>
 
-      {/* Quick Explore Bar */}
-      <div className="bg-neutral-900 text-white sticky top-0 z-40 relative shadow-2xl overflow-hidden before:absolute before:inset-0 before:bg-[url('/images/main-intro-01.webp')] before:opacity-10 before:mix-blend-overlay">
-        <div className="max-w-7xl mx-auto px-6 py-5 flex flex-wrap items-center justify-center md:justify-between gap-6 relative z-10">
+      <div className="bg-neutral-900 text-white sticky top-0 z-40 shadow-2xl overflow-hidden before:absolute before:inset-0 before:bg-[url('/images/main-intro-01.webp')] before:opacity-10 before:mix-blend-overlay">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 py-4 md:py-5 flex flex-wrap items-center justify-center md:justify-between gap-4 md:gap-6 relative z-10">
           <span className="font-serif text-xl md:text-2xl italic text-primary/80">"We Must Cultivate Our Garden"</span>
           <div className="flex items-center gap-6 overflow-x-auto no-scrollbar text-sm font-bold uppercase tracking-widest text-white/80">
             <a href="#featured" className="hover:text-primary transition-colors whitespace-nowrap">Featured Stories</a>
@@ -242,7 +241,7 @@ export default function Home() {
       </div>
 
       {/* Featured Story: 8 Sounds of Namdo (Premium Magazine Style) */}
-      <section id="featured" className="py-32 bg-white px-6 overflow-hidden">
+      <section id="featured" className="py-20 md:py-32 bg-white px-4 sm:px-6 overflow-hidden">
         <div className="max-w-7xl mx-auto">
           {/* Section Header */}
           <div className="mb-24 space-y-6 text-center md:text-left flex flex-col md:flex-row md:items-end justify-between gap-10">
