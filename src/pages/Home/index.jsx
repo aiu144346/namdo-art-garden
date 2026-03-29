@@ -32,7 +32,7 @@ const generateSchema = () => ({
       "@type": "TouristAttraction",
       "name": "남도예술정원",
       "description": "수백 년 된 고목과 현대 예술 조형물이 어우러진 대자연 속의 거대한 갤러리. 대한민국 최고의 정원 투어.",
-      "url": "https://namdogarden.example.com"
+      "url": "https://namdoartgarden.com"
     }
   ]
 });
