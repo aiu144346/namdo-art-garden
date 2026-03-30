@@ -65,24 +65,33 @@ export default function Header() {
         </div>
 
         {/* Mobile Horizontal Region Navigation (Sub-navigation) */}
-        <div className="md:hidden border-t border-surface/20 flex items-center h-12 overflow-x-auto scrollbar-hide -mx-6 px-6 gap-6 whitespace-nowrap">
-          {navLinks.map((link) => {
-            const isActive = location.pathname === link.to || location.pathname.startsWith(link.to + '/');
-            return (
-              <Link
-                key={link.to}
-                to={link.to}
-                className={cn(
-                  "text-sm font-bold tracking-tight py-1 transition-all",
-                  isActive 
-                    ? "text-primary border-b-2 border-primary" 
-                    : "text-neutral-500 hover:text-primary opacity-70"
-                )}
-              >
-                {link.label}
-              </Link>
-            );
-          })}
+        <div className="md:hidden border-t border-surface/20 bg-neutral-50/50 py-3 -mx-6 px-4 overflow-x-auto scrollbar-hide whitespace-nowrap flex items-center">
+          <div className="inline-flex items-center gap-1 bg-neutral-200/50 p-1.5 rounded-full border border-neutral-200/50 shadow-inner mx-auto min-w-max">
+            {navLinks.map((link) => {
+              const isActive = location.pathname === link.to || location.pathname.startsWith(link.to + '/');
+              return (
+                <Link
+                  key={link.to}
+                  to={link.to}
+                  className={cn(
+                    "relative px-4 py-1.5 rounded-full text-[13px] font-bold tracking-tight transition-all z-10",
+                    isActive 
+                      ? "text-white drop-shadow-sm" 
+                      : "text-neutral-500 hover:text-neutral-900"
+                  )}
+                >
+                  {isActive && (
+                    <motion.div
+                      layoutId="mobileNavPill"
+                      className="absolute inset-0 bg-primary rounded-full shadow-md -z-10"
+                      transition={{ type: "spring", stiffness: 300, damping: 30 }}
+                    />
+                  )}
+                  {link.label}
+                </Link>
+              );
+            })}
+          </div>
         </div>
       </div>
     </header>
