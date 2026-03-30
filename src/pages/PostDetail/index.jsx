@@ -1,7 +1,7 @@
 import React, { useMemo, useState } from 'react';
 import { useParams, Link } from 'react-router-dom';
 import { motion, AnimatePresence } from 'framer-motion';
-import { ArrowLeft, ArrowRight, Clock, Share2, MapPin, Check } from 'lucide-react';
+import { ArrowLeft, ArrowRight, Clock, Share2, MapPin, Check, Link as LinkIcon } from 'lucide-react';
 import SEO from '../../components/SEO';
 import POST_DATA from '../../data/postsData';
 
