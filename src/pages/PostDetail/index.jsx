@@ -128,6 +128,87 @@ export default function PostDetail() {
 
             <PostSharing />
 
+            {/* Mobile Sidebar Content (Visible ONLY on Smartphone) */}
+            <div className="mt-16 block md:hidden space-y-10 border-t border-neutral-100 pt-10">
+              <div className="space-y-4">
+                <p className="text-sm font-bold text-neutral-900 px-1">포스트 공유하기</p>
+                <div className="flex items-center gap-3">
+                  <button 
+                    onClick={() => handleShare('naver')}
+                    title="네이버 블로그 공유"
+                    className="w-10 h-10 rounded-full bg-[#03C75A] flex items-center justify-center text-white hover:opacity-90 transition-all hover:scale-110 shadow-sm"
+                  >
+                    <span className="font-bold text-sm">N</span>
+                  </button>
+                  <button 
+                    onClick={() => handleShare('kakao')}
+                    title="카카오스토리 공유"
+                    className="w-10 h-10 rounded-full bg-[#FEE500] flex items-center justify-center text-[#3C1E1E] hover:opacity-90 transition-all hover:scale-110 shadow-sm"
+                  >
+                    <Share2 className="w-5 h-5 fill-current" />
+                  </button>
+                  <button 
+                    onClick={() => handleShare('facebook')}
+                    title="페이스북 공유"
+                    className="w-10 h-10 rounded-full bg-[#1877F2] flex items-center justify-center text-white hover:opacity-90 transition-all hover:scale-110 shadow-sm"
+                  >
+                    <svg className="w-5 h-5 fill-current" viewBox="0 0 24 24"><path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"/></svg>
+                  </button>
+                  <button 
+                    onClick={() => handleShare('copy')}
+                    title="링크 복사"
+                    className={`w-10 h-10 rounded-full flex items-center justify-center transition-all hover:scale-110 shadow-sm ${
+                      copied ? 'bg-green-500 text-white' : 'bg-neutral-800 text-white hover:bg-neutral-700'
+                    }`}
+                  >
+                    {copied ? <Check className="w-5 h-5" /> : <LinkIcon className="w-5 h-5" />}
+                  </button>
+                </div>
+                {copied && (
+                  <motion.p 
+                    initial={{ opacity: 0, y: -5 }}
+                    animate={{ opacity: 1, y: 0 }}
+                    className="text-xs text-green-600 font-medium px-1"
+                  >
+                    링크가 복사되었습니다!
+                  </motion.p>
+                )}
+              </div>
+              
+              <div className="bg-surface/50 p-6 rounded-2xl border border-neutral-100 shadow-sm relative overflow-hidden group">
+                <div className="absolute top-0 left-0 w-1.5 h-full bg-primary" />
+                <h3 className="font-serif font-bold text-neutral-900 mb-2">AI 맞춤 추천</h3>
+                <p 
+                  className="text-sm text-neutral-600 font-light mb-6 leading-relaxed"
+                  dangerouslySetInnerHTML={{ 
+                    __html: post.aiRecommendation || '현재 읽고 계신 콘텐츠를 좋아하신다면, 남도예술정원의 갤러리를 사랑하실 확률이 <strong class="font-semibold text-primary">96%</strong>입니다.' 
+                  }}
+                />
+                
+                <div className="space-y-4 mb-6">
+                  {recommendedPosts.map((rec) => (
+                    <Link key={rec.id} to={`/posts/${rec.id}`} className="block group/item">
+                      <div className="flex items-center gap-4">
+                        <div className="w-20 h-20 rounded-xl overflow-hidden flex-shrink-0 border border-neutral-100 shadow-sm">
+                          <img src={rec.image} alt="" className="w-full h-full object-cover group-hover/item:scale-110 transition-transform duration-500" />
+                        </div>
+                        <div className="flex-1 min-w-0">
+                          <p className="text-[10px] font-bold text-primary mb-1 uppercase tracking-widest">AI Pick</p>
+                          <p className="text-sm text-neutral-800 font-medium leading-snug line-clamp-2 group-hover/item:text-primary transition-colors">
+                            {rec.title.replace(/\\n/g, ' ')}
+                          </p>
+                        </div>
+                      </div>
+                    </Link>
+                  ))}
+                </div>
+
+                <Link to={gardenLink} className="w-full inline-flex items-center justify-center gap-2 text-[11px] font-bold text-white bg-neutral-900 px-4 py-4 rounded-xl uppercase tracking-[0.2em] hover:bg-primary transition-colors shadow-lg">
+                  정원 알아보기 <ArrowRight className="w-3.5 h-3.5" />
+                </Link>
+              </div>
+            </div>
+
             <div className="mt-16 pt-8 border-t border-neutral-200">
                <div className="flex flex-wrap items-center gap-2 mb-8">
                   <span className="text-sm font-bold mr-2 text-neutral-900">Tags:</span>
