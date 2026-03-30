@@ -99,19 +99,30 @@ export default function Header() {
 }
 
 function NavItem({ to, current, children }) {
+  const [isHovered, setIsHovered] = useState(false);
+
   return (
     <NavigationMenu.Item>
       <NavigationMenu.Link asChild>
         <Link 
           to={to} 
+          onMouseEnter={() => setIsHovered(true)}
+          onMouseLeave={() => setIsHovered(false)}
           className={cn(
-            "text-base md:text-lg font-bold tracking-wider transition-colors relative py-2",
-            current ? "text-primary" : "text-neutral-500 hover:text-primary",
-            "after:content-[''] after:absolute after:bottom-0 after:left-0 after:w-full after:h-0.5 after:bg-primary after:scale-x-0 transition-all duration-500 ease-out",
-            current && "after:scale-x-100"
+            "text-base md:text-[17px] font-bold tracking-widest transition-colors relative px-5 py-2.5 rounded-xl block z-10",
+            current ? "text-primary drop-shadow-sm" : "text-neutral-400 hover:text-neutral-900",
+            isHovered && !current ? "bg-neutral-100/60" : ""
           )}
         >
-          {children}
+          <span className="relative z-10">{children}</span>
+          
+          {current && (
+            <motion.div
+              layoutId="desktopNavIndicator"
+              className="absolute bottom-0 left-4 right-4 h-[3px] bg-primary rounded-t-full shadow-[0_0_8px_rgba(var(--color-primary),0.5)]"
+              transition={{ type: "spring", stiffness: 350, damping: 30 }}
+            />
+          )}
         </Link>
       </NavigationMenu.Link>
     </NavigationMenu.Item>
