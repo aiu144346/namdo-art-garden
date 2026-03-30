@@ -110,7 +110,7 @@ function NavItem({ to, current, children }) {
           onMouseLeave={() => setIsHovered(false)}
           className={cn(
             "text-base md:text-[17px] font-bold tracking-widest transition-colors relative px-5 py-2.5 rounded-xl block z-10",
-            current ? "text-primary drop-shadow-sm" : "text-neutral-400 hover:text-neutral-900",
+            current ? "text-primary drop-shadow-sm" : "text-neutral-600 hover:text-neutral-900",
             isHovered && !current ? "bg-neutral-100/60" : ""
           )}
         >
