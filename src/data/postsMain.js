@@ -447,7 +447,7 @@ export const postsMain = {
     `,
     "image": "/images/main-intro-01.webp",
     "date": "2026-03-27",
-    "author": "남도예술 정원 AI 리서처",
+    "author": "남도예술정원 AI리서처",
     "readTime": "15분"
   }
 };

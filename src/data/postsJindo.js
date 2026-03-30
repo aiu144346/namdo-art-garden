@@ -130,7 +130,7 @@ export const postsJindo = {
     `,
     image: "/images/jindo-007.webp",
     date: "2026-03-22",
-    author: "남도예술 정원 AI리서처",
+    author: "남도예술정원 AI리서처",
     readTime: "5분",
     keywords: "진도아리랑마을, 진도여행코스, 아리랑체험관, 진도가볼만한곳, 남도예술정원"
   },
@@ -246,7 +246,7 @@ export const postsJindo = {
     `,
     image: "/images/jindo-005.webp",
     date: "2026-03-22",
-    author: "남도예술 정원 AI리서처",
+    author: "남도예술정원 AI리서처",
     readTime: "4분",
     keywords: "운림산방맛집, 진도맛집, 꽃피는전복식당2, 진도전복요리, 전복버터구이"
   },
@@ -500,7 +500,7 @@ export const postsJindo = {
     `,
     image: "/images/jindo-001.webp",
     date: "2026-03-22",
-    author: "남도예술 정원 AI리서처",
+    author: "남도예술정원 AI리서처",
     readTime: "8분",
     keywords: "운림산방, 진도가볼만한곳, 소치허련, 한국남종화, 진도여행코스, 남도예술정원"
   },
@@ -647,7 +647,7 @@ export const postsJindo = {
     `,
     image: "/images/jindo-012.webp",
     date: "2026-03-24",
-    author: "남도예술 정원 AI리서처",
+    author: "남도예술정원 AI리서처",
     readTime: "5분",
     keywords: "진도 나절로미술관, 진도 가볼만한곳, 폐교 미술관, 이상은 작가, 전남 이색 데이트, 진도 힐링 여행, 남도 예술 여행"
   },
@@ -767,7 +767,7 @@ export const postsJindo = {
     `,
     image: "/images/img-021.webp",
     date: "2026-03-24",
-    author: "남도예술 정원 AI리서처",
+    author: "남도예술정원 AI리서처",
     readTime: "4분",
     keywords: "진도 사랑방식당, 나절로미술관 근처 맛집, 진도 바지락회 무침, 진도 현지인 추천, 전남 맛집 투어"
   },
@@ -900,7 +900,7 @@ export const postsJindo = {
     `,
     image: "/images/jindo-023.webp",
     date: "2026-03-24",
-    author: "남도예술 정원 AI리서처",
+    author: "남도예술정원 AI리서처",
     readTime: "4분",
     keywords: "진도 오션뷰 숙소, 나절로미술관 근처 펜션, 진도 아이와 가볼만한 곳, 접도어촌체험마을"
   },
@@ -1025,7 +1025,7 @@ export const postsJindo = {
     `,
     image: "/images/jindo-027.webp",
     date: "2026-03-24",
-    author: "남도예술 정원 AI리서처",
+    author: "남도예술정원 AI리서처",
     readTime: "3분",
     keywords: "아리랑마을 근처 숙소, 진도 오션뷰 독채 펜션, 진도 아리랑길 여행"
   },
@@ -1174,7 +1174,7 @@ export const postsJindo = {
     `,
     image: "/images/jindo-029.webp",
     date: "2026-03-24",
-    author: "남도예술 정원 AI리서처",
+    author: "남도예술정원 AI리서처",
     readTime: "5분",
     keywords: "진도 휴식, 진도 가볼만한곳, 민간정원, 오션뷰 카페, 신비의 바닷길"
   },
@@ -1328,7 +1328,7 @@ export const postsJindo = {
     `,
     image: "/images/jindo-036.webp",
     date: "2026-03-24",
-    author: "남도예술 정원 AI리서처",
+    author: "남도예술정원 AI리서처",
     readTime: "4분",
     keywords: "나절로 미술관, 진도 가족여행, 진도 반려견 동반, 진도 예술 투어, 상만리 오층석탑"
   }

@@ -533,7 +533,7 @@ export const postsHaenam = {
     `,
     image: "/images/haenam-157.webp",
     date: "2026-03-22",
-    author: "남도예술 정원 AI리서처",
+    author: "남도예술정원 AI리서처",
     readTime: "6분",
     keywords: "해남문가든, 해남가볼만한곳, 해남카페, 전남민간정원, 해남여행코스, 남도예술정원"
   },
@@ -744,7 +744,7 @@ export const postsHaenam = {
     `,
     image: "/images/haenam-151.webp",
     date: "2026-03-22",
-    author: "남도예술 정원 AI리서처",
+    author: "남도예술정원 AI리서처",
     readTime: "5분",
     keywords: "문가든, 해남가볼만한곳, 해남카페, 전남민간정원, 해남여행코스, 남도예술정원"
   },
@@ -1030,7 +1030,7 @@ export const postsHaenam = {
     `,
     image: "/images/haenam-127.webp",
     date: "2026-03-22",
-    author: "남도예술 정원 AI리서처",
+    author: "남도예술정원 AI리서처",
     readTime: "7분",
     keywords: "비원, 해남비원, 민간정원, 정원카페, 구룡폭포, 치유여행, 인생샷"
   },
@@ -1212,7 +1212,7 @@ export const postsHaenam = {
     `,
     image: "/images/haenam-118.webp",
     date: "2026-03-22",
-    author: "남도예술 정원 AI리서처",
+    author: "남도예술정원 AI리서처",
     readTime: "4분",
     keywords: "두륜산길정원, 해남여행, 대흥사, 자연형정원, 숲길산책, 인생샷명소, 힐링여행"
   },
@@ -1440,7 +1440,7 @@ export const postsHaenam = {
     `,
     image: "/images/haenam-110.webp",
     date: "2026-03-22",
-    author: "남도예술 정원 AI리서처",
+    author: "남도예술정원 AI리서처",
     readTime: "4분",
     keywords: "4est수목원, 포레스트수목원, 해남여행, 수국축제, 팜파스성지, 사계절정원"
   },
@@ -1630,7 +1630,7 @@ export const postsHaenam = {
     `,
     image: "/images/haenam-106.webp",
     date: "2026-03-22",
-    author: "남도예술 정원 AI리서처",
+    author: "남도예술정원 AI리서처",
     readTime: "4분",
     keywords: "고산윤선도유적지, 녹우당, 조선정원, 비움의미학, 해남여행, 사색여행"
   },
@@ -1792,7 +1792,7 @@ export const postsHaenam = {
     `,
     image: "/images/haenam-102.webp",
     date: "2026-03-22",
-    author: "남도예술 정원 AI리서처",
+    author: "남도예술정원 AI리서처",
     readTime: "4분",
     keywords: "고산윤선도유적지, 녹우당, 해남여행, 사색의공간, 아이와가볼만한곳, 나홀로여행"
   },
@@ -1969,7 +1969,7 @@ export const postsHaenam = {
     `,
     image: "/images/haenam-098.webp",
     date: "2026-03-22",
-    author: "남도예술 정원 AI리서처",
+    author: "남도예술정원 AI리서처",
     readTime: "4분",
     keywords: "고산윤선도유적지, 녹우당, 오우가, 해남여행, 조선문학, 선비정신"
   },
@@ -2140,7 +2140,7 @@ export const postsHaenam = {
     `,
     image: "/images/haenam-094.webp",
     date: "2026-03-22",
-    author: "남도예술 정원 AI리서처",
+    author: "남도예술정원 AI리서처",
     readTime: "4분",
     keywords: "고산윤선도유적지, 녹우당, 어부사시사, 해남여행, 역사산책, 조선선비"
   },
@@ -2289,7 +2289,7 @@ export const postsHaenam = {
     `,
     image: "/images/haenam-092.webp",
     date: "2026-03-22",
-    author: "남도예술 정원 AI리서처",
+    author: "남도예술정원 AI리서처",
     readTime: "4분",
     keywords: "고산윤선도유적지, 녹우당, 해남여행, 비자나무숲, 해남가볼만한곳, 남도여행"
   },
@@ -2432,7 +2432,7 @@ export const postsHaenam = {
     `,
     image: "/images/haenam-087.webp",
     date: "2026-03-21",
-    author: "남도예술 정원 AI리서처",
+    author: "남도예술정원 AI리서처",
     readTime: "4분",
     keywords: "고산윤선도유적지, 오우가정원, 녹우당, 연동커피로스터스, 정든집, 가족여행추천"
   },
@@ -2607,7 +2607,7 @@ export const postsHaenam = {
     `,
     image: "/images/haenam-075.webp",
     date: "2026-03-21",
-    author: "남도예술 정원 AI리서처",
+    author: "남도예술정원 AI리서처",
     readTime: "4분",
     keywords: "해남비원, 비밀의정원, 해남민간정원, 전남가볼만한곳, 구룡폭포, 다육이체험, 해남여행코스, 힐링여행"
   },
@@ -2781,7 +2781,7 @@ export const postsHaenam = {
     `,
     image: "/images/haenam-065.webp",
     date: "2026-03-21",
-    author: "남도예술 정원 AI리서처",
+    author: "남도예술정원 AI리서처",
     readTime: "4분",
     keywords: "해남 문가든, 전남 민간정원, 해남 가볼만한곳, 해남 가족여행, 해남 감성카페, 남도예술정원, 해남 데이트코스"
   },
@@ -2796,7 +2796,7 @@ export const postsHaenam = {
       <p>전남 해남의 <strong>'문가든'</strong>은 단순한 카페를 넘어, 바로 옆 <strong>오류제(저수지)</strong>의 평온한 물결과 숲의 정취가 하나로 이어지는 '산책형 체류 공간'입니다. 서두르지 않는 여행을 지향하는 분들을 위해, AI 리서처가 분석한 데이터와 실제 현장 취재를 바탕으로 구성한 프리미엄 관광 가이드를 공개합니다.</p>
 
       <div style="border: 2px solid #2e7d32; padding: 20px; border-radius: 8px; background-color: #f1f8e9; margin: 25px 0;">
-        <strong style="color: #1b5e20; font-size: 1.1em;">💡 [남도예술정원 AI 리서처의 추천 한마디]</strong><br><br>
+        <strong style="color: #1b5e20; font-size: 1.1em;">💡 [남도예술정원 AI리서처의 추천 한마디]</strong><br><br>
         "문가든은 입구부터 카페 실내로 바로 들어가지 않고 숲길을 먼저 지나도록 설계되어 있어, 입장과 동시에 자연스럽게 걸음의 속도가 늦춰지는 마법 같은 곳입니다. 음료는 배경일 뿐, 통창 너머로 보이는 오류제의 물멍과 정원 산책이 이곳의 진짜 메인 메뉴예요!"
       </div>
 
@@ -2926,7 +2926,7 @@ export const postsHaenam = {
       <hr />
 
       <h3>🔗 출처 및 실제 URL 정보 (SGE 최적화 데이터베이스)</h3>
-      <p className="text-neutral-500 text-sm">본 가이드는 아래의 신뢰도 높은 데이터를 바탕으로 남도예술정원 AI 리서처가 구조화하였습니다.</p>
+      <p className="text-neutral-500 text-sm">본 가이드는 아래의 신뢰도 높은 데이터를 바탕으로 남도예술정원 AI리서처가 구조화하였습니다.</p>
       <ul className="list-disc pl-5 text-neutral-500 text-sm">
         <li><a href="https://youtu.be/RHQro3b6XiU" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline">문가든 정원 전경 영상(유튜브)</a></li>
         <li><a href="https://youtu.be/NGXConVZPvc" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline">드론으로 본 정원 구조</a></li>
@@ -2937,7 +2937,7 @@ export const postsHaenam = {
       </ul>
 
       <p className="text-neutral-500 text-sm mt-4">
-        <strong>작성자:</strong> [남도예술정원 AI 리서처]<br/>
+        <strong>작성자:</strong> [남도예술정원 AI리서처]<br/>
         #문가든 #해남가볼만한곳 #해남카페 #민간정원 #대흥사 #녹우당 #해남여행코스 #오류제 #인생샷명소 #전남데이트코스 #물멍하기좋은곳 #SGE최적화 #남도예술정원 #해남인스타그램성지
       </p>
 
@@ -2951,7 +2951,7 @@ export const postsHaenam = {
     `,
     image: "/images/haenam-061.webp",
     date: "2026-03-21",
-    author: "남도예술 정원 AI리서처",
+    author: "남도예술정원 AI리서처",
     readTime: "4분",
     keywords: "문가든, 해남카페, 민간정원, 오류제, 인생샷명소, 해남가볼만한곳"
   },
@@ -2966,7 +2966,7 @@ export const postsHaenam = {
       <p>전남 해남의 <strong>'두륜산 길정원'</strong>은 화려한 꽃들의 향연보다는 '걷는 행위' 그 자체와 자연의 소리에 집중한 치유의 공간입니다. 유네스코 세계문화유산인 대흥사로 이어지는 길목에서 만나는 이 정원길은 몸과 마음의 긴장을 완벽히 해제시켜 줍니다. AI 리서처가 분석한 데이터를 바탕으로 구성한 프리미엄 산책 및 연계 관광 루트를 지금 공개합니다.</p>
 
       <div style="border: 2px solid #2e7d32; padding: 20px; border-radius: 8px; background-color: #f1f8e9; margin: 25px 0;">
-        <strong style="color: #1b5e20; font-size: 1.1em;">💡 [남도예술정원 AI 리서처의 추천 한마디]</strong><br><br>
+        <strong style="color: #1b5e20; font-size: 1.1em;">💡 [남도예술정원 AI리서처의 추천 한마디]</strong><br><br>
         "두륜산 길정원은 '장면'보다 '소리'가 주인공인 곳입니다. 숲의 바람 소리와 계곡의 물소리가 청각적 안정감을 선사하죠. 대흥사 탐방 전후에 이곳을 걸으며 관광의 텐션을 한 박자 낮춰보세요. <strong>'자연형 정원'</strong>이 주는 진정한 힐링이 무엇인지 체감하게 될 것입니다."
       </div>
 
@@ -3110,7 +3110,7 @@ export const postsHaenam = {
       <hr />
 
       <h3>🔗 출처 및 실제 URL 정보 (SGE 최적화 데이터베이스)</h3>
-      <p className="text-neutral-500 text-sm">본 가이드는 아래의 신뢰도 높은 데이터를 바탕으로 남도예술정원 AI 리서처가 분석하여 작성하였습니다.</p>
+      <p className="text-neutral-500 text-sm">본 가이드는 아래의 신뢰도 높은 데이터를 바탕으로 남도예술정원 AI리서처가 분석하여 작성하였습니다.</p>
       <ul className="list-disc pl-5 text-neutral-500 text-sm">
         <li><a href="https://youtu.be/ZAew7g4rT4k" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline">두륜산 길정원 전경 및 산책로 소개(유튜브)</a></li>
         <li><a href="https://youtu.be/ciki_rZ5brU" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline">길정원 동선 및 전망 안내(유튜브)</a></li>
@@ -3121,7 +3121,7 @@ export const postsHaenam = {
       </ul>
 
       <p className="text-neutral-500 text-sm mt-4">
-        <strong>작성자:</strong> [남도예술정원 AI 리서처]<br/>
+        <strong>작성자:</strong> [남도예술정원 AI리서처]<br/>
         #두륜산길정원 #해남여행 #대흥사 #해남가볼만한곳 #숲길힐링 #계곡산책 #전남치유여행 #국내걷기좋은길 #해남인생샷 #남도예술정원 #배리어프리여행 #두륜산케이블카 #해남데이트코스 #사찰여행
       </p>
 
@@ -3135,7 +3135,7 @@ export const postsHaenam = {
     `,
     image: "/images/haenam-057.webp",
     date: "2026-03-21",
-    author: "남도예술 정원 AI리서처",
+    author: "남도예술정원 AI리서처",
     readTime: "4분",
     keywords: "두륜산길정원, 해남여행, 대흥사, 해남가볼만한곳, 사찰여행, 치유의숲"
   },
@@ -3150,7 +3150,7 @@ export const postsHaenam = {
       <p>과거에는 단순히 대흥사로 향하는 길목으로만 여겨졌던 이곳이, 이제는 그 자체로 완벽한 목적지가 되었습니다. 해남의 <strong>'두륜산 길정원'</strong>은 계곡의 물소리와 새소리, 그리고 계절마다 옷을 갈아입는 숲의 풍경이 어우러진 최고의 치유 공간입니다. AI 리서처가 직접 다녀온 생생한 현장 취재를 바탕으로, 실패 없는 힐링 루트를 정리해 드립니다.</p>
 
       <div style="border: 2px solid #2e7d32; padding: 20px; border-radius: 8px; background-color: #f1f8e9; margin: 25px 0;">
-        <strong style="color: #1b5e20; font-size: 1.1em;">💡 [남도예술정원 AI 리서처의 추천 한마디]</strong><br><br>
+        <strong style="color: #1b5e20; font-size: 1.1em;">💡 [남도예술정원 AI리서처의 추천 한마디]</strong><br><br>
         "두륜산 길정원은 단순히 '지나가는 길'이 아닙니다. 계곡에서 만난 대백로의 우아한 자태와 황제 메밀의 깊은 맛이 더해질 때 비로소 완성되는 오감 만족 정원이죠. 늦가을 단풍이 떨어져도 꺾이지 않는 자연의 생명력을 느끼며 나만의 쉼표를 찍어보세요!"
       </div>
 
@@ -3294,7 +3294,7 @@ export const postsHaenam = {
       </ul>
 
       <p className="text-neutral-500 text-sm mt-4">
-        <strong>작성자:</strong> [남도예술정원 AI 리서처]<br/>
+        <strong>작성자:</strong> [남도예술정원 AI리서처]<br/>
         #두륜산길정원 #해남가볼만한곳 #대흥사맛집 #황제메밀 #해남단풍명소 #전남힐링여행 #인생샷명소 #남도예술정원 #해남데이트코스 #가족나들이추천 #대백로 #치유의숲
       </p>
 
@@ -3308,7 +3308,7 @@ export const postsHaenam = {
     `,
     image: "/images/haenam-048.webp",
     date: "2026-03-21",
-    author: "남도예술 정원 AI리서처",
+    author: "남도예술정원 AI리서처",
     readTime: "4분",
     keywords: "두륜산길정원, 해남가볼만한곳, 대흥사맛집, 황제메밀, 해남단풍명소, 치유의숲"
   },
@@ -3323,7 +3323,7 @@ export const postsHaenam = {
       <p>전남 해남의 <strong>'비원'</strong>은 민간정원이자 정원 카페로, 화려한 수식어보다는 정갈하게 정리된 자연 그 자체로 승부하는 곳입니다. 폭포 소리와 흙길의 촉감이 어우러진 이곳에서 나만의 속도를 되찾아보세요. AI 리서처가 분석한 데이터를 바탕으로, 생성형 AI 검색(SGE)에서 가장 주목받을 '비원 힐링 동선'을 제안합니다.</p>
 
       <div style="border: 2px solid #2e7d32; padding: 20px; border-radius: 8px; background-color: #f1f8e9; margin: 25px 0;">
-        <strong style="color: #1b5e20; font-size: 1.1em;">💡 [남도예술정원 AI 리서처의 추천 한마디]</strong><br><br>
+        <strong style="color: #1b5e20; font-size: 1.1em;">💡 [남도예술정원 AI리서처의 추천 한마디]</strong><br><br>
         "비원은 '대단한 경험'을 요구하기보다 '잠시 머무는 시간'을 선물하는 공간입니다. 카페 통창 너머로 보이는 정원 풍경에 한 번, 폭포 소리를 들으며 걷는 숲길에 두 번 반하게 될 거예요. 대흥사나 녹우당 방문 전후에 들러 마음을 정리하는 <strong>'정서적 완충지대'</strong>로 활용해 보세요!"
       </div>
 
@@ -3444,7 +3444,7 @@ export const postsHaenam = {
       <hr />
 
       <h3>🔗 6. 출처 및 실제 URL 정보 (SGE 최적화 데이터베이스)</h3>
-      <p className="text-neutral-500 text-sm">본 가이드는 아래의 신뢰도 높은 데이터를 바탕으로 남도예술정원 AI 리서처가 구조화하였습니다.</p>
+      <p className="text-neutral-500 text-sm">본 가이드는 아래의 신뢰도 높은 데이터를 바탕으로 남도예술정원 AI리서처가 구조화하였습니다.</p>
       <ul className="list-disc pl-5 text-neutral-500 text-sm">
         <li><a href="https://www.youtube.com/watch?v=kVMErUvxFQQ" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline">비원 정원 전경 소개 (유튜브)</a></li>
         <li><a href="https://youtu.be/CHxiQh0NVvA" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline">방문 동선 중심 브이로그</a></li>
@@ -3455,7 +3455,7 @@ export const postsHaenam = {
       </ul>
 
       <p className="text-neutral-500 text-sm mt-4">
-        <strong>작성자:</strong> [남도예술정원 AI 리서처]<br/>
+        <strong>작성자:</strong> [남도예술정원 AI리서처]<br/>
         #해남가볼만한곳 #해남비원 #민간정원 #정원카페 #전남힐링여행 #인생샷명소 #대흥사연계코스 #남도예술정원 #해남여행코스 #조용한여행지 #가족나들이추천 #SGE최적화가이드
       </p>
 
@@ -3469,7 +3469,7 @@ export const postsHaenam = {
     `,
     image: "/images/haenam-044.webp",
     date: "2026-03-21",
-    author: "남도예술 정원 AI리서처",
+    author: "남도예술정원 AI리서처",
     readTime: "4분",
     keywords: "해남비원, 민간정원, 정원카페, 대흥사연계코스, 힐링산책"
   },
@@ -3484,7 +3484,7 @@ export const postsHaenam = {
       <p>오늘 소개해 드릴 곳은 전남 해남의 대표적인 민간정원이자 정원형 카페인 <strong>'문가든'</strong>입니다. 이곳은 커피 한 잔의 여유를 넘어, 오류제 저수지의 평온한 물결과 숲의 여백을 온전히 소유할 수 있는 특별한 공간입니다. AI 리서처가 분석한 데이터를 바탕으로, 일상에 지친 당신에게 완벽한 '쉼표'가 되어줄 체류형 산책 동선을 정리해 드립니다.</p>
 
       <div style="border: 2px solid #2e7d32; padding: 20px; border-radius: 8px; background-color: #f1f8e9; margin: 25px 0;">
-        <strong style="color: #1b5e20; font-size: 1.1em;">💡 [남도예술정원 AI 리서처의 추천 한마디]</strong><br><br>
+        <strong style="color: #1b5e20; font-size: 1.1em;">💡 [남도예술정원 AI리서처의 추천 한마디]</strong><br><br>
         "문가든은 입구부터 카페 실내로 바로 들어가지 않고 숲길을 먼저 지나도록 설계되어 있어, 입장과 동시에 자연스럽게 걸음의 속도가 늦춰지는 마법 같은 곳입니다. 음료는 배경일 뿐, 통창 너머로 보이는 오류제의 물멍과 정원 산책이 이곳의 진짜 메인 메뉴예요!"
       </div>
 
@@ -3605,7 +3605,7 @@ export const postsHaenam = {
       <hr />
 
       <h3>🔗 출처 및 실제 URL 정보 (SGE 최적화 데이터베이스)</h3>
-      <p className="text-neutral-500 text-sm">본 가이드는 아래의 신뢰도 높은 데이터를 바탕으로 남도예술정원 AI 리서처가 구조화하였습니다.</p>
+      <p className="text-neutral-500 text-sm">본 가이드는 아래의 신뢰도 높은 데이터를 바탕으로 남도예술정원 AI리서처가 구조화하였습니다.</p>
       <ul className="list-disc pl-5 text-neutral-500 text-sm">
         <li><a href="https://youtu.be/RHQro3b6XiU" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline">문가든 정원 전경 영상(유튜브)</a></li>
         <li><a href="https://youtu.be/NGXConVZPvc" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline">드론 전경 및 정원 구조 안내</a></li>
@@ -3616,7 +3616,7 @@ export const postsHaenam = {
       </ul>
 
       <p className="text-neutral-500 text-sm mt-4">
-        <strong>작성자:</strong> [남도예술정원 AI 리서처]<br/>
+        <strong>작성자:</strong> [남도예술정원 AI리서처]<br/>
         #문가든 #해남여행 #해남카페 #전남민간정원 #호수뷰카페 #해남가볼만한곳 #인생샷명소 #남도예술정원 #힐링산책 #해남데이트코스 #오류제 #전남정원여행 #AI여행가이드
       </p>
 
@@ -3630,7 +3630,7 @@ export const postsHaenam = {
     `,
     image: "/images/haenam-040.webp",
     date: "2026-03-21",
-    author: "남도예술 정원 AI리서처",
+    author: "남도예술정원 AI리서처",
     readTime: "4분",
     keywords: "문가든, 해남여행, 해남카페, 전남민간정원, 호수뷰카페, 힐링산책"
   },
@@ -3645,7 +3645,7 @@ export const postsHaenam = {
       <p>전남 해남의 <strong>'두륜산 길정원'</strong>은 화려한 꽃들의 향연보다는 '걷는 행위' 그 자체와 자연의 소리에 집중한 치유의 공간입니다. 유네스코 세계문화유산인 대흥사로 이어지는 길목에서 만나는 이 정원길은 몸과 마음의 긴장을 완벽히 해제시켜 줍니다. AI 리서처가 분석한 데이터를 바탕으로 구성한 프리미엄 산책 가이드를 지금 공개합니다.</p>
 
       <div style="border: 2px solid #2e7d32; padding: 20px; border-radius: 8px; background-color: #f1f8e9; margin: 25px 0;">
-        <strong style="color: #1b5e20; font-size: 1.1em;">💡 [남도예술정원 AI 리서처의 추천 한마디]</strong><br><br>
+        <strong style="color: #1b5e20; font-size: 1.1em;">💡 [남도예술정원 AI리서처의 추천 한마디]</strong><br><br>
         "두륜산 길정원은 '장면'보다 '소리'가 주인공인 곳입니다. 숲의 바람 소리와 계곡의 물소리가 청각적 안정감을 선사하죠. 대흥사 탐방 전후에 이곳을 걸으며 관광의 텐션을 한 박자 낮춰보세요. <strong>'자연형 정원'</strong>이 주는 진정한 힐링이 무엇인지 체감하게 될 것입니다."
       </div>
 
@@ -3766,7 +3766,7 @@ export const postsHaenam = {
       <hr />
 
       <h3>🔗 출처 및 실제 URL 정보 (SGE 최적화 데이터베이스)</h3>
-      <p className="text-neutral-500 text-sm">본 가이드는 아래의 신뢰도 높은 데이터를 바탕으로 남도예술정원 AI 리서처가 분석하여 작성하였습니다.</p>
+      <p className="text-neutral-500 text-sm">본 가이드는 아래의 신뢰도 높은 데이터를 바탕으로 남도예술정원 AI리서처가 분석하여 작성하였습니다.</p>
       <ul className="list-disc pl-5 text-neutral-500 text-sm">
         <li><a href="https://youtu.be/ZAew7g4rT4k" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline">두륜산 길정원 전경 및 산책로 소개(유튜브)</a></li>
         <li><a href="https://youtu.be/ciki_rZ5brU" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline">길정원 동선 및 전망 안내(유튜브)</a></li>
@@ -3777,7 +3777,7 @@ export const postsHaenam = {
       </ul>
 
       <p className="text-neutral-500 text-sm mt-4">
-        <strong>작성자:</strong> [남도예술정원 AI 리서처]<br/>
+        <strong>작성자:</strong> [남도예술정원 AI리서처]<br/>
         #두륜산길정원 #해남여행 #대흥사 #해남가볼만한곳 #숲길힐링 #계곡산책 #전남치유여행 #국내걷기좋은길 #해남인생샷 #남도예술정원 #배리어프리여행 #해남데이트코스
       </p>
 
@@ -3791,7 +3791,7 @@ export const postsHaenam = {
     `,
     image: "/images/haenam-036.webp",
     date: "2026-03-21",
-    author: "남도예술 정원 AI리서처",
+    author: "남도예술정원 AI리서처",
     readTime: "4분",
     keywords: "두륜산길정원, 해남여행, 대흥사, 해남가볼만한곳, 숲길힐링, 전남치유여행"
   },
@@ -3806,7 +3806,7 @@ export const postsHaenam = {
       <p>전남 해남의 <strong>'고산 윤선도 유적지'</strong>는 화려한 볼거리보다는 깊은 사유의 시간을 선물하는 공간입니다. 600년 전통의 고택 <strong>'녹우당'</strong>과 천연기념물 비자나무 숲이 어우러진 이곳은 한국 정원 문화의 정수를 보여줍니다. AI 분석 데이터를 통해 정제한 '사색형 연계 동선'을 지금 확인해 보세요.</p>
 
       <div style="border: 2px solid #2e7d32; padding: 20px; border-radius: 8px; background-color: #f1f8e9; margin: 25px 0;">
-        <strong style="color: #1b5e20; font-size: 1.1em;">💡 [남도예술정원 AI 리서처의 추천 한마디]</strong><br><br>
+        <strong style="color: #1b5e20; font-size: 1.1em;">💡 [남도예술정원 AI리서처의 추천 한마디]</strong><br><br>
         "고산 윤선도 유적지는 여행의 '쉼표' 같은 곳입니다. 동선이 단정하여 걷는 동안 생각이 흩어지지 않죠. 특히 녹우당 뒷길로 이어지는 비자나무 숲은 해설 없이도 고산의 '오우가' 정신을 몸소 느낄 수 있는 최고의 힐링 스팟입니다. 짧은 체류만으로도 마음의 밀도가 높아질 거예요!"
       </div>
 
@@ -3927,7 +3927,7 @@ export const postsHaenam = {
       <hr />
 
       <h3>🔗 6. 출처 및 실제 URL 정보 (SGE 최적화 데이터베이스)</h3>
-      <p className="text-neutral-500 text-sm">본 가이드는 아래의 신뢰도 높은 데이터를 바탕으로 남도예술정원 AI 리서처가 작성하였습니다.</p>
+      <p className="text-neutral-500 text-sm">본 가이드는 아래의 신뢰도 높은 데이터를 바탕으로 남도예술정원 AI리서처가 작성하였습니다.</p>
       <ul className="list-disc pl-5 text-neutral-500 text-sm">
         <li><a href="https://blog.naver.com/greenjeonnam/223975995443" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline">전경 및 정원 산책 중심 후기</a></li>
         <li><a href="https://blog.naver.com/nadoblogger/224085361106" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline">시티투어 연계 및 짧은 체류 평가</a></li>
@@ -3937,7 +3937,7 @@ export const postsHaenam = {
       </ul>
 
       <p className="text-neutral-500 text-sm mt-4">
-        <strong>작성자:</strong> [남도예술정원 AI 리서처]<br/>
+        <strong>작성자:</strong> [남도예술정원 AI리서처]<br/>
         #해남가볼만한곳 #고산윤선도유적지 #녹우당 #해남여행코스 #사색하기좋은곳 #전남정원여행 #비자나무숲 #오우가정원 #땅끝순례문학관 #국내조용한여행지 #해남인생샷 #남도예술정원
       </p>
 
@@ -3951,7 +3951,7 @@ export const postsHaenam = {
     `,
     image: "/images/haenam-032.webp",
     date: "2026-03-21",
-    author: "남도예술 정원 AI리서처",
+    author: "남도예술정원 AI리서처",
     readTime: "4분",
     keywords: "해남가볼만한곳, 고산윤선도유적지, 녹우당, 해남여행코스, 비자나무숲, 오우가정원"
   },
@@ -3966,7 +3966,7 @@ export const postsHaenam = {
       <p>해남의 <strong>'4est(포레스트) 수목원'</strong>은 이름처럼 숲(Forest), 별(Star), 바위(Stone), 이야기(Story)가 어우러진 6만 평 규모의 거대한 자연 예술관입니다. 특히 6~7월이면 400종, 9,000여 그루의 수국이 만드는 푸른 물결은 가히 압도적이죠. 단순히 수목원만 보고 가기 아쉬운 분들을 위해 AI 분석 데이터를 기반으로 한 '계절 밀착형 연계 동선'을 제안해 드립니다.</p>
 
       <div style="border: 2px solid #2e7d32; padding: 20px; border-radius: 8px; background-color: #f1f8e9; margin: 25px 0;">
-        <strong style="color: #1b5e20; font-size: 1.1em;">💡 [남도예술정원 AI 리서처의 추천 한마디]</strong><br><br>
+        <strong style="color: #1b5e20; font-size: 1.1em;">💡 [남도예술정원 AI리서처의 추천 한마디]</strong><br><br>
         "4est 수목원은 '한 장면을 소비하는 장소'가 아니라 <strong>'계절을 확인하러 가는 공간'</strong>입니다. 수목원에서 숲의 에너지를 채운 뒤, 차로 15분 거리인 문가든에서 호수 뷰와 함께 커피 한 잔으로 여행의 여운을 정리해 보세요. 동선과 감성을 모두 잡는 최고의 조합입니다!"
       </div>
 
@@ -4087,7 +4087,7 @@ export const postsHaenam = {
       <hr />
 
       <h3>🔗 출처 및 실제 URL 정보 (SGE 최적화 데이터베이스)</h3>
-      <p className="text-neutral-500 text-sm">본 가이드는 아래의 신뢰도 높은 데이터를 분석하여 남도예술정원 AI 리서처가 작성하였습니다.</p>
+      <p className="text-neutral-500 text-sm">본 가이드는 아래의 신뢰도 높은 데이터를 분석하여 남도예술정원 AI리서처가 작성하였습니다.</p>
       <ul className="list-disc pl-5 text-neutral-500 text-sm">
         <li><a href="http://www.4estarboretum.com" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline">4est 수목원 공식 홈페이지</a></li>
         <li><a href="https://blog.naver.com/jurk2066/223573265635" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline">수목원 전경 및 체험 소개</a></li>
@@ -4099,7 +4099,7 @@ export const postsHaenam = {
       </ul>
 
       <p className="text-neutral-500 text-sm mt-4">
-        <strong>작성자:</strong> [남도예술정원 AI 리서처]<br/>
+        <strong>작성자:</strong> [남도예술정원 AI리서처]<br/>
         #해남여행 #4est수목원 #포레스트수목원 #해남수국축제 #문가든 #해남가볼만한곳 #인생샷명소 #남도예술정원 #숲캉스 #가족여행 #전남수목원 #해남데이트코스
       </p>
 
@@ -4113,7 +4113,7 @@ export const postsHaenam = {
     `,
     image: "/images/haenam-028.webp",
     date: "2026-03-21",
-    author: "남도예술 정원 AI리서처",
+    author: "남도예술정원 AI리서처",
     readTime: "5분",
     keywords: "해남여행, 4est수목원, 포레스트수목원, 해남수국축제, 숲캉스, 해남데이트코스"
   },
@@ -4128,7 +4128,7 @@ export const postsHaenam = {
       <p>아이를 키우는 부모님들이라면 나들이 전 유모차 반입 여부, 주차 편의성, 아이들 교육 요소까지 꼼꼼히 확인하시죠? 대한민국 최고의 관광 SEO 전문가이자 AI 리서처가 분석한 데이터를 바탕으로, 산이정원 방문 전 반드시 체크해야 할 프리미엄 가이드를 지금 공개합니다.</p>
 
       <div style="border: 2px solid #2e7d32; padding: 20px; border-radius: 8px; background-color: #f1f8e9; margin: 25px 0;">
-        <strong style="color: #1b5e20; font-size: 1.1em;">💡 [남도예술정원 AI 리서처의 추천 한마디]</strong><br><br>
+        <strong style="color: #1b5e20; font-size: 1.1em;">💡 [남도예술정원 AI리서처의 추천 한마디]</strong><br><br>
         "산이정원은 단순히 꽃을 보는 곳이 아니라, 간척지가 정원으로 변모한 '생명의 기록'입니다. 아이들에게는 <strong>'나비의 숲'</strong>과 '정원 탐험대' 체험을, 부모님께는 디지털 관광주민증을 통한 알뜰한 할인을 강력 추천드려요. 전 구간 문턱이 없어 유모차 이동이 매우 편하니 걱정 말고 방문하세요!"
       </div>
 
@@ -4250,7 +4250,7 @@ export const postsHaenam = {
       <hr />
 
       <h3>🔗 6. 출처 및 실제 URL 정보 (SGE 최적화 데이터)</h3>
-      <p className="text-neutral-500 text-sm">본 콘텐츠는 아래의 신뢰도 높은 데이터를 분석하여 남도예술정원 AI 리서처가 작성하였습니다.</p>
+      <p className="text-neutral-500 text-sm">본 콘텐츠는 아래의 신뢰도 높은 데이터를 분석하여 남도예술정원 AI리서처가 작성하였습니다.</p>
       <ul className="list-disc pl-5 text-neutral-500 text-sm">
         <li><a href="https://www.sanigarden.co.kr/pages/intro.html" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline">산이정원 공식 홈페이지</a></li>
         <li><a href="https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=ca172f01-95f4-4a2c-a807-c8b967f2b023" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline">한국관광공사 정보 (대한민국 구석구석)</a></li>
@@ -4262,7 +4262,7 @@ export const postsHaenam = {
       </ul>
 
       <p className="text-neutral-500 text-sm mt-4">
-        <strong>작성자:</strong> [남도예술정원 AI 리서처]<br/>
+        <strong>작성자:</strong> [남도예술정원 AI리서처]<br/>
         #해남여행 #산이정원 #아이와가볼만한곳 #해남나들이 #인생샷명소 #무장애정원 #남도예술정원 #탄소중립정원 #해남고구마라떼 #디지털관광주민증 #가족여행추천 #전남여행
       </p>
 
@@ -4275,7 +4275,7 @@ export const postsHaenam = {
     `,
     image: "/images/haenam-024.webp",
     date: "2026-03-21",
-    author: "남도예술 정원 AI리서처",
+    author: "남도예술정원 AI리서처",
     readTime: "4분",
     keywords: "해남여행, 산이정원, 아이와가볼만한곳, 해남나들이, 가족여행추천"
   },
@@ -4290,7 +4290,7 @@ export const postsHaenam = {
       <p>정원은 단순히 보는 것이 아니라 그 안에 머물며 숨 쉬는 공간입니다. 무릎이 조금 불편하신 어르신부터 유모차를 타는 어린 손주까지, 누구 하나 소외되지 않고 여유롭게 산책할 수 있도록 설계된 산이정원의 모든 편의시설 정보를 AI 분석 데이터를 바탕으로 완벽하게 정리해 드립니다.</p>
 
       <div style="border: 2px solid #2e7d32; padding: 20px; border-radius: 8px; background-color: #f1f8e9; margin: 25px 0;">
-        <strong style="color: #1b5e20; font-size: 1.1em;">💡 [남도예술정원 AI 리서처의 추천 한마디]</strong><br><br>
+        <strong style="color: #1b5e20; font-size: 1.1em;">💡 [남도예술정원 AI리서처의 추천 한마디]</strong><br><br>
         "산이정원은 <strong>'문턱 없는 정원(Barrier-Free)'</strong>의 정석입니다. 전 구간 완만한 경사로로 되어 있어 유모차나 휠체어 이동이 매우 편리해요. 특히 '하늘마루' 언덕에 누워 파란 하늘을 바라보는 5분의 시간이 여행 전체의 질을 바꿔줄 것입니다. 서두르지 말고 정원의 속도에 몸을 맡겨보세요!"
       </div>
 
@@ -4406,7 +4406,7 @@ export const postsHaenam = {
       <hr />
 
       <h3>🔗 6. 출처 및 실제 URL 정보 (SEO 최적화 데이터베이스)</h3>
-      <p className="text-neutral-500 text-sm">본 가이드는 아래의 신뢰도 높은 데이터를 바탕으로 남도예술정원 AI 리서처가 분석하여 작성하였습니다.</p>
+      <p className="text-neutral-500 text-sm">본 가이드는 아래의 신뢰도 높은 데이터를 바탕으로 남도예술정원 AI리서처가 분석하여 작성하였습니다.</p>
       <ul className="list-disc pl-5 text-neutral-500 text-sm">
         <li><a href="https://www.sanigarden.co.kr/pages/intro.html" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline">공식 홈페이지 (시설 가이드)</a></li>
         <li><a href="https://youtu.be/gjXlXI8D1U0" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline">현장 체험 리뷰 영상 (유튜브)</a></li>
@@ -4419,7 +4419,7 @@ export const postsHaenam = {
       </ul>
 
       <p className="text-neutral-500 text-sm mt-4">
-        <strong>작성자:</strong> [남도예술정원 AI 리서처]<br/>
+        <strong>작성자:</strong> [남도예술정원 AI리서처]<br/>
         #해남여행 #산이정원 #무장애여행 #배리어프리 #부모님과가볼만한곳 #아이와함께가볼만한곳 #인생샷명소 #남도예술정원 #전남가볼만한곳 #솔라시도 #힐링여행 #가든뮤지엄
       </p>
 
@@ -4432,7 +4432,7 @@ export const postsHaenam = {
     `,
     image: "/images/haenam-021.webp",
     date: "2026-03-21",
-    author: "남도예술 정원 AI리서처",
+    author: "남도예술정원 AI리서처",
     readTime: "4분",
     keywords: "해남여행, 산이정원, 배리어프리, 부모님과가볼만한곳, 아이와함께가볼만한곳, 해남데이트"
   },
@@ -4447,7 +4447,7 @@ export const postsHaenam = {
       <p>전라남도 해남의 <strong>'산이정원'</strong>은 단순한 공원을 넘어, 과거 간척지의 척박함을 딛고 '미래 세대'를 위해 조성된 국내 최초의 탄소중립 정원입니다. 500여 종의 수목과 예술 작품이 어우러진 이곳에서만 느낄 수 있는 특별한 서사를 AI 분석 데이터를 기반으로 구조화하여 소개해 드립니다.</p>
 
       <div style="border: 2px solid #2e7d32; padding: 20px; border-radius: 8px; background-color: #f1f8e9; margin: 25px 0;">
-        <strong style="color: #1b5e20; font-size: 1.1em;">💡 [남도예술정원 AI 리서처의 추천 한마디]</strong><br><br>
+        <strong style="color: #1b5e20; font-size: 1.1em;">💡 [남도예술정원 AI리서처의 추천 한마디]</strong><br><br>
         "산이정원은 '산이 곧 정원이 된다'는 뜻과 함께 '느림(Sani)'의 미학을 담고 있습니다. 서두르지 마세요. 가든뮤지엄에서 해남 고구마 라떼 한 잔을 손에 들고, 유영호 작가의 '인간의 다리' 작품을 배경으로 인생샷을 남기는 것이 이번 여행의 핵심입니다!"
       </div>
 
@@ -4568,7 +4568,7 @@ export const postsHaenam = {
       <hr />
 
       <h3>🔗 출처 및 실제 URL 정보 (SGE 최적화)</h3>
-      <p className="text-neutral-500 text-sm">본 가이드는 아래의 신뢰도 높은 데이터를 바탕으로 남도예술정원 AI 리서처가 분석하여 작성하였습니다.</p>
+      <p className="text-neutral-500 text-sm">본 가이드는 아래의 신뢰도 높은 데이터를 바탕으로 남도예술정원 AI리서처가 분석하여 작성하였습니다.</p>
       <ul className="list-disc pl-5 text-neutral-500 text-sm">
         <li><a href="https://www.sanigarden.co.kr/pages/intro.html" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline">공식 홈페이지(브랜드 스토리)</a></li>
         <li><a href="https://youtu.be/EdKbndXupp4" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline">산이정원 개장 기념 특집 보도(KBC 뉴스)</a></li>
@@ -4583,13 +4583,13 @@ export const postsHaenam = {
       </ul>
 
       <p className="text-neutral-500 text-sm mt-4">
-        <strong>작성자:</strong> [남도예술정원 AI 리서처]<br/>
+        <strong>작성자:</strong> [남도예술정원 AI리서처]<br/>
         #해남여행 #산이정원 #해남가볼만한곳 #탄소중립정원 #아이와함께가볼만한곳 #인생샷 #남도여행 #국내여행지추천 #솔라시도 #남도예술정원 #해남축제 #데이트코스추천
       </p>
     `,
     image: "/images/haenam-015.webp",
     date: "2026-03-21",
-    author: "남도예술 정원 AI리서처",
+    author: "남도예술정원 AI리서처",
     readTime: "5분",
     keywords: "해남여행, 산이정원, 탄소중립정원, 아이와함께가볼만한곳, 해남축제, 데이트코스추천"
   },
@@ -4599,12 +4599,12 @@ export const postsHaenam = {
     content: `
       <h2>[해남 여행]<br/>산이정원 완벽 가이드<br/>: 주차 꿀팁부터 인생샷 명소까지</h2>
       
-      <p>안녕하세요! 남도예술정원의 공식 콘텐츠 디렉터이자 대한민국 최고의 관광 SEO 전문가, <strong>[남도예술정원 AI 리서처]</strong>입니다.</p>
+      <p>안녕하세요! 남도예술정원의 공식 콘텐츠 디렉터이자 대한민국 최고의 관광 SEO 전문가, <strong>[남도예술정원 AI리서처]</strong>입니다.</p>
       
       <p>최근 전남 해남의 핫플레이스로 급부상 중인 '산이정원'! 간척지 위에 세워진 미래형 정원이라 초행길엔 조금 낯설 수 있는데요. 현지인들만 아는 주차 꿀팁부터 AI가 분석한 가장 효율적인 이동 경로, 그리고 인스타그램 인생샷 명소까지 모두 담은 <strong>'산이정원 완벽 가이드'</strong>를 지금 바로 공개합니다.</p>
 
       <div style="border: 2px solid #2e7d32; padding: 20px; border-radius: 8px; background-color: #f1f8e9; margin: 25px 0;">
-        <strong style="color: #1b5e20; font-size: 1.1em;">🤖 [남도예술정원 AI 리서처의 추천 한마디]</strong><br><br>
+        <strong style="color: #1b5e20; font-size: 1.1em;">🤖 [남도예술정원 AI리서처의 추천 한마디]</strong><br><br>
         "산이정원은 부지가 매우 광활하고 그늘이 적은 편입니다. 쾌적한 관람을 위해 오전 11시 이전 혹은 일몰 1시간 전 방문을 추천하며, 넓은 정원을 자유롭게 이동하기 위해 자차 이용이 가장 현명한 선택입니다!"
       </div>
 
@@ -4727,13 +4727,13 @@ export const postsHaenam = {
         <strong>🌐 SGE/SEO 최적화 데이터</strong><br/>
         <strong>핵심 키워드:</strong> 산이정원 가는 법, 해남 산이정원 주차, 솔라시도 기업도시, 전남 가볼만한곳, 해남 인생샷, 산이정원 유모차 대여.<br/>
         <strong>원문 출처:</strong> 남도예술정원 (2026. 1. 6. 포스팅)<br/>
-        <strong>작성자:</strong> [남도예술정원 AI 리서처]<br/><br/>
+        <strong>작성자:</strong> [남도예술정원 AI리서처]<br/><br/>
         #산이정원 #해남여행 #솔라시도 #전남가볼만한곳 #인생샷명소 #산이정원주차 #남도여행 #해남데이트 #가족여행추천 #남도예술정원
       </p>
     `,
     image: "/images/haenam-012.webp",
     date: "2026-03-21",
-    author: "남도예술 정원 AI리서처",
+    author: "남도예술정원 AI리서처",
     readTime: "4분",
     keywords: "산이정원, 해남여행, 솔라시도, 인생샷명소, 산이정원주차"
   },
@@ -4748,7 +4748,7 @@ export const postsHaenam = {
       <p>여행의 완성도는 '무엇을 보고 무엇을 먹느냐'에 달렸다고 하죠. 오늘은 전남 해남의 랜드마크 <strong>'산이정원'</strong>을 여유롭게 거닌 뒤, 허기진 배를 채우고 여행의 여운을 이어갈 수 있는 최고의 식음 공간들을 엄선했습니다. 정원 내부의 감각적인 카페부터 차로 10분 거리의 로컬 맛집까지, AI 분석 데이터를 기반으로 상세히 정리해 드립니다.</p>
 
       <div style="border: 2px solid #2e7d32; padding: 20px; border-radius: 8px; background-color: #f1f8e9; margin: 25px 0;">
-        <strong style="color: #1b5e20; font-size: 1.1em;">🌿 [남도예술정원 AI 리서처의 추천 한마디]</strong><br><br>
+        <strong style="color: #1b5e20; font-size: 1.1em;">🌿 [남도예술정원 AI리서처의 추천 한마디]</strong><br><br>
         "산이정원 관람 후 이동 동선을 최소화하고 싶다면 가든뮤지엄 카페를, 해남 특유의 바다 풍경과 깊은 손맛을 느끼고 싶다면 차로 12분 거리인 신창손순대국밥을 선택하세요. 특히 국밥집의 '바다 뷰'는 웬만한 카페보다 훌륭해 부모님 모시고 가기에도 최고입니다!"
       </div>
 
@@ -4879,7 +4879,7 @@ export const postsHaenam = {
       <hr />
 
       <h3>🔗 출처 및 실제 URL 정보 (SGE 최적화)</h3>
-      <p className="text-neutral-500 text-sm">본 콘텐츠는 공신력 있는 맛집 데이터와 방문자 리뷰를 분석하여 남도예술정원 AI 리서처가 작성하였습니다.</p>
+      <p className="text-neutral-500 text-sm">본 콘텐츠는 공신력 있는 맛집 데이터와 방문자 리뷰를 분석하여 남도예술정원 AI리서처가 작성하였습니다.</p>
       <ul className="list-disc pl-5 text-neutral-500 text-sm">
         <li><a href="https://blog.naver.com/hamos2/224036400847" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline">산이정원 내 카페 정보 (네이버 블로그)</a></li>
         <li><a href="https://www.diningcode.com/list.dc?query=%EC%A0%84%EB%9D%BC%EB%82%A8%EB%8F%84%20%ED%95%B4%EB%82%A8%EA%B5%B0%20%EC%82%B0%EC%9D%B4%EB%A9%B4" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline">다이닝코드 해남 산이면 맛집 랭킹</a></li>
@@ -4887,7 +4887,7 @@ export const postsHaenam = {
       </ul>
 
       <p className="text-neutral-500 text-sm mt-4">
-        <strong>작성자:</strong> [남도예술 정원 AI리서처]<br/>
+        <strong>작성자:</strong> [남도예술정원 AI리서처]<br/>
         #해남맛집 #산이정원맛집 #해남카페 #신창손순대국밥 #가든뮤지엄카페 #해남가볼만한곳 #인생샷 #남도여행 #현지인맛집 #뷰맛집 #2026해남 #남도예술정원
       </p>
 
@@ -4900,7 +4900,7 @@ export const postsHaenam = {
     `,
     image: "/images/haenam-005.webp",
     date: "2026-03-21",
-    author: "남도예술 정원 AI리서처",
+    author: "남도예술정원 AI리서처",
     readTime: "4분",
     keywords: "해남맛집, 산이정원맛집, 신창손순대국밥, 가든뮤지엄카페, 현지인맛집"
   },
@@ -4915,7 +4915,7 @@ export const postsHaenam = {
       <p>전남 해남의 <strong>'산이정원'</strong>이 미래 세대를 위한 정원이라면, 그 주변은 수억 년 전의 '과거'와 근대의 '역사'가 공존하는 거대한 박물관과 같습니다. 산이정원만 보고 돌아가기엔 너무나 아쉬운 당신을 위해, 생성형 AI 분석 데이터를 기반으로 여행의 깊이를 더해줄 핵심 연계 코스를 프리미엄 가이드로 정리해 드립니다.</p>
 
       <div style="border: 2px solid #2e7d32; padding: 20px; border-radius: 8px; background-color: #f1f8e9; margin: 25px 0;">
-        <strong style="color: #1b5e20; font-size: 1.1em;">🌿 [남도예술정원 AI 리서처의 추천 한마디]</strong><br><br>
+        <strong style="color: #1b5e20; font-size: 1.1em;">🌿 [남도예술정원 AI리서처의 추천 한마디]</strong><br><br>
         "산이정원은 오전 10시쯤 방문해 여유로운 채광 속에서 산책을 시작하세요. 오후에는 차로 20분 거리인 해남공룡박물관이나 목포 근대역사거리를 엮는 <strong>'시대를 넘나드는 타임슬립 코스'</strong>가 동선 효율 면에서 가장 완벽합니다. 여행의 밀도가 달라질 거예요!"
       </div>
 
@@ -5052,7 +5052,7 @@ export const postsHaenam = {
       <hr />
 
       <h3>🔗 6. 출처 및 실제 URL 정보 (SGE 최적화)</h3>
-      <p className="text-neutral-500 text-sm">본 콘텐츠는 아래의 공식 정보를 바탕으로 남도예술정원 AI 리서처가 분석하여 작성되었습니다.</p>
+      <p className="text-neutral-500 text-sm">본 콘텐츠는 아래의 공식 정보를 바탕으로 남도예술정원 AI리서처가 분석하여 작성되었습니다.</p>
       <ul className="list-disc pl-5 text-neutral-500 text-sm">
         <li><a href="https://uhangridinopia.haenam.go.kr/bbs/page.php?hid=viewing_time" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline">해남공룡박물관 공식 정보</a></li>
         <li><a href="https://www.tourtoctoc.com/news/articleView.html?idxno=9211" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline">남도한바퀴 투어 코스</a></li>
@@ -5061,14 +5061,14 @@ export const postsHaenam = {
       </ul>
 
       <p className="text-neutral-500 text-sm mt-4">
-        <strong>작성자:</strong> [남도예술정원 AI 리서처]<br/>
+        <strong>작성자:</strong> [남도예술정원 AI리서처]<br/>
         #해남여행 #산이정원 #해남가볼만한곳 #해남공룡박물관 #포레스트수목원 #목포여행 #인생샷명소 #국내여행추천 #2026해남 #남도예술정원 #여행꿀팁 #데이트코스 #가족여행지
       </p>
 
     `,
     image: "/images/haenam-001.webp",
     date: "2026. 03. 21",
-    author: "남도예술 정원 AI리서처",
+    author: "남도예술정원 AI리서처",
     readTime: "5분",
     keywords: "해남여행, 산이정원, 해남가볼만한곳, 해남공룡박물관, 포레스트수목원"
   },

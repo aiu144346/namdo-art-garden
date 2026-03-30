@@ -7,12 +7,12 @@ export const postsWando = {
     "keywords": "완도수목원, 전남가볼만한곳, 난대림여행, 번아웃힐링, 겨울방학아이와가볼만한곳, 효도여행코스, 나홀로여행, 완도포토존, 무장애관광, 아열대온실, 남도예술정원, 피톤치드명소, 완도타워, AI여행가이드, 산림명소, 사색여행, 인생샷촬영법",
     "image": "/images/wando-01.webp",
     "date": "2026-03-26",
-    "author": "남도예술 정원 AI리서처",
+    "author": "남도예술정원 AI리서처",
     "readTime": "8분",
     "content": `
       <div className="space-y-12 text-neutral-800">
         <p className="text-xl font-light leading-relaxed mb-12">
-          국내 유일의 난대 수목원인 <strong>완도수목원</strong>은 단순히 나무를 보는 곳을 넘어, 누군가에게는 휴식을, 누군가에게는 새로운 비즈니스 영감을 주는 거대한 초록빛 서사시입니다. 남도예술정원 AI 리서처가 분석한 8가지 페르소나별 맞춤형 시나리오를 통해 당신에게 가장 완벽한 완도 여행을 설계해 보세요.
+          국내 유일의 난대 수목원인 <strong>완도수목원</strong>은 단순히 나무를 보는 곳을 넘어, 누군가에게는 휴식을, 누군가에게는 새로운 비즈니스 영감을 주는 거대한 초록빛 서사시입니다. 남도예술정원 AI리서처가 분석한 8가지 페르소나별 맞춤형 시나리오를 통해 당신에게 가장 완벽한 완도 여행을 설계해 보세요.
         </p>
 
         <img src="/images/wando-01.webp" alt="완도수목원 전경" className="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
@@ -190,7 +190,7 @@ export const postsWando = {
     "keywords": "완도맛집, 완도수목원맛집, 김아이스크림, 전복빵, 장보고빵, 달스윗, 카페완또, 완도어반, 생선구이, 완도디저트, 남도예술정원, 완도여행코스, 이색디저트, 빵지순례, 인스타감성카페",
     "image": "/images/wando-0094.webp",
     "date": "2026-03-26",
-    "author": "남도예술 정원 AI리서처",
+    "author": "남도예술정원 AI리서처",
     "readTime": "6분",
     "content": `
       <div className="space-y-12 text-neutral-800">
@@ -347,7 +347,7 @@ export const postsWando = {
     "keywords": "완도숙소추천, 완도혼자여행, 완도수목원펜션, 완도네시아, 파크힐컴포트호텔, 완도감성숙소, 혼행족, 사색여행, 남도예술정원, 완도가볼만한곳, 완도오션뷰숙소, 디지털디톡스, 물멍, 숲세권숙소",
     "image": "/images/wando-014.webp",
     "date": "2026-03-26",
-    "author": "남도예술 정원 AI리서처",
+    "author": "남도예술정원 AI리서처",
     "readTime": "7분",
     "content": `
       <div className="space-y-12 text-neutral-800">
@@ -443,7 +443,7 @@ export const postsWando = {
     "keywords": "완도아내의정원, 완도가볼만한곳, 전남민간정원, 아내의정원입장료, 완도데이트코스, 예쁜정원콘테스트, 목조온실카페, 빈티지카라반, 남도예술정원, 완도여행, 유럽풍정원, 숲속카페",
     "image": "/images/wando-017.webp",
     "date": "2026-03-26",
-    "author": "남도예술 정원 AI리서처",
+    "author": "남도예술정원 AI리서처",
     "readTime": "8분",
     "content": `
       <div className="space-y-12 text-neutral-800">
@@ -570,7 +570,7 @@ export const postsWando = {
     "keywords": "완도아내의정원, 완도아이와가볼만한곳, 완도인생샷, 완도카페, 전남민간정원, 동물먹이주기, 드로잉피크닉, 완도여행코스, 남도예술정원, 가족나들이, 유럽풍정원, 숲속놀이터",
     "image": "/images/wando-020.webp",
     "date": "2026-03-26",
-    "author": "남도예술 정원 AI리서처",
+    "author": "남도예술정원 AI리서처",
     "readTime": "9분",
     "content": `
       <div className="space-y-12 text-neutral-800">
@@ -711,7 +711,7 @@ export const postsWando = {
     "keywords": "완도아내의정원맛집, 달목성한정식, 완도로컬맛집, 완도숙소추천, 완도감성숙소, 루미아리조트, 마이네스트, 완도카라반, 완도가볼만한곳, 남도예술정원, 완도여행코스, 식집사여행",
     "image": "/images/wando-026.webp",
     "date": "2026-03-26",
-    "author": "남도예술 정원 AI리서처",
+    "author": "남도예술정원 AI리서처",
     "readTime": "8분",
     "content": `
       <div className="space-y-12 text-neutral-800">
@@ -856,7 +856,7 @@ export const postsWando = {
     "keywords": "완도타워, 완도타워소정원, 완도야경, 완도데이트코스, 완도모노레일, 완도가볼만한곳, 전남야경명소, 남도예술정원, 완도여행코스, 인생샷스팟, 야간데이트추천",
     "image": "/images/wando-033.webp",
     "date": "2026-03-26",
-    "author": "남도예술 정원 AI리서처",
+    "author": "남도예술정원 AI리서처",
     "readTime": "10분",
     "content": `
       <div className="space-y-12 text-neutral-800">
@@ -1000,7 +1000,7 @@ export const postsWando = {
     "keywords": "완도효도여행, 완도타워, 완도타워소정원, 부모님과가볼만한곳, 완도모노레일, 무장애여행, 전남여행코스, 다도해전망, 남도예술정원, 완도여행가이드, 실버여행추천",
     "image": "/images/wando-040.webp",
     "date": "2026-03-26",
-    "author": "남도예술 정원 AI리서처",
+    "author": "남도예술정원 AI리서처",
     "readTime": "7분",
     "content": `
       <div className="space-y-12 text-neutral-800">
@@ -1116,7 +1116,7 @@ export const postsWando = {
     "keywords": "완도맛집, 완도어반, 개성순두부, 달스윗, 장보고빵, 카페완도리, 완도타워맛집, 완도현지인맛집, 완도여행코스, 남도예술정원, 완도디저트, 완도전복",
     "image": "/images/wando-044.webp",
     "date": "2026-03-26",
-    "author": "남도예술 정원 AI리서처",
+    "author": "남도예술정원 AI리서처",
     "readTime": "12분",
     "content": `
       <div className="space-y-12 text-neutral-800">
@@ -1262,7 +1262,7 @@ export const postsWando = {
     "keywords": "완도숙소, 완도타워숙소, 파크힐컴포트호텔, 완도네시아, 완도게스트하우스, 완도일출산책, 완도가성비숙소, 완도오션뷰호텔, 완도여행코스, 남도예술정원, 완도체험여행",
     "image": "/images/wando-056.webp",
     "date": "2026-03-26",
-    "author": "남도예술 정원 AI리서처",
+    "author": "남도예술정원 AI리서처",
     "readTime": "9분",
     "content": `
       <div className="space-y-12 text-neutral-800">
@@ -1386,7 +1386,7 @@ export const postsWando = {
     "keywords": "완도여행, 바하정원, 바하펜션, 완도가볼만한곳, 전남예쁜정원, 정도리구계등, 완도카페, 완도숙소추천, 힐링여행, 민간정원, 남도예술정원",
     "image": "/images/wando-060.webp",
     "date": "2026-03-26",
-    "author": "남도예술 정원 AI리서처",
+    "author": "남도예술정원 AI리서처",
     "readTime": "10분",
     "content": `
       <div className="space-y-12 text-neutral-800">
@@ -1503,7 +1503,7 @@ export const postsWando = {
     "keywords": "완도여행, 바하정원, 바하펜션, 에리히프롬, 소유냐존재냐, 멍때리기, 완도명상, 전남민간정원, 구계등, 힐링여행코스, 남도예술정원, 디지털디톡스",
     "image": "/images/wando-064.webp",
     "date": "2026-03-26",
-    "author": "남도예술 정원 AI리서처",
+    "author": "남도예술정원 AI리서처",
     "readTime": "11분",
     "content": `
       <div className="space-y-12 text-neutral-800">
@@ -1574,7 +1574,7 @@ export const postsWando = {
     "keywords": "완도여행, 바하정원, 바하펜션, 에리히프롬, 소유냐존재냐, 완도멍때리기, 명상여행, 민간정원, 정도리구계등, 남도예술정원, 철학여행, 완도가볼만한곳",
     "image": "/images/wando-067.webp",
     "date": "2026-03-26",
-    "author": "남도예술 정원 AI리서처",
+    "author": "남도예술정원 AI리서처",
     "readTime": "12분",
     "content": `
       <div className="space-y-12 text-neutral-800">
@@ -1690,7 +1690,7 @@ export const postsWando = {
     "keywords": "완도여행, 바하정원, 바하펜션, 완도가볼만한곳, 완도가는법, 완도KTX, 완도버스시간표, 서해안고속도로휴게소, 남해고속도로휴게소, 드라이브코스, 남도예술정원",
     "image": "/images/wando-070.webp",
     "date": "2026-03-26",
-    "author": "남도예술 정원 AI리서처",
+    "author": "남도예술정원 AI리서처",
     "readTime": "9분",
     "content": `
       <div className="space-y-12 text-neutral-800">
@@ -1809,7 +1809,7 @@ export const postsWando = {
     "keywords": "완도여행, 완도타워, 완도모노레일, 완도해양치유센터, 바하정원, 완도핫플, 걷기싫은사람모여라, 전남무장애여행, 완도야경, 남도예술정원, 완도관광택시",
     "image": "/images/wando-074.webp",
     "date": "2026-03-26",
-    "author": "남도예술 정원 AI리서처",
+    "author": "남도예술정원 AI리서처",
     "readTime": "10분",
     "content": `
       <div className="space-y-12 text-neutral-800">
@@ -1923,7 +1923,7 @@ export const postsWando = {
     "keywords": "완도여행, 장도청해진유적지, 장보고기념관, 아내의정원, 완도가볼만한곳, 타임슬립여행, 전남산책로, 해상왕장보고, 완도데이트, 남도예술정원, 힐링기행",
     "image": "/images/wando-078.webp",
     "date": "2026-03-26",
-    "author": "남도예술 정원 AI리서처",
+    "author": "남도예술정원 AI리서처",
     "readTime": "11분",
     "content": `
       <div className="space-y-12 text-neutral-800">

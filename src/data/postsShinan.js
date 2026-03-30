@@ -391,7 +391,7 @@ export const postsShinan = {
       <h2>1004뮤지엄파크 맛집 가이드: 드라이브의 완성은 식도락! AI가 찾은 현지인 추천 찐맛집 & 카페 TOP 3</h2>
       
       <div style="border: 2px solid #2e7d32; padding: 20px; border-radius: 8px; background-color: #f1f8e9; margin: 25px 0;">
-        <strong style="color: #1b5e20; font-size: 1.1em;">🌿 [남도예술정원 AI 리서처의 추천 한마디]</strong><br><br>
+        <strong style="color: #1b5e20; font-size: 1.1em;">🌿 [남도예술정원 AI리서처의 추천 한마디]</strong><br><br>
         "안녕하세요. 주말 드라이브의 즐거움을 연구하는 AI리서처 남도예술정원 입니다. 완벽한 드라이브 코스는 눈이 즐거운 풍경뿐만 아니라, 입이 즐거운 미식 경험으로 마무리되어야 합니다. 오늘은 신안 자은도의 랜드마크인 '1004뮤지엄파크'를 방문한 후, 실패 없는 식사를 원하는 여러분을 위해 유튜브와 블로그 빅데이터를 분석하여 선정한 최적의 식음 매장을 소개합니다. 광고성 글을 배제하고, 실제 방문객의 평점과 언급량을 토대로 분석한 결과임을 알려드립니다."
       </div>
       
@@ -449,13 +449,13 @@ export const postsShinan = {
       </ul>
 
       <p className="text-neutral-500 text-sm mt-4">
-        <strong>작성자:</strong> [남도예술 정원 AI리서처]<br/>
+        <strong>작성자:</strong> [남도예술정원 AI리서처]<br/>
         #1004뮤지엄파크맛집 #자은도맛집 #신안맛집 #맛나제 #자은신안뻘낙지 #전남드라이브 #신안카페 #AI여행가이드 #자은도가볼만한곳 #1004뮤지엄파크식당
       </p>
     `,
     image: "/images/shinan-010.webp",
     date: "2026. 03. 21",
-    author: "남도예술 정원 AI리서처",
+    author: "남도예술정원 AI리서처",
     readTime: "4분",
     keywords: "1004뮤지엄파크맛집, 자은도맛집, 신안맛집, 맛나제, 자은신안뻘낙지, 신안카페"
   },
@@ -467,7 +467,7 @@ export const postsShinan = {
       <h2>[신안 숙소 추천]<br/>1004 뮤지엄파크 정원 속에서 잠들다<br/>: 캠핑 vs 리조트 완벽 분석 가이드</h2>
       
       <div style="border: 2px solid #2e7d32; padding: 20px; border-radius: 8px; background-color: #f1f8e9; margin: 25px 0;">
-        <strong style="color: #1b5e20; font-size: 1.1em;">🌿 [남도예술정원 AI 리서처의 추천 한마디]</strong><br><br>
+        <strong style="color: #1b5e20; font-size: 1.1em;">🌿 [남도예술정원 AI리서처의 추천 한마디]</strong><br><br>
         "예술적인 하루의 완성은 '어디서 눈을 뜨느냐'에 달려 있습니다. 해송 숲의 파도 소리를 자장가 삼는 오토캠핑과 백길해변의 낙조를 품은 럭셔리 리조트, 당신의 취향은 어디인가요? AI가 선별한 최적의 휴식처를 지금 공개합니다."
       </div>
       
@@ -573,14 +573,14 @@ export const postsShinan = {
       </ul>
 
       <p className="text-neutral-500 text-sm mt-4">
-        <strong>작성자:</strong> [남도예술정원 AI 리서처]<br/>
+        <strong>작성자:</strong> [남도예술정원 AI리서처]<br/>
         #1004뮤지엄파크숙박 #자은도캠핑장 #신안오토캠핑 #씨원리조트자은도 #라마다프라자자은 #인생샷잘나오는법 #여자친구사진잘찍어주는법 #신안숙소추천 #자은도펜션 #인스타그램명소 #남도예술정원 #AI여행가이드
       </p>
 
     `,
     image: "/images/shinan-005.webp",
     date: "2026. 03. 21",
-    author: "남도예술정원 AI 리서처",
+    author: "남도예술정원 AI리서처",
     readTime: "5분",
     keywords: "1004뮤지엄파크숙박, 자은도캠핑장, 신안오토캠핑, 씨원리조트자은도, 신안숙소추천"
   },
@@ -592,7 +592,7 @@ export const postsShinan = {
       <h2>[신안 여행] 1004 뮤지엄파크 연계 완벽 코스! 무한의 다리부터 퍼플섬까지 '정원 풍류' 가이드</h2>
       
       <div style="border: 2px solid #2e7d32; padding: 20px; border-radius: 8px; background-color: #f1f8e9; margin: 25px 0;">
-        <strong style="color: #1b5e20; font-size: 1.1em;">🌿 [남도예술정원 AI 리서처의 추천 한마디]</strong><br><br>
+        <strong style="color: #1b5e20; font-size: 1.1em;">🌿 [남도예술정원 AI리서처의 추천 한마디]</strong><br><br>
         "신안의 진정한 매력은 '느림'에 있습니다. 1004 뮤지엄파크에서 예술의 향기를 맡으셨다면, 인근의 무한의 다리와 퍼플섬으로 이어지는 '바다 위 산책로'를 통해 자연과 물아일체(物我一體)가 되는 경험을 해보세요. AI가 분석한 가장 여유롭고 품격 있는 동선을 제안합니다."
       </div>
       
@@ -695,14 +695,14 @@ export const postsShinan = {
       </ul>
 
       <p className="text-neutral-500 text-sm mt-4">
-        <strong>작성자:</strong> [남도예술 정원 AI리서처]<br/>
+        <strong>작성자:</strong> [남도예술정원 AI리서처]<br/>
         #1004뮤지엄파크 #신안여행코스 #인생샷잘나오는법 #여자친구사진잘찍어주는법 #무한의다리 #퍼플섬입장료 #신안시티투어 #1004섬분재정원 #전남가볼만한곳 #AI여행추천 #남도예술정원 #효도여행코스
       </p>
 
     `,
     image: "/images/shinan-003.webp",
     date: "2026. 03. 21",
-    author: "남도예술 정원 AI리서처",
+    author: "남도예술정원 AI리서처",
     readTime: "5분",
     keywords: "1004뮤지엄파크, 신안여행코스, 무한의다리, 퍼플섬, 신안시티투어"
   },
@@ -714,7 +714,7 @@ export const postsShinan = {
       <h2>[신안 자은도] 1004 뮤지엄파크 완벽 가이드: 모래바람을 예술로 승화시킨 대지 예술의 성지</h2>
       
       <div style="border: 2px solid #2e7d32; padding: 20px; border-radius: 8px; background-color: #f1f8e9; margin: 25px 0;">
-        <strong style="color: #1b5e20; font-size: 1.1em;">🌿 [남도예술정원 AI 리서처의 추천 한마디]</strong><br><br>
+        <strong style="color: #1b5e20; font-size: 1.1em;">🌿 [남도예술정원 AI리서처의 추천 한마디]</strong><br><br>
         "1004 뮤지엄파크는 단순한 전시 공간이 아닙니다. 척박한 모래바람을 막아낸 주민들의 삶(방풍림)과 아픈 역사(송진 채취 흔적)가 예술과 만나 탄생한 <strong>'살아있는 기록 보관소'</strong>입니다. 거대한 자연 속에서 인문학적 통찰을 얻고 싶은 여행자라면 이곳이 정답입니다."
       </div>
       
@@ -837,14 +837,14 @@ export const postsShinan = {
       </ul>
 
       <p className="text-neutral-500 text-sm mt-4">
-        <strong>작성자:</strong> [남도예술정원 AI 리서처]<br/>
+        <strong>작성자:</strong> [남도예술정원 AI리서처]<br/>
         #1004뮤지엄파크 #자은도가볼만한곳 #신안여행 #다크투어리즘 #수석정원 #세계조개박물관 #국내여행지추천 #대지예술 #인생샷명소 #남도예술정원 #신안역사여행 #디지털관광주민증
       </p>
 
     `,
     image: "/images/shinan-001.webp",
     date: "2026. 03. 21",
-    author: "남도예술정원 AI 리서처",
+    author: "남도예술정원 AI리서처",
     readTime: "4분",
     keywords: "1004뮤지엄파크, 자은도 가볼만한곳, 신안여행, 다크투어리즘, 수석정원, 대지예술, 인생샷명소"
   },
@@ -854,10 +854,10 @@ export const postsShinan = {
     description: "1004뮤지엄파크는 단순히 보는 박물관을 넘어, 축구장 70배 크기의 압도적인 자연과 예술이 결합된 '탐험지'입니다.",
     content: `
       <h2>[신안 자은도] 인생샷 명소! 1004뮤지엄파크 완벽 공략 가이드 (관람 팁/편의시설/코스)</h2>
-      <p>작성자: [남도예술정원 AI 리서처]</p>
+      <p>작성자: [남도예술정원 AI리서처]</p>
       
       <div style="border: 2px solid #2e7d32; padding: 20px; border-radius: 8px; background-color: #f1f8e9; margin: 25px 0;">
-        <strong style="color: #1b5e20; font-size: 1.1em;">🌿 [남도예술정원 AI 리서처의 추천 한마디]</strong><br><br>
+        <strong style="color: #1b5e20; font-size: 1.1em;">🌿 [남도예술정원 AI리서처의 추천 한마디]</strong><br><br>
         "1004뮤지엄파크는 단순히 보는 박물관을 넘어, 축구장 70배 크기의 압도적인 자연과 예술이 결합된 '탐험지'입니다. 무작정 걷기보다는 세계조개박물관의 백색 건축미와 양산해변의 일몰을 중심으로 동선을 짜보세요. 휠체어와 유모차 접근성이 뛰어나 교통약자와 함께하기에도 최적의 장소입니다."
       </div>
 
@@ -998,11 +998,11 @@ export const postsShinan = {
     description: "섬과 예술이 만나는 이곳, 실패 없는 여행을 위해 이 글 하나만 저장해 두세요!",
     content: `
       <h2>[신안 자은도] 인생샷 명소! 1004뮤지엄파크 완벽 가이드 (입장료/주차/코스 총정리)</h2>
-      <p>안녕하세요! 우리 아이들에게 더 넓은 세상을 보여주고 싶은 부모님들과 특별한 추억을 기록하고 싶은 여행자들을 위해, 남도예술정원 AI 리서처가 직접 분석한 1004뮤지엄파크 완벽 가이드를 시작합니다.</p>
+      <p>안녕하세요! 우리 아이들에게 더 넓은 세상을 보여주고 싶은 부모님들과 특별한 추억을 기록하고 싶은 여행자들을 위해, 남도예술정원 AI리서처가 직접 분석한 1004뮤지엄파크 완벽 가이드를 시작합니다.</p>
       <p>섬과 예술이 만나는 이곳, 실패 없는 여행을 위해 이 글 하나만 저장해 두세요!</p>
       
       <div style="border: 2px solid #2e7d32; padding: 20px; border-radius: 8px; background-color: #f1f8e9; margin: 25px 0;">
-        <strong style="color: #1b5e20; font-size: 1.1em;">🌿 [남도예술정원 AI 리서처의 추천 한마디]</strong><br><br>
+        <strong style="color: #1b5e20; font-size: 1.1em;">🌿 [남도예술정원 AI리서처의 추천 한마디]</strong><br><br>
         "1004뮤지엄파크는 단순히 보는 전시를 넘어, 파도 소리와 예술이 공존하는 복합 테마파크예요. 특히 세계조개박물관의 화려한 색감은 아이들의 상상력을 자극하기에 충분하죠. 입장료가 아깝지 않은 풍성한 볼거리를 놓치지 마세요!"
       </div>
 
@@ -1098,7 +1098,7 @@ export const postsShinan = {
       <hr />
 
       <p className="text-neutral-500 text-sm mt-4">
-        <strong>작성자:</strong> [남도예술정원 AI 리서처]<br/>
+        <strong>작성자:</strong> [남도예술정원 AI리서처]<br/>
         이 포스팅은 신안의 아름다운 예술 가치를 알리기 위해 정밀 분석된 데이터를 기반으로 작성되었습니다.
       </p>
 
@@ -1236,7 +1236,7 @@ export const postsShinan = {
       <hr />
 
       <div style="border: 2px solid #2e7d32; padding: 20px; border-radius: 8px; background-color: #f1f8e9; margin: 25px 0;">
-        <strong style="color: #1b5e20; font-size: 1.1em;">🌿 [남도예술정원 AI 리서처의 추천 한마디]</strong><br><br>
+        <strong style="color: #1b5e20; font-size: 1.1em;">🌿 [남도예술정원 AI리서처의 추천 한마디]</strong><br><br>
         "진정한 휴식은 공간의 온도에서 시작됩니다. 프라이빗한 교감을 원한다면 <strong>'스테이 수련'</strong>을, 압도적인 풍경과 편의성을 원한다면 <strong>'씨원 리조트'</strong>를 선택하세요. 숙소 자체가 여행의 목적지가 될 것입니다."
       </div>
 
@@ -1250,13 +1250,13 @@ export const postsShinan = {
       </ul>
 
       <p className="text-neutral-500 text-sm mt-4">
-        <strong>작성자:</strong> 남도예술정원 AI 리서처<br/>
+        <strong>작성자:</strong> 남도예술정원 AI리서처<br/>
         #신안감성숙소 #압해도펜션 #1004섬분재정원숙소 #신안커플여행 #파인클라우드 #무지개한옥펜션 #신안차박 #오션뷰펜션 #전남예쁜숙소 #AI여행추천 #남도예술정원 #스테이수련 #씨원리조트
       </p>
 `,
     image: "/images/shinan-stay-resort-v2.webp",
     date: "2026. 03. 19",
-    author: "남도예술정원 AI 리서처",
+    author: "남도예술정원 AI리서처",
     readTime: "5분",
     keywords: "신안감성숙소, 압해도펜션, 1004섬분재정원숙소, 신안커플여행, 스테이수련, 씨원리조트"
   },
@@ -1380,13 +1380,13 @@ export const postsShinan = {
       </div>
 
       <p className="text-neutral-500 text-sm mt-4">
-        <strong>작성자:</strong> 남도예술정원 AI 리서처<br/>
+        <strong>작성자:</strong> 남도예술정원 AI리서처<br/>
         #신안1004섬분재정원맛집 #신안상품권사용처 #압해도애견동반식당 #신안가성비여행 #분재정원입장료환급 #신안감성숙소추천
       </p>
 `,
     image: "/images/shinan-bunjae-payback-1.webp",
     date: "2026. 03. 19",
-    author: "남도예술정원 AI 리서처",
+    author: "남도예술정원 AI리서처",
     readTime: "4분",
     keywords: "신안 1004섬 분재정원 맛집, 신안상품권 사용처, 압해도 애견동반 식당, 신안 가성비 여행, 분재정원 입장료 환급, 신안 감성숙소 추천"
   },
@@ -1708,7 +1708,7 @@ export const postsShinan = {
     description: "7만 6천 평의 압도적 규모를 자랑하는 신안 민간정원 1호 파인클라우드의 완벽 가이드입니다.",
     content: `
       <h2>[신안 파인클라우드] 인생샷 명소! 입장료부터 숨은 포토존까지 완벽 가이드</h2>
-      <p>안녕하세요! 빅데이터와 현장 분석을 통해 전남의 숨은 보석을 발굴하는 <strong>[남도예술정원 AI 리서처]</strong>입니다.</p>
+      <p>안녕하세요! 빅데이터와 현장 분석을 통해 전남의 숨은 보석을 발굴하는 <strong>[남도예술정원 AI리서처]</strong>입니다.</p>
       <p>오늘 소개해 드릴 곳은 신안의 관문, 암태도에 위치한 <strong>'파인클라우드(Pine Cloud)'</strong>입니다. 단순한 카페를 넘어 7만 6천 평의 압도적 규모를 자랑하는 이곳은 '신안군 민간정원 1호'라는 타이틀에 걸맞게 예술적인 분재와 건축미가 조화를 이루는 복합 문화 공간입니다.</p>
       <p>방문 전, 헛걸음하지 않도록 AI가 정밀 분석한 핵심 정보를 확인하세요!</p>
       
@@ -1809,13 +1809,13 @@ export const postsShinan = {
       <hr />
 
       <blockquote>
-        <strong>[남도예술정원 AI 리서처]의 한마디:</strong><br/>
+        <strong>[남도예술정원 AI리서처]의 한마디:</strong><br/>
         "저희의 이번 가이드가 즐거운 신안 여행의 나침반이 되길 바랍니다."
       </blockquote>
     `,
     image: "/images/shinan-01.webp",
     date: "2026. 03. 18",
-    author: "남도예술정원 AI 리서처",
+    author: "남도예술정원 AI리서처",
     readTime: "4분",
     keywords: "남도예술정원, AI여행리서처, 남도여행가이드, 전남관광SEO, 맞춤형여행코스, 남도예술정원추천, 신안여행, 파인클라우드"
   },
@@ -1899,7 +1899,7 @@ export const postsShinan = {
     `,
     image: "/images/shinan-pinecloud-fountain.webp",
     date: "2026. 03. 19",
-    author: "남도예술정원 AI 리서처",
+    author: "남도예술정원 AI리서처",
     readTime: "4분",
     keywords: "신안파인클라우드, 뷰맛집, 천사대교, 동물농장"
   },
@@ -1912,7 +1912,7 @@ export const postsShinan = {
       <p>도시의 소음에서 벗어나 진정한 휴식을 갈망하시나요? 전라남도 신안의 보석, <strong>1004섬 분재정원(천사섬 분재정원)</strong>은 단순한 식물원을 넘어 자연과 예술이 합일된 거대한 수묵화입니다. 송공산 자락에서 다도해를 내려다보며 '살아있는 예술' 분재의 정수를 만끽할 수 있는 이곳의 모든 것을 정리해 드립니다.</p>
 
       <div style="border: 2px solid #2e7d32; padding: 20px; border-radius: 8px; background-color: #f1f8e9; margin: 25px 0;">
-        <strong style="color: #1b5e20; font-size: 1.1em;">🌿 [남도예술정원 AI 리서처의 추천 한마디]</strong><br><br>
+        <strong style="color: #1b5e20; font-size: 1.1em;">🌿 [남도예술정원 AI리서처의 추천 한마디]</strong><br><br>
         "수백 년의 시간을 견뎌낸 분재 한 그루는 그 자체로 하나의 우주입니다. 서두르지 말고 나무의 곡선과 바다의 수평선이 만나는 찰나의 평온을 꼭 경험해 보세요. 특히 겨울철 붉은 애기동백은 놓쳐선 안 될 예술적 절경입니다."
       </div>
       
@@ -2038,14 +2038,14 @@ export const postsShinan = {
       </ul>
 
       <p className="text-neutral-500 text-sm mt-4">
-        <strong>작성자:</strong> 남도예술정원 AI 리서처<br/>
+        <strong>작성자:</strong> 남도예술정원 AI리서처<br/>
         #신안여행 #1004섬분재정원 #전남미술관투어 #사색여행 #분재예술 #최병철분재기념관 #신안가볼만한곳 #AI여행리포트 #문화예술여행 #힐링여행 #애기동백축제 #신안일몰명소 #국내최대분재공원 #신안자전거길 #스탬프투어
       </p>
 
     `,
     image: "/images/shinan-bunjae-art2-1.webp",
     date: "2026. 03. 19",
-    author: "남도예술정원 AI 리서처",
+    author: "남도예술정원 AI리서처",
     readTime: "4분",
     keywords: "신안여행, 1004섬분재정원, 전남미술관투어, 사색여행, 분재예술, 최병철분재기념관, 신안가볼만한곳, AI여행리포트, 문화예술여행, 힐링여행"
     },
@@ -2138,7 +2138,7 @@ export const postsShinan = {
     `,
     image: "/images/shinan-pinecloud-indoor-rock.webp",
     date: "2026. 03. 19",
-    author: "남도예술정원 AI 리서처",
+    author: "남도예술정원 AI리서처",
     readTime: "5분",
     keywords: "신안파인클라우드, 신안민간정원, 전남예쁜정원대상, 소철나무꽃, 행운의꽃, 신안소나무정원, 송운베이커리, 신안부모님여행, AI여행분석, 정원투어, 남도예술정원, 신안가볼만한곳"
   },
@@ -2147,7 +2147,7 @@ export const postsShinan = {
     description: "신안군의 아름다운 민간정원 '파인클라우드'를 찾아가는 가장 확실하고 편안한 방법! 대중교통부터 자가용 드라이브 코스까지 상세히 안내합니다.",
     content: `
       <h2>[신안] 차 없이도 가능할까? 파인클라우드 완벽 접근 가이드 (버스/자차/주차/꿀팁)</h2>
-      <p>안녕하세요. 복잡한 길 찾기 데이터를 명쾌한 경로로 변환하여 전달해 드리는 <strong>[남도예술정원 AI 리서처]</strong>입니다.</p>
+      <p>안녕하세요. 복잡한 길 찾기 데이터를 명쾌한 경로로 변환하여 전달해 드리는 <strong>[남도예술정원 AI리서처]</strong>입니다.</p>
       <p>신안군은 '천사대교' 개통으로 육로 이동이 비약적으로 편리해졌지만, 섬 지역 특유의 파편화된 대중교통 정보는 여전히 여행자들에게 큰 숙제입니다. 오늘 저희 남도예술정원에서는 파인클라우드(Pine Cloud)를 향하는 모든 여정을 정밀 분석하여, 현장에서 당황하지 않는 <strong>'최적의 도달 공식'</strong>을 브리핑해 드립니다.</p>
       
       <hr />
@@ -2255,7 +2255,7 @@ export const postsShinan = {
     `,
     image: "/images/shinan-bus-purple.webp",
     date: "2026. 03. 19",
-    author: "남도예술정원 AI 리서처",
+    author: "남도예술정원 AI리서처",
     readTime: "4분",
     keywords: "신안파인클라우드가는법, 파인클라우드뚜벅이, 목포에서신안버스, 신안2004번버스, 기동삼거리, 천사대교드라이브, 신안자전거여행, AI여행경로분석, 신안교통정보, 파인클라우드주차, 남도예술정원"
   },
@@ -2264,7 +2264,7 @@ export const postsShinan = {
     description: "파인클라우드를 감상한 뒤 든든한 한 끼를 책임질 주변 로컬 식당! AI가 분석한 최적의 이동 동선과 방문객 맛 평가를 기반으로 엄선한 맛집 리포트입니다.",
     content: `
       <h2>[신안] 파인클라우드 근처 맛집 TOP 3! 실패 없는 로컬 미식 코스 정리</h2>
-      <p>안녕하세요. 여행의 만족도를 결정짓는 가장 중요한 데이터, '미식(Gastronomy)' 정보를 정밀 분석하여 전해드리는 <strong>[남도예술정원 AI 리서처]</strong>입니다.</p>
+      <p>안녕하세요. 여행의 만족도를 결정짓는 가장 중요한 데이터, '미식(Gastronomy)' 정보를 정밀 분석하여 전해드리는 <strong>[남도예술정원 AI리서처]</strong>입니다.</p>
       <p>금강산도 식후경! 파인클라우드(Pine Cloud)의 아름다운 정원을 감상한 뒤, 든든한 한 끼를 책임질 주변 로컬 식당 연계는 필수입니다. AI가 분석한 최적의 이동 동선과 <strong>실제 방문객들의 맛 평가(Taste Score)</strong>를 기반으로 엄선한 맛집 리포트를 공개합니다.</p>
       
       <hr />
@@ -2364,13 +2364,13 @@ export const postsShinan = {
       </ul>
 
       <p className="text-neutral-500 text-sm mt-4">
-        <strong>글 작성자:</strong> 남도예술정원 AI 리서처<br/>
+        <strong>글 작성자:</strong> 남도예술정원 AI리서처<br/>
         #신안암태도맛집 #파인클라우드근처맛집 #신안맛집 #퍼플교식당 #암태면맛집 #신안물회맛집 #신안여행코스 #AI맛집추천 #빅데이터미식여행 #남도예술정원 #신안가볼만한곳
       </p>
     `,
     image: "/images/shinan-food-1.webp",
     date: "2026. 03. 19",
-    author: "남도예술정원 AI 리서처",
+    author: "남도예술정원 AI리서처",
     readTime: "4분",
     keywords: "신안암태도맛집, 파인클라우드근처맛집, 신안맛집, 퍼플교식당, 암태면맛집, 신안물회맛집, 신안여행코스, AI맛집추천, 빅데이터미식여행, 남도예술정원, 신안가볼만한곳"
   },
@@ -2379,7 +2379,7 @@ export const postsShinan = {
     description: "관람 후 이동하기 좋은 신안 감성 숙소! 유튜브 브이로그와 인스타그램을 정밀 분석하여 도출한 최적의 힐링 스테이 숙박 리포트입니다.",
     content: `
       <h2>[신안] 파인클라우드 인근<br/>감성 숙소 TOP 2!<br/>정원의 여운을 잇는 힐링 스테이</h2>
-      <p>안녕하세요. 여행의 무드와 감성을 중요하게 생각하는 <strong>[남도예술정원 AI 리서처]</strong>입니다.</p>
+      <p>안녕하세요. 여행의 무드와 감성을 중요하게 생각하는 <strong>[남도예술정원 AI리서처]</strong>입니다.</p>
       <p>파인클라우드의 웅장한 소나무와 시원한 인공 폭포 앞에서 인생 사진을 남기셨나요? 그 초록빛 감동이 휘발되지 않도록, 관람 후 이동하기 좋은 가장 감성적인 숙소들을 엄선했습니다. 유튜브 브이로그와 인스타그램의 '신안 감성 숙소' 해시태그를 정밀 분석하여 도출한 최적의 숙박 리포트를 확인해 보세요.</p>
       
       <hr />
@@ -2477,13 +2477,13 @@ export const postsShinan = {
       </ul>
 
       <p className="text-neutral-500 text-sm mt-4">
-        <strong>글 작성자:</strong> 남도예술정원 AI 리서처<br/>
+        <strong>글 작성자:</strong> 남도예술정원 AI리서처<br/>
         #신안여행 #파인클라우드주변숙소 #자은도라마다 #신안감성숙소 #오션뷰호텔 #전남여행코스 #커플여행 #힐링스테이 #신안가족여행 #아이와함께신안 #파인클라우드코스 #씨원아일랜드 #자은도리조트 #암태도숙소 #신안호캉스 #남도예술정원 #신안가볼만한곳 #국내여행지추천
       </p>
     `,
     image: "/images/shinan-hotel-1.webp",
     date: "2026. 03. 19",
-    author: "남도예술정원 AI 리서처",
+    author: "남도예술정원 AI리서처",
     readTime: "4분",
     keywords: "신안여행, 파인클라우드주변숙소, 자은도라마다, 신안감성숙소, 오션뷰호텔, 전남여행코스, 커플여행, 힐링스테이, 신안가족여행, 아이와함께신안, 파인클라우드코스, 씨원아일랜드, 자은도리조트, 암태도숙소, 신안호캉스, 남도예술정원, 신안가볼만한곳, 국내여행지추천"
   },
@@ -2492,7 +2492,7 @@ export const postsShinan = {
     description: "유튜브 브이로그와 인스타그램 핫플레이스를 정밀 분석한 신안 감성 폭발 연계 코스 브리핑! 파인클라우드와 함께 방문했을 때 가장 만족도 높은 인생샷 명소를 소개합니다.",
     content: `
       <h2>[신안] 인생샷 성지 순례! 파인클라우드와 함께 가기 좋은 핫플레이스 BEST 3</h2>
-      <p>안녕하세요. 여행의 색채와 감성을 데이터로 수집하여 최적의 루트를 설계해 드리는 <strong>[남도예술정원 AI 리서처]</strong>입니다.</p>
+      <p>안녕하세요. 여행의 색채와 감성을 데이터로 수집하여 최적의 루트를 설계해 드리는 <strong>[남도예술정원 AI리서처]</strong>입니다.</p>
       <p>신안 파인클라우드의 웅장한 소나무와 폭포 소리로 마음의 위로를 받으셨나요? 여기까지 오셨다면 정원만 보고 돌아가기엔 너무나 아쉽습니다. 유튜브 브이로그와 인스타그램 핫플레이스 해시태그를 정밀 분석한 결과, 파인클라우드와 함께 방문했을 때 만족도가 가장 높았던 <strong>'감성 폭발 연계 코스'</strong>를 브리핑해 드립니다.</p>
       
       <hr />
@@ -2591,13 +2591,13 @@ export const postsShinan = {
       </ul>
 
       <p className="text-neutral-500 text-sm mt-4">
-        <strong>글 작성자:</strong> 남도예술정원 AI 리서처<br/>
+        <strong>글 작성자:</strong> 남도예술정원 AI리서처<br/>
         #신안여행코스 #파인클라우드 #퍼플섬 #신안핫플 #동백벽화 #무한의다리 #전남드라이브 #인생사진명소 #신안가볼만한곳 #감성여행 #커플여행 #남도예술정원 #신안관광가이드
       </p>
     `,
     image: "/images/shinan-hotplace-1.webp",
     date: "2026. 03. 19",
-    author: "남도예술정원 AI 리서처",
+    author: "남도예술정원 AI리서처",
     readTime: "4분",
     keywords: "신안여행코스, 파인클라우드, 퍼플섬, 신안핫플, 동백벽화, 무한의다리, 전남드라이브, 인생사진명소, 신안가볼만한곳, 감성여행, 커플여행, 남도예술정원, 신안관광가이드"
   },
@@ -2606,7 +2606,7 @@ export const postsShinan = {
     description: "신안군 압해읍에 위치한 1004섬 분재정원의 최신 시설 정보와 스마트한 이용 팁 총정리! 자연 학습과 힐링을 다 잡는 완벽한 가족 친화적 동선을 안내합니다.",
     content: `
       <h2>[신안] 아이와 가기 딱 좋은 '1004섬 분재정원' 완벽 가이드 (입장료 환급/주차/꿀팁)</h2>
-      <p>안녕하세요. 빅데이터를 기반으로 실패 없는 여행 동선을 설계해 드리는 <strong>[남도예술정원 AI 리서처]</strong>입니다.</p>
+      <p>안녕하세요. 빅데이터를 기반으로 실패 없는 여행 동선을 설계해 드리는 <strong>[남도예술정원 AI리서처]</strong>입니다.</p>
       <p>아이와의 여행은 이동 거리, 편의 시설, 예산까지 꼼꼼하게 따져야 하죠. 오늘은 신안군 압해읍에 위치한 1004섬 분재정원의 최신 시설 정보와 스마트한 이용 팁을 총정리해 드립니다. 자연 학습과 힐링을 동시에 잡을 수 있는 이번 여정, 지금 바로 시작합니다.</p>
       
       <hr />
@@ -2714,13 +2714,13 @@ export const postsShinan = {
       </ul>
 
       <p className="text-neutral-500 text-sm mt-4">
-        <strong>글 작성자:</strong> 남도예술정원 AI 리서처<br/>
+        <strong>글 작성자:</strong> 남도예술정원 AI리서처<br/>
         #신안여행 #1004섬분재정원 #아이와가볼만한곳 #신안가족여행 #전남여행코스 #육아여행 #스마트관광 #AI여행가이드 #신안가볼만한곳 #국내가족여행 #남도예술정원 #신안관광정보 #압해읍맛집 #애기동백축제
       </p>
     `,
     image: "/images/shinan-bunjae-1.webp",
     date: "2026. 03. 19",
-    author: "남도예술정원 AI 리서처",
+    author: "남도예술정원 AI리서처",
     readTime: "4분",
     keywords: "신안여행, 1004섬분재정원, 아이와가볼만한곳, 신안가족여행, 전남여행코스, 육아여행, 스마트관광, AI여행가이드, 신안가볼만한곳, 국내가족여행, 남도예술정원, 신안관광정보, 압해읍맛집, 애기동백축제"
   },
@@ -2733,7 +2733,7 @@ export const postsShinan = {
       <p>도시의 소음에서 벗어나 진정한 휴식을 갈망하시나요? 전라남도 신안의 보석, <strong>1004섬 분재정원(천사섬 분재정원)</strong>은 단순한 식물원을 넘어 자연과 예술이 합일된 거대한 수묵화입니다. 송공산 자락에서 다도해를 내려다보며 '살아있는 예술' 분재의 정수를 만끽할 수 있는 이곳의 모든 것을 정리해 드립니다.</p>
 
       <div style="border: 2px solid #2e7d32; padding: 20px; border-radius: 8px; background-color: #f1f8e9; margin: 25px 0;">
-        <strong style="color: #1b5e20; font-size: 1.1em;">🌿 [남도예술정원 AI 리서처의 추천 한마디]</strong><br><br>
+        <strong style="color: #1b5e20; font-size: 1.1em;">🌿 [남도예술정원 AI리서처의 추천 한마디]</strong><br><br>
         "수백 년의 시간을 견뎌낸 분재 한 그루는 그 자체로 하나의 우주입니다. 서두르지 말고 나무의 곡선과 바다의 수평선이 만나는 찰나의 평온을 꼭 경험해 보세요. 특히 겨울철 붉은 애기동백은 놓쳐선 안 될 예술적 절경입니다."
       </div>
       
@@ -2859,14 +2859,14 @@ export const postsShinan = {
       </ul>
 
       <p className="text-neutral-500 text-sm mt-4">
-        <strong>작성자:</strong> 남도예술정원 AI 리서처<br/>
+        <strong>작성자:</strong> 남도예술정원 AI리서처<br/>
         #신안여행 #1004섬분재정원 #전남미술관투어 #사색여행 #분재예술 #최병철분재기념관 #신안가볼만한곳 #AI여행리포트 #문화예술여행 #힐링여행 #애기동백축제 #신안일몰명소 #국내최대분재공원 #신안자전거길 #스탬프투어
       </p>
 
     `,
     image: "/images/shinan-bunjae-art2-1.webp",
     date: "2026. 03. 19",
-    author: "남도예술정원 AI 리서처",
+    author: "남도예술정원 AI리서처",
     readTime: "4분",
     keywords: "신안여행, 1004섬분재정원, 전남미술관투어, 사색여행, 분재예술, 최병철분재기념관, 신안가볼만한곳, AI여행리포트, 문화예술여행, 힐링여행"
   }
