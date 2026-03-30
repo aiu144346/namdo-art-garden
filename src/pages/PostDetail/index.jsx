@@ -33,20 +33,20 @@ export default function PostDetail() {
     return mapping[regionPrefix] || '/';
   }, [id]);
 
-  const handleShare = async () => {
-    if (navigator.share) {
-      try {
-        await navigator.share({
-          title: post.title.replace(/\\n/g, ' '),
-          text: post.description,
-          url: window.location.href
-        });
-      } catch (err) {
-        if (err.name !== 'AbortError') console.error('Share failed:', err);
-      }
+  const handleShare = async (platform) => {
+    const url = window.location.href;
+    const title = post.title.replace(/\\n/g, ' ');
+
+    if (platform === 'kakao') {
+      window.open(`https://story.kakao.com/share?url=${encodeURIComponent(url)}`, '_blank');
+    } else if (platform === 'naver') {
+      window.open(`https://share.naver.com/web/shareView.nhn?url=${encodeURIComponent(url)}&title=${encodeURIComponent(title)}`, '_blank');
+    } else if (platform === 'facebook') {
+      window.open(`https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(url)}`, '_blank');
     } else {
+      // Default: Copy to Clipboard
       try {
-        await navigator.clipboard.writeText(window.location.href);
+        await navigator.clipboard.writeText(url);
         setCopied(true);
         setTimeout(() => setCopied(false), 2000);
       } catch (err) {
@@ -151,15 +151,50 @@ export default function PostDetail() {
                 </div>
               </div>
 
-              <button 
-                onClick={handleShare}
-                className={`w-full flex items-center justify-center gap-2 border-2 py-3 rounded-xl font-medium transition-all duration-300 ${
-                  copied ? 'border-green-500 bg-green-50 text-green-600' : 'border-neutral-200 text-neutral-600 hover:border-primary hover:text-primary hover:bg-primary/5'
-                }`}
-              >
-                {copied ? <Check className="w-4 h-4" /> : <Share2 className="w-4 h-4" />}
-                {copied ? '링크 복사 완료!' : '포스트 공유하기'}
-              </button>
+              <div className="space-y-4">
+                <p className="text-sm font-bold text-neutral-900 px-1">포스트 공유하기</p>
+                <div className="flex items-center gap-3">
+                  <button 
+                    onClick={() => handleShare('naver')}
+                    title="네이버 블로그 공유"
+                    className="w-10 h-10 rounded-full bg-[#03C75A] flex items-center justify-center text-white hover:opacity-90 transition-all hover:scale-110 shadow-sm"
+                  >
+                    <span className="font-bold text-sm">N</span>
+                  </button>
+                  <button 
+                    onClick={() => handleShare('kakao')}
+                    title="카카오스토리 공유"
+                    className="w-10 h-10 rounded-full bg-[#FEE500] flex items-center justify-center text-[#3C1E1E] hover:opacity-90 transition-all hover:scale-110 shadow-sm"
+                  >
+                    <Share2 className="w-5 h-5 fill-current" />
+                  </button>
+                  <button 
+                    onClick={() => handleShare('facebook')}
+                    title="페이스북 공유"
+                    className="w-10 h-10 rounded-full bg-[#1877F2] flex items-center justify-center text-white hover:opacity-90 transition-all hover:scale-110 shadow-sm"
+                  >
+                    <svg className="w-5 h-5 fill-current" viewBox="0 0 24 24"><path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"/></svg>
+                  </button>
+                  <button 
+                    onClick={() => handleShare('copy')}
+                    title="링크 복사"
+                    className={`w-10 h-10 rounded-full flex items-center justify-center transition-all hover:scale-110 shadow-sm ${
+                      copied ? 'bg-green-500 text-white' : 'bg-neutral-800 text-white hover:bg-neutral-700'
+                    }`}
+                  >
+                    {copied ? <Check className="w-5 h-5" /> : <LinkIcon className="w-5 h-5" />}
+                  </button>
+                </div>
+                {copied && (
+                  <motion.p 
+                    initial={{ opacity: 0, y: -5 }}
+                    animate={{ opacity: 1, y: 0 }}
+                    className="text-xs text-green-600 font-medium px-1"
+                  >
+                    링크가 복사되었습니다!
+                  </motion.p>
+                )}
+              </div>
               
               <div className="bg-surface/50 p-6 rounded-2xl border border-neutral-100 shadow-sm relative overflow-hidden group">
                 <div className="absolute top-0 left-0 w-1 h-full bg-primary" />
