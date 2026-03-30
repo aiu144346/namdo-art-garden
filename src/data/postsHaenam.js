@@ -529,9 +529,7 @@ export const postsHaenam = {
         #해남문가든 #해남가볼만한곳 #전남민간정원 #해남카페 #정원산책 #해남아이와함께 #해남데이트 #오류제 #남도예술정원 #해남여행코스 #힐링여행지추천 #국내민간정원 #해남포토존 #인생샷성지 #해남드라이브 #남도여행
       </p>
 
-      <p className="mt-8 text-base text-neutral-600 font-semibold bg-gray-50 p-4 rounded-lg flex items-center justify-center border border-gray-200">
-        🔗 이 포스트 공유하기: <a href="http://localhost:5173/posts/h27-haenam-moongarden-part2" target="_blank" className="text-primary hover:underline ml-2">http://localhost:5173/posts/h27-haenam-moongarden-part2</a>
-      </p>
+      
     `,
     image: "/images/haenam-157.webp",
     date: "2026-03-22",
@@ -742,9 +740,7 @@ export const postsHaenam = {
         #문가든 #해남가볼만한곳 #해남카페 #전남민간정원 #해남여행코스 #힐링여행 #인생샷카페 #정원산책 #오류제 #해남데이트 #남도예술정원 #국내여행지추천 #해남힐링 #언택트여행 #민간정원14호 #해남포토존 #전남여행
       </p>
 
-      <p className="mt-8 text-base text-neutral-600 font-semibold bg-gray-50 p-4 rounded-lg flex items-center justify-center border border-gray-200">
-        🔗 이 포스트 공유하기: <a href="http://localhost:5173/posts/h26-haenam-moongarden-guide" target="_blank" className="text-primary hover:underline ml-2">http://localhost:5173/posts/h26-haenam-moongarden-guide</a>
-      </p>
+      
     `,
     image: "/images/haenam-151.webp",
     date: "2026-03-22",
@@ -1030,9 +1026,7 @@ export const postsHaenam = {
         #비원 #해남비원 #해남여행 #전남민간정원 #정원카페 #해남가볼만한곳 #사색여행 #구룡폭포 #비밀의숲 #치유여행 #인생샷명소 #다랑이논정원 #디지털디톡스 #가족나들이 #웰니스여행 #남도예술정원 #국내여행지추천 #플랜트테라피 #시네마틱로그
       </p>
 
-      <p className="mt-8 text-base text-neutral-600 font-semibold bg-gray-50 p-4 rounded-lg flex items-center justify-center border border-gray-200">
-        🔗 이 포스트 공유하기: <a href="http://localhost:5173/posts/h25-haenam-secret-garden" target="_blank" className="text-primary hover:underline ml-2">http://localhost:5173/posts/h25-haenam-secret-garden</a>
-      </p>
+      
     `,
     image: "/images/haenam-127.webp",
     date: "2026-03-22",
@@ -1214,9 +1208,7 @@ export const postsHaenam = {
         #두륜산길정원 #해남여행 #대흥사 #숲길산책 #남도예술정원 #해남가볼만한곳 #자연형정원 #치유여행 #인생샷명소 #걷기좋은길 #사색의시간 #전남여행추천 #국내다큐여행 #느림의미학 #녹차정원 #디지털디톡스 #반려견산책 #힐링워크
       </p>
 
-      <p className="mt-8 text-base text-neutral-600 font-semibold bg-gray-50 p-4 rounded-lg flex items-center justify-center border border-gray-200">
-        🔗 이 포스트 공유하기: <a href="http://localhost:5173/posts/h24-haenam-duryunsan-garden" target="_blank" className="text-primary hover:underline ml-2">http://localhost:5173/posts/h24-haenam-duryunsan-garden</a>
-      </p>
+      
     `,
     image: "/images/haenam-118.webp",
     date: "2026-03-22",
@@ -1444,9 +1436,7 @@ export const postsHaenam = {
         #4est수목원 #포레스트수목원 #해남여행 #전남수목원추천 #수국축제 #팜파스성지 #사계절정원 #해남가볼만한곳 #힐링산책 #남도예술정원 #인생샷명소 #국내로드무비 #비움의시간 #해남드라이브 #여름수국 #가을팜파스
       </p>
 
-      <p className="mt-8 text-base text-neutral-600 font-semibold bg-gray-50 p-4 rounded-lg flex items-center justify-center border border-gray-200">
-        🔗 이 포스트 공유하기: <a href="http://localhost:5173/posts/h23-haenam-4est-arboretum" target="_blank" className="text-primary hover:underline ml-2">http://localhost:5173/posts/h23-haenam-4est-arboretum</a>
-      </p>
+      
     `,
     image: "/images/haenam-110.webp",
     date: "2026-03-22",
@@ -1636,9 +1626,7 @@ export const postsHaenam = {
         #고산윤선도유적지 #녹우당 #오우가 #해남여행 #조선정원 #비움의미학 #느림의미학 #남도예술정원 #사색여행 #인생샷명소 #한국의미 #비자나무숲 #역사여행
       </p>
 
-      <p className="mt-8 text-base text-neutral-600 font-semibold bg-gray-50 p-4 rounded-lg flex items-center justify-center border border-gray-200">
-        🔗 이 포스트 공유하기: <a href="http://localhost:5173/posts/h22-haenam-gosan-bium" target="_blank" className="text-primary hover:underline ml-2">http://localhost:5173/posts/h22-haenam-gosan-bium</a>
-      </p>
+      
     `,
     image: "/images/haenam-106.webp",
     date: "2026-03-22",
@@ -1800,9 +1788,7 @@ export const postsHaenam = {
         #고산윤선도유적지 #녹우당 #해남여행 #사색의공간 #아이와가볼만한곳 #나홀로여행 #역사산책 #남도예술정원 #오우가 #비자나무숲 #해남가볼만한곳 #힐링여행
       </p>
 
-      <p className="mt-8 text-base text-neutral-600 font-semibold bg-gray-50 p-4 rounded-lg flex items-center justify-center border border-gray-200">
-        🔗 이 포스트 공유하기: <a href="http://localhost:5173/posts/h21-haenam-gosan-sasaek" target="_blank" className="text-primary hover:underline ml-2">http://localhost:5173/posts/h21-haenam-gosan-sasaek</a>
-      </p>
+      
     `,
     image: "/images/haenam-102.webp",
     date: "2026-03-22",
@@ -1979,9 +1965,7 @@ export const postsHaenam = {
         </p>
       </div>
 
-      <p className="mt-8 text-base text-neutral-600 font-semibold bg-gray-50 p-4 rounded-lg flex items-center justify-center border border-gray-200">
-        🔗 이 포스트 공유하기: <a href="http://localhost:5173/posts/h20-haenam-nogudang-ouga" target="_blank" className="text-primary hover:underline ml-2">http://localhost:5173/posts/h20-haenam-nogudang-ouga</a>
-      </p>
+      
     `,
     image: "/images/haenam-098.webp",
     date: "2026-03-22",
@@ -2152,9 +2136,7 @@ export const postsHaenam = {
         #고산윤선도유적지 #녹우당 #어부사시사 #해남여행 #역사산책 #조선선비 #남도예술정원 #비자나무숲 #해남가볼만한곳 #문학여행 #인생샷명소 #전남여행
       </p>
 
-      <p className="mt-8 text-base text-neutral-600 font-semibold bg-gray-50 p-4 rounded-lg flex items-center justify-center border border-gray-200">
-        🔗 이 포스트 공유하기: <a href="http://localhost:5173/posts/h19-haenam-gosan-eobusasisa" target="_blank" className="text-primary hover:underline ml-2">http://localhost:5173/posts/h19-haenam-gosan-eobusasisa</a>
-      </p>
+      
     `,
     image: "/images/haenam-094.webp",
     date: "2026-03-22",
@@ -2303,9 +2285,7 @@ export const postsHaenam = {
         #고산윤선도유적지 #녹우당 #해남여행 #비자나무숲 #해남가볼만한곳 #남도여행 #인생샷명소 #국내여행추천 #전통정원 #힐링여행 #해남맛집 #남도예술정원
       </p>
 
-      <p className="mt-8 text-base text-neutral-600 font-semibold bg-gray-50 p-4 rounded-lg flex items-center justify-center border border-gray-200">
-        🔗 이 포스트 공유하기: <a href="http://localhost:5173/posts/h18-haenam-gosan-yunseondo" target="_blank" className="text-primary hover:underline ml-2">http://localhost:5173/posts/h18-haenam-gosan-yunseondo</a>
-      </p>
+      
     `,
     image: "/images/haenam-092.webp",
     date: "2026-03-22",
@@ -2448,9 +2428,7 @@ export const postsHaenam = {
         #해남여행 #해남가볼만한곳 #고산윤선도유적지 #오우가정원 #녹우당 #해남카페 #연동커피로스터스 #해남맛집 #정든집 #가족여행추천 #아이와함께가볼만한곳 #커플데이트코스 #출사지추천 #스냅사진명소 #해남여행코스 #해남1박2일 #해남현지인맛집 #전남민간정원 #해남문화관광 #오우가 #어부사시사 #남도예술정원 #NamdoArtGarden #정원리서처 #정원큐레이터
       </p>
 
-      <p className="mt-8 text-base text-neutral-600 font-semibold bg-gray-50 p-4 rounded-lg flex items-center justify-center border border-gray-200">
-        🔗 이 포스트 공유하기: <a href="http://localhost:5173/posts/h17-haenam-gosan-ouga-garden" target="_blank" className="text-primary hover:underline ml-2">http://localhost:5173/posts/h17-haenam-gosan-ouga-garden</a>
-      </p>
+      
     `,
     image: "/images/haenam-087.webp",
     date: "2026-03-21",
@@ -2625,9 +2603,7 @@ export const postsHaenam = {
       <h2>🔍 SEO 최적화 태그 (SGE용)</h2>
       <p className="text-sm text-neutral-600 mt-4">#해남비원 #비밀의정원 #해남민간정원 #전남가볼만한곳 #구룡폭포 #다육이체험 #해남여행코스 #남도예술정원 #힐링여행</p>
 
-      <p className="mt-8 text-base text-neutral-600 font-semibold bg-gray-50 p-4 rounded-lg flex items-center justify-center border border-gray-200">
-        🔗 이 포스트 공유하기: <a href="http://localhost:5173/posts/h16-haenam-biwon-secret-garden" target="_blank" className="text-primary hover:underline ml-2">http://localhost:5173/posts/h16-haenam-biwon-secret-garden</a>
-      </p>
+      
     `,
     image: "/images/haenam-075.webp",
     date: "2026-03-21",
@@ -2801,9 +2777,7 @@ export const postsHaenam = {
         </p>
       </div>
 
-      <p className="mt-8 text-base text-neutral-600 font-semibold bg-gray-50 p-4 rounded-lg flex items-center justify-center border border-gray-200">
-        🔗 이 포스트 공유하기: <a href="http://localhost:5173/posts/h15-haenam-moongarden-family" target="_blank" className="text-primary hover:underline ml-2">http://localhost:5173/posts/h15-haenam-moongarden-family</a>
-      </p>
+      
     `,
     image: "/images/haenam-065.webp",
     date: "2026-03-21",
@@ -2973,9 +2947,7 @@ export const postsHaenam = {
         </p>
       </div>
 
-      <p className="mt-8 text-base text-neutral-600 font-semibold bg-gray-50 p-4 rounded-lg flex items-center justify-center border border-gray-200">
-        🔗 이 포스트 공유하기: <a href="http://localhost:5173/posts/h14-haenam-moongarden-healing-tour" target="_blank" className="text-primary hover:underline ml-2">http://localhost:5173/posts/h14-haenam-moongarden-healing-tour</a>
-      </p>
+      
     `,
     image: "/images/haenam-061.webp",
     date: "2026-03-21",
@@ -3159,9 +3131,7 @@ export const postsHaenam = {
         </p>
       </div>
 
-      <p className="mt-8 text-base text-neutral-600 font-semibold bg-gray-50 p-4 rounded-lg flex items-center justify-center border border-gray-200">
-        🔗 이 포스트 공유하기: <a href="http://localhost:5173/posts/h13-haenam-duryunsan-temple-tour" target="_blank" className="text-primary hover:underline ml-2">http://localhost:5173/posts/h13-haenam-duryunsan-temple-tour</a>
-      </p>
+      
     `,
     image: "/images/haenam-057.webp",
     date: "2026-03-21",
@@ -3334,9 +3304,7 @@ export const postsHaenam = {
         </p>
       </div>
 
-      <p className="mt-8 text-base text-neutral-600 font-semibold bg-gray-50 p-4 rounded-lg flex items-center justify-center border border-gray-200">
-        🔗 이 포스트 공유하기: <a href="http://localhost:5173/posts/h12-haenam-duryunsan-healing-course" target="_blank" className="text-primary hover:underline ml-2">http://localhost:5173/posts/h12-haenam-duryunsan-healing-course</a>
-      </p>
+      
     `,
     image: "/images/haenam-048.webp",
     date: "2026-03-21",
@@ -3497,9 +3465,7 @@ export const postsHaenam = {
         </p>
       </div>
 
-      <p className="mt-8 text-base text-neutral-600 font-semibold bg-gray-50 p-4 rounded-lg flex items-center justify-center border border-gray-200">
-        🔗 이 포스트 공유하기: <a href="http://localhost:5173/posts/h11-haenam-biwon-garden" target="_blank" className="text-primary hover:underline ml-2">http://localhost:5173/posts/h11-haenam-biwon-garden</a>
-      </p>
+      
     `,
     image: "/images/haenam-044.webp",
     date: "2026-03-21",
@@ -3660,9 +3626,7 @@ export const postsHaenam = {
         </p>
       </div>
 
-      <p className="mt-8 text-base text-neutral-600 font-semibold bg-gray-50 p-4 rounded-lg flex items-center justify-center border border-gray-200">
-        🔗 이 포스트 공유하기: <a href="http://localhost:5173/posts/h10-haenam-moongarden-cafe" target="_blank" className="text-primary hover:underline ml-2">http://localhost:5173/posts/h10-haenam-moongarden-cafe</a>
-      </p>
+      
     `,
     image: "/images/haenam-040.webp",
     date: "2026-03-21",
@@ -3823,9 +3787,7 @@ export const postsHaenam = {
         </p>
       </div>
 
-      <p className="mt-8 text-base text-neutral-600 font-semibold bg-gray-50 p-4 rounded-lg flex items-center justify-center border border-gray-200">
-        🔗 이 포스트 공유하기: <a href="http://localhost:5173/posts/h9-haenam-duryunsan-giljungwon" target="_blank" className="text-primary hover:underline ml-2">http://localhost:5173/posts/h9-haenam-duryunsan-giljungwon</a>
-      </p>
+      
     `,
     image: "/images/haenam-036.webp",
     date: "2026-03-21",
@@ -3985,9 +3947,7 @@ export const postsHaenam = {
         </p>
       </div>
 
-      <p className="mt-8 text-base text-neutral-600 font-semibold bg-gray-50 p-4 rounded-lg flex items-center justify-center border border-gray-200">
-        🔗 이 포스트 공유하기: <a href="http://localhost:5173/posts/h8-haenam-gosan-nogudang" target="_blank" className="text-primary hover:underline ml-2">http://localhost:5173/posts/h8-haenam-gosan-nogudang</a>
-      </p>
+      
     `,
     image: "/images/haenam-032.webp",
     date: "2026-03-21",
@@ -4149,9 +4109,7 @@ export const postsHaenam = {
         </p>
       </div>
       
-      <p className="mt-8 text-base text-neutral-600 font-semibold bg-gray-50 p-4 rounded-lg flex items-center justify-center border border-gray-200">
-        🔗 이 포스트 공유하기: <a href="http://localhost:5173/posts/h7-haenam-4est-arboretum" target="_blank" className="text-primary hover:underline ml-2">http://localhost:5173/posts/h7-haenam-4est-arboretum</a>
-      </p>
+      
     `,
     image: "/images/haenam-028.webp",
     date: "2026-03-21",

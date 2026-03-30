@@ -431,13 +431,7 @@ export const postsWando = {
           <p>• <strong>남도예술정원 공식 블로그 원문:</strong> <a href="https://blog.naver.com/namdoartgarden/223689552147" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline">블로그 포스트 바로가기</a></p>
         </div>
 
-        <div className="mt-16 bg-primary text-white p-8 rounded-3xl text-center">
-          <h4 className="text-xl font-bold mb-4">함께 떠나는 남도 예술 여행</h4>
-          <p className="mb-6 opacity-90">지금 이 특별한 가이드를 친구와 공유하고, 함께 완도의 푸른 숲으로 떠나보세요!</p>
-          <a href="http://localhost:5173/posts/w6-wando-stay" className="inline-block bg-white text-primary px-8 py-3 rounded-full font-bold hover:bg-neutral-100 transition-colors">
-            🔗 공유하기
-          </a>
-        </div>
+        
       </div>
     `
   },
@@ -564,13 +558,7 @@ export const postsWando = {
           </div>
         </div>
 
-        <div className="mt-16 bg-primary text-white p-8 rounded-3xl text-center">
-          <h4 className="text-xl font-bold mb-4">함께 떠나는 남도 예술 여행</h4>
-          <p className="mb-6 opacity-90">지금 이 특별한 가이드를 친구와 공유하고, 함께 완도의 푸른 숲으로 떠나보세요!</p>
-          <a href="http://localhost:5173/posts/w7-wando-wife-garden" className="inline-block bg-white text-primary px-8 py-3 rounded-full font-bold hover:bg-neutral-100 transition-colors">
-            🔗 공유하기
-          </a>
-        </div>
+        
       </div>
     `
   },
@@ -711,13 +699,7 @@ export const postsWando = {
           <p>• <strong>남도예술정원 공식 블로그:</strong> <a href="https://blog.naver.com/namdoartgarden/223689582200" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-medium">블로그 포스트 원본 확인</a></p>
         </div>
 
-        <div className="mt-16 bg-primary text-white p-8 rounded-3xl text-center">
-          <h4 className="text-xl font-bold mb-4">함께 떠나는 남도 예술 여행</h4>
-          <p className="mb-6 opacity-90">지금 이 특별한 가이드를 친구와 공유하고, 함께 완도의 푸른 숲으로 떠나보세요!</p>
-          <a href="http://localhost:5173/posts/w8-wando-wife-garden-kids" className="inline-block bg-white text-primary px-8 py-3 rounded-full font-bold hover:bg-neutral-100 transition-colors">
-            🔗 공유하기
-          </a>
-        </div>
+        
       </div>
     `
   },
@@ -862,13 +844,7 @@ export const postsWando = {
           <p>• <strong>남도예술정원 공식 블로그:</strong> <a href="https://blog.naver.com/namdoartgarden/223689612345" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-medium break-all underline-offset-4">포스트 원본 확인</a></p>
         </div>
 
-        <div className="mt-16 bg-primary text-white p-8 rounded-3xl text-center">
-          <h4 className="text-xl font-bold mb-4">함께 떠나는 남도 예술 여행</h4>
-          <p className="mb-6 opacity-90">지금 이 특별한 가이드를 친구와 공유하고, 함께 완도의 푸른 숲으로 떠나보세요!</p>
-          <a href="http://localhost:5173/posts/w9-wando-wife-garden-plus" className="inline-block bg-white text-primary px-8 py-3 rounded-full font-bold hover:bg-neutral-100 transition-colors">
-            🔗 공유하기
-          </a>
-        </div>
+        
       </div>
     `
   },
@@ -1012,13 +988,7 @@ export const postsWando = {
         <img src="/images/wando-039.webp" alt="완도타워 레이저 쇼 피날레" className="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
         <p className="text-center text-sm text-neutral-500 mt-2">(▲ 밤하늘을 수놓는 화려한 레이저 쇼와 함께하는 여행의 완벽한 마무리)</p>
 
-        <div className="mt-16 bg-primary text-white p-8 rounded-3xl text-center">
-          <h4 className="text-xl font-bold mb-4">함께 떠나는 남도 예술 여행</h4>
-          <p className="mb-6 opacity-90">지금 이 특별한 야경 가이드를 소중한 사람과 공유해 보세요!</p>
-          <a href="http://localhost:5173/posts/w10-wando-tower-night" className="inline-block bg-white text-primary px-8 py-3 rounded-full font-bold hover:bg-neutral-100 transition-colors">
-            🔗 공유하기
-          </a>
-        </div>
+        
       </div>
     `
   },
@@ -1134,23 +1104,7 @@ export const postsWando = {
         </div>
 
         <h2 className="text-3xl font-serif font-bold text-neutral-900 border-b pb-4 mt-16 mb-8">🌙 효도 여행 완성! 이벤트 시나리오</h2>
-        <div className="bg-primary/5 border border-primary/10 p-10 rounded-3xl space-y-6">
-          <h4 className="text-2xl font-serif font-bold text-primary">"부모님의 미소를 되찾아드리는 반나절 코스"</h4>
-          <div className="space-y-4 text-neutral-700 leading-relaxed">
-            <p><strong>1. 14:00 - 모노레일 탑승:</strong> "엄마, 저기 아래 우리 주차한 데 보여요?"라며 창밖 풍경으로 대화의 물꼬를 트세요.</p>
-            <p><strong>2. 14:30 - 소정원 느리게 걷기:</strong> 꽃비정원에서 부모님의 가장 행복한 순간을 인생샷으로 남겨보세요.</p>
-            <p><strong>3. 15:30 - 타워 카페 쉼표:</strong> 다도해를 보며 시원한 차 한 잔과 함께 도란도란 담소를 나눠보세요.</p>
-            <p><strong>4. 17:00 - 저녁 식사:</strong> 차로 5분 거리인 '완도 전복거리'에서 전복 코스 요리로 부모님의 기를 살려주세요!</p>
-          </div>
-        </div>
-
-        <div className="mt-16 bg-primary text-white p-8 rounded-3xl text-center shadow-xl">
-          <h4 className="text-xl font-bold mb-4">함께 떠나는 남도 예술 여행</h4>
-          <p className="mb-6 opacity-90">지금 이 효도 여행 정보를 가족 단톡방에 공유해 보세요!</p>
-          <a href="http://localhost:5173/posts/w11-wando-tower-elderly" className="inline-block bg-white text-primary px-8 py-3 rounded-full font-bold hover:bg-neutral-100 transition-colors">
-            🔗 공유하기
-          </a>
-        </div>
+        
       </div>
     `
   },
@@ -1296,13 +1250,7 @@ export const postsWando = {
           #완도맛집 #완도어반 #개성순두부 #달스윗 #장보고빵 #카페완도리 #완도타워맛집 #완도현지인맛집 #완도여행코스 #남도예술정원 #완도디저트
         </div>
 
-        <div className="mt-16 bg-primary text-white p-8 rounded-3xl text-center">
-          <h4 className="text-xl font-bold mb-4">함께 떠나는 남도 예술 여행</h4>
-          <p className="mb-6 opacity-90">지금 이 맛있는 가이드를 친구와 공유하고 완도 미식 투어를 계획해 보세요!</p>
-          <a href="http://localhost:5173/posts/w12-wando-food-report" className="inline-block bg-white text-primary px-8 py-3 rounded-full font-bold hover:bg-neutral-100 transition-colors">
-            🔗 공유하기
-          </a>
-        </div>
+        
       </div>
     `
   },
@@ -1426,13 +1374,7 @@ export const postsWando = {
           #완도숙소 #완도타워숙소 #파크힐컴포트호텔 #완도네시아 #완도게스트하우스 #완도일출산책 #완도가성비숙소 #완도오션뷰호텔 #완도여행코스 #남도예술정원 #완도체험여행
         </div>
 
-        <div className="mt-16 bg-primary text-white p-8 rounded-3xl text-center">
-          <h4 className="text-xl font-bold mb-4">함께 떠나는 남도 예술 여행</h4>
-          <p className="mb-6 opacity-90">지금 이 유용한 숙소 정보를 공유하고 완도에서의 하룻밤을 계획해 보세요!</p>
-          <a href="http://localhost:5173/posts/w13-wando-stay-tower" className="inline-block bg-white text-primary px-8 py-3 rounded-full font-bold hover:bg-neutral-100 transition-colors">
-            🔗 공유하기
-          </a>
-        </div>
+        
       </div>
     `
   },
@@ -1549,13 +1491,7 @@ export const postsWando = {
           #완도여행 #바하정원 #바하펜션 #완도가볼만한곳 #전남예쁜정원 #정도리구계등 #완도카페 #완도숙소추천 #힐링여행 #민간정원 #남도예술정원
         </div>
 
-        <div className="mt-16 bg-primary text-white p-8 rounded-3xl text-center">
-          <h4 className="text-xl font-bold mb-4">함께 떠나는 남도 예술 여행</h4>
-          <p className="mb-6 opacity-90">전남에서 가장 예쁜 정원 중 하나인 바하정원의 힐링을 친구와 공유해 보세요!</p>
-          <a href="http://localhost:5173/posts/w14-wando-baha-garden" className="inline-block bg-white text-primary px-8 py-3 rounded-full font-bold hover:bg-neutral-100 transition-colors">
-            🔗 공유하기
-          </a>
-        </div>
+        
       </div>
     `
   },
@@ -1626,27 +1562,7 @@ export const postsWando = {
           </div>
         </div>
 
-        <div className="bg-primary text-white p-12 rounded-3xl text-center space-y-6">
-          <h4 className="text-2xl font-bold">완벽한 디지털 디톡스 도전</h4>
-          <p className="opacity-90 max-w-xl mx-auto">완도 바하정원에서 30분간 스마트폰을 끄고 비단잉어를 관찰해 보세요. 뇌에 주는 진정한 휴식이 당신을 기다립니다.</p>
-          <div className="flex flex-wrap justify-center gap-6 pt-4">
-            <span className="text-xs border border-white/30 px-4 py-1.5 rounded-full">#디지털디톡스</span>
-            <span className="text-xs border border-white/30 px-4 py-1.5 rounded-full">#에리히프롬</span>
-            <span className="text-xs border border-white/30 px-4 py-1.5 rounded-full">#멍때리기</span>
-          </div>
-        </div>
-
-        <div className="text-neutral-500 text-sm leading-loose mb-12">
-          #완도여행 #바하정원 #바하펜션 #에리히프롬 #소유냐존재냐 #멍때리기 #완도명상 #전남민간정원 #구계등 #힐링여행코스 #남도예술정원 #디지털디톡스
-        </div>
-
-        <div className="mt-16 bg-primary text-white p-8 rounded-3xl text-center">
-          <h4 className="text-xl font-bold mb-4">함께 떠나는 남도 예술 여행</h4>
-          <p className="mb-6 opacity-90">지친 일상에 쉼표가 필요한 친구에게 이 명상 가이드를 공유해 보세요!</p>
-          <a href="http://localhost:5173/posts/w15-wando-baha-meditation" className="inline-block bg-white text-primary px-8 py-3 rounded-full font-bold hover:bg-neutral-100 transition-colors">
-            🔗 공유하기
-          </a>
-        </div>
+        
       </div>
     `
   },
@@ -1762,13 +1678,7 @@ export const postsWando = {
           #완도여행 #바하정원 #바하펜션 #에리히프롬 #소유냐존재냐 #완도멍때리기 #명상여행 #민간정원 #구계등 #남도예술정원 #철학여행 #완도가볼만한곳
         </div>
 
-        <div className="mt-16 bg-primary text-white p-8 rounded-3xl text-center">
-          <h4 className="text-xl font-bold mb-4">함께 떠나는 남도 예술 여행</h4>
-          <p className="mb-6 opacity-90">2,000일의 정성이 깃든 바하정원의 치유 서사를 지인들과 공유해 보세요!</p>
-          <a href="http://localhost:5173/posts/w16-wando-baha-story" className="inline-block bg-white text-primary px-8 py-3 rounded-full font-bold hover:bg-neutral-100 transition-colors">
-            🔗 공유하기
-          </a>
-        </div>
+        
       </div>
     `
   },
@@ -1887,13 +1797,7 @@ export const postsWando = {
           #완도여행 #바하정원 #바하펜션 #완도가볼만한곳 #완도가는법 #완도KTX #완도버스시간표 #서해안고속도로휴게소 #남해고속도로휴게소 #드라이브코스 #남도예술정원
         </div>
 
-        <div className="mt-16 bg-primary text-white p-8 rounded-3xl text-center">
-          <h4 className="text-xl font-bold mb-4">함께 떠나는 남도 예술 여행</h4>
-          <p className="mb-6 opacity-90">완도 바하정원으로 향하는 최적의 경로를 친구들과 공유해 보세요!</p>
-          <a href="http://localhost:5173/posts/w17-wando-baha-access" className="inline-block bg-white text-primary px-8 py-3 rounded-full font-bold hover:bg-neutral-100 transition-colors">
-            🔗 공유하기
-          </a>
-        </div>
+        
       </div>
     `
   },
@@ -2007,13 +1911,7 @@ export const postsWando = {
           #완도여행 #완도타워 #완도모노레일 #완도해양치유센터 #바하정원 #완도핫플 #걷기싫은사람모여라 #전남무장애여행 #완도야경 #남도예술정원 #완도관광택시
         </div>
 
-        <div className="mt-16 bg-primary text-white p-8 rounded-3xl text-center">
-          <h4 className="text-xl font-bold mb-4">함께 떠나는 남도 예술 여행</h4>
-          <p className="mb-6 opacity-90">다리 아픈 여행 대신 편안한 힐링 코스를 친구들에게 공유해 보세요!</p>
-          <a href="http://localhost:5173/posts/w18-wando-lazy-healing" className="inline-block bg-white text-primary px-8 py-3 rounded-full font-bold hover:bg-neutral-100 transition-colors">
-            🔗 공유하기
-          </a>
-        </div>
+        
       </div>
     `
   },
@@ -2125,13 +2023,7 @@ export const postsWando = {
           #완도여행 #장도청해진유적지 #장보고기념관 #아내의정원 #완도가볼만한곳 #타임슬립여행 #전남산책로 #해상왕장보고 #완도데이트 #남도예술정원 #힐링기행
         </div>
 
-        <div className="mt-16 bg-primary text-white p-8 rounded-3xl text-center">
-          <h4 className="text-xl font-bold mb-4">함께 떠나는 남도 예술 여행</h4>
-          <p className="mb-6 opacity-90">천 년 전 해상 왕국의 기개를 느낄 수 있는 장도의 평화를 지인들과 공유해 보세요!</p>
-          <a href="http://localhost:5173/posts/w19-wando-time-travel-jangdo" className="inline-block bg-white text-primary px-8 py-3 rounded-full font-bold hover:bg-neutral-100 transition-colors">
-            🔗 공유하기
-          </a>
-        </div>
+        
       </div>
     `
   }

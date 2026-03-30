@@ -5,6 +5,8 @@ import { ArrowLeft, ArrowRight, Clock, Share2, MapPin, Check } from 'lucide-reac
 import SEO from '../../components/SEO';
 import POST_DATA from '../../data/postsData';
 
+import PostSharing from '../../components/PostSharing';
+
 export default function PostDetail() {
   const { id } = useParams();
   const post = POST_DATA[id];
@@ -123,6 +125,8 @@ export default function PostDetail() {
               className="prose prose-lg md:prose-xl prose-neutral max-w-none text-neutral-800"
               dangerouslySetInnerHTML={{ __html: post.content }}
             />
+
+            <PostSharing />
 
             <div className="mt-16 pt-8 border-t border-neutral-200">
                <div className="flex flex-wrap items-center gap-2 mb-8">

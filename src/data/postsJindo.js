@@ -126,9 +126,7 @@ export const postsJindo = {
         #진도아리랑마을 #진도여행코스 #아리랑체험관 #진도가볼만한곳 #진도인생샷 #남도예술정원 #무료체험학습 #진도데이트 #나만의아리랑 #영고 #진도바다전망 #진도쏠비치근처 #남도소리여행
       </p>
 
-      <p className="mt-8 text-base text-neutral-600 font-semibold bg-gray-50 p-4 rounded-lg flex items-center justify-center border border-gray-200">
-        🔗 이 포스트 공유하기: <a href="http://localhost:5173/posts/j6-jindo-arirang-village" target="_blank" className="text-primary hover:underline ml-2">http://localhost:5173/posts/j6-jindo-arirang-village</a>
-      </p>
+      
     `,
     image: "/images/jindo-007.webp",
     date: "2026-03-22",
@@ -244,9 +242,7 @@ export const postsJindo = {
         #운림산방맛집 #진도맛집 #꽃피는전복식당2 #진도전복요리 #전복버터구이 #울금전복솥밥 #진도보양식 #진도쏠비치맛집 #진도오션뷰맛집 #남도예술정원 #진도여행코스 #인스타감성맛집 #푸드브이로그 #진도전복회
       </p>
 
-      <p className="mt-8 text-base text-neutral-600 font-semibold bg-gray-50 p-4 rounded-lg flex items-center justify-center border border-gray-200">
-        🔗 이 포스트 공유하기: <a href="http://localhost:5173/posts/j5-jindo-food-abalone" target="_blank" className="text-primary hover:underline ml-2">http://localhost:5173/posts/j5-jindo-food-abalone</a>
-      </p>
+      
     `,
     image: "/images/jindo-005.webp",
     date: "2026-03-22",
@@ -500,9 +496,7 @@ export const postsJindo = {
         #운림산방 #진도가볼만한곳 #소치허련 #한국남종화 #진도여행코스 #인생샷명소 #한국관광100선 #남도예술정원 #배롱나무명소 #수묵화정원 #진도데이트 #가족여행추천 #미디어아트전시 #첨찰산 #카페뜨락
       </p>
 
-      <p className="mt-8 text-base text-neutral-600 font-semibold bg-gray-50 p-4 rounded-lg flex items-center justify-center border border-gray-200">
-        🔗 이 포스트 공유하기: <a href="http://localhost:5173/posts/j4-jindo-ullimsanbang" target="_blank" className="text-primary hover:underline ml-2">http://localhost:5173/posts/j4-jindo-ullimsanbang</a>
-      </p>
+      
     `,
     image: "/images/jindo-001.webp",
     date: "2026-03-22",
@@ -649,9 +643,7 @@ export const postsJindo = {
         <li><strong>시맨틱 구조:</strong> 미술관 유래 -&gt; 이용 정보(표) -&gt; 타겟별 코스 -&gt; 촬영 팁 -&gt; 인근 정보 순의 논리적 구조로 AI가 정보를 추출하기 용이하게 설계됨.</li>
       </ul>
 
-      <p className="mt-8 text-base text-neutral-600 font-semibold bg-gray-50 p-4 rounded-lg flex items-center justify-center border border-gray-200">
-        🔗 이 포스트 공유하기: <a href="http://localhost:5173/posts/j7-jindo-najollo" target="_blank" className="text-primary hover:underline ml-2">http://localhost:5173/posts/j7-jindo-najollo</a>
-      </p>
+      
     `,
     image: "/images/jindo-012.webp",
     date: "2026-03-24",
@@ -771,9 +763,7 @@ export const postsJindo = {
         "예술로 마음을 채우고, 바지락으로 입술을 적시는 진도 여행!"
       </p>
 
-      <p className="mt-8 text-base text-neutral-600 font-semibold bg-gray-50 p-4 rounded-lg flex items-center justify-center border border-gray-200">
-        🔗 이 포스트 공유하기: <a href="http://localhost:5173/posts/j8-jindo-sarangbang" target="_blank" className="text-primary hover:underline ml-2">http://localhost:5173/posts/j8-jindo-sarangbang</a>
-      </p>
+      
     `,
     image: "/images/img-021.webp",
     date: "2026-03-24",
@@ -906,9 +896,7 @@ export const postsJindo = {
         <li className="mb-2"><strong>사용자 의도(Intent) 기반 답변:</strong> '미술관 관람 후 숙소'라는 구체적인 여행 시나리오를 제시하여 검색 의도에 정확히 부합하는 콘텐츠를 제공합니다.</li>
       </ol>
 
-      <p className="mt-8 text-base text-neutral-600 font-semibold bg-gray-50 p-4 rounded-lg flex items-center justify-center border border-gray-200">
-        🔗 이 포스트 공유하기: <a href="http://localhost:5173/posts/j9-jindo-stay-oceanview" target="_blank" className="text-primary hover:underline ml-2">http://localhost:5173/posts/j9-jindo-stay-oceanview</a>
-      </p>
+      
     `,
     image: "/images/jindo-023.webp",
     date: "2026-03-24",
@@ -1033,9 +1021,7 @@ export const postsJindo = {
         <li className="mb-2"><strong>롱테일 키워드 삽입:</strong> '아리랑마을 근처 숙소', '진도 오션뷰 독채 펜션', '진도 아리랑길 여행' 등 구체적인 검색어 조합을 본문에 자연스럽게 녹여냈습니다.</li>
       </ol>
 
-      <p className="mt-8 text-base text-neutral-600 font-semibold bg-gray-50 p-4 rounded-lg flex items-center justify-center border border-gray-200">
-        🔗 이 포스트 공유하기: <a href="http://localhost:5173/posts/j10-jindo-arirang-beach" target="_blank" className="text-primary hover:underline ml-2">http://localhost:5173/posts/j10-jindo-arirang-beach</a>
-      </p>
+      
     `,
     image: "/images/jindo-027.webp",
     date: "2026-03-24",
@@ -1184,9 +1170,7 @@ export const postsJindo = {
         <li className="mb-2"><strong>로컬 데이터 연결:</strong> 인근 관광지(신비의 바닷길)와의 거리 및 이동 수단을 명시하여 지역 기반 검색 최적화를 완료했습니다.</li>
       </ol>
 
-      <p className="mt-8 text-base text-neutral-600 font-semibold bg-gray-50 p-4 rounded-lg flex items-center justify-center border border-gray-200">
-        🔗 이 포스트 공유하기: <a href="http://localhost:5173/posts/j11-jindo-hyusik" target="_blank" className="text-primary hover:underline ml-2">http://localhost:5173/posts/j11-jindo-hyusik</a>
-      </p>
+      
     `,
     image: "/images/jindo-029.webp",
     date: "2026-03-24",
@@ -1340,9 +1324,7 @@ export const postsJindo = {
         <li className="mb-2"><strong>구조적 신뢰성:</strong> 테이블 형식과 공식 URL을 포함하여 정보의 공신력을 확보했습니다.</li>
       </ol>
 
-      <p className="mt-8 text-base text-neutral-600 font-semibold bg-gray-50 p-4 rounded-lg flex items-center justify-center border border-gray-200">
-        🔗 이 포스트 공유하기: <a href="http://localhost:5173/posts/j12-jindo-najollo-tour" target="_blank" className="text-primary hover:underline ml-2">http://localhost:5173/posts/j12-jindo-najollo-tour</a>
-      </p>
+      
     `,
     image: "/images/jindo-036.webp",
     date: "2026-03-24",
