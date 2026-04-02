@@ -1,4 +1,26 @@
+# https://www.robotstxt.org/robotstxt.html
 User-agent: *
 Allow: /
+Disallow: /admin/
+Disallow: /api/
 
+# Sitemaps
 Sitemap: https://namdoartgarden.com/sitemap.xml
+
+# Naver Search Advisor
+User-agent: Yeti
+Allow: /
+
+# Googlebot
+User-agent: Googlebot
+Allow: /
+
+# Generative AI Crawlers (Allowing for search richness)
+User-agent: GPTBot
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
