@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { motion, AnimatePresence, useScroll, useTransform, useMotionValue, useSpring } from 'framer-motion';
-import { Search, MapPin, ArrowRight, Compass, Coffee, ChevronRight, PlayCircle } from 'lucide-react';
+import { Search, MapPin, ArrowRight, Compass, Coffee, ChevronRight, PlayCircle, Newspaper, Bell, ExternalLink } from 'lucide-react';
 import { Link } from 'react-router-dom';
 import { cn } from '../../lib/utils';
 import SEO from '../../components/SEO';
@@ -22,6 +22,38 @@ const HERO_IMAGES = [
   { src: '/images/main-intro-15.webp', name: '진도휴식' },
   { src: '/images/main-intro-16.webp', name: '파인클라우드' },
   { src: '/images/main-intro-17.webp', name: '포레스트 수목원' }
+];
+
+const NOTICES = [
+  {
+    id: 1,
+    title: "남도예술정원 관광콘텐츠 크리에이터 공모 안내",
+    date: "2026.06.16",
+    desc: "남도예술정원의 숨겨진 매력을 발굴하고 트렌디한 관광콘텐츠로 풀어낼 크리에이터를 모집합니다.",
+    link: "https://www.newswire.co.kr/newsRead.php?no=1036697",
+    isExternal: true
+  }
+];
+
+const PRESS_RELEASE = [
+  {
+    id: 1,
+    title: "남도예술정원, 관광콘텐츠 크리에이터 공모전 개최",
+    date: "2026.06.16",
+    desc: "남부권 공동진흥사업 소도시 여행권역 육성사업의 일환으로, 2권역 정원 활성화를 위한 크리에이터 10팀을 선발합니다.",
+    thumbnail: "/images/creator_contest.jpg",
+    link: "https://www.newswire.co.kr/newsRead.php?no=1036697",
+    source: "뉴스와이어"
+  },
+  {
+    id: 2,
+    title: "남도예술정원 관광 콘텐츠 크리에이터 공모 공고",
+    date: "2026.06.16",
+    desc: "문화체육관광부와 전라남도, (재)전라남도관광재단에서는 남부권 광역관광 공동진흥사업으로 소도시 여행권역 육성사업을 추진하고 있습니다. 남도예술정원의 숨겨진 매력을 발굴하고 트렌디한 관광콘텐츠로 풀어낼 크리에이터를 모집합니다.",
+    thumbnail: "/images/creator_contest_ijnto.jpg",
+    link: "https://ijnto.or.kr/plaza/notice/read/562",
+    source: "전남관광재단"
+  }
 ];
 
 // Generative AI 최적화를 위한 Schema(JSON-LD) 데이터 설계
@@ -129,6 +161,7 @@ function TiltCard({ garden, idx }) {
 
 export default function Home() {
   const [currentBg, setCurrentBg] = useState(0);
+  const [activeTab, setActiveTab] = useState('notice');
   const { scrollY } = useScroll();
   const y1 = useTransform(scrollY, [0, 1000], [0, 200]);
   const opacity1 = useTransform(scrollY, [0, 500], [1, 0]);
@@ -307,7 +340,137 @@ export default function Home() {
         </div>
       </section>
 
+      {/* News & Notice Section */}
+      <section className="py-24 bg-neutral-50 px-6 relative overflow-hidden">
+        <div className="absolute inset-0 bg-[radial-gradient(circle_at_bottom_left,rgba(var(--color-primary),0.03),transparent_40%)]" />
+        <div className="max-w-7xl mx-auto relative z-10">
+          <div className="text-center mb-16">
+            <span className="text-primary font-bold tracking-[0.3em] uppercase text-xs mb-3 block">Latest Updates</span>
+            <h2 className="text-3xl md:text-5xl font-serif text-neutral-900 font-bold mb-4">남도 소식 & 공지</h2>
+            <p className="text-neutral-500 font-light max-w-xl mx-auto text-sm md:text-base">
+              남도예술정원의 새로운 이벤트 소식과 보도 자료를 가장 먼저 만나보세요.
+            </p>
+          </div>
 
+          {/* Interactive Tabs */}
+          <div className="flex justify-center mb-12">
+            <div className="relative flex p-1.5 bg-neutral-200/50 backdrop-blur-md rounded-full border border-neutral-300/30">
+              <button
+                onClick={() => setActiveTab('notice')}
+                className={`relative z-10 px-8 py-3 rounded-full text-xs font-bold uppercase tracking-widest transition-colors duration-300 flex items-center gap-2 ${
+                  activeTab === 'notice' ? 'text-white' : 'text-neutral-600 hover:text-neutral-900'
+                }`}
+              >
+                <Bell className="w-3.5 h-3.5" />
+                공지사항
+              </button>
+              <button
+                onClick={() => setActiveTab('press')}
+                className={`relative z-10 px-8 py-3 rounded-full text-xs font-bold uppercase tracking-widest transition-colors duration-300 flex items-center gap-2 ${
+                  activeTab === 'press' ? 'text-white' : 'text-neutral-600 hover:text-neutral-900'
+                }`}
+              >
+                <Newspaper className="w-3.5 h-3.5" />
+                언론보도
+              </button>
+              {/* Sliding Highlight Background */}
+              <motion.div
+                className="absolute inset-y-1.5 left-1.5 rounded-full bg-neutral-900 shadow-lg"
+                layoutId="activeTabBg"
+                transition={{ type: "spring", stiffness: 380, damping: 30 }}
+                style={{
+                  width: "calc(50% - 12px)",
+                  transform: activeTab === 'press' ? 'translateX(100%)' : 'none',
+                }}
+              />
+            </div>
+          </div>
+
+          {/* Tab Content Panels */}
+          <div className="max-w-4xl mx-auto min-h-[400px]">
+            <AnimatePresence mode="wait">
+              {activeTab === 'notice' && (
+                <motion.div
+                  key="notice"
+                  initial={{ opacity: 0, y: 15 }}
+                  animate={{ opacity: 1, y: 0 }}
+                  exit={{ opacity: 0, y: -15 }}
+                  transition={{ duration: 0.4 }}
+                  className="space-y-4"
+                >
+                  {NOTICES.map((item) => (
+                    <a
+                      key={item.id}
+                      href={item.link}
+                      target={item.isExternal ? "_blank" : undefined}
+                      rel={item.isExternal ? "noopener noreferrer" : undefined}
+                      className="group flex flex-col md:flex-row md:items-center justify-between p-6 md:p-8 rounded-3xl bg-white/70 hover:bg-white backdrop-blur-md border border-neutral-200/50 hover:border-primary/30 shadow-sm hover:shadow-xl transition-all duration-500 cursor-pointer"
+                    >
+                      <div className="space-y-2 max-w-2xl">
+                        <span className="text-[10px] font-bold text-primary tracking-widest uppercase bg-primary/10 px-3 py-1 rounded-full">Notice</span>
+                        <h3 className="text-lg md:text-xl font-bold text-neutral-900 group-hover:text-primary transition-colors flex items-center gap-2">
+                          {item.title}
+                          {item.isExternal && <ExternalLink className="w-4 h-4 text-neutral-400" />}
+                        </h3>
+                        <p className="text-neutral-500 font-light text-sm line-clamp-2">{item.desc}</p>
+                      </div>
+                      <div className="mt-4 md:mt-0 text-right flex items-center md:flex-col justify-between md:justify-center border-t md:border-t-0 pt-4 md:pt-0 border-neutral-100">
+                        <span className="text-xs font-bold text-neutral-400 tracking-wider font-mono">{item.date}</span>
+                        <span className="text-[10px] font-bold text-neutral-900 group-hover:text-primary transition-colors tracking-widest uppercase md:mt-2 block group-hover:translate-x-1 duration-300">Read More &rarr;</span>
+                      </div>
+                    </a>
+                  ))}
+                </motion.div>
+              )}
+
+              {activeTab === 'press' && (
+                <motion.div
+                  key="press"
+                  initial={{ opacity: 0, y: 15 }}
+                  animate={{ opacity: 1, y: 0 }}
+                  exit={{ opacity: 0, y: -15 }}
+                  transition={{ duration: 0.4 }}
+                  className="grid grid-cols-1 md:grid-cols-3 gap-6"
+                >
+                  {PRESS_RELEASE.map((item) => (
+                    <a
+                      key={item.id}
+                      href={item.link}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="group flex flex-col rounded-3xl overflow-hidden bg-white border border-neutral-200/50 hover:border-primary/30 shadow-sm hover:shadow-xl transition-all duration-500 cursor-pointer h-full"
+                    >
+                      <div className="relative aspect-[4/3] w-full overflow-hidden bg-neutral-100">
+                        <img
+                          src={item.thumbnail}
+                          alt={item.title}
+                          className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700"
+                        />
+                        <div className="absolute top-4 left-4 bg-neutral-950/80 backdrop-blur-sm px-3 py-1 rounded-full text-[10px] font-bold text-white tracking-widest uppercase">
+                          {item.source}
+                        </div>
+                      </div>
+                      <div className="p-6 flex flex-col flex-grow justify-between space-y-4">
+                        <div className="space-y-2">
+                          <span className="text-[10px] font-bold text-neutral-400 tracking-wider font-mono block">{item.date}</span>
+                          <h3 className="text-base md:text-lg font-serif font-bold text-neutral-900 group-hover:text-primary transition-colors leading-snug line-clamp-2">
+                            {item.title}
+                          </h3>
+                          <p className="text-neutral-500 font-light text-xs line-clamp-3 leading-relaxed">{item.desc}</p>
+                        </div>
+                        <div className="pt-2 border-t border-neutral-100 flex items-center justify-between text-[10px] font-bold tracking-widest text-neutral-900 group-hover:text-primary transition-colors uppercase">
+                          <span>기사 원문 보기</span>
+                          <ExternalLink className="w-3.5 h-3.5 group-hover:translate-x-0.5 transition-transform" />
+                        </div>
+                      </div>
+                    </a>
+                  ))}
+                </motion.div>
+              )}
+            </AnimatePresence>
+          </div>
+        </div>
+      </section>
 
       {/* Explore Regions (Large Type & Hover Cards) */}
       <section id="regions" className="py-24 bg-surface/30 px-6">

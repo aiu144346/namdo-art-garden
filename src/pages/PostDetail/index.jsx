@@ -69,7 +69,7 @@ export default function PostDetail() {
   return (
     <div className="min-h-screen bg-neutral-50 pb-24">
       <SEO 
-        title={`${post.title.replace(/<[^>]*>?/gm, '').split('\n')[0]} | 남도예술정`}
+        title={`${post.title.replace(/<[^>]*>?/gm, '').split('\n')[0]} | 남도예술정원`}
         description={post.description}
         keywords={post.keywords}
         image={post.image}

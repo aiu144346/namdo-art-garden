@@ -17,8 +17,8 @@ export default {
         muted: '#A9A9A9',
       },
       fontFamily: {
-        serif: ['"Nanum Myeongjo"', 'serif'],
-        sans: ['"Inter"', 'sans-serif'],
+        serif: ['"Noto Serif KR"', '"Nanum Myeongjo"', 'serif'],
+        sans: ['"Pretendard"', '"Inter"', '"Noto Sans KR"', 'sans-serif'],
       },
       animation: {
         'slow-zoom': 'slow-zoom 20s ease-in-out infinite alternate',

@@ -74,10 +74,10 @@ export default function Header() {
                   key={link.to}
                   to={link.to}
                   className={cn(
-                    "relative px-4 py-1.5 rounded-full text-[13px] font-bold tracking-tight transition-all z-10",
+                    "relative px-4 py-1.5 rounded-full text-[15px] font-[900] tracking-tight transition-all z-10",
                     isActive 
                       ? "text-white drop-shadow-sm" 
-                      : "text-neutral-500 hover:text-neutral-900"
+                      : "text-neutral-600 hover:text-neutral-900"
                   )}
                 >
                   {isActive && (
@@ -130,11 +130,11 @@ function NavItem({ to, label, en, current }) {
           <div className="flex flex-col items-center justify-center relative">
             {/* English Label (Top Layer - Animated) */}
             <motion.span 
-              className="text-[10px] uppercase tracking-[0.2em] font-medium absolute -top-5 whitespace-nowrap"
+              className="text-[12px] uppercase tracking-[0.2em] font-bold absolute -top-6 whitespace-nowrap"
               initial={{ opacity: 0, y: 5 }}
               animate={{ 
                 y: isHovered ? 0 : 5,
-                opacity: isHovered ? 0.6 : 0
+                opacity: isHovered ? 0.7 : 0
               }}
               transition={{ duration: 0.4, ease: "easeOut" }}
             >
@@ -143,7 +143,7 @@ function NavItem({ to, label, en, current }) {
 
             {/* main Korean Label */}
             <span className={cn(
-              "text-[17px] font-black tracking-widest transition-all duration-500",
+              "text-[24px] font-[900] tracking-tight transition-all duration-500",
               isHovered ? "translate-y-1 scale-105" : "translate-y-0"
             )}>
               {label}

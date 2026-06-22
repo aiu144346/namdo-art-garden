@@ -2,7 +2,7 @@ export const postsMain = {
   "m1-namdo-art-garden-intro": {
     "id": "m1-namdo-art-garden-intro",
     "regionId": "haenam", 
-    "title": "[메인기사] 남도예술정원:\n8개의 테마로 걷는 치유와 사유의 길",
+    "title": "[메인기사] 남도예술정원: 8개의 테마로 걷는 치유와 사유의 길",
     "description": "남도 명품 민간정원 8곳의 이야기를 담았습니다. 문가든부터 포레스트 수목원까지, 각 정원이 건네는 특별한 위로와 철학을 만나보세요.",
     "keywords": "남도예술정원, 민간정원, 해남여행, 완도여행, 진도여행, 정원문화",
     "content": `
