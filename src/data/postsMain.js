@@ -1,4 +1,366 @@
 export const postsMain = {
+  "notice-260703-supporters": {
+    "id": "notice-260703-supporters",
+    "regionId": "haenam",
+    "title": "[공지] 남도예술정원 서포터즈 모집",
+    "description": "남도예술정원 2권역(해남‧완도‧진도‧신안)의 다양한 민간정원을 직접 방문해 체험하고 콘텐츠를 생산 및 홍보하는 서포터즈를 모집합니다.",
+    "keywords": "서포터즈, 남도예술정원, 해남, 완도, 진도, 신안, 민간정원, 홍보",
+    "content": `
+      <div class="max-w-3xl mx-auto space-y-12 text-neutral-800 leading-relaxed font-sans mt-8 px-4 md:px-0">
+        
+        <!-- Premium Notice Header -->
+        <div class="bg-neutral-900 text-white rounded-3xl p-8 md:p-12 shadow-2xl relative overflow-hidden">
+          <div class="absolute -right-16 -bottom-16 w-48 h-48 bg-primary/20 rounded-full blur-3xl"></div>
+          <div class="absolute -left-12 -top-12 w-36 h-36 bg-primary/10 rounded-full blur-2xl"></div>
+          <div class="relative z-10 space-y-6">
+            <span class="inline-block bg-primary text-white text-[10px] md:text-xs font-bold uppercase tracking-[0.2em] px-4 py-1.5 rounded-full">
+              OFFICIAL NOTICE
+            </span>
+            <h1 class="text-2xl md:text-4xl font-serif font-bold leading-tight md:leading-normal">
+              소도시 여행권역 육성사업 2권역<br />
+              <span class="text-primary-foreground font-sans">남도예술정원 서포터즈 모집</span>
+            </h1>
+            <p class="text-sm md:text-base text-neutral-300 font-light leading-relaxed">
+              남도예술정원 2권역(해남‧완도‧진도‧신안)의 다양한 민간정원을 직접 방문해 체험하고, 콘텐츠를 생산 및 홍보하는 「남도예술정원 서포터즈」를 모집합니다!
+            </p>
+          </div>
+        </div>
+
+        <!-- Card News Image Preview Section -->
+        <div class="space-y-4">
+          <h3 class="text-lg font-bold text-neutral-900 flex items-center gap-2">
+            <span class="w-2.5 h-2.5 bg-primary rounded-full"></span>
+            카드뉴스 미리보기
+          </h3>
+          <div class="relative group overflow-hidden rounded-3xl border border-neutral-200 shadow-lg bg-white">
+            <img 
+              src="/images/notice_260703_creator02_thumb.png" 
+              alt="남도예술정원 서포터즈 모집 카드뉴스" 
+              class="w-full h-auto object-cover max-h-[600px] transition-transform duration-700 group-hover:scale-[1.02]"
+            />
+            <div class="absolute inset-0 bg-neutral-900/10 opacity-0 group-hover:opacity-100 transition-opacity duration-300 pointer-events-none" />
+          </div>
+        </div>
+
+        <!-- Recruitment Overview -->
+        <div class="bg-white rounded-3xl border border-neutral-200/60 p-8 md:p-10 shadow-sm space-y-6">
+          <h3 class="text-xl font-bold text-neutral-900 flex items-center gap-2 pb-4 border-b border-neutral-100">
+            <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5 text-primary" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg>
+            모집개요
+          </h3>
+          
+          <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+            <div class="space-y-2">
+              <span class="text-xs text-neutral-400 font-bold uppercase tracking-wider block">공모명</span>
+              <p class="text-sm md:text-base font-semibold text-neutral-800">남도예술정원 서포터즈 모집</p>
+            </div>
+            <div class="space-y-2">
+              <span class="text-xs text-neutral-400 font-bold uppercase tracking-wider block">활동기간</span>
+              <p class="text-sm md:text-base font-semibold text-neutral-800">2026.07.27. ~ 2026.11.30.</p>
+            </div>
+            <div class="space-y-2">
+              <span class="text-xs text-neutral-400 font-bold uppercase tracking-wider block">모집인원</span>
+              <p class="text-sm md:text-base font-semibold text-neutral-800">4명</p>
+            </div>
+            <div class="space-y-2">
+              <span class="text-xs text-neutral-400 font-bold uppercase tracking-wider block">활동내용</span>
+              <ul class="text-xs md:text-sm text-neutral-600 space-y-1 list-disc pl-4 font-light">
+                <li>남도예술정원 2권역 내 정원 현장 방문 및 취재</li>
+                <li>정원별 방문, 여행 코스, 체험 요소 등을 반영한 콘텐츠 제작</li>
+                <li>공식 플랫폼 및 개인 SNS 채널을 활용한 남도예술정원 홍보</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+
+        <!-- Schedule / Roadmap -->
+        <div class="bg-white rounded-3xl border border-neutral-200/60 p-8 md:p-10 shadow-sm space-y-6">
+          <h3 class="text-xl font-bold text-neutral-900 flex items-center gap-2 pb-4 border-b border-neutral-100">
+            <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5 text-primary" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>
+            추진일정
+          </h3>
+          
+          <!-- Roadmap UI -->
+          <div class="grid grid-cols-2 md:grid-cols-4 gap-4">
+            <div class="bg-neutral-50 p-5 rounded-2xl text-center space-y-2 border border-neutral-100 relative group">
+              <div class="w-8 h-8 rounded-full bg-primary/10 text-primary flex items-center justify-center font-bold text-xs mx-auto">1</div>
+              <h4 class="text-sm font-bold text-neutral-800">공고 및 접수</h4>
+              <p class="text-xs text-neutral-500">6. 23 ~ 7. 12.</p>
+              <p class="text-[10px] text-primary/80 font-semibold bg-primary/5 rounded py-0.5 px-1.5 mt-2 block">이메일 접수</p>
+            </div>
+            
+            <div class="bg-neutral-50 p-5 rounded-2xl text-center space-y-2 border border-neutral-100 relative group">
+              <div class="w-8 h-8 rounded-full bg-primary/10 text-primary flex items-center justify-center font-bold text-xs mx-auto">2</div>
+              <h4 class="text-sm font-bold text-neutral-800">심사</h4>
+              <p class="text-xs text-neutral-500">7. 13. ~ 7. 14.</p>
+              <p class="text-[10px] text-neutral-400 font-medium py-0.5 mt-2 block">사업운영단 심사</p>
+            </div>
+            
+            <div class="bg-neutral-50 p-5 rounded-2xl text-center space-y-2 border border-neutral-100 relative group">
+              <div class="w-8 h-8 rounded-full bg-primary/10 text-primary flex items-center justify-center font-bold text-xs mx-auto">3</div>
+              <h4 class="text-sm font-bold text-neutral-800">결과발표</h4>
+              <p class="text-xs text-neutral-500">7. 15.</p>
+              <p class="text-[10px] text-neutral-400 font-medium py-0.5 mt-2 block">개별 통보</p>
+            </div>
+            
+            <div class="bg-neutral-900 text-white p-5 rounded-2xl text-center space-y-2 border border-neutral-800 relative group shadow-lg">
+              <div class="w-8 h-8 rounded-full bg-primary text-white flex items-center justify-center font-bold text-xs mx-auto">4</div>
+              <h4 class="text-sm font-bold">OT 및 교육</h4>
+              <p class="text-xs text-neutral-400">7. 20. (필수)</p>
+              <p class="text-[10px] text-primary-foreground font-semibold bg-primary/20 rounded py-0.5 px-1.5 mt-2 block">정우진 대표 교육</p>
+            </div>
+          </div>
+        </div>
+
+        <!-- Detail Requirements & Benefits -->
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+          
+          <!-- Application Requirements -->
+          <div class="bg-white rounded-3xl border border-neutral-200/60 p-8 shadow-sm space-y-5">
+            <h4 class="text-lg font-bold text-neutral-900 flex items-center gap-2 pb-3 border-b border-neutral-100">
+              <span class="w-2 h-2 bg-primary rounded-full"></span>
+              모집 및 신청 안내
+            </h4>
+            <div class="space-y-4 text-xs md:text-sm text-neutral-600 font-light leading-relaxed">
+              <div>
+                <span class="font-bold text-neutral-800 block mb-1">모집대상:</span>
+                <ul class="list-disc pl-4 space-y-1">
+                  <li>개인 블로그, 인스타그램 등 SNS 채널을 적극 운영하고 있는 자</li>
+                  <li>자차 또는 이동수단을 보유하여 2권역 활동이 가능한 자</li>
+                  <li>정원, 여행, 로컬 관광, 문화예술 콘텐츠에 관심 있는 자</li>
+                  <li class="text-primary font-medium">남도예술정원 2권역 거주자 또는 활동가능자 우대</li>
+                  <li class="text-primary font-medium">07.20.(월) 1회 AI 교육 필수 참석</li>
+                </ul>
+              </div>
+              <div>
+                <span class="font-bold text-neutral-800 block mb-1">신청방법 (이메일 접수):</span>
+                <p class="text-neutral-500 font-mono select-all bg-neutral-50 p-2 rounded border border-neutral-200/50 mb-2">
+                  namdoartgarden@gmail.com
+                </p>
+                <ul class="list-disc pl-4 space-y-0.5 text-neutral-500 text-xs">
+                  <li>지원서 1부</li>
+                  <li>관련 경력증명서 또는 활동증명서 1식</li>
+                  <li>개인정보 수집 이용동의서 1부</li>
+                  <li>포트폴리오 (본인 제작 콘텐츠 URL/파일)</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+
+          <!-- Benefits -->
+          <div class="bg-primary/5 rounded-3xl border border-primary/20 p-8 shadow-sm space-y-5 flex flex-col justify-between">
+            <div class="space-y-5">
+              <h4 class="text-lg font-bold text-neutral-900 flex items-center gap-2 pb-3 border-b border-primary/10">
+                <span class="w-2 h-2 bg-primary rounded-full"></span>
+                활동 혜택
+              </h4>
+              <ul class="space-y-3 text-xs md:text-sm text-neutral-700 leading-relaxed font-light">
+                <li class="flex gap-2">
+                  <span class="text-primary font-bold">✓</span>
+                  <div>
+                    <span class="font-bold text-neutral-900">활동비 지급</span><br/>
+                    콘텐츠 1건당 100,000원 지급 (1인당 최대 10건까지 인정)
+                  </div>
+                </li>
+                <li class="flex gap-2">
+                  <span class="text-primary font-bold">✓</span>
+                  <div>
+                    <span class="font-bold text-neutral-900">활동 인증</span><br/>
+                    서포터즈 명찰 제공 및 활동인증서 발급
+                  </div>
+                </li>
+                <li class="flex gap-2">
+                  <span class="text-primary font-bold">✓</span>
+                  <div>
+                    <span class="font-bold text-neutral-900">역량 강화 교육</span><br/>
+                    네오픽스AI 정우진 대표의 AI 활용 콘텐츠 교육 1회 제공
+                  </div>
+                </li>
+              </ul>
+            </div>
+
+            <!-- Sponsor / Contact Box -->
+            <div class="bg-white rounded-2xl p-4 border border-primary/10 space-y-1">
+              <p class="text-[10px] text-neutral-400 font-bold uppercase tracking-wider">문의처</p>
+              <p class="text-xs text-neutral-700 font-medium">남도예술정원 2권역 사업운영단</p>
+              <p class="text-xs text-primary font-mono select-all">namdoartgarden@gmail.com</p>
+            </div>
+          </div>
+
+        </div>
+
+        <!-- Attachment Download Banner -->
+        <div class="bg-neutral-900 text-white rounded-3xl p-8 text-center space-y-6 shadow-2xl relative overflow-hidden">
+          <div class="absolute -right-12 -bottom-12 w-32 h-32 bg-primary/20 rounded-full blur-2xl"></div>
+          <div class="relative z-10 space-y-2">
+            <span class="text-[10px] font-bold text-primary tracking-widest uppercase block">Attachment</span>
+            <h3 class="text-lg md:text-xl font-bold">서포터즈 신청 서류 및 양식 다운로드</h3>
+            <p class="text-xs md:text-sm text-neutral-400 font-light">
+              서포터즈 신청에 필요한 지원서 및 개인정보 수집 이용동의서 서식이 포함된 한글(.hwp) 파일을 다운로드하세요.
+            </p>
+          </div>
+          
+          <div class="flex justify-center relative z-10">
+            <a 
+              href="/files/%EA%B3%B5%EB%AA%A8_%EB%82%A8%EB%8F%84%EC%98%88%EC%88%A0%EC%A0%95%EC%9B%90%20%ED%94%8C%EB%A5%AE%ED%8F%BC%20%EC%84%9C%ED%8F%AC%ED%84%B0%EC%A6%88%20%EC%8B%A0%EC%B2%AD%EC%84%9C%EB%A5%98.hwp" 
+              download="공모_남도예술정원 플랫폼 서포터즈 신청서류.hwp"
+              class="inline-flex items-center gap-3 bg-primary hover:bg-primary/90 text-white font-bold px-8 py-4 rounded-full shadow-lg hover:shadow-xl transition-all duration-300 hover:scale-105"
+            >
+              <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" class="animate-bounce"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
+              지원 서류 서식 다운로드 (HWP)
+            </a>
+          </div>
+        </div>
+
+        <!-- Official Blog Banner -->
+        <div class="bg-neutral-100 rounded-3xl p-6 md:p-8 flex flex-col md:flex-row items-center justify-between gap-6 border border-neutral-200/60 shadow-inner">
+          <div class="space-y-1 text-center md:text-left">
+            <h4 class="text-base font-bold text-neutral-800">공식 블로그 공고 확인하기</h4>
+            <p class="text-xs text-neutral-500 font-light">본 공모와 관련된 더 자세한 소식과 실시간 질의응답은 공식 블로그에서 가능합니다.</p>
+          </div>
+          <a 
+            href="https://blog.naver.com/culturepr/224324319405" 
+            target="_blank" 
+            rel="noopener noreferrer" 
+            class="inline-flex items-center gap-2 bg-white hover:bg-neutral-50 border border-neutral-300 text-neutral-700 hover:text-neutral-900 font-bold px-6 py-3 rounded-full text-xs md:text-sm shadow-sm transition-all duration-300"
+          >
+            <span>공식 네이버 블로그 바로가기</span>
+            <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
+          </a>
+        </div>
+
+        <!-- Back to Hub Button -->
+        <div class="text-center pt-4">
+          <a href="/" class="inline-flex items-center gap-2 text-sm font-bold text-neutral-500 hover:text-primary transition-colors hover:underline">
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="19" y1="12" x2="5" y2="12"/><polyline points="12 19 5 12 12 5"/></svg>
+            메인 홈으로 이동
+          </a>
+        </div>
+
+      </div>
+    `,
+    "image": "/images/notice_260703_creator02_thumb.png",
+    "date": "2026-06-23",
+    "author": "2권역 사업운영단",
+    "readTime": "4분"
+  },
+  "notice-260703-creator-contest": {
+    "id": "notice-260703-creator-contest",
+    "regionId": "haenam",
+    "title": "[공지] 2026 소도시 여행권역 육성사업(2권역) 남도예술정원 관광콘텐츠 크리에이터 공모",
+    "description": "남도예술정원의 숨겨진 매력을 발굴하고 트렌디한 관광콘텐츠로 풀어낼 크리에이터를 모집합니다.",
+    "keywords": "공모전, 크리에이터, 남도예술정원, 소도시 여행권역, 관광콘텐츠, 다운로드",
+    "content": `
+      <div class="max-w-3xl mx-auto space-y-12 text-neutral-800 leading-relaxed font-sans mt-8 px-4 md:px-0">
+        
+        <!-- Premium Notice Card Header -->
+        <div class="bg-neutral-900 text-white rounded-3xl p-8 md:p-12 shadow-2xl relative overflow-hidden">
+          <div class="absolute -right-16 -bottom-16 w-48 h-48 bg-primary/20 rounded-full blur-3xl"></div>
+          <div class="absolute -left-12 -top-12 w-36 h-36 bg-primary/10 rounded-full blur-2xl"></div>
+          <div class="relative z-10 space-y-6">
+            <span class="inline-block bg-primary text-white text-[10px] md:text-xs font-bold uppercase tracking-[0.2em] px-4 py-1.5 rounded-full">
+              OFFICIAL NOTICE
+            </span>
+            <h1 class="text-2xl md:text-4xl font-serif font-bold leading-tight md:leading-normal">
+              2026 소도시 여행권역 육성사업 (2권역)<br />
+              <span class="text-primary-foreground font-sans">남도예술정원 관광콘텐츠 크리에이터 공모</span>
+            </h1>
+            <p class="text-sm md:text-base text-neutral-300 font-light leading-relaxed">
+              남도예술정원의 숨겨진 매력을 발굴하고 트렌디한 관광콘텐츠로 풀어낼 크리에이터를 모집합니다.
+            </p>
+          </div>
+        </div>
+
+        <!-- Card News Image Preview Section -->
+        <div class="space-y-4">
+          <h3 class="text-lg font-bold text-neutral-900 flex items-center gap-2">
+            <span class="w-2.5 h-2.5 bg-primary rounded-full"></span>
+            카드뉴스 미리보기
+          </h3>
+          <div class="relative group overflow-hidden rounded-3xl border border-neutral-200 shadow-lg bg-white">
+            <img 
+              src="/images/notice_260703_thumb.png" 
+              alt="남도예술정원 크리에이터 공모 카드뉴스" 
+              class="w-full h-auto object-cover max-h-[600px] transition-transform duration-700 group-hover:scale-[1.02]"
+            />
+            <div class="absolute inset-0 bg-neutral-900/10 opacity-0 group-hover:opacity-100 transition-opacity duration-300 pointer-events-none" />
+          </div>
+        </div>
+
+        <!-- Article Details -->
+        <div class="bg-white rounded-3xl border border-neutral-200/60 p-8 md:p-10 shadow-sm space-y-8">
+          <div class="prose max-w-none text-neutral-600 font-light leading-loose space-y-6 text-sm md:text-base">
+            <p>
+              이번 공모는 일회성 협업이 아닌, 정원을 무대로 꾸준히 활동하며 지역 관광을 이끌어 갈 크리에이터를 발굴·육성하는 것을 목표로 합니다.
+            </p>
+            <p>
+              남도예술정원과 함께 성장할 <strong>「남도예술정원 관광콘텐츠 크리에이터 공모」</strong>를 다음과 같이 공고하오니 재능 있고 열정 가득한 크리에이터분들의 많은 참여 바랍니다.
+            </p>
+          </div>
+
+          <!-- Alert / Info Box -->
+          <div class="bg-neutral-50 rounded-2xl p-6 border-l-4 border-primary space-y-4">
+            <div class="space-y-1">
+              <p class="text-xs text-neutral-400 font-mono tracking-wider">공고 주최</p>
+              <h4 class="text-base font-bold text-neutral-900">
+                남도예술정원 2권역 사업운영단 (주식회사 쥬스컴퍼니)
+              </h4>
+              <p class="text-xs text-neutral-500 font-medium">
+                공고일자: 2026년 7월 1일
+              </p>
+            </div>
+            <div class="pt-3 border-t border-neutral-200/60 space-y-2">
+              <p class="text-xs text-neutral-400 font-mono tracking-wider">관련 링크</p>
+              <a 
+                href="https://blog.naver.com/culturepr/224328194764" 
+                target="_blank" 
+                rel="noopener noreferrer" 
+                class="inline-flex items-center gap-2 text-primary hover:text-primary/80 font-bold text-sm hover:underline"
+              >
+                <span>공식 네이버 블로그 바로가기</span>
+                <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
+              </a>
+            </div>
+          </div>
+        </div>
+
+        <!-- Attachment Download Banner -->
+        <div class="bg-primary/5 rounded-3xl border border-primary/20 p-8 text-center space-y-6 shadow-inner">
+          <div class="space-y-2">
+            <span class="text-[10px] font-bold text-primary tracking-widest uppercase block">Attachment</span>
+            <h3 class="text-lg md:text-xl font-bold text-neutral-900">공모 신청서 및 상세 모집 요강 다운로드</h3>
+            <p class="text-xs md:text-sm text-neutral-500 font-light">
+              지원 요강 및 신청 양식이 포함된 공식 한글(.hwp) 파일을 아래 버튼을 클릭하여 다운로드받을 수 있습니다.
+            </p>
+          </div>
+          
+          <div class="flex justify-center">
+            <a 
+              href="/files/%EB%82%A8%EB%8F%84%EC%98%88%EC%88%A0%EC%A0%95%EC%9B%90_%EA%B4%80%EA%B4%91%EC%BD%98%ED%85%90%EC%B8%A0%20%ED%81%AC%EB%A6%AC%EC%97%90%EC%9D%B4%ED%84%B0%20%EA%B3%B5%EB%AA%A8.hwp" 
+              download="남도예술정원_관광콘텐츠_크리에이터_공모_요강.hwp"
+              class="inline-flex items-center gap-3 bg-primary hover:bg-primary/90 text-white font-bold px-8 py-4 rounded-full shadow-lg hover:shadow-xl transition-all duration-300 hover:scale-105"
+            >
+              <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" class="animate-bounce"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
+              공고문 & 지원 서식 다운로드 (HWP)
+            </a>
+          </div>
+        </div>
+
+        <!-- Back to Hub Button -->
+        <div class="text-center pt-4">
+          <a href="/" class="inline-flex items-center gap-2 text-sm font-bold text-neutral-500 hover:text-primary transition-colors hover:underline">
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="19" y1="12" x2="5" y2="12"/><polyline points="12 19 5 12 12 5"/></svg>
+            메인 홈으로 이동
+          </a>
+        </div>
+
+      </div>
+    `,
+    "image": "/images/notice_260703_thumb.png",
+    "date": "2026-07-01",
+    "author": "2권역 사업운영단",
+    "readTime": "3분"
+  },
   "m1-namdo-art-garden-intro": {
     "id": "m1-namdo-art-garden-intro",
     "regionId": "haenam", 

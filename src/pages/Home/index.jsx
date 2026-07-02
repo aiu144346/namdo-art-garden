@@ -26,6 +26,22 @@ const HERO_IMAGES = [
 
 const NOTICES = [
   {
+    id: 3,
+    title: "남도예술정원 서포터즈 모집",
+    date: "2026.06.23",
+    desc: "남도예술정원 2권역(해남‧완도‧진도‧신안)의 다양한 민간정원을 직접 방문해 체험하고, 콘텐츠를 생산 및 홍보하는 「남도예술정원 서포터즈」를 모집합니다!",
+    link: "/posts/notice-260703-supporters",
+    isExternal: false
+  },
+  {
+    id: 2,
+    title: "남도예술정원 관광콘텐츠 크리에이터 공모",
+    date: "2026.07.01",
+    desc: "남도예술정원의 숨겨진 매력을 발굴하고 트렌디한 관광콘텐츠로 풀어낼 크리에이터를 모집합니다. 2권역 사업운영단(㈜쥬스컴퍼니)에서 남도예술정원과 함께 성장할 크리에이터를 모집합니다.",
+    link: "/posts/notice-260703-creator-contest",
+    isExternal: false
+  },
+  {
     id: 1,
     title: "남도예술정원 관광콘텐츠 크리에이터 공모 안내",
     date: "2026.06.16",
