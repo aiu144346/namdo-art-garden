@@ -135,7 +135,7 @@ export const postsMain = {
               <div>
                 <span class="font-bold text-neutral-800 block mb-1">신청방법 (이메일 접수):</span>
                 <p class="text-neutral-500 font-mono select-all bg-neutral-50 p-2 rounded border border-neutral-200/50 mb-2">
-                  namdoartgarden@gmail.com
+                  culturepr@naver.com
                 </p>
                 <ul class="list-disc pl-4 space-y-0.5 text-neutral-500 text-xs">
                   <li>지원서 1부</li>
@@ -183,7 +183,7 @@ export const postsMain = {
             <div class="bg-white rounded-2xl p-4 border border-primary/10 space-y-1">
               <p class="text-[10px] text-neutral-400 font-bold uppercase tracking-wider">문의처</p>
               <p class="text-xs text-neutral-700 font-medium">남도예술정원 2권역 사업운영단</p>
-              <p class="text-xs text-primary font-mono select-all">namdoartgarden@gmail.com</p>
+              <p class="text-xs text-primary font-mono select-all">culturepr@naver.com</p>
             </div>
           </div>
 
