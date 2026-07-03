@@ -541,208 +541,283 @@ export const postsHaenam = {
     title: "[해남 여행] 1만 ㎡의 초록빛 서사시, '문가든(Moon Garden)' 완벽 관람 가이드",
     description: "인위적인 조형물 대신 오류제의 호수 풍경과 계룡면의 지형을 그대로 살린 1만 ㎡ 규모의 민간정원입니다.",
     content: `
-      <h2>[해남 여행] 1만 ㎡의 초록빛 서사시, '문가든(Moon Garden)' 완벽 관람 가이드</h2>
-      
-      <p>안녕하세요! 남도예술정원의 공식 콘텐츠 디렉터입니다.</p>
+      <div class="max-w-4xl mx-auto px-4 py-8">
+        <h2 class="text-4xl font-extrabold text-green-950 mb-6 text-center tracking-tight leading-tight">
+          🌳 1만 ㎡의 초록빛 서사시,<br/>해남 '문가든(Moon Garden)' 완벽 관람 가이드
+        </h2>
+        
+        <p class="text-neutral-500 text-center mb-8">안녕하세요! 남도예술정원의 공식 콘텐츠 디렉터입니다.</p>
 
-      <div style="border: 2px solid #2e7d32; padding: 20px; border-radius: 8px; background-color: #f1f8e9; margin: 25px 0;">
-        <p className="text-neutral-600">누구와 오느냐, 어떤 기분으로 걷느냐에 따라 매번 다른 감동을 선사하는 곳. 인위적인 조형물 대신 오류제의 호수 풍경과 지형을 그대로 살린 '회복의 공간'으로 안내합니다.</p>
-      </div>
+        <!-- Hero Intro Section -->
+        <div class="relative overflow-hidden rounded-[2rem] bg-gradient-to-br from-green-50 to-emerald-50/60 p-8 md:p-10 border border-green-100/80 mb-12 shadow-sm">
+          <div class="absolute -right-12 -bottom-12 w-48 h-48 bg-green-200/20 rounded-full blur-2xl"></div>
+          <p class="text-lg text-green-900 font-medium leading-relaxed relative z-10 italic">
+            "누구와 오느냐, 어떤 기분으로 걷느냐에 따라 매번 다른 감동을 선사하는 곳. 인위적인 조형물 대신 오류제의 호수 풍경과 지형을 그대로 살린 '회복의 공간'으로 여러분을 초대합니다."
+          </p>
+        </div>
 
-      <hr />
+        <hr class="border-neutral-200 my-10" />
 
-      <h2>🌟 한눈에 보는 핵심 요약</h2>
-      <ul>
-        <li><strong>자연이 집필한 시나리오:</strong> 전라남도 제14호 민간정원으로, '문(Moon)' 씨 성을 가진 정원주의 철학이 담긴 10,689㎡ 규모의 예술적 공간입니다.</li>
-        <li><strong>관객에서 주인공으로:</strong> 인위적인 조형물 대신 오류제의 호수 풍경과 계룡면의 지형을 그대로 살려, 걷는 것만으로도 치유되는 '회복의 공간'입니다.</li>
-        <li><strong>입장 안내:</strong> 별도의 입장료 없이 1인 1음료 주문 시 정원 전체를 자유롭게 이용할 수 있습니다. (반려동물 동반 불가)</li>
-      </ul>
-
-      <img src="/images/haenam-151.webp" alt="자연이 집필한 시나리오가 펼쳐지는 1만 ㎡ 규모의 예술적 공간 문가든" className="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
-      <p className="text-center text-sm text-neutral-500 mt-2">(▲ 1만 ㎡의 대지가 빚어내는 초록빛 서사시, 아름다운 문가든의 전경)</p>
-
-      <hr />
-
-      <h2>📍 관광지 상세 정보 (Quick View)</h2>
-      <div className="overflow-x-auto my-8">
-        <table className="min-w-full text-sm text-left border-collapse">
-          <thead className="bg-primary/10 border-b-2 border-primary/20">
-            <tr>
-              <th className="py-3 px-4 font-bold text-neutral-900 border-r border-neutral-200 w-1/4">구분</th>
-              <th className="py-3 px-4 font-bold text-neutral-900">내용 및 방문 팁</th>
-            </tr>
-          </thead>
-          <tbody className="divide-y divide-neutral-200 border-b border-neutral-200">
-            <tr className="hover:bg-neutral-50">
-              <td className="py-3 px-4 font-bold border-r border-neutral-200">공식 명칭</td>
-              <td className="py-3 px-4 text-neutral-600">문가든 (Moon Garden)</td>
-            </tr>
-            <tr className="hover:bg-neutral-50">
-              <td className="py-3 px-4 font-bold border-r border-neutral-200">주소</td>
-              <td className="py-3 px-4 text-neutral-600">전라남도 해남군 계곡면 오류골길 64</td>
-            </tr>
-            <tr className="hover:bg-neutral-50">
-              <td className="py-3 px-4 font-bold border-r border-neutral-200">운영 시간</td>
-              <td className="py-3 px-4 text-neutral-600">10:00 ~ 18:00 (라스트오더 17:30 / 매주 월요일 휴무)</td>
-            </tr>
-            <tr className="hover:bg-neutral-50">
-              <td className="py-3 px-4 font-bold border-r border-neutral-200">이용 요금</td>
-              <td className="py-3 px-4 text-neutral-600">음료 가격에 입장료 포함 (1인 1음료 필수)</td>
-            </tr>
-            <tr className="hover:bg-neutral-50">
-              <td className="py-3 px-4 font-bold border-r border-neutral-200">주차 시설</td>
-              <td className="py-3 px-4 text-neutral-600">카페 앞 전용 주차장 완비 (무료)</td>
-            </tr>
-            <tr className="hover:bg-neutral-50">
-              <td className="py-3 px-4 font-bold border-r border-neutral-200">주요 시설</td>
-              <td className="py-3 px-4 text-neutral-600">통창 카페, 오두막 쉼터, 호수 산책로, 벤치, 단체석</td>
-            </tr>
-            <tr className="hover:bg-neutral-50">
-              <td className="py-3 px-4 font-bold border-r border-neutral-200">연락처</td>
-              <td className="py-3 px-4 text-neutral-600">0507-1490-5759</td>
-            </tr>
-          </tbody>
-        </table>
-      </div>
-
-      <img src="/images/haenam-152.webp" alt="아이들의 오감을 깨우는 자연 도서관 같은 정원 산책로와 쉼터" className="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
-      <p className="text-center text-sm text-neutral-500 mt-2">(▲ 도심을 벗어나 온전한 휴식을 선사하는 호숫가 산책로와 쉼터)</p>
-
-      <hr />
-
-      <h2>👤 8가지 페르소나별 '시네마틱' 상세 관광 가이드</h2>
-
-      <h3>1. [가족 여행] "아이의 오감을 깨우는 자연 도서관"</h3>
-      <ul className="list-disc pl-5 mb-4">
-        <li><strong>미션:</strong> 스마트폰 대신 흙과 풀꽃에 집중하는 시간.</li>
-        <li><strong>상세 동선:</strong> 카페에서 음료 수령 후 곧장 오두막 형태의 쉼터로 향하세요. 이곳은 아이들에게 '비밀 기지' 같은 공간이 됩니다.</li>
-        <li><strong>체험 요소:</strong> 정원 내 이름 모를 들꽃들과 계절에 따라 변하는 나무의 질감을 만져보게 하세요. 평지 구간이 많아 아이들이 걷기에 안전하며, 자연 속에서 뛰어노는 모습 자체가 최고의 가족 영화가 됩니다.</li>
-      </ul>
-
-      <h3>2. [로맨틱 커플] "말하지 않아도 전해지는 진심"</h3>
-      <ul className="list-disc pl-5 mb-4">
-        <li><strong>미션:</strong> 대화의 공백을 풍경으로 채우는 데이트.</li>
-        <li><strong>상세 동선:</strong> 카페 통창 좌석에서 정원을 조망한 뒤, 오류제 호수 방향 산책로를 따라 천천히 걸으세요.</li>
-        <li><strong>추천 포인트:</strong> 호숫가 벤치에 나란히 앉아 물결을 바라보는 '물멍' 시간을 가지세요. 화려한 카페보다 고요한 정원이 두 사람의 목소리에 더 집중하게 해줍니다.</li>
-      </ul>
-
-      <h3>3. [MZ/사진작가] "인스타 감성을 넘어서는 시각적 미학"</h3>
-      <ul className="list-disc pl-5 mb-4">
-        <li><strong>미션:</strong> 무보정으로 완성하는 '인생 샷' 아카이빙.</li>
-        <li><strong>상세 동선:</strong> 입구의 웰컴 가든에서 시작해 나무들이 터널을 이루는 곡선 산책로가 핵심입니다.</li>
-        <li><strong>촬영 팁:</strong> 드론 촬영이 가능하다면 정원의 기하학적 배치를 담으세요. 지상에서는 수직으로 뻗은 나무와 수평으로 펼쳐진 호수의 대비를 광각으로 담는 것이 포인트입니다.</li>
-      </ul>
-
-      <img src="/images/haenam-153.webp" alt="인스타 감성을 넘어서는 시각적 미학이 담긴 곡선 산책로" className="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
-      <p className="text-center text-sm text-neutral-500 mt-2">(▲ 수직으로 뻗은 나무와 자연의 미학이 완성되는 고즈넉한 곡선 산책로)</p>
-
-      <h3>4. [솔로 여행자] "나를 주인공으로 한 1인 다큐멘터리"</h3>
-      <ul className="list-disc pl-5 mb-4">
-        <li><strong>미션:</strong> 번아웃된 일상을 뒤로하고 '회복의 속도' 찾기.</li>
-        <li><strong>상세 동선:</strong> 가장 구석진 곳에 위치한 홀로 앉는 벤치를 찾으세요.</li>
-        <li><strong>가이드:</strong> 이어폰을 빼고 정원이 내는 소리(바람, 나뭇잎, 새소리)에 집중하세요. 이곳은 관광지가 아니라 당신의 마음을 수선하는 '정비소'입니다. 아무것도 하지 않아도 괜찮다는 허락을 정원으로부터 받으세요.</li>
-      </ul>
-
-      <h3>5. [브이로그 크리에이터] "편집이 필요 없는 천연 BGM 공간"</h3>
-      <ul className="list-disc pl-5 mb-4">
-        <li><strong>미션:</strong> 현장감 넘치는 ASMR 콘텐츠 제작.</li>
-        <li><strong>상세 동선:</strong> 주차장에서 카페로 들어가는 진입로부터 정원 깊숙한 숲길까지의 과정을 롱테이크로 담으세요.</li>
-        <li><strong>촬영 팁:</strong> 정원을 걷는 발소리와 나뭇잎 흔들리는 소리를 생생하게 녹음하세요. 자막을 줄이고 자연의 소리만으로 영상을 구성할 때 '문가든'의 진가가 드러납니다.</li>
-      </ul>
-
-      <h3>6. [디지털 노마드] "영감이 샘솟는 초록빛 오피스"</h3>
-      <ul className="list-disc pl-5 mb-4">
-        <li><strong>미션:</strong> 닫힌 사무실을 벗어나 자연 속에서 기획안 완성하기.</li>
-        <li><strong>상세 동선:</strong> 카페 내부 통창 바로 앞 테이블에 자리를 잡으세요.</li>
-        <li><strong>가이드:</strong> 모니터를 보다가 눈이 피로할 때 고개를 들면 1만 ㎡의 정원이 펼쳐집니다. 녹색이 주는 안정감이 창의적인 아이디어를 불러일으킬 것입니다.</li>
-      </ul>
-
-      <img src="/images/haenam-154.webp" alt="초록빛 정원이 통창 너머로 펼쳐지는 카페 내부 공간" className="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
-      <p className="text-center text-sm text-neutral-500 mt-2">(▲ 녹색 공간에서 창의적인 영감을 일깨워주는 카페 내부의 편안한 뷰)</p>
-
-      <h3>7. [시니어 나들이객] "추억의 결을 따라 걷는 편안한 산책"</h3>
-      <ul className="list-disc pl-5 mb-4">
-        <li><strong>미션:</strong> 동창회나 가족 모임에서 즐기는 우아한 티타임.</li>
-        <li><strong>상세 동선:</strong> 입구 주변의 평지 정원과 카페 내 단체석을 적극 활용하세요.</li>
-        <li><strong>가이드:</strong> 경사가 급하지 않은 구간 위주로 설계되어 있어 어르신들도 무리 없이 관람 가능합니다. 옛 정취를 간직한 오류제 풍경을 보며 과거의 추억을 공유해 보세요.</li>
-      </ul>
-
-      <h3>8. [계절 추적자] "사계절의 변화를 기록하는 관찰자"</h3>
-      <ul className="list-disc pl-5 mb-4">
-        <li><strong>미션:</strong> 시간의 흐름을 한 장소에서 목격하기.</li>
-        <li><strong>상세 동선:</strong> 매 계절 같은 위치(예: 특정 오두막 앞)에서 사진을 남기세요.</li>
-        <li><strong>가이드:</strong> 봄의 연둣빛 새순, 여름의 짙은 녹음, 가을의 화려한 단풍, 겨울의 정적까지. 문가든은 계절마다 다른 대본을 쓰는 자연 극장입니다.</li>
-      </ul>
-
-      <hr />
-
-      <h2>📸 인생샷 핫포인트 & 골든타임</h2>
-      <ol className="list-decimal pl-5 mb-8">
-        <li className="mb-2"><strong>오류제 전망 벤치:</strong> 호수와 산이 맞닿는 지점을 배경으로 찍는 뒷모습 샷.</li>
-        <li className="mb-2"><strong>오두막 쉼터 프레임:</strong> 오두막 입구를 액자 삼아 정원을 바라보는 설정 샷.</li>
-        <li className="mb-2"><strong>골든타임:</strong> 오전 10시 30분 (아침 햇살이 정원의 이슬을 말리며 가장 투명한 빛을 낼 때) 또는 오후 4시 30분 (긴 그림자가 정원에 입체감을 더할 때).</li>
-      </ol>
-
-      <img src="/images/haenam-155.webp" alt="오류제 전망 벤치에서 즐기는 호수와 산의 그림 같은 절경" className="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
-      <p className="text-center text-sm text-neutral-500 mt-2">(▲ 오류제 호수와 주변 경관이 마치 한 장의 액자처럼 아름다운 인생 포토존)</p>
-
-      <hr />
-
-      <h2>🏠 인근 숙박 및 교통 안내 (Access)</h2>
-      <ul className="list-disc pl-5 mb-6">
-        <li><strong>교통:</strong>
-          <ul className="list-disc pl-5 mt-2">
-            <li>자차: 남해고속도로 혹은 국도 13호선을 이용해 '해남군 계곡면' 진입.</li>
-            <li>대중교통: 해남종합버스터미널에서 '계곡면'행 버스 이용 후 택시 환승 (접근성을 위해 자차/렌터카 이용을 강력 권장합니다).</li>
+        <!-- Highlight Summary Card -->
+        <div class="bg-white rounded-3xl border border-neutral-100 shadow-xl p-8 mb-12">
+          <h3 class="text-2xl font-bold text-green-900 mb-6 flex items-center gap-2">
+            <span class="text-3xl">🌟</span> 한눈에 보는 핵심 요약
+          </h3>
+          <ul class="space-y-4 text-neutral-700">
+            <li class="flex items-start gap-3">
+              <span class="text-green-600 mt-1">✔</span>
+              <span><strong>자연이 집필한 시나리오:</strong> 전라남도 제14호 민간정원으로, '문(Moon)' 씨 성을 가진 정원주의 자연 철학이 깃든 10,689㎡ 규모의 조화로운 힐링 공간입니다.</span>
+            </li>
+            <li class="flex items-start gap-3">
+              <span class="text-green-600 mt-1">✔</span>
+              <span><strong>관객에서 주인공으로:</strong> 인공 조형물을 최소화하고 오류제의 고요한 호수 뷰와 지형의 굴곡을 그대로 살려, 가만히 걷는 것만으로도 치유를 경험할 수 있습니다.</span>
+            </li>
+            <li class="flex items-start gap-3">
+              <span class="text-green-600 mt-1">✔</span>
+              <span><strong>실용 방문 안내:</strong> 별도의 입장료 없이 카페 내 1인 1음료 주문만으로 정원 전체를 자유롭게 관람할 수 있습니다. (반려동물 동반 불가)</span>
+            </li>
           </ul>
-        </li>
-      </ul>
-      
-      <p className="font-semibold text-neutral-800 mb-2">인근 숙소 추천:</p>
-      <ol className="list-decimal pl-5 mb-8">
-        <li className="mb-1"><strong>해남 한옥민박:</strong> 정원 산책의 여운을 이어갈 수 있는 고즈넉한 전통 숙소.</li>
-        <li className="mb-1"><strong>해남 땅끝호텔:</strong> 깔끔한 시설과 바다 조망을 원하는 여행객에게 추천.</li>
-      </ol>
+        </div>
 
-      <hr />
+        <!-- Image Gallery Block 1 (Intro) -->
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-4 my-10">
+          <figure class="overflow-hidden rounded-2xl shadow-md border border-neutral-100 hover:shadow-lg transition duration-300">
+            <img src="/images/haenam-169.webp" alt="문가든의 매혹적인 초록빛 풍경" class="w-full h-80 object-cover hover:scale-105 transition duration-500" />
+            <figcaption class="text-xs text-neutral-500 text-center py-2 bg-neutral-50 border-t border-neutral-100">초록빛 서사시가 시작되는 정원의 길목</figcaption>
+          </figure>
+          <figure class="overflow-hidden rounded-2xl shadow-md border border-neutral-100 hover:shadow-lg transition duration-300">
+            <img src="/images/haenam-170.webp" alt="오류제 호수와 정원의 푸른 조화" class="w-full h-80 object-cover hover:scale-105 transition duration-500" />
+            <figcaption class="text-xs text-neutral-500 text-center py-2 bg-neutral-50 border-t border-neutral-100">호수와 숲이 만나 완성하는 청량한 대비</figcaption>
+          </figure>
+        </div>
 
-      <h2>🔗 참고 자료 및 공식 출처 (Visible URLs)</h2>
-      <p className="font-semibold text-neutral-800 mb-2">[공식 정보 및 SNS]</p>
-      <ul className="list-disc pl-5 mb-4 text-neutral-600">
-        <li>공식 인스타그램: <a href="https://www.instagram.com/moon_garden_cafe/" target="_blank" className="text-primary hover:underline">https://www.instagram.com/moon_garden_cafe/</a></li>
-      </ul>
+        <hr class="border-neutral-200 my-12" />
 
-      <p className="font-semibold text-neutral-800 mb-2">[영상 자료 - 유튜브]</p>
-      <ul className="list-disc pl-5 mb-4 text-neutral-600">
-        <li>문가든 시설 및 분위기 (남도예술정원): <a href="https://youtu.be/RHQro3c6XiU" target="_blank" className="text-primary hover:underline">https://youtu.be/RHQro3c6XiU</a></li>
-        <li>정원 전체 전경 및 드론 영상: <a href="https://youtu.be/NGXConVZPvc" target="_blank" className="text-primary hover:underline">https://youtu.be/NGXConVZPvc</a></li>
-        <li>방문 브이로그 및 산책로 안내: <a href="https://youtu.be/gMF2v8MVxrI" target="_blank" className="text-primary hover:underline">https://youtu.be/gMF2v8MVxrI</a></li>
-        <li>오류제 호수 조망 및 힐링 포인트: <a href="https://youtu.be/Wt5dVYc2MVI" target="_blank" className="text-primary hover:underline">https://youtu.be/Wt5dVYc2MVI</a></li>
-        <li>기타 참고 영상: <a href="https://youtu.be/IHWR-5a5XA3" target="_blank" className="text-primary hover:underline">https://youtu.be/IHWR-5a5XA3</a>, <a href="https://youtu.be/x8sDd2vdSc" target="_blank" className="text-primary hover:underline">https://youtu.be/x8sDd2vdSc</a></li>
-      </ul>
+        <!-- Info Table Section -->
+        <div class="mb-12">
+          <h3 class="text-2xl font-bold text-neutral-900 mb-6 flex items-center gap-2">
+            <span class="text-green-700">📍</span> 관광지 상세 정보 (Quick View)
+          </h3>
+          <div class="overflow-hidden rounded-2xl border border-neutral-200 shadow-sm bg-white">
+            <table class="min-w-full text-sm text-left border-collapse">
+              <thead>
+                <tr class="bg-green-50/80 border-b border-neutral-200">
+                  <th class="py-4 px-6 font-bold text-green-950 w-1/4 border-r border-neutral-200">구분</th>
+                  <th class="py-4 px-6 font-bold text-green-950">내용 및 방문 팁</th>
+                </tr>
+              </thead>
+              <tbody class="divide-y divide-neutral-200">
+                <tr class="hover:bg-neutral-50/50">
+                  <td class="py-3 px-6 font-bold border-r border-neutral-200 text-neutral-800">공식 명칭</td>
+                  <td class="py-3 px-6 text-neutral-600">문가든 (Moon Garden)</td>
+                </tr>
+                <tr class="hover:bg-neutral-50/50">
+                  <td class="py-3 px-6 font-bold border-r border-neutral-200 text-neutral-800">주소</td>
+                  <td class="py-3 px-6 text-neutral-600">전라남도 해남군 계곡면 오류골길 64</td>
+                </tr>
+                <tr class="hover:bg-neutral-50/50">
+                  <td class="py-3 px-6 font-bold border-r border-neutral-200 text-neutral-800">운영 시간</td>
+                  <td class="py-3 px-6 text-neutral-600">10:00 ~ 18:00 (라스트오더 17:30 / 매주 월요일 휴무)</td>
+                </tr>
+                <tr class="hover:bg-neutral-50/50">
+                  <td class="py-3 px-6 font-bold border-r border-neutral-200 text-neutral-800">이용 요금</td>
+                  <td class="py-3 px-6 text-neutral-600">카페 음료 주문 시 정원 관람 무료 (1인 1음료 필수)</td>
+                </tr>
+                <tr class="hover:bg-neutral-50/50">
+                  <td class="py-3 px-6 font-bold border-r border-neutral-200 text-neutral-800">주차 시설</td>
+                  <td class="py-3 px-6 text-neutral-600">카페 전용 주차장 완비 (무료)</td>
+                </tr>
+                <tr class="hover:bg-neutral-50/50">
+                  <td class="py-3 px-6 font-bold border-r border-neutral-200 text-neutral-800">주요 시설</td>
+                  <td class="py-3 px-6 text-neutral-600">통창 디자인 카페, 야외 오두막, 호수 산책 데크, 힐링 벤치</td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
 
-      <p className="font-semibold text-neutral-800 mb-2">[상세 리뷰 - 네이버 블로그]</p>
-      <ul className="list-disc pl-5 mb-8 text-neutral-600">
-        <li>문가든 시설 기본 정보: <a href="https://blog.naver.com/d__eny/223863003460" target="_blank" className="text-primary hover:underline">https://blog.naver.com/d__eny/223863003460</a></li>
-        <li>민간정원 탐방기 및 데이트 후기: <a href="https://blog.naver.com/kooni/223854950330" target="_blank" className="text-primary hover:underline">https://blog.naver.com/kooni/223854950330</a></li>
-        <li>정원 산책 및 카페 이용 가이드: <a href="https://blog.naver.com/nuri7340/224081253621" target="_blank" className="text-primary hover:underline">https://blog.naver.com/nuri7340/224081253621</a></li>
-        <li>계절별 정원 풍경 상세 리뷰: <a href="https://blog.naver.com/qorrn004477/223465220102" target="_blank" className="text-primary hover:underline">https://blog.naver.com/qorrn004477/223465220102</a></li>
-        <li>트립닷컴 여행 정보: <a href="https://kr.trip.com" target="_blank" className="text-primary hover:underline">https://kr.trip.com</a></li>
-      </ul>
+        <!-- 3-Grid Gallery Block 2 -->
+        <div class="grid grid-cols-1 sm:grid-cols-3 gap-4 my-10">
+          <figure class="rounded-xl overflow-hidden shadow-sm hover:shadow-md transition">
+            <img src="/images/haenam-171.webp" alt="오두막 쉼터" class="w-full h-64 object-cover hover:scale-105 transition duration-500" />
+            <figcaption class="text-center text-[10px] text-neutral-500 py-1 bg-neutral-50">감성 가득한 나무 오두막</figcaption>
+          </figure>
+          <figure class="rounded-xl overflow-hidden shadow-sm hover:shadow-md transition">
+            <img src="/images/haenam-173.webp" alt="정원 산책로" class="w-full h-64 object-cover hover:scale-105 transition duration-500" />
+            <figcaption class="text-center text-[10px] text-neutral-500 py-1 bg-neutral-50">초록이 우거진 아치 길</figcaption>
+          </figure>
+          <figure class="rounded-xl overflow-hidden shadow-sm hover:shadow-md transition">
+            <img src="/images/haenam-175.webp" alt="오류제 호수 전망" class="w-full h-64 object-cover hover:scale-105 transition duration-500" />
+            <figcaption class="text-center text-[10px] text-neutral-500 py-1 bg-neutral-50">오류제 너머 펼쳐지는 전경</figcaption>
+          </figure>
+        </div>
 
-      <img src="/images/haenam-156.webp" alt="문가든 방문객들이 오류제 호수와 정원을 배경으로 힐링하는 모습" className="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
-      <p className="text-center text-sm text-neutral-500 mt-2">(▲ 자연이 집필한 시나리오 속에서 오롯이 주인공이 될 수 있는 힐링 시간)</p>
+        <hr class="border-neutral-200 my-12" />
 
-      <hr />
+        <!-- Cinema Guide section -->
+        <h3 class="text-3xl font-extrabold text-neutral-900 mb-8 text-center">
+          👤 8가지 페르소나별 '시네마틱' 상세 코스 가이드
+        </h3>
+        
+        <div class="space-y-12">
+          <!-- 1. Family -->
+          <div class="flex flex-col md:flex-row gap-6 items-center">
+            <div class="md:w-1/2">
+              <h4 class="text-xl font-bold text-green-950 mb-3">1. [가족 여행] "아이의 오감을 깨우는 자연 도서관"</h4>
+              <p class="text-neutral-600 leading-relaxed mb-3">
+                스마트폰에서 잠시 멀어져 나뭇잎 소리, 들꽃의 향에 귀 기울여보세요. 평탄한 산책로 덕분에 유모차가 다니기 쉽고, 자연 속 감성적인 오두막은 아이들에게 상상 속의 '비밀 기지' 같은 즐거움을 선사합니다.
+              </p>
+              <div class="bg-neutral-50 p-3 rounded-lg border-l-4 border-green-700 text-xs text-neutral-500">
+                ⭐ <strong>미션:</strong> 정원에 피어난 야생화 3종 찾아 사진 찍기
+              </div>
+            </div>
+            <div class="md:w-1/2 w-full">
+              <img src="/images/haenam-177.webp" alt="가족 친화적인 산책로 풍경" class="rounded-2xl shadow-md w-full h-56 object-cover" />
+            </div>
+          </div>
 
-      <h2>🔍 SGE 및 검색 최적화 해시태그</h2>
-      <p className="text-sm text-neutral-600">
-        #문가든 #해남가볼만한곳 #해남카페 #전남민간정원 #해남여행코스 #힐링여행 #인생샷카페 #정원산책 #오류제 #해남데이트 #남도예술정원 #국내여행지추천 #해남힐링 #언택트여행 #민간정원14호 #해남포토존 #전남여행
-      </p>
+          <!-- 2. Couple -->
+          <div class="flex flex-col md:flex-row-reverse gap-6 items-center">
+            <div class="md:w-1/2">
+              <h4 class="text-xl font-bold text-green-950 mb-3">2. [로맨틱 커플] "말하지 않아도 눈빛으로 전해지는 호수 데이트"</h4>
+              <p class="text-neutral-600 leading-relaxed mb-3">
+                서로의 손을 맞잡고 오류제 호수 산책로를 따라 걸어보세요. 고요히 물결치는 호수 전망 벤치에 나란히 앉아 함께 보내는 조용한 침묵은 도심 속 어떤 핫플레이스 데이트보다 특별한 친밀감을 안겨줍니다.
+              </p>
+              <div class="bg-neutral-50 p-3 rounded-lg border-l-4 border-green-700 text-xs text-neutral-500">
+                ⭐ <strong>추천 시간:</strong> 노을빛이 잔디밭에 길게 드리우는 오후 5시경
+              </div>
+            </div>
+            <div class="md:w-1/2 w-full">
+              <img src="/images/haenam-179.webp" alt="연인들이 걷기 좋은 호수 산책 데크" class="rounded-2xl shadow-md w-full h-56 object-cover" />
+            </div>
+          </div>
 
-      
+          <!-- Grid Section 3 (Various Details 181-190) -->
+          <div class="bg-neutral-50 p-6 rounded-3xl my-8">
+            <p class="text-center font-bold text-neutral-700 mb-4">📸 문가든 정원의 다채로운 풍경 아카이브</p>
+            <div class="grid grid-cols-2 sm:grid-cols-4 gap-3">
+              <img src="/images/haenam-181.webp" alt="디테일 뷰 1" class="rounded-lg h-36 w-full object-cover" />
+              <img src="/images/haenam-183.webp" alt="디테일 뷰 2" class="rounded-lg h-36 w-full object-cover" />
+              <img src="/images/haenam-185.webp" alt="디테일 뷰 3" class="rounded-lg h-36 w-full object-cover" />
+              <img src="/images/haenam-187.webp" alt="디테일 뷰 4" class="rounded-lg h-36 w-full object-cover" />
+            </div>
+          </div>
+
+          <!-- 3. Writer/Creator -->
+          <div class="flex flex-col md:flex-row gap-6 items-center">
+            <div class="md:w-1/2">
+              <h4 class="text-xl font-bold text-green-950 mb-3">3. [MZ/사진작가] "자연의 기하학적 선 and 여백의 미학"</h4>
+              <p class="text-neutral-600 leading-relaxed mb-3">
+                정형화된 포토존에 갇히지 말고 나뭇잎 사이로 부서지는 자연광, 길게 뻗은 메타세쿼이아와 곡선으로 이어지는 흙길의 대비에 카메라 렌즈를 맞추어 보세요. 여백의 미를 살린 프레임은 당신의 피드를 더욱 감각적으로 풍성하게 만들어 줍니다.
+              </p>
+            </div>
+            <div class="md:w-1/2 w-full">
+              <img src="/images/haenam-189.webp" alt="기하학적인 자연의 아름다움" class="rounded-2xl shadow-md w-full h-56 object-cover" />
+            </div>
+          </div>
+
+          <!-- 4. Solo Traveler -->
+          <div class="flex flex-col md:flex-row-reverse gap-6 items-center">
+            <div class="md:w-1/2">
+              <h4 class="text-xl font-bold text-green-950 mb-3">4. [솔로 여행자] "나를 돌아보는 1인 다큐멘터리"</h4>
+              <p class="text-neutral-600 leading-relaxed mb-3">
+                오늘만큼은 스마트폰 음악 대신, 정원의 사각거리는 흙밟는 소리, 흔들리는 나뭇가지 소리를 배경 삼아 혼자만의 깊은 호흡을 즐겨보세요. 복잡했던 생각들이 정갈하게 정리되는 휴식의 정거장입니다.
+              </p>
+            </div>
+            <div class="md:w-1/2 w-full">
+              <img src="/images/haenam-191.webp" alt="한적한 벤치 쉼터" class="rounded-2xl shadow-md w-full h-56 object-cover" />
+            </div>
+          </div>
+
+          <!-- Grid Section 4 (Beautiful view collection 192-200) -->
+          <div class="grid grid-cols-2 sm:grid-cols-5 gap-2 my-8">
+            <img src="/images/haenam-193.webp" alt="정원 풍경 1" class="rounded-lg h-28 w-full object-cover" />
+            <img src="/images/haenam-195.webp" alt="정원 풍경 2" class="rounded-lg h-28 w-full object-cover" />
+            <img src="/images/haenam-197.webp" alt="정원 풍경 3" class="rounded-lg h-28 w-full object-cover" />
+            <img src="/images/haenam-199.webp" alt="정원 풍경 4" class="rounded-lg h-28 w-full object-cover" />
+            <img src="/images/haenam-201.webp" alt="정원 풍경 5" class="rounded-lg h-28 w-full object-cover" />
+          </div>
+
+          <!-- 5. Digital Nomad -->
+          <div class="flex flex-col md:flex-row gap-6 items-center">
+            <div class="md:w-1/2">
+              <h4 class="text-xl font-bold text-green-950 mb-3">5. [디지털 노마드] "초록을 빌린 오피스, 워케이션의 성지"</h4>
+              <p class="text-neutral-600 leading-relaxed mb-3">
+                모니터 앞에서 막혔던 창작의 막이 문가든의 통창 뷰 너머 펼쳐지는 전경과 만나 시원하게 트입니다. 차분한 클래식 음악이 흐르는 실내 카페 테이블에서 커피와 함께 자연스러운 영감을 느껴보세요.
+              </p>
+            </div>
+            <div class="md:w-1/2 w-full">
+              <img src="/images/haenam-203.webp" alt="영감을 주는 카페 내부 전경" class="rounded-2xl shadow-md w-full h-56 object-cover" />
+            </div>
+          </div>
+
+          <!-- 6. Senior & Nature lovers -->
+          <div class="flex flex-col md:flex-row-reverse gap-6 items-center">
+            <div class="md:w-1/2">
+              <h4 class="text-xl font-bold text-green-950 mb-3">6. [시니어/가족모임] "눈이 편안하고 발끝이 안전한 휴식"</h4>
+              <p class="text-neutral-600 leading-relaxed mb-3">
+                무리한 오르막 경사 없이 조화롭게 다듬어진 잔디밭 정원과 단체석이 있는 넓은 테라스는 부모님을 모시고 오기에 아주 훌륭합니다. 옛 오류제 제방의 정취를 나누며 여유로운 한때를 보내세요.
+              </p>
+            </div>
+            <div class="md:w-1/2 w-full">
+              <img src="/images/haenam-205.webp" alt="편안한 정원 전경" class="rounded-2xl shadow-md w-full h-56 object-cover" />
+            </div>
+          </div>
+        </div>
+
+        <hr class="border-neutral-200 my-12" />
+
+        <!-- photo guide & location maps (206-208) -->
+        <h3 class="text-2xl font-bold text-neutral-900 mb-6 text-center">📸 인생 포토 포인트 & 골든타임</h3>
+        <div class="grid grid-cols-1 sm:grid-cols-3 gap-4 mb-8">
+          <div class="bg-neutral-50 rounded-xl overflow-hidden shadow-sm">
+            <img src="/images/haenam-206.webp" alt="포토존 1" class="w-full h-48 object-cover" />
+            <div class="p-3 text-center text-xs font-semibold text-neutral-700">오두막 창가 샷</div>
+          </div>
+          <div class="bg-neutral-50 rounded-xl overflow-hidden shadow-sm">
+            <img src="/images/haenam-207.webp" alt="포토존 2" class="w-full h-48 object-cover" />
+            <div class="p-3 text-center text-xs font-semibold text-neutral-700">오류제 반사 실루엣 샷</div>
+          </div>
+          <div class="bg-neutral-50 rounded-xl overflow-hidden shadow-sm">
+            <img src="/images/haenam-208.webp" alt="포토존 3" class="w-full h-48 object-cover" />
+            <div class="p-3 text-center text-xs font-semibold text-neutral-700">메타세쿼이아 오솔길 샷</div>
+          </div>
+        </div>
+        <div class="bg-green-50 p-6 rounded-2xl border border-green-100 text-sm text-green-950">
+          💡 <strong>추천 골든타임:</strong> 오전 10시 30분(정원 이슬이 걷히며 아침 햇살이 가장 맑게 쏟아질 때) 혹은 오후 4시 30분(따사로운 긴 그림자가 정원을 한층 입체적으로 빚어낼 때).
+        </div>
+
+        <hr class="border-neutral-200 my-12" />
+
+        <!-- Nearby eat and stay -->
+        <div class="mb-12">
+          <h3 class="text-2xl font-bold text-neutral-900 mb-6 flex items-center gap-2">
+            <span class="text-green-700">🏠</span> 교통편 및 연계 여행 가이드
+          </h3>
+          <div class="space-y-4 text-neutral-700 leading-relaxed text-sm">
+            <p>
+              📍 <strong>교통 안내:</strong> 남해고속도로 혹은 국도 13호선을 타고 '해남군 계곡면'으로 진입하면 편리합니다. 대중교통 배차 시간이 길어 자차 혹은 렌터카 이동을 추천합니다.
+            </p>
+            <p>
+              🍽 <strong>연계 맛집 추천:</strong> 문가든에서 차로 20-25분 이동하여 해남읍의 로컬 별미인 '토종닭 코스요리'나 정갈한 '남도 떡갈비 정식'을 즐겨보세요.
+            </p>
+            <p>
+              🏨 <strong>인근 추천 숙소:</strong> 고즈넉한 여운을 잇는 '해남 한옥민박'이나, 탁 트인 남해 바다 조망이 어우러진 깔끔한 '해남 땅끝호텔'을 권장합니다.
+            </p>
+          </div>
+        </div>
+
+        <hr class="border-neutral-200 my-10" />
+
+        <!-- Footer -->
+        <footer class="text-center py-10">
+          <p class="text-lg font-serif italic text-green-900 mb-2">🌳 남도예술정원</p>
+          <p class="text-[10px] text-neutral-400 tracking-widest uppercase">© 2026 NAMDO ART GARDEN | AI TRAVEL ARCHIVE</p>
+        </footer>
+      </div>
+    
     `,
-    image: "/images/haenam-151.webp",
+    image: "/images/haenam-169.webp",
     date: "2026-03-22",
     author: "남도예술정원 AI리서처",
     readTime: "5분",
