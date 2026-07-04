@@ -11,6 +11,41 @@ export default function PostDetail() {
   const { id } = useParams();
   const post = POST_DATA[id];
   const [copied, setCopied] = useState(false);
+  const [activeImage, setActiveImage] = useState(null);
+
+  React.useEffect(() => {
+    const proseEl = document.querySelector('.prose');
+    if (proseEl) {
+      const imgs = proseEl.querySelectorAll('img');
+      imgs.forEach(img => {
+        img.style.cursor = 'zoom-in';
+        img.title = '클릭하면 고해상도 이미지로 확대 및 다운로드 가능합니다.';
+      });
+    }
+  }, [post]);
+
+  const handleImageClick = (e) => {
+    if (e.target.tagName === 'IMG') {
+      setActiveImage(e.target.src);
+    }
+  };
+
+  const handleDownload = async (url) => {
+    try {
+      const response = await fetch(url);
+      const blob = await response.blob();
+      const blobUrl = window.URL.createObjectURL(blob);
+      const link = document.createElement('a');
+      link.href = blobUrl;
+      link.download = url.split('/').pop();
+      document.body.appendChild(link);
+      link.click();
+      document.body.removeChild(link);
+      window.URL.revokeObjectURL(blobUrl);
+    } catch (error) {
+      window.open(url, '_blank');
+    }
+  };
 
   // AI Recommendation Logic: Select 3 random posts
   const recommendedPosts = useMemo(() => {
@@ -123,6 +158,7 @@ export default function PostDetail() {
               animate={{ opacity: 1, y: 0 }}
               transition={{ delay: 0.4, duration: 0.8 }}
               className="prose prose-lg md:prose-xl prose-neutral max-w-none text-neutral-800"
+              onClick={handleImageClick}
               dangerouslySetInnerHTML={{ __html: post.content }}
             />
 
@@ -314,6 +350,52 @@ export default function PostDetail() {
 
         </div>
       </section>
+
+      {/* Lightbox Modal */}
+      <AnimatePresence>
+        {activeImage && (
+          <motion.div
+            initial={{ opacity: 0 }}
+            animate={{ opacity: 1 }}
+            exit={{ opacity: 0 }}
+            onClick={() => setActiveImage(null)}
+            className="fixed inset-0 z-50 bg-black/90 flex flex-col items-center justify-center p-4 cursor-zoom-out"
+          >
+            <motion.div
+              initial={{ scale: 0.95 }}
+              animate={{ scale: 1 }}
+              exit={{ scale: 0.95 }}
+              onClick={(e) => e.stopPropagation()}
+              className="relative max-w-4xl max-h-[85vh] flex flex-col items-center bg-neutral-900 rounded-3xl overflow-hidden shadow-2xl p-4 cursor-default border border-neutral-800"
+            >
+              <div className="w-full flex justify-end mb-2">
+                <button
+                  onClick={() => setActiveImage(null)}
+                  className="bg-neutral-800 hover:bg-neutral-700 text-white text-xs px-3 py-1.5 rounded-full transition-all border border-neutral-700 font-bold"
+                >
+                  ✕ 닫기
+                </button>
+              </div>
+
+              <img 
+                src={activeImage} 
+                alt="고해상도 이미지" 
+                className="max-w-full max-h-[65vh] object-contain rounded-xl shadow-inner" 
+              />
+              
+              <div className="w-full flex items-center justify-center gap-4 mt-6">
+                <button
+                  onClick={() => handleDownload(activeImage)}
+                  className="bg-green-700 hover:bg-green-600 text-white font-bold text-sm px-8 py-3.5 rounded-full shadow-lg transition-all flex items-center gap-2 hover:scale-105"
+                >
+                  <svg className="w-4 h-4 fill-current" viewBox="0 0 24 24"><path d="M19 9h-4V3H9v6H5l7 7 7-7zM5 18v2h14v-2H5z"/></svg>
+                  고해상도 다운로드 받기
+                </button>
+              </div>
+            </motion.div>
+          </motion.div>
+        )}
+      </AnimatePresence>
     </div>
   );
 }
