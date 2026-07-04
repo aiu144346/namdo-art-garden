@@ -4929,7 +4929,7 @@ Please change the parent <Route path="${e}"> to <Route path="${e===`/`?`*`:`${e}
         </footer>
       </div>
     
-    `,image:`/images/haenam-169.webp`,date:`2026-03-22`,author:`남도예술정원 AI리서처`,readTime:`5분`,keywords:`문가든, 해남가볼만한곳, 해남카페, 전남민간정원, 해남여행코스, 남도예술정원`},"h25-haenam-secret-garden":{title:`[해남 여행] 비원(Secret Garden): 8인의 주인공이 기록한 16개의 시네마틱 다큐멘터리`,description:`다랑이 논의 지형을 살린 독특한 층상 구조와 숲, 폭포가 어우러진 수목원형 힐링 카페입니다.`,content:`
+    `,image:`/images/haenam-169.webp`,date:`업데이트 2026-07-04`,author:`남도예술정원 AI리서처`,readTime:`5분`,keywords:`문가든, 해남가볼만한곳, 해남카페, 전남민간정원, 해남여행코스, 남도예술정원`},"h25-haenam-secret-garden":{title:`[해남 여행] 비원(Secret Garden): 8인의 주인공이 기록한 16개의 시네마틱 다큐멘터리`,description:`다랑이 논의 지형을 살린 독특한 층상 구조와 숲, 폭포가 어우러진 수목원형 힐링 카페입니다.`,content:`
       <h2>[해남 여행] 비원(Secret Garden):<br/>8인의 주인공이 기록한<br/>16개의 시네마틱 다큐멘터리</h2>
       
       <p>안녕하세요! 남도예술정원의 공식 콘텐츠 디렉터입니다.</p>
