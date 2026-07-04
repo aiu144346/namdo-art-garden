@@ -696,10 +696,10 @@ export const postsHaenam = {
           <div class="bg-neutral-50 p-6 rounded-3xl my-8">
             <p class="text-center font-bold text-neutral-700 mb-4">📸 문가든 정원의 다채로운 풍경 아카이브</p>
             <div class="grid grid-cols-2 sm:grid-cols-4 gap-3">
-              <img src="/images/haenam-181.webp" alt="디테일 뷰 1" class="rounded-lg h-36 w-full object-cover" />
-              <img src="/images/haenam-183.webp" alt="디테일 뷰 2" class="rounded-lg h-36 w-full object-cover" />
-              <img src="/images/haenam-185.webp" alt="디테일 뷰 3" class="rounded-lg h-36 w-full object-cover" />
-              <img src="/images/haenam-187.webp" alt="디테일 뷰 4" class="rounded-lg h-36 w-full object-cover" />
+              <img src="/images/haenam-209.webp" alt="디테일 뷰 1" class="rounded-lg h-36 w-full object-cover" />
+              <img src="/images/haenam-213.webp" alt="디테일 뷰 2" class="rounded-lg h-36 w-full object-cover" />
+              <img src="/images/haenam-217.webp" alt="디테일 뷰 3" class="rounded-lg h-36 w-full object-cover" />
+              <img src="/images/haenam-221.webp" alt="디테일 뷰 4" class="rounded-lg h-36 w-full object-cover" />
             </div>
           </div>
 
@@ -732,8 +732,8 @@ export const postsHaenam = {
           <!-- Grid Section 4 (Beautiful view collection 192-200) -->
           <div class="grid grid-cols-2 sm:grid-cols-5 gap-2 my-8">
             <img src="/images/haenam-193.webp" alt="정원 풍경 1" class="rounded-lg h-28 w-full object-cover" />
-            <img src="/images/haenam-195.webp" alt="정원 풍경 2" class="rounded-lg h-28 w-full object-cover" />
-            <img src="/images/haenam-197.webp" alt="정원 풍경 3" class="rounded-lg h-28 w-full object-cover" />
+            <img src="/images/haenam-210.webp" alt="정원 풍경 2" class="rounded-lg h-28 w-full object-cover" />
+            <img src="/images/haenam-214.webp" alt="정원 풍경 3" class="rounded-lg h-28 w-full object-cover" />
             <img src="/images/haenam-199.webp" alt="정원 풍경 4" class="rounded-lg h-28 w-full object-cover" />
             <img src="/images/haenam-201.webp" alt="정원 풍경 5" class="rounded-lg h-28 w-full object-cover" />
           </div>
@@ -769,18 +769,45 @@ export const postsHaenam = {
 
         <!-- photo guide & location maps (206-208) -->
         <h3 class="text-2xl font-bold text-neutral-900 mb-6 text-center">📸 인생 포토 포인트 & 골든타임</h3>
-        <div class="grid grid-cols-1 sm:grid-cols-3 gap-4 mb-8">
-          <div class="bg-neutral-50 rounded-xl overflow-hidden shadow-sm">
-            <img src="/images/haenam-206.webp" alt="포토존 1" class="w-full h-48 object-cover" />
-            <div class="p-3 text-center text-xs font-semibold text-neutral-700">오두막 창가 샷</div>
+        <div class="grid grid-cols-1 sm:grid-cols-3 gap-6 mb-8">
+          <!-- 1. 오두막 창가 샷 -->
+          <div class="bg-white rounded-2xl overflow-hidden shadow-md border border-neutral-100 hover:shadow-lg transition-all duration-300">
+            <div class="relative overflow-hidden h-48">
+              <img src="/images/haenam-171.webp" alt="오두막 창가 샷" class="w-full h-full object-cover transition-all duration-500 hover:scale-110 filter sepia-[0.3] brightness-[0.95] contrast-[1.05] saturate-[1.2]" />
+              <span class="absolute top-3 left-3 bg-amber-500/90 text-white text-[10px] font-bold px-2 py-1 rounded-full uppercase tracking-wider">Cozy Vintage</span>
+            </div>
+            <div class="p-4">
+              <h4 class="font-bold text-neutral-900 text-sm mb-2 text-center">오두막 창가 샷</h4>
+              <p class="text-[11px] text-neutral-500 leading-relaxed text-center">
+                따뜻한 햇빛이 내리쬐는 오두막의 아늑함을 담는 포인트. 세피아톤 필터로 빈티지하고 따스한 감성을 극대화합니다.
+              </p>
+            </div>
           </div>
-          <div class="bg-neutral-50 rounded-xl overflow-hidden shadow-sm">
-            <img src="/images/haenam-207.webp" alt="포토존 2" class="w-full h-48 object-cover" />
-            <div class="p-3 text-center text-xs font-semibold text-neutral-700">오류제 반사 실루엣 샷</div>
+          <!-- 2. 오류제 반사 실루엣 샷 -->
+          <div class="bg-white rounded-2xl overflow-hidden shadow-md border border-neutral-100 hover:shadow-lg transition-all duration-300">
+            <div class="relative overflow-hidden h-48">
+              <img src="/images/haenam-175.webp" alt="오류제 반사 실루엣 샷" class="w-full h-full object-cover transition-all duration-500 hover:scale-110 filter brightness-[0.8] contrast-[1.25] saturate-[0.8] hue-rotate-[15deg]" />
+              <span class="absolute top-3 left-3 bg-blue-500/90 text-white text-[10px] font-bold px-2 py-1 rounded-full uppercase tracking-wider">Dreamy Calm</span>
+            </div>
+            <div class="p-4">
+              <h4 class="font-bold text-neutral-900 text-sm mb-2 text-center">오류제 반사 실루엣 샷</h4>
+              <p class="text-[11px] text-neutral-500 leading-relaxed text-center">
+                오류제 호수와 하늘의 대칭 반사를 연출하는 포인트. 푸른색 홀로그램 톤과 높은 대비로 몽환적인 분위기를 살립니다.
+              </p>
+            </div>
           </div>
-          <div class="bg-neutral-50 rounded-xl overflow-hidden shadow-sm">
-            <img src="/images/haenam-208.webp" alt="포토존 3" class="w-full h-48 object-cover" />
-            <div class="p-3 text-center text-xs font-semibold text-neutral-700">메타세쿼이아 오솔길 샷</div>
+          <!-- 3. 메타세콰이어 오솔길 샷 -->
+          <div class="bg-white rounded-2xl overflow-hidden shadow-md border border-neutral-100 hover:shadow-lg transition-all duration-300">
+            <div class="relative overflow-hidden h-48">
+              <img src="/images/haenam-208.webp" alt="메타세콰이어 오솔길 샷" class="w-full h-full object-cover transition-all duration-500 hover:scale-110 filter saturate-[1.4] contrast-[1.05] brightness-[1.05]" />
+              <span class="absolute top-3 left-3 bg-emerald-500/90 text-white text-[10px] font-bold px-2 py-1 rounded-full uppercase tracking-wider">Vibrant Forest</span>
+            </div>
+            <div class="p-4">
+              <h4 class="font-bold text-neutral-900 text-sm mb-2 text-center">메타세쿼이아 오솔길 샷</h4>
+              <p class="text-[11px] text-neutral-500 leading-relaxed text-center">
+                길게 뻗은 메타세쿼이아 숲길 포인트. 채도를 높인 비비드 필터로 푸릇푸릇한 초록색의 청량함을 선명하게 포착합니다.
+              </p>
+            </div>
           </div>
         </div>
         <div class="bg-green-50 p-6 rounded-2xl border border-green-100 text-sm text-green-950">
@@ -804,6 +831,113 @@ export const postsHaenam = {
             <p>
               🏨 <strong>인근 추천 숙소:</strong> 고즈넉한 여운을 잇는 '해남 한옥민박'이나, 탁 트인 남해 바다 조망이 어우러진 깔끔한 '해남 땅끝호텔'을 권장합니다.
             </p>
+          </div>
+        </div>
+
+        <!-- [문가든 갤러리] Section -->
+        <hr class="border-neutral-200 my-12" />
+        <div class="mb-12">
+          <h3 class="text-3xl font-extrabold text-neutral-900 mb-6 text-center">
+            🖼️ 문가든 갤러리 (Moon Garden Gallery)
+          </h3>
+          <p class="text-neutral-500 text-center mb-8">
+            정원 내의 다채롭고 아름다운 미공개 풍경들을 추가로 감상해 보세요. (총 31장)
+          </p>
+          
+          <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-4">
+            <div class="group relative overflow-hidden rounded-2xl shadow-sm border border-neutral-100 hover:shadow-md transition duration-300">
+              <img src="/images/haenam-172.webp" alt="문가든 미공개 갤러리 1" class="w-full h-40 object-cover group-hover:scale-105 transition duration-500" />
+            </div>
+            <div class="group relative overflow-hidden rounded-2xl shadow-sm border border-neutral-100 hover:shadow-md transition duration-300">
+              <img src="/images/haenam-174.webp" alt="문가든 미공개 갤러리 2" class="w-full h-40 object-cover group-hover:scale-105 transition duration-500" />
+            </div>
+            <div class="group relative overflow-hidden rounded-2xl shadow-sm border border-neutral-100 hover:shadow-md transition duration-300">
+              <img src="/images/haenam-176.webp" alt="문가든 미공개 갤러리 3" class="w-full h-40 object-cover group-hover:scale-105 transition duration-500" />
+            </div>
+            <div class="group relative overflow-hidden rounded-2xl shadow-sm border border-neutral-100 hover:shadow-md transition duration-300">
+              <img src="/images/haenam-178.webp" alt="문가든 미공개 갤러리 4" class="w-full h-40 object-cover group-hover:scale-105 transition duration-500" />
+            </div>
+            <div class="group relative overflow-hidden rounded-2xl shadow-sm border border-neutral-100 hover:shadow-md transition duration-300">
+              <img src="/images/haenam-180.webp" alt="문가든 미공개 갤러리 5" class="w-full h-40 object-cover group-hover:scale-105 transition duration-500" />
+            </div>
+            <div class="group relative overflow-hidden rounded-2xl shadow-sm border border-neutral-100 hover:shadow-md transition duration-300">
+              <img src="/images/haenam-182.webp" alt="문가든 미공개 갤러리 6" class="w-full h-40 object-cover group-hover:scale-105 transition duration-500" />
+            </div>
+            <div class="group relative overflow-hidden rounded-2xl shadow-sm border border-neutral-100 hover:shadow-md transition duration-300">
+              <img src="/images/haenam-184.webp" alt="문가든 미공개 갤러리 7" class="w-full h-40 object-cover group-hover:scale-105 transition duration-500" />
+            </div>
+            <div class="group relative overflow-hidden rounded-2xl shadow-sm border border-neutral-100 hover:shadow-md transition duration-300">
+              <img src="/images/haenam-186.webp" alt="문가든 미공개 갤러리 8" class="w-full h-40 object-cover group-hover:scale-105 transition duration-500" />
+            </div>
+            <div class="group relative overflow-hidden rounded-2xl shadow-sm border border-neutral-100 hover:shadow-md transition duration-300">
+              <img src="/images/haenam-188.webp" alt="문가든 미공개 갤러리 9" class="w-full h-40 object-cover group-hover:scale-105 transition duration-500" />
+            </div>
+            <div class="group relative overflow-hidden rounded-2xl shadow-sm border border-neutral-100 hover:shadow-md transition duration-300">
+              <img src="/images/haenam-190.webp" alt="문가든 미공개 갤러리 10" class="w-full h-40 object-cover group-hover:scale-105 transition duration-500" />
+            </div>
+            <div class="group relative overflow-hidden rounded-2xl shadow-sm border border-neutral-100 hover:shadow-md transition duration-300">
+              <img src="/images/haenam-192.webp" alt="문가든 미공개 갤러리 11" class="w-full h-40 object-cover group-hover:scale-105 transition duration-500" />
+            </div>
+            <div class="group relative overflow-hidden rounded-2xl shadow-sm border border-neutral-100 hover:shadow-md transition duration-300">
+              <img src="/images/haenam-194.webp" alt="문가든 미공개 갤러리 12" class="w-full h-40 object-cover group-hover:scale-105 transition duration-500" />
+            </div>
+            <div class="group relative overflow-hidden rounded-2xl shadow-sm border border-neutral-100 hover:shadow-md transition duration-300">
+              <img src="/images/haenam-196.webp" alt="문가든 미공개 갤러리 13" class="w-full h-40 object-cover group-hover:scale-105 transition duration-500" />
+            </div>
+            <div class="group relative overflow-hidden rounded-2xl shadow-sm border border-neutral-100 hover:shadow-md transition duration-300">
+              <img src="/images/haenam-198.webp" alt="문가든 미공개 갤러리 14" class="w-full h-40 object-cover group-hover:scale-105 transition duration-500" />
+            </div>
+            <div class="group relative overflow-hidden rounded-2xl shadow-sm border border-neutral-100 hover:shadow-md transition duration-300">
+              <img src="/images/haenam-200.webp" alt="문가든 미공개 갤러리 15" class="w-full h-40 object-cover group-hover:scale-105 transition duration-500" />
+            </div>
+            <div class="group relative overflow-hidden rounded-2xl shadow-sm border border-neutral-100 hover:shadow-md transition duration-300">
+              <img src="/images/haenam-202.webp" alt="문가든 미공개 갤러리 16" class="w-full h-40 object-cover group-hover:scale-105 transition duration-500" />
+            </div>
+            <div class="group relative overflow-hidden rounded-2xl shadow-sm border border-neutral-100 hover:shadow-md transition duration-300">
+              <img src="/images/haenam-204.webp" alt="문가든 미공개 갤러리 17" class="w-full h-40 object-cover group-hover:scale-105 transition duration-500" />
+            </div>
+            <div class="group relative overflow-hidden rounded-2xl shadow-sm border border-neutral-100 hover:shadow-md transition duration-300">
+              <img src="/images/haenam-181.webp" alt="문가든 미공개 갤러리 18" class="w-full h-40 object-cover group-hover:scale-105 transition duration-500" />
+            </div>
+            <div class="group relative overflow-hidden rounded-2xl shadow-sm border border-neutral-100 hover:shadow-md transition duration-300">
+              <img src="/images/haenam-195.webp" alt="문가든 미공개 갤러리 19" class="w-full h-40 object-cover group-hover:scale-105 transition duration-500" />
+            </div>
+            <div class="group relative overflow-hidden rounded-2xl shadow-sm border border-neutral-100 hover:shadow-md transition duration-300">
+              <img src="/images/haenam-211.webp" alt="문가든 미공개 갤러리 20" class="w-full h-40 object-cover group-hover:scale-105 transition duration-500" />
+            </div>
+            <div class="group relative overflow-hidden rounded-2xl shadow-sm border border-neutral-100 hover:shadow-md transition duration-300">
+              <img src="/images/haenam-212.webp" alt="문가든 미공개 갤러리 21" class="w-full h-40 object-cover group-hover:scale-105 transition duration-500" />
+            </div>
+            <div class="group relative overflow-hidden rounded-2xl shadow-sm border border-neutral-100 hover:shadow-md transition duration-300">
+              <img src="/images/haenam-183.webp" alt="문가든 미공개 갤러리 22" class="w-full h-40 object-cover group-hover:scale-105 transition duration-500" />
+            </div>
+            <div class="group relative overflow-hidden rounded-2xl shadow-sm border border-neutral-100 hover:shadow-md transition duration-300">
+              <img src="/images/haenam-197.webp" alt="문가든 미공개 갤러리 23" class="w-full h-40 object-cover group-hover:scale-105 transition duration-500" />
+            </div>
+            <div class="group relative overflow-hidden rounded-2xl shadow-sm border border-neutral-100 hover:shadow-md transition duration-300">
+              <img src="/images/haenam-215.webp" alt="문가든 미공개 갤러리 24" class="w-full h-40 object-cover group-hover:scale-105 transition duration-500" />
+            </div>
+            <div class="group relative overflow-hidden rounded-2xl shadow-sm border border-neutral-100 hover:shadow-md transition duration-300">
+              <img src="/images/haenam-216.webp" alt="문가든 미공개 갤러리 25" class="w-full h-40 object-cover group-hover:scale-105 transition duration-500" />
+            </div>
+            <div class="group relative overflow-hidden rounded-2xl shadow-sm border border-neutral-100 hover:shadow-md transition duration-300">
+              <img src="/images/haenam-185.webp" alt="문가든 미공개 갤러리 26" class="w-full h-40 object-cover group-hover:scale-105 transition duration-500" />
+            </div>
+            <div class="group relative overflow-hidden rounded-2xl shadow-sm border border-neutral-100 hover:shadow-md transition duration-300">
+              <img src="/images/haenam-218.webp" alt="문가든 미공개 갤러리 27" class="w-full h-40 object-cover group-hover:scale-105 transition duration-500" />
+            </div>
+            <div class="group relative overflow-hidden rounded-2xl shadow-sm border border-neutral-100 hover:shadow-md transition duration-300">
+              <img src="/images/haenam-219.webp" alt="문가든 미공개 갤러리 28" class="w-full h-40 object-cover group-hover:scale-105 transition duration-500" />
+            </div>
+            <div class="group relative overflow-hidden rounded-2xl shadow-sm border border-neutral-100 hover:shadow-md transition duration-300">
+              <img src="/images/haenam-220.webp" alt="문가든 미공개 갤러리 29" class="w-full h-40 object-cover group-hover:scale-105 transition duration-500" />
+            </div>
+            <div class="group relative overflow-hidden rounded-2xl shadow-sm border border-neutral-100 hover:shadow-md transition duration-300">
+              <img src="/images/haenam-187.webp" alt="문가든 미공개 갤러리 30" class="w-full h-40 object-cover group-hover:scale-105 transition duration-500" />
+            </div>
+            <div class="group relative overflow-hidden rounded-2xl shadow-sm border border-neutral-100 hover:shadow-md transition duration-300">
+              <img src="/images/haenam-222.webp" alt="문가든 미공개 갤러리 31" class="w-full h-40 object-cover group-hover:scale-105 transition duration-500" />
+            </div>
           </div>
         </div>
 
