@@ -952,7 +952,7 @@ export const postsHaenam = {
     
     `,
     image: "/images/haenam-169.webp",
-    date: "2026-03-22",
+    date: "업데이트 2026-07-04",
     author: "남도예술정원 AI리서처",
     readTime: "5분",
     keywords: "문가든, 해남가볼만한곳, 해남카페, 전남민간정원, 해남여행코스, 남도예술정원"
