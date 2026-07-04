@@ -586,7 +586,7 @@ export const postsHaenam = {
             <figcaption class="text-xs text-neutral-500 text-center py-2 bg-neutral-50 border-t border-neutral-100">초록빛 서사시가 시작되는 정원의 길목</figcaption>
           </figure>
           <figure class="overflow-hidden rounded-2xl shadow-md border border-neutral-100 hover:shadow-lg transition duration-300">
-            <img src="/images/haenam-170.webp" alt="오류제 호수와 정원의 푸른 조화" class="w-full h-80 object-cover hover:scale-105 transition duration-500" />
+            <img src="/images/haenam-183.webp" alt="오류제 호수와 정원의 푸른 조화" class="w-full h-80 object-cover hover:scale-105 transition duration-500" />
             <figcaption class="text-xs text-neutral-500 text-center py-2 bg-neutral-50 border-t border-neutral-100">호수와 숲이 만나 완성하는 청량한 대비</figcaption>
           </figure>
         </div>
@@ -909,7 +909,7 @@ export const postsHaenam = {
               <img src="/images/haenam-212.webp" alt="문가든 미공개 갤러리 21" class="w-full h-40 object-cover group-hover:scale-105 transition duration-500" />
             </div>
             <div class="group relative overflow-hidden rounded-2xl shadow-sm border border-neutral-100 hover:shadow-md transition duration-300">
-              <img src="/images/haenam-183.webp" alt="문가든 미공개 갤러리 22" class="w-full h-40 object-cover group-hover:scale-105 transition duration-500" />
+              <img src="/images/haenam-170.webp" alt="문가든 미공개 갤러리 22" class="w-full h-40 object-cover group-hover:scale-105 transition duration-500" />
             </div>
             <div class="group relative overflow-hidden rounded-2xl shadow-sm border border-neutral-100 hover:shadow-md transition duration-300">
               <img src="/images/haenam-197.webp" alt="문가든 미공개 갤러리 23" class="w-full h-40 object-cover group-hover:scale-105 transition duration-500" />
