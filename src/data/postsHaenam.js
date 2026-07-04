@@ -656,7 +656,7 @@ export const postsHaenam = {
 
         <!-- Cinema Guide section -->
         <h3 class="text-3xl font-extrabold text-neutral-900 mb-8 text-center">
-          👤 8가지 페르소나별 '시네마틱' 상세 코스 가이드
+          👤 6가지 페르소나별 '시네마틱' 상세 코스 가이드
         </h3>
         
         <div class="space-y-12">
