@@ -725,7 +725,7 @@ export const postsHaenam = {
               </p>
             </div>
             <div class="md:w-1/2 w-full">
-              <img src="/images/haenam-208.webp" alt="한적한 벤치 쉼터" class="rounded-2xl shadow-md w-full h-56 object-cover" />
+              <img src="/images/haenam-222.webp" alt="한적한 벤치 쉼터" class="rounded-2xl shadow-md w-full h-56 object-cover" />
             </div>
           </div>
 
@@ -786,7 +786,7 @@ export const postsHaenam = {
           <!-- 2. 오류제 반사 실루엣 샷 -->
           <div class="bg-white rounded-2xl overflow-hidden shadow-md border border-neutral-100 hover:shadow-lg transition-all duration-300">
             <div class="relative overflow-hidden h-48">
-              <img src="/images/haenam-175.webp" alt="오류제 반사 실루엣 샷" class="w-full h-full object-cover transition-all duration-500 hover:scale-110 filter brightness-[0.8] contrast-[1.25] saturate-[0.8] hue-rotate-[15deg]" />
+              <img src="/images/haenam-207.webp" alt="오류제 반사 실루엣 샷" class="w-full h-full object-cover transition-all duration-500 hover:scale-110 filter brightness-[0.8] contrast-[1.25] saturate-[0.8] hue-rotate-[15deg]" />
               <span class="absolute top-3 left-3 bg-blue-500/90 text-white text-[10px] font-bold px-2 py-1 rounded-full uppercase tracking-wider">Dreamy Calm</span>
             </div>
             <div class="p-4">
@@ -799,7 +799,7 @@ export const postsHaenam = {
           <!-- 3. 메타세콰이어 오솔길 샷 -->
           <div class="bg-white rounded-2xl overflow-hidden shadow-md border border-neutral-100 hover:shadow-lg transition-all duration-300">
             <div class="relative overflow-hidden h-48">
-              <img src="/images/haenam-208.webp" alt="메타세콰이어 오솔길 샷" class="w-full h-full object-cover transition-all duration-500 hover:scale-110 filter saturate-[1.4] contrast-[1.05] brightness-[1.05]" />
+              <img src="/images/haenam-222.webp" alt="메타세콰이어 오솔길 샷" class="w-full h-full object-cover transition-all duration-500 hover:scale-110 filter saturate-[1.4] contrast-[1.05] brightness-[1.05]" />
               <span class="absolute top-3 left-3 bg-emerald-500/90 text-white text-[10px] font-bold px-2 py-1 rounded-full uppercase tracking-wider">Vibrant Forest</span>
             </div>
             <div class="p-4">
@@ -936,7 +936,7 @@ export const postsHaenam = {
               <img src="/images/haenam-189.webp" alt="문가든 미공개 갤러리 30" class="w-full h-40 object-cover group-hover:scale-105 transition duration-500" />
             </div>
             <div class="group relative overflow-hidden rounded-2xl shadow-sm border border-neutral-100 hover:shadow-md transition duration-300">
-              <img src="/images/haenam-191.webp" alt="문가든 미공개 갤러리 31" class="w-full h-40 object-cover group-hover:scale-105 transition duration-500" />
+              <img src="/images/haenam-208.webp" alt="문가든 미공개 갤러리 31" class="w-full h-40 object-cover group-hover:scale-105 transition duration-500" />
             </div>
           </div>
         </div>
