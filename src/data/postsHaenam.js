@@ -639,7 +639,7 @@ export const postsHaenam = {
         <!-- 3-Grid Gallery Block 2 -->
         <div class="grid grid-cols-1 sm:grid-cols-3 gap-4 my-10">
           <figure class="rounded-xl overflow-hidden shadow-sm hover:shadow-md transition">
-            <img src="/images/haenam-171.webp" alt="오두막 쉼터" class="w-full h-64 object-cover hover:scale-105 transition duration-500" />
+            <img src="/images/haenam-159.webp" alt="오두막 쉼터" class="w-full h-64 object-cover hover:scale-105 transition duration-500" />
             <figcaption class="text-center text-[10px] text-neutral-500 py-1 bg-neutral-50">감성 가득한 나무 오두막</figcaption>
           </figure>
           <figure class="rounded-xl overflow-hidden shadow-sm hover:shadow-md transition">
@@ -647,7 +647,7 @@ export const postsHaenam = {
             <figcaption class="text-center text-[10px] text-neutral-500 py-1 bg-neutral-50">초록이 우거진 아치 길</figcaption>
           </figure>
           <figure class="rounded-xl overflow-hidden shadow-sm hover:shadow-md transition">
-            <img src="/images/haenam-175.webp" alt="오류제 호수 전망" class="w-full h-64 object-cover hover:scale-105 transition duration-500" />
+            <img src="/images/haenam-185.webp" alt="오류제 호수 전망" class="w-full h-64 object-cover hover:scale-105 transition duration-500" />
             <figcaption class="text-center text-[10px] text-neutral-500 py-1 bg-neutral-50">오류제 너머 펼쳐지는 전경</figcaption>
           </figure>
         </div>
@@ -773,7 +773,7 @@ export const postsHaenam = {
           <!-- 1. 오두막 창가 샷 -->
           <div class="bg-white rounded-2xl overflow-hidden shadow-md border border-neutral-100 hover:shadow-lg transition-all duration-300">
             <div class="relative overflow-hidden h-48">
-              <img src="/images/haenam-171.webp" alt="오두막 창가 샷" class="w-full h-full object-cover transition-all duration-500 hover:scale-110 filter sepia-[0.3] brightness-[0.95] contrast-[1.05] saturate-[1.2]" />
+              <img src="/images/haenam-206.webp" alt="오두막 창가 샷" class="w-full h-full object-cover transition-all duration-500 hover:scale-110 filter sepia-[0.3] brightness-[0.95] contrast-[1.05] saturate-[1.2]" />
               <span class="absolute top-3 left-3 bg-amber-500/90 text-white text-[10px] font-bold px-2 py-1 rounded-full uppercase tracking-wider">Cozy Vintage</span>
             </div>
             <div class="p-4">
@@ -876,7 +876,7 @@ export const postsHaenam = {
               <img src="/images/haenam-190.webp" alt="문가든 미공개 갤러리 10" class="w-full h-40 object-cover group-hover:scale-105 transition duration-500" />
             </div>
             <div class="group relative overflow-hidden rounded-2xl shadow-sm border border-neutral-100 hover:shadow-md transition duration-300">
-              <img src="/images/haenam-192.webp" alt="문가든 미공개 갤러리 11" class="w-full h-40 object-cover group-hover:scale-105 transition duration-500" />
+              <img src="/images/haenam-171.webp" alt="문가든 미공개 갤러리 11" class="w-full h-40 object-cover group-hover:scale-105 transition duration-500" />
             </div>
             <div class="group relative overflow-hidden rounded-2xl shadow-sm border border-neutral-100 hover:shadow-md transition duration-300">
               <img src="/images/haenam-194.webp" alt="문가든 미공개 갤러리 12" class="w-full h-40 object-cover group-hover:scale-105 transition duration-500" />
@@ -921,7 +921,7 @@ export const postsHaenam = {
               <img src="/images/haenam-216.webp" alt="문가든 미공개 갤러리 25" class="w-full h-40 object-cover group-hover:scale-105 transition duration-500" />
             </div>
             <div class="group relative overflow-hidden rounded-2xl shadow-sm border border-neutral-100 hover:shadow-md transition duration-300">
-              <img src="/images/haenam-185.webp" alt="문가든 미공개 갤러리 26" class="w-full h-40 object-cover group-hover:scale-105 transition duration-500" />
+              <img src="/images/haenam-175.webp" alt="문가든 미공개 갤러리 26" class="w-full h-40 object-cover group-hover:scale-105 transition duration-500" />
             </div>
             <div class="group relative overflow-hidden rounded-2xl shadow-sm border border-neutral-100 hover:shadow-md transition duration-300">
               <img src="/images/haenam-218.webp" alt="문가든 미공개 갤러리 27" class="w-full h-40 object-cover group-hover:scale-105 transition duration-500" />
