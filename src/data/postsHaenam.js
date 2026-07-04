@@ -712,7 +712,7 @@ export const postsHaenam = {
               </p>
             </div>
             <div class="md:w-1/2 w-full">
-              <img src="/images/haenam-189.webp" alt="기하학적인 자연의 아름다움" class="rounded-2xl shadow-md w-full h-56 object-cover" />
+              <img src="/images/haenam-171.webp" alt="기하학적인 자연의 아름다움" class="rounded-2xl shadow-md w-full h-56 object-cover" />
             </div>
           </div>
 
@@ -933,7 +933,7 @@ export const postsHaenam = {
               <img src="/images/haenam-220.webp" alt="문가든 미공개 갤러리 29" class="w-full h-40 object-cover group-hover:scale-105 transition duration-500" />
             </div>
             <div class="group relative overflow-hidden rounded-2xl shadow-sm border border-neutral-100 hover:shadow-md transition duration-300">
-              <img src="/images/haenam-179.webp" alt="문가든 미공개 갤러리 30" class="w-full h-40 object-cover group-hover:scale-105 transition duration-500" />
+              <img src="/images/haenam-189.webp" alt="문가든 미공개 갤러리 30" class="w-full h-40 object-cover group-hover:scale-105 transition duration-500" />
             </div>
             <div class="group relative overflow-hidden rounded-2xl shadow-sm border border-neutral-100 hover:shadow-md transition duration-300">
               <img src="/images/haenam-191.webp" alt="문가든 미공개 갤러리 31" class="w-full h-40 object-cover group-hover:scale-105 transition duration-500" />
