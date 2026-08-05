@@ -1059,5 +1059,143 @@ export const postsMain = {
     "date": "2026-03-27",
     "author": "남도예술정원 AI리서처",
     "readTime": "15분"
+  },
+  "press-260728-ikbc-coop": {
+    "id": "press-260728-ikbc-coop",
+    "regionId": "haenam",
+    "title": "남도예술정원 협동조합 \"정원 관광의 새로운 이정표\"",
+    "description": "남도예술정원 협동조합이 해남 산이정원에서 현판식을 개최하고, 전남 7개 민간정원이 모여 남도 정원관광의 자생력 강화와 시너지 창출을 도모하는 새로운 첫발을 내디뎠습니다.",
+    "keywords": "남도예술정원 협동조합, 정원관광, 해남 산이정원, 포레스트 수목원, 문가든, 진도휴식, 완도 바하정원, 신안 파인클라우드, 비원, KBC광주방송",
+    "content": `
+      <div class="max-w-3xl mx-auto space-y-12 text-neutral-800 leading-relaxed font-sans mt-8 px-4 md:px-0">
+        
+        <!-- Natural Deep Green Header Section -->
+        <div class="bg-gradient-to-br from-[#0e2a1f] via-[#143d2d] to-[#1e523e] text-white rounded-3xl p-8 md:p-12 shadow-xl border border-emerald-800/40 relative overflow-hidden">
+          <div class="absolute -right-16 -bottom-16 w-56 h-56 bg-emerald-500/15 rounded-full blur-3xl"></div>
+          <div class="absolute -left-12 -top-12 w-40 h-40 bg-emerald-400/10 rounded-full blur-2xl"></div>
+          <div class="relative z-10 space-y-6">
+            <div class="flex items-center gap-3">
+              <span class="bg-emerald-600/90 text-white text-[10px] md:text-xs font-bold uppercase tracking-[0.2em] px-4 py-1.5 rounded-full border border-emerald-400/30 backdrop-blur-sm">
+                언론보도 | KBC광주방송
+              </span>
+              <span class="text-xs text-emerald-200/80 font-mono">2026.07.28</span>
+            </div>
+            <h1 class="text-2xl md:text-4xl font-serif font-bold leading-tight md:leading-normal text-white">
+              남도예술정원 협동조합<br />
+              <span class="text-emerald-300 font-sans">"정원 관광의 새로운 이정표를 세우다"</span>
+            </h1>
+            <p class="text-sm md:text-base text-emerald-100/90 font-light leading-relaxed">
+              관광산업 콘텐츠로서 지역 정원의 경쟁력을 강화하고, 7개 대표 민간정원이 모여 지속 가능한 남도 정원관광의 생태계를 구축합니다.
+            </p>
+          </div>
+        </div>
+
+        <!-- Thumbnail Image -->
+        <div class="space-y-4">
+          <div class="relative group overflow-hidden rounded-3xl border border-emerald-900/20 shadow-xl bg-emerald-950">
+            <img 
+              src="https://www.ikbc.co.kr/data/kbc/image/2026/07/28/kbc202607280020.jpg" 
+              alt="남도예술정원 협동조합 현판식 이미지" 
+              class="w-full h-auto object-cover max-h-[550px]"
+            />
+            <div class="p-4 bg-[#143d2d] text-emerald-100 text-xs text-center border-t border-emerald-800/50">
+              ▲ 해남 산이정원에서 열린 남도예술정원 협동조합 현판식 현장 (출처: KBC광주방송)
+            </div>
+          </div>
+        </div>
+
+        <!-- Keywords Analysis -->
+        <div class="bg-emerald-50/70 rounded-3xl border border-emerald-200/80 p-8 md:p-10 space-y-6">
+          <h3 class="text-xl font-bold text-emerald-950 flex items-center gap-2 pb-4 border-b border-emerald-200 font-serif">
+            <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5 text-emerald-700" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><line x1="12" y1="16" x2="12" y2="12"/><line x1="12" y1="8" x2="12.01" y2="8"/></svg>
+            남도예술정원 핵심 키워드 3
+          </h3>
+          
+          <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+            <div class="bg-white p-6 rounded-2xl border border-emerald-100 space-y-2 shadow-sm">
+              <span class="text-xs text-emerald-700 font-bold tracking-widest uppercase block">KEYWORD 01</span>
+              <h4 class="text-lg font-bold text-neutral-900">정원 관광의 이정표</h4>
+              <p class="text-xs text-neutral-600 font-light leading-relaxed">
+                단순 관람을 넘어 정원과 예술, 관광이 융합된 차별화된 관광 콘텐츠 생태계를 조성합니다.
+              </p>
+            </div>
+            
+            <div class="bg-white p-6 rounded-2xl border border-emerald-100 space-y-2 shadow-sm">
+              <span class="text-xs text-emerald-700 font-bold tracking-widest uppercase block">KEYWORD 02</span>
+              <h4 class="text-lg font-bold text-neutral-900">7개 민간정원 연대</h4>
+              <p class="text-xs text-neutral-600 font-light leading-relaxed">
+                산이정원, 포레스트수목원, 문가든, 진도휴식, 바하정원, 파인클라우드 등 남도의 명품 정원들이 공동 협력합니다.
+              </p>
+            </div>
+            
+            <div class="bg-white p-6 rounded-2xl border border-emerald-100 space-y-2 shadow-sm">
+              <span class="text-xs text-emerald-700 font-bold tracking-widest uppercase block">KEYWORD 03</span>
+              <h4 class="text-lg font-bold text-neutral-900">지역 관광의 자생력</h4>
+              <p class="text-xs text-neutral-600 font-light leading-relaxed">
+                지역 소도시 간의 네트워크 구축을 통해 남부권 관광산업의 자립 기반과 지속 가능성을 다집니다.
+              </p>
+            </div>
+          </div>
+        </div>
+
+        <!-- Main Body Story -->
+        <div class="bg-white rounded-3xl border border-neutral-200/60 p-8 md:p-10 shadow-sm space-y-6 text-neutral-700 leading-relaxed font-light">
+          <h3 class="text-2xl font-serif font-bold text-neutral-900 pb-4 border-b border-neutral-100">
+            보도 내용 정리
+          </h3>
+
+          <p class="text-base md:text-lg text-neutral-800 font-normal leading-relaxed">
+            남도예술정원 협동조합이 해남 산이정원에서 공식 현판식을 개최하며 남도 정원관광의 새로운 도약을 공식 선언했습니다.
+          </p>
+
+          <p>
+            '남도 예술정원 협동조합'은 독창적인 관광산업 콘텐츠로서 지역 민간정원의 글로벌 경쟁력을 강화하고, 지역 관광산업 고유의 자생력과 협력 체계를 키우기 위해 출범했습니다.
+          </p>
+
+          <div class="my-8 p-6 bg-emerald-50/60 rounded-2xl border-l-4 border-emerald-600 space-y-2">
+            <h4 class="font-bold text-emerald-950 text-sm">협동조합 참여 7개 명품 정원</h4>
+            <p class="text-xs text-emerald-900/80 leading-relaxed">
+              해남 산이정원, 4est(포레스트)수목원, 해남 문가든, 진도휴식, 완도 바하정원, 신안 파인클라우드, 해남 비원
+            </p>
+          </div>
+
+          <p>
+            이번 협동조합 결성을 통해 남도 각지에 흩어져 있던 아름다운 민간정원들이 하나의 네트워크로 묶여 시너지를 창출하고, 방문객들에게 더욱 깊이 있는 예술 정원 투어 경험을 제공할 것으로 기대됩니다.
+          </p>
+        </div>
+
+        <!-- Original Article Link Button (High Contrast Design) -->
+        <div class="bg-gradient-to-br from-emerald-900 via-emerald-800 to-[#143d2d] text-white rounded-3xl p-8 md:p-10 text-center space-y-5 shadow-2xl border border-emerald-500/30 relative overflow-hidden">
+          <div class="absolute -right-10 -bottom-10 w-40 h-40 bg-emerald-400/20 rounded-full blur-2xl pointer-events-none"></div>
+          <div class="relative z-10 space-y-4">
+            <h4 class="text-2xl md:text-3xl font-serif font-bold text-white tracking-tight drop-shadow-sm">
+              KBC광주방송 원문 기사 확인하기
+            </h4>
+            <p class="text-sm md:text-base text-emerald-100 font-light leading-relaxed max-w-xl mx-auto opacity-95">
+              고익수 기자의 취재 원문 및 방송 영상 풀버전을 KBC 공식 뉴스 페이지에서 확인하실 수 있습니다.
+            </p>
+            <div class="pt-3">
+              <a 
+                href="https://news.ikbc.co.kr/article/view/kbc202607280011" 
+                target="_blank" 
+                rel="noopener noreferrer"
+                class="inline-flex items-center gap-2.5 bg-white text-emerald-950 hover:bg-emerald-50 px-8 py-4 rounded-full text-sm font-bold tracking-wide transition-all duration-300 shadow-xl hover:shadow-2xl hover:scale-105 active:scale-95 group"
+              >
+                <span>KBC 뉴스 원문 기사 바로가기</span>
+                <span class="text-emerald-700 font-bold group-hover:translate-x-0.5 group-hover:-translate-y-0.5 transition-transform">↗</span>
+              </a>
+            </div>
+          </div>
+        </div>
+
+        <div class="max-w-4xl mx-auto py-12 text-neutral-400 text-xs text-center border-t border-neutral-100 tracking-widest uppercase">
+          © 2026 Namdo Art Garden | KBC Press Release Archive
+        </div>
+      </div>
+    `,
+    "image": "https://www.ikbc.co.kr/data/kbc/image/2026/07/28/kbc202607280020.jpg",
+    "date": "2026-07-28",
+    "author": "KBC광주방송 (고익수 기자)",
+    "readTime": "3분"
   }
 };

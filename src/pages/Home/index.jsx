@@ -53,12 +53,23 @@ const NOTICES = [
 
 const PRESS_RELEASE = [
   {
+    id: 3,
+    title: '남도예술정원 협동조합 "정원 관광의 새로운 이정표"',
+    date: "2026.07.28",
+    desc: "남도예술정원 협동조합이 해남 산이정원에서 현판식을 갖고 남도 정원관광의 새로운 출발을 알렸습니다. 해남, 완도, 진도, 신안의 7개 명품 민간정원이 참여해 관광 자생력을 높입니다.",
+    thumbnail: "https://www.ikbc.co.kr/data/kbc/image/2026/07/28/kbc202607280020.jpg",
+    link: "/posts/press-260728-ikbc-coop",
+    isExternal: false,
+    source: "KBC광주방송"
+  },
+  {
     id: 1,
     title: "남도예술정원, 관광콘텐츠 크리에이터 공모전 개최",
     date: "2026.06.16",
     desc: "남부권 공동진흥사업 소도시 여행권역 육성사업의 일환으로, 2권역 정원 활성화를 위한 크리에이터 10팀을 선발합니다.",
     thumbnail: "/images/creator_contest.jpg",
     link: "https://www.newswire.co.kr/newsRead.php?no=1036697",
+    isExternal: true,
     source: "뉴스와이어"
   },
   {
@@ -68,6 +79,7 @@ const PRESS_RELEASE = [
     desc: "문화체육관광부와 전라남도, (재)전라남도관광재단에서는 남부권 광역관광 공동진흥사업으로 소도시 여행권역 육성사업을 추진하고 있습니다. 남도예술정원의 숨겨진 매력을 발굴하고 트렌디한 관광콘텐츠로 풀어낼 크리에이터를 모집합니다.",
     thumbnail: "/images/creator_contest_ijnto.jpg",
     link: "https://ijnto.or.kr/plaza/notice/read/562",
+    isExternal: true,
     source: "전남관광재단"
   }
 ];
@@ -448,39 +460,44 @@ export default function Home() {
                   transition={{ duration: 0.4 }}
                   className="grid grid-cols-1 md:grid-cols-3 gap-6"
                 >
-                  {PRESS_RELEASE.map((item) => (
-                    <a
-                      key={item.id}
-                      href={item.link}
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      className="group flex flex-col rounded-3xl overflow-hidden bg-white border border-neutral-200/50 hover:border-primary/30 shadow-sm hover:shadow-xl transition-all duration-500 cursor-pointer h-full"
-                    >
-                      <div className="relative aspect-[4/3] w-full overflow-hidden bg-neutral-100">
-                        <img
-                          src={item.thumbnail}
-                          alt={item.title}
-                          className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700"
-                        />
-                        <div className="absolute top-4 left-4 bg-neutral-950/80 backdrop-blur-sm px-3 py-1 rounded-full text-[10px] font-bold text-white tracking-widest uppercase">
-                          {item.source}
+                  {PRESS_RELEASE.map((item) => {
+                    const CardWrapper = item.isExternal ? 'a' : Link;
+                    const linkProps = item.isExternal 
+                      ? { href: item.link, target: "_blank", rel: "noopener noreferrer" }
+                      : { to: item.link };
+
+                    return (
+                      <CardWrapper
+                        key={item.id}
+                        {...linkProps}
+                        className="group flex flex-col rounded-3xl overflow-hidden bg-white border border-neutral-200/50 hover:border-primary/30 shadow-sm hover:shadow-xl transition-all duration-500 cursor-pointer h-full"
+                      >
+                        <div className="relative aspect-[4/3] w-full overflow-hidden bg-neutral-100">
+                          <img
+                            src={item.thumbnail}
+                            alt={item.title}
+                            className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700"
+                          />
+                          <div className="absolute top-4 left-4 bg-neutral-950/80 backdrop-blur-sm px-3 py-1 rounded-full text-[10px] font-bold text-white tracking-widest uppercase">
+                            {item.source}
+                          </div>
                         </div>
-                      </div>
-                      <div className="p-6 flex flex-col flex-grow justify-between space-y-4">
-                        <div className="space-y-2">
-                          <span className="text-[10px] font-bold text-neutral-400 tracking-wider font-mono block">{item.date}</span>
-                          <h3 className="text-base md:text-lg font-serif font-bold text-neutral-900 group-hover:text-primary transition-colors leading-snug line-clamp-2">
-                            {item.title}
-                          </h3>
-                          <p className="text-neutral-500 font-light text-xs line-clamp-3 leading-relaxed">{item.desc}</p>
+                        <div className="p-6 flex flex-col flex-grow justify-between space-y-4">
+                          <div className="space-y-2">
+                            <span className="text-[10px] font-bold text-neutral-400 tracking-wider font-mono block">{item.date}</span>
+                            <h3 className="text-base md:text-lg font-serif font-bold text-neutral-900 group-hover:text-primary transition-colors leading-snug line-clamp-2">
+                              {item.title}
+                            </h3>
+                            <p className="text-neutral-500 font-light text-xs line-clamp-3 leading-relaxed">{item.desc}</p>
+                          </div>
+                          <div className="pt-2 border-t border-neutral-100 flex items-center justify-between text-[10px] font-bold tracking-widest text-neutral-900 group-hover:text-primary transition-colors uppercase">
+                            <span>{item.isExternal ? '기사 원문 보기' : '소식 자세히 보기'}</span>
+                            <ExternalLink className="w-3.5 h-3.5 group-hover:translate-x-0.5 transition-transform" />
+                          </div>
                         </div>
-                        <div className="pt-2 border-t border-neutral-100 flex items-center justify-between text-[10px] font-bold tracking-widest text-neutral-900 group-hover:text-primary transition-colors uppercase">
-                          <span>기사 원문 보기</span>
-                          <ExternalLink className="w-3.5 h-3.5 group-hover:translate-x-0.5 transition-transform" />
-                        </div>
-                      </div>
-                    </a>
-                  ))}
+                      </CardWrapper>
+                    );
+                  })}
                 </motion.div>
               )}
             </AnimatePresence>
