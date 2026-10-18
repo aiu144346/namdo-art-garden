@@ -27,8 +27,7 @@ export const postsMain = {
 
         <!-- [1] Main Hero Photo -->
         <div class="space-y-2">
-          <img src="/images/Uldol/uldol-01.webp" alt="포효하는 울돌목과 웅장한 진도대교 파노라마" class="w-full rounded-3xl object-cover shadow-xl border border-neutral-100 max-h-[600px]" />
-          <p class="text-center text-xs md:text-sm text-neutral-500 font-medium">(▲ 회오리치는 명량의 거센 물살과 해남-진도를 잇는 붉은 진도대교의 위용)</p>
+          <img src="/images/Uldol/uldol-01.webp" alt="포효하는 울돌목과 진도대교 전경" class="w-full rounded-3xl object-cover shadow-xl border border-neutral-100 max-h-[600px]" />
         </div>
 
         <!-- Intro Text Box -->
@@ -60,13 +59,11 @@ export const postsMain = {
 
           <!-- [2, 3] Photos Grid -->
           <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
-            <div class="space-y-1">
-              <img src="/images/Uldol/uldol-02.webp" alt="우수영관광지 주차장과 대형 종합 안내도" class="w-full h-72 md:h-80 rounded-2xl object-cover shadow-md border border-neutral-100" />
-              <p class="text-center text-xs text-neutral-500">우수영관광지 대형 종합 안내도</p>
+            <div>
+              <img src="/images/Uldol/uldol-02.webp" alt="우수영관광지 현장 풍경 1" class="w-full h-72 md:h-80 rounded-2xl object-cover shadow-md border border-neutral-100" />
             </div>
-            <div class="space-y-1">
-              <img src="/images/Uldol/uldol-03.webp" alt="화사한 꽃으로 단장한 입구의 거북선 모형" class="w-full h-72 md:h-80 rounded-2xl object-cover shadow-md border border-neutral-100" />
-              <p class="text-center text-xs text-neutral-500">정겨운 꽃단장 거북선 상징물</p>
+            <div>
+              <img src="/images/Uldol/uldol-03.webp" alt="우수영관광지 현장 풍경 2" class="w-full h-72 md:h-80 rounded-2xl object-cover shadow-md border border-neutral-100" />
             </div>
           </div>
 
@@ -94,25 +91,21 @@ export const postsMain = {
 
           <!-- [4, 5] Photos Grid -->
           <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
-            <div class="space-y-1">
-              <img src="/images/Uldol/uldol-04.webp" alt="명량대첩 해전사 기념전시관 외관 및 무료개방 안내" class="w-full h-72 md:h-80 rounded-2xl object-cover shadow-md border border-neutral-100" />
-              <p class="text-center text-xs text-neutral-500">명량대첩 해전사 기념전시관 입구</p>
+            <div>
+              <img src="/images/Uldol/uldol-04.webp" alt="전시관 현장 풍경 1" class="w-full h-72 md:h-80 rounded-2xl object-cover shadow-md border border-neutral-100" />
             </div>
-            <div class="space-y-1">
-              <img src="/images/Uldol/uldol-05.webp" alt="정교하게 재현된 거북선 내부 모형과 조선 수군" class="w-full h-72 md:h-80 rounded-2xl object-cover shadow-md border border-neutral-100" />
-              <p class="text-center text-xs text-neutral-500">생생한 거북선 내부와 역동적인 수군들</p>
+            <div>
+              <img src="/images/Uldol/uldol-05.webp" alt="전시관 현장 풍경 2" class="w-full h-72 md:h-80 rounded-2xl object-cover shadow-md border border-neutral-100" />
             </div>
           </div>
 
           <!-- [6, 7] Photos Grid -->
           <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
-            <div class="space-y-1">
-              <img src="/images/Uldol/uldol-06.webp" alt="치밀하게 배치된 화포와 팽팽한 전투 재현" class="w-full h-72 md:h-80 rounded-2xl object-cover shadow-md border border-neutral-100" />
-              <p class="text-center text-xs text-neutral-500">실물 크기 화포와 전투 구도</p>
+            <div>
+              <img src="/images/Uldol/uldol-06.webp" alt="전시관 현장 풍경 3" class="w-full h-72 md:h-80 rounded-2xl object-cover shadow-md border border-neutral-100" />
             </div>
-            <div class="space-y-1">
-              <img src="/images/Uldol/uldol-07.webp" alt="명량해전의 감동을 오감으로 느끼는 4D 상영관" class="w-full h-72 md:h-80 rounded-2xl object-cover shadow-md border border-neutral-100" />
-              <p class="text-center text-xs text-neutral-500">온몸으로 몰입하는 4D 영상체험관</p>
+            <div>
+              <img src="/images/Uldol/uldol-07.webp" alt="전시관 현장 풍경 4" class="w-full h-72 md:h-80 rounded-2xl object-cover shadow-md border border-neutral-100" />
             </div>
           </div>
 
@@ -140,25 +133,21 @@ export const postsMain = {
 
           <!-- [8, 9] Photos Grid -->
           <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
-            <div class="space-y-1">
-              <img src="/images/Uldol/uldol-08.webp" alt="바다 위를 유유히 가로지르는 명량 해상케이블카" class="w-full h-72 md:h-80 rounded-2xl object-cover shadow-md border border-neutral-100" />
-              <p class="text-center text-xs text-neutral-500">진도타워를 잇는 해상케이블카</p>
+            <div>
+              <img src="/images/Uldol/uldol-08.webp" alt="해안 풍경 1" class="w-full h-72 md:h-80 rounded-2xl object-cover shadow-md border border-neutral-100" />
             </div>
-            <div class="space-y-1">
-              <img src="/images/Uldol/uldol-09.webp" alt="스카이워크로 이어지는 해안 산책로 이정표" class="w-full h-72 md:h-80 rounded-2xl object-cover shadow-md border border-neutral-100" />
-              <p class="text-center text-xs text-neutral-500">친절하게 안내된 해안 산책로</p>
+            <div>
+              <img src="/images/Uldol/uldol-09.webp" alt="해안 풍경 2" class="w-full h-72 md:h-80 rounded-2xl object-cover shadow-md border border-neutral-100" />
             </div>
           </div>
 
           <!-- [10, 11] Photos Grid -->
           <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
-            <div class="space-y-1">
-              <img src="/images/Uldol/uldol-10.webp" alt="푸른 바다 위 웅장한 진도대교의 붉은 교각" class="w-full h-72 md:h-80 rounded-2xl object-cover shadow-md border border-neutral-100" />
-              <p class="text-center text-xs text-neutral-500">해남과 진도를 잇는 진도대교</p>
+            <div>
+              <img src="/images/Uldol/uldol-10.webp" alt="스카이워크 풍경 1" class="w-full h-72 md:h-80 rounded-2xl object-cover shadow-md border border-neutral-100" />
             </div>
-            <div class="space-y-1">
-              <img src="/images/Uldol/uldol-11.webp" alt="울돌목 스카이워크 입구 상세 안내판" class="w-full h-72 md:h-80 rounded-2xl object-cover shadow-md border border-neutral-100" />
-              <p class="text-center text-xs text-neutral-500">울돌목 해협의 지형과 전술적 비밀</p>
+            <div>
+              <img src="/images/Uldol/uldol-11.webp" alt="스카이워크 풍경 2" class="w-full h-72 md:h-80 rounded-2xl object-cover shadow-md border border-neutral-100" />
             </div>
           </div>
 
@@ -168,37 +157,31 @@ export const postsMain = {
 
           <!-- [12, 13] Photos Grid -->
           <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
-            <div class="space-y-1">
-              <img src="/images/Uldol/uldol-12.webp" alt="바다 위로 시원하게 뻗은 울돌목 스카이워크 전망대" class="w-full h-72 md:h-80 rounded-2xl object-cover shadow-md border border-neutral-100" />
-              <p class="text-center text-xs text-neutral-500">푸른 바다 위를 걷는 스카이워크</p>
+            <div>
+              <img src="/images/Uldol/uldol-12.webp" alt="바다 풍경 1" class="w-full h-72 md:h-80 rounded-2xl object-cover shadow-md border border-neutral-100" />
             </div>
-            <div class="space-y-1">
-              <img src="/images/Uldol/uldol-13.webp" alt="스카이워크 위 포토존 조형물" class="w-full h-72 md:h-80 rounded-2xl object-cover shadow-md border border-neutral-100" />
-              <p class="text-center text-xs text-neutral-500">울돌목 스카이워크 인증샷 포토존</p>
+            <div>
+              <img src="/images/Uldol/uldol-13.webp" alt="바다 풍경 2" class="w-full h-72 md:h-80 rounded-2xl object-cover shadow-md border border-neutral-100" />
             </div>
           </div>
 
           <!-- [14, 15] Photos Grid -->
           <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
-            <div class="space-y-1">
-              <img src="/images/Uldol/uldol-14.webp" alt="영화 명량 회오리바다 촬영지 안내판과 소용돌이" class="w-full h-72 md:h-80 rounded-2xl object-cover shadow-md border border-neutral-100" />
-              <p class="text-center text-xs text-neutral-500">영화 <명량> 실제 회오리바다 촬영지</p>
+            <div>
+              <img src="/images/Uldol/uldol-14.webp" alt="바다 풍경 3" class="w-full h-72 md:h-80 rounded-2xl object-cover shadow-md border border-neutral-100" />
             </div>
-            <div class="space-y-1">
-              <img src="/images/Uldol/uldol-15.webp" alt="소용돌이치는 울돌목의 사나운 물살" class="w-full h-72 md:h-80 rounded-2xl object-cover shadow-md border border-neutral-100" />
-              <p class="text-center text-xs text-neutral-500">포효하듯 휘몰아치는 거센 바다</p>
+            <div>
+              <img src="/images/Uldol/uldol-15.webp" alt="바다 풍경 4" class="w-full h-72 md:h-80 rounded-2xl object-cover shadow-md border border-neutral-100" />
             </div>
           </div>
 
           <!-- [16, 17] Photos Grid -->
           <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
-            <div class="space-y-1">
-              <img src="/images/Uldol/uldol-16.webp" alt="배 모양으로 지어진 이색 건축물과 쉼터" class="w-full h-72 md:h-80 rounded-2xl object-cover shadow-md border border-neutral-100" />
-              <p class="text-center text-xs text-neutral-500">해전의 역사를 은유한 배 모양 건축물</p>
+            <div>
+              <img src="/images/Uldol/uldol-16.webp" alt="현장 풍경 1" class="w-full h-72 md:h-80 rounded-2xl object-cover shadow-md border border-neutral-100" />
             </div>
-            <div class="space-y-1">
-              <img src="/images/Uldol/uldol-17.webp" alt="해안 절벽에 고즈넉하게 자리 잡은 관망 정자" class="w-full h-72 md:h-80 rounded-2xl object-cover shadow-md border border-neutral-100" />
-              <p class="text-center text-xs text-neutral-500">성난 바다를 차분히 관망하는 정자 쉼터</p>
+            <div>
+              <img src="/images/Uldol/uldol-17.webp" alt="현장 풍경 2" class="w-full h-72 md:h-80 rounded-2xl object-cover shadow-md border border-neutral-100" />
             </div>
           </div>
 
@@ -238,13 +221,11 @@ export const postsMain = {
 
           <!-- [18, 19] Photos Grid -->
           <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
-            <div class="space-y-1">
-              <img src="/images/Uldol/uldol-18.webp" alt="수려한 산세 속 포근히 자리한 진도휴식 정원 입구" class="w-full h-72 md:h-80 rounded-2xl object-cover shadow-md border border-neutral-100" />
-              <p class="text-center text-xs text-neutral-500">진도휴식 정원으로 향하는 평화로운 길목</p>
+            <div>
+              <img src="/images/Uldol/uldol-18.webp" alt="정원 풍경 1" class="w-full h-72 md:h-80 rounded-2xl object-cover shadow-md border border-neutral-100" />
             </div>
-            <div class="space-y-1">
-              <img src="/images/Uldol/uldol-19.webp" alt="오랜 시간 정성으로 가꿔낸 초록빛 정원 산책로" class="w-full h-72 md:h-80 rounded-2xl object-cover shadow-md border border-neutral-100" />
-              <p class="text-center text-xs text-neutral-500">자연과 사람이 하나 되는 치유의 오솔길</p>
+            <div>
+              <img src="/images/Uldol/uldol-19.webp" alt="정원 풍경 2" class="w-full h-72 md:h-80 rounded-2xl object-cover shadow-md border border-neutral-100" />
             </div>
           </div>
 
@@ -539,13 +520,11 @@ export const postsMain = {
         <section class="space-y-6 pt-4">
           <!-- [20, 21] Photos Grid -->
           <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
-            <div class="space-y-1">
-              <img src="/images/Uldol/uldol-20.webp" alt="정겨운 골목길과 삶의 온기가 묻어나는 진도의 거리" class="w-full h-72 md:h-80 rounded-2xl object-cover shadow-md border border-neutral-100" />
-              <p class="text-center text-xs text-neutral-500">진도 읍내 골목길의 정겨운 정취</p>
+            <div>
+              <img src="/images/Uldol/uldol-20.webp" alt="진도 현장 풍경 1" class="w-full h-72 md:h-80 rounded-2xl object-cover shadow-md border border-neutral-100" />
             </div>
-            <div class="space-y-1">
-              <img src="/images/Uldol/uldol-21.webp" alt="남도예술정원 여행길이 선사하는 평화로운 쉼" class="w-full h-72 md:h-80 rounded-2xl object-cover shadow-md border border-neutral-100" />
-              <p class="text-center text-xs text-neutral-500">초록의 위안을 품은 진도 여행의 피날레</p>
+            <div>
+              <img src="/images/Uldol/uldol-21.webp" alt="진도 현장 풍경 2" class="w-full h-72 md:h-80 rounded-2xl object-cover shadow-md border border-neutral-100" />
             </div>
           </div>
 
