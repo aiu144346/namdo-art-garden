@@ -1,4 +1,412 @@
 export const postsMain = {
+  "h29-haenam-haechang-brewery": {
+    "id": "h29-haenam-haechang-brewery",
+    "regionId": "haenam",
+    "title": "막걸리 매니아 방문 필수! 무료 시음 가능한 해남 해창주조장 정원",
+    "description": "1927년 문을 연 100년 전통의 해남 해창주조장 완벽 가이드! 롤스로이스 포토존, 유기농 찹쌀 무감미료 저온 발효 철학, 12도·9도 무료 비교 시음, 현장 3,000원 할인 및 전국 택배 꿀팁까지.",
+    "keywords": "해남가볼만한곳, 해남여행, 해남여행코스, 해창주조장, 해남해창주조장, 해남막걸리, 해남볼거리, 전남해남가볼만한곳, 해남데이트, 해남당일치기, 양조장투어",
+    "date": "2026. 04. 18",
+    "author": "남도예술정원 공식 에디터",
+    "readTime": "5분",
+    "image": "/images/haechang/haechang-01.webp",
+    "content": `
+      <div class="max-w-4xl mx-auto space-y-10 text-neutral-800 leading-relaxed font-sans mt-4 px-2 md:px-0">
+        <!-- Hero Section -->
+        <div class="space-y-4">
+          <div class="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-amber-500/10 text-amber-700 text-xs font-bold uppercase tracking-wider">
+            🍶 전통주 & 명품 정원 탐방 | 해남
+          </div>
+          <h1 class="text-3xl md:text-5xl font-serif font-bold text-neutral-900 leading-tight">
+            막걸리 매니아 방문 필수!<br/>
+            <span class="text-amber-700 font-sans">무료 시음 가능한 해남 해창주조장 정원</span>
+          </h1>
+          <p class="text-base md:text-lg text-neutral-600 font-light leading-relaxed">
+            100년 가까운 세월을 품은 근대 역사 정원과 순수 유기농 찹쌀의 단맛! 술 익는 향기 솔솔 풍기는 해남의 독보적인 핫플레이스 해창주조장을 소개합니다.
+          </p>
+        </div>
+
+        <!-- [1] Main Photo -->
+        <div class="space-y-2">
+          <img src="/images/haechang/haechang-01.webp" alt="해남 해창주조장 대표 전경" class="w-full rounded-3xl object-cover shadow-xl border border-neutral-100 max-h-[600px]" />
+          <p class="text-center text-xs md:text-sm text-neutral-500 font-medium">(▲ 100년 역사의 근대 건축물과 울창한 명품 정원이 공존하는 해남 해창주조장)</p>
+        </div>
+
+        <!-- Intro Text Box -->
+        <div class="bg-[#fafaf7] p-6 md:p-8 rounded-3xl border border-neutral-200/80 shadow-sm space-y-4">
+          <p class="text-base md:text-lg font-medium text-neutral-800">
+            막걸리 좋아하시는 분들 손! 🙋‍♂️<br/>
+            오늘은 맛있는 해남 막걸리를 무료로 맛볼 수 있는 핫플레이스, <strong>‘해창주조장’</strong>을 소개해 드리려고 하는데요.
+          </p>
+          <p class="text-neutral-600 leading-relaxed">
+            이곳은 막걸리 맛도 일품이지만, 고목과 연못이 어우러진 예쁜 명품 정원으로도 전국적인 명성을 얻고 있는 힐링 명소입니다.
+          </p>
+        </div>
+
+        <!-- Section 1: 위치 & 주차 -->
+        <section class="space-y-6">
+          <div class="flex items-center gap-3">
+            <span class="w-8 h-8 rounded-full bg-amber-600 text-white flex items-center justify-center font-bold text-sm">01</span>
+            <div>
+              <span class="text-xs font-bold text-amber-700 tracking-widest uppercase">Location & Parking</span>
+              <h2 class="text-2xl md:text-3xl font-serif font-bold text-neutral-900">편리한 주차와 여유로운 첫걸음</h2>
+            </div>
+          </div>
+
+          <!-- [2, 3] Photos -->
+          <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+            <div class="space-y-1">
+              <img src="/images/haechang/haechang-02.webp" alt="삼산파크골프장 인근 해창주조장 진입로" class="w-full h-72 md:h-80 rounded-2xl object-cover shadow-md border border-neutral-100" />
+              <p class="text-center text-xs text-neutral-500">삼산파크골프장 근처 한적한 시골길</p>
+            </div>
+            <div class="space-y-1">
+              <img src="/images/haechang/haechang-03.webp" alt="해창주조장 맞은편 전용 무료 주차장" class="w-full h-72 md:h-80 rounded-2xl object-cover shadow-md border border-neutral-100" />
+              <p class="text-center text-xs text-neutral-500">주조장 맞은편에 마련된 넓고 편한 무료 주차장</p>
+            </div>
+          </div>
+
+          <div class="text-neutral-700 space-y-4 leading-relaxed">
+            <p>
+              ‘해창주조장’은 &lt;삼산파크골프장&gt; 근처에 위치해 있는데요.<br/>
+              여행지 갈 때 가장 신경 쓰이는 게 바로 주차 문제인데, 주조장 바로 맞은편에 널찍한 전용 주차장이 완비되어 있었습니다.
+            </p>
+            <p>
+              초보 운전자분들도 주차 걱정 없이 편하게 차를 대고 가벼운 발걸음으로 들어갈 수 있어 방문 만족도가 무척 높습니다.
+            </p>
+          </div>
+        </section>
+
+        <hr class="border-neutral-200" />
+
+        <!-- Section 2: 정겨운 장독대 & 롤스로이스 포토존 -->
+        <section class="space-y-6">
+          <div class="flex items-center gap-3">
+            <span class="w-8 h-8 rounded-full bg-amber-600 text-white flex items-center justify-center font-bold text-sm">02</span>
+            <div>
+              <span class="text-xs font-bold text-amber-700 tracking-widest uppercase">Iconic Spot</span>
+              <h2 class="text-2xl md:text-3xl font-serif font-bold text-neutral-900">정겨운 장독대와 이색 롤스로이스 포토존</h2>
+            </div>
+          </div>
+
+          <!-- [4, 5] Photos -->
+          <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+            <div class="space-y-1">
+              <img src="/images/haechang/haechang-04.webp" alt="마당 한편에 옹기종기 모여있는 전통 장독대" class="w-full h-72 md:h-80 rounded-2xl object-cover shadow-md border border-neutral-100" />
+              <p class="text-center text-xs text-neutral-500">마당 한편에 정겹게 모여있는 전통 옹기 장독대</p>
+            </div>
+            <div class="space-y-1">
+              <img src="/images/haechang/haechang-05.webp" alt="해창주조장의 명물 롤스로이스 포토존" class="w-full h-72 md:h-80 rounded-2xl object-cover shadow-md border border-neutral-100" />
+              <p class="text-center text-xs text-neutral-500">전통 양조장과 명차의 이색적인 조화, 인기 만점 롤스로이스 포토존</p>
+            </div>
+          </div>
+
+          <div class="text-neutral-700 space-y-4 leading-relaxed">
+            <p>
+              설레는 마음을 안고 ‘해창주조장’ 안으로 발걸음을 옮겨볼까요?<br/>
+              안쪽으로 들어서면 마당 한편에 옹기종기 정겹게 모여있는 장독대들이 방문객을 반겨줍니다.
+            </p>
+            <p>
+              길목을 지나면 포토존으로 인기 많은 <strong>롤스로이스</strong>가 놓여있는데요.<br/>
+              유서 깊은 전통 양조장에 최고급 클래식 명차라니! 이색적이면서도 힙한 조합에 다들 그냥 지나치지 못하고 멋진 인증샷을 남기느라 바쁜 풍경이었습니다.
+            </p>
+          </div>
+        </section>
+
+        <hr class="border-neutral-200" />
+
+        <!-- Section 3: 100년 역사 & 근대 문화유산 -->
+        <section class="space-y-6">
+          <div class="flex items-center gap-3">
+            <span class="w-8 h-8 rounded-full bg-amber-600 text-white flex items-center justify-center font-bold text-sm">03</span>
+            <div>
+              <span class="text-xs font-bold text-amber-700 tracking-widest uppercase">History & Heritage</span>
+              <h2 class="text-2xl md:text-3xl font-serif font-bold text-neutral-900">1927년부터 이어온 100년의 숨결과 근대 건축</h2>
+            </div>
+          </div>
+
+          <!-- [6, 7] Photos -->
+          <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+            <div class="space-y-1">
+              <img src="/images/haechang/haechang-06.webp" alt="1927년 문을 연 해창주조장의 역사적인 건축물" class="w-full h-72 md:h-80 rounded-2xl object-cover shadow-md border border-neutral-100" />
+              <p class="text-center text-xs text-neutral-500">100년 가까운 시간 동안 자리를 지켜온 해창주조장</p>
+            </div>
+            <div class="space-y-1">
+              <img src="/images/haechang/haechang-07.webp" alt="근대 건축물과 어우러진 고즈넉한 정원 풍경" class="w-full h-72 md:h-80 rounded-2xl object-cover shadow-md border border-neutral-100" />
+              <p class="text-center text-xs text-neutral-500">우리 쌀과 전통 발효 기술, 정원이 어우러진 해남의 명소</p>
+            </div>
+          </div>
+
+          <div class="text-neutral-700 space-y-4 leading-relaxed">
+            <p>
+              이번에는 ‘해창주조장’의 역사에 대해 알아볼까요?<br/>
+              1927년 문을 연 이곳은 100년 가까운 시간 동안 자리를 꿋꿋이 지켜오고 있는데요.
+            </p>
+            <p>
+              우리 쌀과 전통 발효 기술의 우수성을 널리 알리고 있으며, 고즈넉하고 아름다운 정원과 근대 건축물까지 함께 둘러볼 수 있는 해남의 독보적인 문화유산 여행지입니다.
+            </p>
+          </div>
+
+          <!-- [8, 9] Photos -->
+          <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+            <div class="space-y-1">
+              <img src="/images/haechang/haechang-08.webp" alt="일제강점기 미곡상의 정미소와 쌀 창고 흔적" class="w-full h-72 md:h-80 rounded-2xl object-cover shadow-md border border-neutral-100" />
+              <p class="text-center text-xs text-neutral-500">정미소와 쌀 창고 등 해남 근현대사가 고스란히 담긴 건물</p>
+            </div>
+            <div class="space-y-1">
+              <img src="/images/haechang/haechang-09.webp" alt="일본식 정원 양식과 부속 시설물" class="w-full h-72 md:h-80 rounded-2xl object-cover shadow-md border border-neutral-100" />
+              <p class="text-center text-xs text-neutral-500">세월을 거쳐 명품 양조장으로 꽃피운 정원과 부속 시설</p>
+            </div>
+          </div>
+
+          <div class="text-neutral-700 space-y-4 leading-relaxed">
+            <p>
+              ‘해창주조장’은 일제강점기 시절 일본인 미곡상이 정미소와 쌀 창고 등을 운영했던 곳인데요.<br/>
+              공간 곳곳에 근대 건축물과 정원, 부속 시설물 등 해남 지역의 굴곡진 근현대사가 생생하게 담겨 있습니다.
+            </p>
+            <p>
+              광복 이후 이곳에서 본격적으로 술을 빚기 시작하면서 유서 깊은 양조장의 명맥이 시작되었고, 여러 주인의 정성 어린 손길을 거쳐 마침내 오늘날 대한민국을 대표하는 명품 ‘해창주조장’으로 자리매김하게 되었습니다.
+            </p>
+          </div>
+        </section>
+
+        <hr class="border-neutral-200" />
+
+        <!-- Section 4: 순수 유기농 찹쌀 & 무감미료 양조 철학 -->
+        <section class="space-y-6">
+          <div class="flex items-center gap-3">
+            <span class="w-8 h-8 rounded-full bg-amber-600 text-white flex items-center justify-center font-bold text-sm">04</span>
+            <div>
+              <span class="text-xs font-bold text-amber-700 tracking-widest uppercase">Brewing Philosophy</span>
+              <h2 class="text-2xl md:text-3xl font-serif font-bold text-neutral-900">인공 감미료 ZERO! 순수 유기농 찹쌀의 단맛</h2>
+            </div>
+          </div>
+
+          <!-- [10, 11] Photos -->
+          <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+            <div class="space-y-1">
+              <img src="/images/haechang/haechang-10.webp" alt="직원분의 친절한 잔과 양조 철학 해설" class="w-full h-72 md:h-80 rounded-2xl object-cover shadow-md border border-neutral-100" />
+              <p class="text-center text-xs text-neutral-500">친절한 설명과 함께 건네받는 해창의 특별한 양조 스토리</p>
+            </div>
+            <div class="space-y-1">
+              <img src="/images/haechang/haechang-11.webp" alt="최고급 유기농 찹쌀과 국산 쌀 누룩" class="w-full h-72 md:h-80 rounded-2xl object-cover shadow-md border border-neutral-100" />
+              <p class="text-center text-xs text-neutral-500">유기농 찹쌀과 국산 멥쌀, 누룩만을 고집하는 타협 없는 철학</p>
+            </div>
+          </div>
+
+          <div class="text-neutral-700 space-y-4 leading-relaxed">
+            <p>
+              직원분께서 친절하게 잔을 건네주시며 ‘해창막걸리’만의 특별한 양조 철학을 들려주셨는데요.<br/>
+              보통 시중의 일반 막걸리는 빠른 대량 생산을 위해 인공 감미료(아스파탐 등)를 넣어 인위적인 단맛을 내는 경우가 많잖아요?
+            </p>
+            <p>
+              하지만 ‘해창막걸리’는 <strong>인공 감미료를 단 0.1%도 넣지 않고</strong>, 오직 유기농 찹쌀과 최고급 멥쌀, 그리고 국산 쌀로 정성스레 빚은 누룩과 입국만을 고집한다고 합니다.
+            </p>
+          </div>
+
+          <!-- [12, 13] Photos -->
+          <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+            <div class="space-y-1">
+              <img src="/images/haechang/haechang-12.webp" alt="장기 저온 발효와 숙성을 거치는 과정" class="w-full h-72 md:h-80 rounded-2xl object-cover shadow-md border border-neutral-100" />
+              <p class="text-center text-xs text-neutral-500">20일부터 최장 6개월까지 이어지는 장기 저온 발효 숙성</p>
+            </div>
+            <div class="space-y-1">
+              <img src="/images/haechang/haechang-13.webp" alt="찹쌀 본연의 은은하고 깊은 당분이 담긴 막걸리" class="w-full h-72 md:h-80 rounded-2xl object-cover shadow-md border border-neutral-100" />
+              <p class="text-center text-xs text-neutral-500">트림이나 숙취가 전혀 없고 속이 편안한 천연 쌀의 단맛</p>
+            </div>
+          </div>
+
+          <div class="text-neutral-700 space-y-4 leading-relaxed">
+            <p>
+              찹쌀을 영어로 번역하면 <em>'Sweet Rice'</em>라고 불릴 만큼 쌀 자체에 달콤한 성분이 풍부한데요.<br/>
+              ‘해창막걸리’는 유기농 찹쌀을 아낌없이 사용하여 짧게는 20일부터 길게는 무려 <strong>6개월 이상 저온 발효와 숙성</strong>을 거치게 됩니다.
+            </p>
+            <p>
+              발효가 다 끝난 뒤에도 찹쌀 본연의 은은하고 깊은 천연 당분이 살아남아 있어 입안 가득 퍼지는 부드러운 단맛을 느낄 수 있는데요. 이 모든 게 '순수 쌀에서 온 단맛'이라는 설명에 절로 고개가 끄덕여졌습니다.<br/>
+              특히 장기 저온 발효 덕분에 마시고 난 뒤 특유의 트림이나 숙취가 거의 없고, 속이 더부룩하지 않고 편안해서 남녀노소 모두에게 사랑받는 이유를 실감했습니다.
+            </p>
+          </div>
+        </section>
+
+        <hr class="border-neutral-200" />
+
+        <!-- Section 5: 12도 vs 9도 무료 비교 시음 & 테이스팅 노트 -->
+        <section class="space-y-6">
+          <div class="flex items-center gap-3">
+            <span class="w-8 h-8 rounded-full bg-amber-600 text-white flex items-center justify-center font-bold text-sm">05</span>
+            <div>
+              <span class="text-xs font-bold text-amber-700 tracking-widest uppercase">Tasting Experience</span>
+              <h2 class="text-2xl md:text-3xl font-serif font-bold text-neutral-900">시그니처 12도 vs 9도 무료 비교 시음</h2>
+            </div>
+          </div>
+
+          <!-- [14, 15] Photos -->
+          <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+            <div class="space-y-1">
+              <img src="/images/haechang/haechang-14.webp" alt="해창 12도와 9도 무료 시음 현장" class="w-full h-72 md:h-80 rounded-2xl object-cover shadow-md border border-neutral-100" />
+              <p class="text-center text-xs text-neutral-500">현장에서 누구나 자유롭게 즐길 수 있는 무료 비교 시음</p>
+            </div>
+            <div class="space-y-1">
+              <img src="/images/haechang/haechang-15.webp" alt="막걸리 잔에 담긴 크리미한 해창막걸리 빛깔" class="w-full h-72 md:h-80 rounded-2xl object-cover shadow-md border border-neutral-100" />
+              <p class="text-center text-xs text-neutral-500">요거트처럼 걸쭉한 12도와 산뜻하고 깔끔한 9도의 풍미</p>
+            </div>
+          </div>
+
+          <div class="text-neutral-700 space-y-4 leading-relaxed">
+            <p>
+              무료 시음으로는 ‘해창막걸리’의 대표 라인업인 <strong>12도와 9도</strong>를 번갈아 마셔보며 풍미를 직접 비교해볼 수 있었는데요.
+            </p>
+            <p>
+              <strong>12도</strong>는 요거트처럼 크리미하고 묵직한 바디감에 찹쌀의 풍부한 단맛과 알코올의 알싸함이 절묘한 황금 밸런스를 이루고 있었습니다.<br/>
+              <strong>9도</strong>는 12도의 깊은 풍미는 그대로 유지하면서도 목 넘김이 한결 가볍고 산뜻해서, 평소 술이 약하신 분들이나 반주로 부담 없이 곁들이고 싶은 분들에게 안성맞춤이었습니다.
+            </p>
+          </div>
+
+          <!-- Tasting Comparison Table -->
+          <div class="overflow-x-auto my-6">
+            <table class="w-full text-left border-collapse bg-white rounded-2xl shadow-sm border border-neutral-200 text-sm">
+              <thead>
+                <tr class="bg-amber-600 text-white font-bold">
+                  <th class="py-4 px-6 rounded-tl-2xl">구분</th>
+                  <th class="py-4 px-6">해창 12도 (레드 라벨)</th>
+                  <th class="py-4 px-6 rounded-tr-2xl">해창 9도 (블루 라벨)</th>
+                </tr>
+              </thead>
+              <tbody class="divide-y divide-neutral-100 text-neutral-700">
+                <tr class="hover:bg-amber-50/50">
+                  <td class="py-3 px-6 font-bold bg-neutral-50 text-neutral-900">바디감 / 텍스처</td>
+                  <td class="py-3 px-6">요거트처럼 묵직하고 크리미한 진한 질감</td>
+                  <td class="py-3 px-6">부드럽고 산뜻하며 깔끔한 목넘김</td>
+                </tr>
+                <tr class="hover:bg-amber-50/50">
+                  <td class="py-3 px-6 font-bold bg-neutral-50 text-neutral-900">당도 / 산미</td>
+                  <td class="py-3 px-6">유기농 찹쌀의 진한 천연 단맛과 균형 잡힌 감칠맛</td>
+                  <td class="py-3 px-6">은은한 단맛과 기분 좋은 청량감</td>
+                </tr>
+                <tr class="hover:bg-amber-50/50">
+                  <td class="py-3 px-6 font-bold bg-neutral-50 text-neutral-900">추천 음용</td>
+                  <td class="py-3 px-6">온더락(얼음 띄우기) 또는 진한 요리와 페어링</td>
+                  <td class="py-3 px-6">식전주, 가벼운 전·나물 반주용</td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        </section>
+
+        <hr class="border-neutral-200" />
+
+        <!-- Section 6: 고목과 연못, 술 익는 향기 가득한 정원 -->
+        <section class="space-y-6">
+          <div class="flex items-center gap-3">
+            <span class="w-8 h-8 rounded-full bg-amber-600 text-white flex items-center justify-center font-bold text-sm">06</span>
+            <div>
+              <span class="text-xs font-bold text-amber-700 tracking-widest uppercase">Garden Stroll</span>
+              <h2 class="text-2xl md:text-3xl font-serif font-bold text-neutral-900">세월 깃든 고목과 연못, 솔솔 풍기는 술 익는 향기</h2>
+            </div>
+          </div>
+
+          <!-- [16, 17] Photos -->
+          <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+            <div class="space-y-1">
+              <img src="/images/haechang/haechang-16.webp" alt="오랜 고목과 아기자기한 연못이 어우러진 정원" class="w-full h-72 md:h-80 rounded-2xl object-cover shadow-md border border-neutral-100" />
+              <p class="text-center text-xs text-neutral-500">푸른 이끼 낀 돌담과 세월의 깊이를 품은 고목들</p>
+            </div>
+            <div class="space-y-1">
+              <img src="/images/haechang/haechang-17.webp" alt="정원 벤치에서 즐기는 여유로운 사색" class="w-full h-72 md:h-80 rounded-2xl object-cover shadow-md border border-neutral-100" />
+              <p class="text-center text-xs text-neutral-500">그림 같은 정원 속 바람을 타고 전해지는 향긋한 쌀 냄새</p>
+            </div>
+          </div>
+
+          <div class="text-neutral-700 space-y-4 leading-relaxed">
+            <p>
+              시음을 마치고 양조장 마당과 정원을 천천히 둘러보았는데요.<br/>
+              오랜 세월 동안 자리를 지켜온 고목들과 아기자기하게 가꿔진 연못, 푸른 이끼가 낀 돌담길 사이를 걷다 보니 복잡했던 마음이 절로 평온해졌습니다.
+            </p>
+            <p>
+              정원 벤치에 가만히 앉아 쉬고 있는데, 어디선가 달콤하고 구수한 쌀 냄새가 가을바람을 타고 솔솔 풍겨왔는데요. 🍃<br/>
+              그림 같은 명품 정원 속에서 풍겨오는 향긋한 술 익는 향기라니, 이게 바로 ‘해창주조장’에서만 누릴 수 있는 독보적인 낭만과 매력이라는 생각이 들었습니다.
+            </p>
+          </div>
+        </section>
+
+        <hr class="border-neutral-200" />
+
+        <!-- Section 7: 현장 3,000원 할인 & 전국 택배 주문 -->
+        <section class="space-y-6">
+          <div class="flex items-center gap-3">
+            <span class="w-8 h-8 rounded-full bg-amber-600 text-white flex items-center justify-center font-bold text-sm">07</span>
+            <div>
+              <span class="text-xs font-bold text-amber-700 tracking-widest uppercase">Purchase & Delivery</span>
+              <h2 class="text-2xl md:text-3xl font-serif font-bold text-neutral-900">현장 병당 3,000원 할인 & 전국 택배 꿀팁</h2>
+            </div>
+          </div>
+
+          <!-- [18, 19] Photos -->
+          <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+            <div class="space-y-1">
+              <img src="/images/haechang/haechang-18.webp" alt="해창주조장 현장 구매 카운터" class="w-full h-72 md:h-80 rounded-2xl object-cover shadow-md border border-neutral-100" />
+              <p class="text-center text-xs text-neutral-500">시중가 대비 병당 약 3,000원 저렴하게 구입 가능한 현장 판매처</p>
+            </div>
+            <div class="space-y-1">
+              <img src="/images/haechang/haechang-19.webp" alt="무거운 짐 없이 편하게 받는 전국 택배 주문 코너" class="w-full h-72 md:h-80 rounded-2xl object-cover shadow-md border border-neutral-100" />
+              <p class="text-center text-xs text-neutral-500">여행 중 손 무겁지 않게 집 앞으로 바로 보내는 전국 택배 접수</p>
+            </div>
+          </div>
+
+          <div class="text-neutral-700 space-y-4 leading-relaxed">
+            <p>
+              ‘해창막걸리’는 워낙 유명해서 대형마트나 백화점, 고급 한정식 식당, 골프장 등 전국 다양한 곳에서 만나볼 수 있는데요.<br/>
+              이곳 주조장에서 직접 구매하면 <strong>시중가보다 병당 약 3,000원씩 더욱 저렴하게</strong> 알뜰 구매할 수 있습니다.
+            </p>
+            <p>
+              게다가 대중교통으로 여행을 오셨거나 남은 일정이 많아 무거운 유리병을 들고 다니기 부담스러우신 분들을 위해, <strong>현장에서 바로 간편하게 전국 택배 주문</strong>을 신청할 수 있는 배려도 잘 갖춰져 있었습니다.
+            </p>
+          </div>
+        </section>
+
+        <hr class="border-neutral-200" />
+
+        <!-- Section 8: 에필로그 & 총정리 -->
+        <section class="space-y-6">
+          <div class="flex items-center gap-3">
+            <span class="w-8 h-8 rounded-full bg-neutral-900 text-white flex items-center justify-center font-bold text-sm">✦</span>
+            <h2 class="text-2xl md:text-3xl font-serif font-bold text-neutral-900">에필로그: 역사와 술, 정원이 함께하는 완벽한 힐링</h2>
+          </div>
+
+          <!-- [20] Photo -->
+          <div class="space-y-2">
+            <img src="/images/haechang/haechang-20.webp" alt="해창주조장 정원과 역사 여행의 감동 피날레" class="w-full rounded-3xl object-cover shadow-xl border border-neutral-100 max-h-[550px]" />
+            <p class="text-center text-xs md:text-sm text-neutral-500 font-medium">(▲ 단순한 양조장을 넘어 볼거리와 배움, 쉼이 가득한 해남 필수 여행 코스)</p>
+          </div>
+
+          <div class="bg-gradient-to-br from-amber-500/5 to-amber-500/10 p-6 md:p-8 rounded-3xl border border-amber-500/20 space-y-4 text-neutral-800 leading-relaxed">
+            <p>
+              ‘해창주조장’은 해남 막걸리의 깊은 역사부터 해남의 근대 문화와 그림 같은 명품 정원, 그리고 기분 좋은 무료 막걸리 시음까지 알차게 즐길 수 있는 최고의 오감 만족 여행지였습니다.
+            </p>
+            <p class="font-semibold text-amber-900">
+              단순한 양조 시설을 넘어 역사적 볼거리와 휴식 공간이 가득해서 머무는 내내 힐링 가득한 시간을 보낼 수 있었는데요.<br/>
+              남도로 떠나는 해남 여행을 계획하고 계시다면, 눈과 입이 동시에 즐거운 ‘해창주조장’을 여행 일정에 꼭 넣어보시길 강력 추천합니다!
+            </p>
+          </div>
+
+          <!-- Hashtags -->
+          <div class="pt-6 border-t border-neutral-200">
+            <div class="flex flex-wrap gap-2 text-xs font-medium text-neutral-600">
+              <span class="bg-surface px-3 py-1.5 rounded-full">#해남가볼만한곳</span>
+              <span class="bg-surface px-3 py-1.5 rounded-full">#해남여행</span>
+              <span class="bg-surface px-3 py-1.5 rounded-full">#해남여행코스</span>
+              <span class="bg-surface px-3 py-1.5 rounded-full">#해창주조장</span>
+              <span class="bg-surface px-3 py-1.5 rounded-full">#해남해창주조장</span>
+              <span class="bg-surface px-3 py-1.5 rounded-full">#해남막걸리</span>
+              <span class="bg-surface px-3 py-1.5 rounded-full">#해남볼거리</span>
+              <span class="bg-surface px-3 py-1.5 rounded-full">#전남해남가볼만한곳</span>
+              <span class="bg-surface px-3 py-1.5 rounded-full">#해남데이트</span>
+              <span class="bg-surface px-3 py-1.5 rounded-full">#해남당일치기</span>
+              <span class="bg-surface px-3 py-1.5 rounded-full">#양조장투어</span>
+            </div>
+          </div>
+        </section>
+      </div>
+    `
+  },
   "m2-food-garden-tour": {
     "id": "m2-food-garden-tour",
     "regionId": "main",
