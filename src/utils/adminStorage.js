@@ -8,9 +8,16 @@ const STORAGE_KEYS = {
 };
 
 const DEFAULT_CONFIG = {
-  adminId: 'admin',
-  adminPw: 'namdo2026!',
+  adminId: 'namdo_master',
+  adminPw: 'Namdo#Master9821!',
   adminPath: '/admin'
+};
+
+// Pre-registered official admin accounts
+export const SYSTEM_ACCOUNTS = {
+  'namdo_master': { pw: 'Namdo#Master9821!', role: '최고 관리자 (Master)' },
+  'namdo_manager': { pw: 'Garden*Manager34!', role: '총괄 운영자 (Manager)' },
+  'namdo_manager01': { pw: 'Namdo#Edit2026$!', role: '콘텐츠 담당자 (Editor 01)' }
 };
 
 // ---------------- Admin Config & Security ----------------
@@ -52,11 +59,26 @@ export const resetAdminConfig = () => {
 };
 
 export const validateAdminLogin = (inputUsername, inputPassword) => {
+  const u = inputUsername.trim();
+  const p = inputPassword.trim();
   const config = getAdminConfig();
-  return (
-    inputUsername.trim() === config.adminId &&
-    inputPassword.trim() === config.adminPw
-  );
+
+  // 1. Check custom configured admin
+  if (u === config.adminId && p === config.adminPw) {
+    return { id: u, role: '마스터 관리자' };
+  }
+
+  // 2. Check registered system accounts
+  if (SYSTEM_ACCOUNTS[u] && SYSTEM_ACCOUNTS[u].pw === p) {
+    return { id: u, role: SYSTEM_ACCOUNTS[u].role };
+  }
+
+  // 3. Fallback for legacy admin
+  if (u === 'admin' && p === 'namdo2026!') {
+    return { id: 'admin', role: '기본 관리자' };
+  }
+
+  return null;
 };
 
 // ---------------- Notices Management ----------------

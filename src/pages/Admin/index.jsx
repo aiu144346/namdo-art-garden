@@ -81,14 +81,15 @@ export default function AdminPortal() {
 
   const handleLogin = (e) => {
     e.preventDefault();
-    if (validateAdminLogin(adminId, adminPw)) {
-      const authData = { id: adminId.trim(), name: '남도예술정원 공식 관리자', loggedAt: new Date().toISOString() };
+    const loginResult = validateAdminLogin(adminId, adminPw);
+    if (loginResult) {
+      const authData = { id: loginResult.id, name: `남도예술정원 ${loginResult.role}`, loggedAt: new Date().toISOString() };
       setAdminAuth(authData);
       setAuth(authData);
       setLoginError('');
       loadAllData();
     } else {
-      setLoginError('아이디 또는 비밀번호가 올바르지 않습니다. 설정된 계정 정보를 확인해 주세요.');
+      setLoginError('아이디 또는 비밀번호가 올바르지 않습니다. 계정 정보를 확인해 주세요.');
     }
   };
 
@@ -379,13 +380,15 @@ export default function AdminPortal() {
               </div>
             </div>
 
-            <div className="p-3 rounded-2xl bg-neutral-900/50 border border-neutral-700/50 text-[11px] text-neutral-400 space-y-1">
-              <div className="font-bold text-neutral-300 flex items-center gap-1.5">
-                <ShieldCheck className="w-3.5 h-3.5 text-primary" /> 관리자 계정 안내
+            <div className="p-3.5 rounded-2xl bg-neutral-900/60 border border-neutral-700/60 text-[11px] text-neutral-300 space-y-1.5">
+              <div className="font-bold text-white flex items-center gap-1.5">
+                <ShieldCheck className="w-3.5 h-3.5 text-primary" /> 공식 관리자 계정 안내
               </div>
-              <p className="text-[10px] text-neutral-400">
-                로그인 후 [보안 & 설정] 탭에서 ID, 비밀번호, 접속 주소를 자유롭게 변경하실 수 있습니다.
-              </p>
+              <div className="space-y-1 text-[10px] text-neutral-400 font-mono">
+                <div>• <span className="text-neutral-200">최고 관리자:</span> <span className="text-primary font-bold">namdo_master</span></div>
+                <div>• <span className="text-neutral-200">총괄 운영자:</span> <span className="text-cyan-400 font-bold">namdo_manager</span></div>
+                <div>• <span className="text-neutral-200">콘텐츠 담당:</span> <span className="text-purple-400 font-bold">namdo_manager01</span></div>
+              </div>
             </div>
 
             <button
