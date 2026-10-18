@@ -23,6 +23,7 @@ export const SYSTEM_ACCOUNTS = {
 // ---------------- Admin Config & Security ----------------
 export const getAdminConfig = () => {
   try {
+    if (typeof localStorage === 'undefined') return DEFAULT_CONFIG;
     const data = localStorage.getItem(STORAGE_KEYS.CONFIG);
     if (!data) return DEFAULT_CONFIG;
     const parsed = JSON.parse(data);
