@@ -3,12 +3,14 @@ import { motion, AnimatePresence } from 'framer-motion';
 import { 
   FileText, Upload, CheckCircle2, AlertCircle, Eye, Trash2, 
   LogOut, Lock, User, PlusCircle, ArrowRight, ExternalLink, 
-  Layers, Newspaper, Bell, Sparkles, Image as ImageIcon, Download
+  Layers, Newspaper, Bell, Sparkles, Image as ImageIcon, Download,
+  Settings, KeyRound, ShieldCheck, Copy, Check, RotateCcw, Link2
 } from 'lucide-react';
-import { Link } from 'react-router-dom';
+import { Link, useNavigate } from 'react-router-dom';
 import mammoth from 'mammoth';
 import { 
   getAdminAuth, setAdminAuth, clearAdminAuth,
+  getAdminConfig, saveAdminConfig, resetAdminConfig, validateAdminLogin,
   getCustomNotices, saveCustomNotice, deleteCustomNotice,
   getCustomPress, saveCustomPress, deleteCustomPress,
   getCustomPosts, saveCustomPost, deleteCustomPost
@@ -22,8 +24,9 @@ const CATEGORIES = [
 ];
 
 export default function AdminPortal() {
+  const navigate = useNavigate();
   const [auth, setAuth] = useState(null);
-  const [activeTab, setActiveTab] = useState('write'); // 'write' | 'manage'
+  const [activeTab, setActiveTab] = useState('write'); // 'write' | 'manage' | 'settings'
   
   // Auth Form State
   const [adminId, setAdminId] = useState('');
@@ -48,12 +51,26 @@ export default function AdminPortal() {
   const [pressList, setPressList] = useState([]);
   const [postsList, setPostsList] = useState([]);
 
+  // Settings State
+  const [config, setConfig] = useState(getAdminConfig());
+  const [newAdminId, setNewAdminId] = useState('');
+  const [currentPwForCheck, setCurrentPwForCheck] = useState('');
+  const [newAdminPw, setNewAdminPw] = useState('');
+  const [confirmAdminPw, setConfirmAdminPw] = useState('');
+  const [newAdminPath, setNewAdminPath] = useState('');
+  const [settingsMessage, setSettingsMessage] = useState({ text: '', type: '' });
+  const [copiedUrl, setCopiedUrl] = useState(false);
+
   useEffect(() => {
     const existing = getAdminAuth();
     if (existing) {
       setAuth(existing);
       loadAllData();
     }
+    const currentCfg = getAdminConfig();
+    setConfig(currentCfg);
+    setNewAdminId(currentCfg.adminId);
+    setNewAdminPath(currentCfg.adminPath);
   }, []);
 
   const loadAllData = () => {
@@ -64,15 +81,14 @@ export default function AdminPortal() {
 
   const handleLogin = (e) => {
     e.preventDefault();
-    // Default admin credentials
-    if (adminId.trim() === 'admin' && adminPw.trim() === 'namdo2026!') {
-      const authData = { id: 'admin', name: '남도예술정원 최고관리자', loggedAt: new Date().toISOString() };
+    if (validateAdminLogin(adminId, adminPw)) {
+      const authData = { id: adminId.trim(), name: '남도예술정원 공식 관리자', loggedAt: new Date().toISOString() };
       setAdminAuth(authData);
       setAuth(authData);
       setLoginError('');
       loadAllData();
     } else {
-      setLoginError('아이디 또는 비밀번호가 올바르지 않습니다. (기본 계정: admin / namdo2026!)');
+      setLoginError('아이디 또는 비밀번호가 올바르지 않습니다. 설정된 계정 정보를 확인해 주세요.');
     }
   };
 
@@ -81,7 +97,7 @@ export default function AdminPortal() {
     setAuth(null);
   };
 
-  // Parse .docx Word Document
+  // ---------------- Word Parsing ----------------
   const handleWordUpload = async (file) => {
     if (!file) return;
     if (!file.name.endsWith('.docx') && !file.name.endsWith('.doc')) {
@@ -110,11 +126,9 @@ export default function AdminPortal() {
       const html = result.value;
       setContentHtml(html);
 
-      // Extract title and summary using DOM parser
       const parser = new DOMParser();
       const doc = parser.parseFromString(html, 'text/html');
 
-      // Detect title from first h1/h2 or first paragraph
       const firstHeading = doc.querySelector('h1, h2, h3');
       const firstP = doc.querySelector('p');
       let extractedTitle = file.name.replace(/\.[^/.]+$/, "");
@@ -125,19 +139,16 @@ export default function AdminPortal() {
       }
       setTitle(extractedTitle);
 
-      // Detect summary
       const paragraphs = Array.from(doc.querySelectorAll('p')).map(p => p.textContent.trim()).filter(Boolean);
       if (paragraphs.length > 0) {
         setDesc(paragraphs[0].slice(0, 160));
       }
 
-      // Check for first embedded image as thumbnail
       const firstImg = doc.querySelector('img');
       if (firstImg && firstImg.src) {
         setThumbnail(firstImg.src);
       }
 
-      // Date detection
       const text = doc.body.textContent || '';
       const dateMatch = text.match(/\b(20\d{2}[.\-/]\d{1,2}[.\-/]\d{1,2})\b/);
       if (dateMatch) {
@@ -151,7 +162,6 @@ export default function AdminPortal() {
     }
   };
 
-  // Thumbnail File Upload
   const handleThumbnailUpload = (e) => {
     const file = e.target.files?.[0];
     if (!file) return;
@@ -162,7 +172,7 @@ export default function AdminPortal() {
     reader.readAsDataURL(file);
   };
 
-  // Publish handler
+  // ---------------- Publish ----------------
   const handlePublish = (e) => {
     e.preventDefault();
     if (!title.trim()) {
@@ -215,7 +225,6 @@ export default function AdminPortal() {
       item: publishedItem
     });
 
-    // Reset Form
     setTitle('');
     setDesc('');
     setLink('');
@@ -231,7 +240,6 @@ export default function AdminPortal() {
     loadAllData();
   };
 
-  // Export JSON backup
   const handleExportJson = () => {
     const exportData = {
       notices: getCustomNotices(),
@@ -248,6 +256,73 @@ export default function AdminPortal() {
     URL.revokeObjectURL(url);
   };
 
+  // ---------------- Settings Handlers ----------------
+  const handleSaveCredentials = (e) => {
+    e.preventDefault();
+    setSettingsMessage({ text: '', type: '' });
+
+    if (currentPwForCheck.trim() !== config.adminPw) {
+      setSettingsMessage({ text: '현재 비밀번호가 일치하지 않습니다.', type: 'error' });
+      return;
+    }
+
+    if (newAdminPw && newAdminPw !== confirmAdminPw) {
+      setSettingsMessage({ text: '새 비밀번호와 확인 입력이 일치하지 않습니다.', type: 'error' });
+      return;
+    }
+
+    const updated = saveAdminConfig({
+      adminId: newAdminId || config.adminId,
+      adminPw: newAdminPw || config.adminPw,
+      adminPath: config.adminPath
+    });
+
+    setConfig(updated);
+    setCurrentPwForCheck('');
+    setNewAdminPw('');
+    setConfirmAdminPw('');
+    setSettingsMessage({ text: '관리자 계정 정보가 성공적으로 변경되었습니다!', type: 'success' });
+  };
+
+  const handleSaveAdminPath = (e) => {
+    e.preventDefault();
+    setSettingsMessage({ text: '', type: '' });
+
+    let sanitized = newAdminPath.trim();
+    if (!sanitized) sanitized = '/admin';
+    if (!sanitized.startsWith('/')) sanitized = `/${sanitized}`;
+
+    const updated = saveAdminConfig({
+      adminId: config.adminId,
+      adminPw: config.adminPw,
+      adminPath: sanitized
+    });
+
+    setConfig(updated);
+    setNewAdminPath(updated.adminPath);
+    setSettingsMessage({ 
+      text: `관리자 접속 경로가 '${updated.adminPath}'(으)로 변경되었습니다. 이제 이 주소로도 접속할 수 있습니다!`, 
+      type: 'success' 
+    });
+  };
+
+  const handleResetDefaults = () => {
+    if (!window.confirm('관리자 접속 주소와 계정 정보를 시스템 기본값(admin / namdo2026! / /admin)으로 복원하시겠습니까?')) return;
+    const def = resetAdminConfig();
+    setConfig(def);
+    setNewAdminId(def.adminId);
+    setNewAdminPath(def.adminPath);
+    setSettingsMessage({ text: '기본 설정값으로 복원되었습니다.', type: 'success' });
+  };
+
+  const fullAdminUrl = `${window.location.origin}${config.adminPath}`;
+
+  const handleCopyAdminUrl = () => {
+    navigator.clipboard.writeText(fullAdminUrl);
+    setCopiedUrl(true);
+    setTimeout(() => setCopiedUrl(false), 2000);
+  };
+
   // ---------------- Render: Login Screen ----------------
   if (!auth) {
     return (
@@ -259,7 +334,7 @@ export default function AdminPortal() {
               <img src="/images/logo-main.svg" alt="남도예술정원" className="h-10 mx-auto brightness-200" />
             </Link>
             <h1 className="text-2xl font-serif font-bold text-white">관리자 포털 로그인</h1>
-            <p className="text-neutral-400 text-xs">남도예술정원 공지사항 & 언론보도 등록 시스템</p>
+            <p className="text-neutral-400 text-xs">남도예술정원 공식 콘텐츠 관리 시스템</p>
           </div>
 
           {loginError && (
@@ -280,7 +355,7 @@ export default function AdminPortal() {
                   type="text"
                   value={adminId}
                   onChange={(e) => setAdminId(e.target.value)}
-                  placeholder="admin"
+                  placeholder="관리자 ID를 입력하세요"
                   required
                   className="w-full bg-neutral-900/80 border border-neutral-700 rounded-2xl pl-11 pr-4 py-3 text-sm text-white focus:outline-none focus:border-primary transition-all"
                 />
@@ -297,7 +372,7 @@ export default function AdminPortal() {
                   type="password"
                   value={adminPw}
                   onChange={(e) => setAdminPw(e.target.value)}
-                  placeholder="••••••••"
+                  placeholder="비밀번호를 입력하세요"
                   required
                   className="w-full bg-neutral-900/80 border border-neutral-700 rounded-2xl pl-11 pr-4 py-3 text-sm text-white focus:outline-none focus:border-primary transition-all"
                 />
@@ -305,9 +380,12 @@ export default function AdminPortal() {
             </div>
 
             <div className="p-3 rounded-2xl bg-neutral-900/50 border border-neutral-700/50 text-[11px] text-neutral-400 space-y-1">
-              <div className="font-bold text-neutral-300">💡 사전 등록 관리자 계정 안내</div>
-              <div>• 아이디: <code className="text-primary font-mono font-bold">admin</code></div>
-              <div>• 비밀번호: <code className="text-primary font-mono font-bold">namdo2026!</code></div>
+              <div className="font-bold text-neutral-300 flex items-center gap-1.5">
+                <ShieldCheck className="w-3.5 h-3.5 text-primary" /> 관리자 계정 안내
+              </div>
+              <p className="text-[10px] text-neutral-400">
+                로그인 후 [보안 & 설정] 탭에서 ID, 비밀번호, 접속 주소를 자유롭게 변경하실 수 있습니다.
+              </p>
             </div>
 
             <button
@@ -373,14 +451,14 @@ export default function AdminPortal() {
               콘텐츠 관리자 대시보드
             </h1>
             <p className="text-sm text-neutral-500 mt-1">
-              MS Word(.docx) 문서를 업로드하여 공지사항, 언론보도, 여행 기사를 실시간으로 등록합니다.
+              MS Word(.docx) 문서를 업로드하여 공지사항, 언론보도, 여행 기사를 실시간으로 등록하고 보안 설정을 관리합니다.
             </p>
           </div>
 
-          <div className="flex items-center gap-2 bg-neutral-200/60 p-1.5 rounded-2xl">
+          <div className="flex items-center gap-2 bg-neutral-200/60 p-1.5 rounded-2xl flex-wrap">
             <button
               onClick={() => setActiveTab('write')}
-              className={`px-5 py-2.5 rounded-xl text-xs font-bold transition-all flex items-center gap-2 ${
+              className={`px-4 py-2 rounded-xl text-xs font-bold transition-all flex items-center gap-2 ${
                 activeTab === 'write' ? 'bg-white text-neutral-900 shadow-sm' : 'text-neutral-600 hover:text-neutral-900'
               }`}
             >
@@ -388,11 +466,19 @@ export default function AdminPortal() {
             </button>
             <button
               onClick={() => setActiveTab('manage')}
-              className={`px-5 py-2.5 rounded-xl text-xs font-bold transition-all flex items-center gap-2 ${
+              className={`px-4 py-2 rounded-xl text-xs font-bold transition-all flex items-center gap-2 ${
                 activeTab === 'manage' ? 'bg-white text-neutral-900 shadow-sm' : 'text-neutral-600 hover:text-neutral-900'
               }`}
             >
               <Layers className="w-4 h-4 text-primary" /> 등록된 글 관리 ({notices.length + pressList.length + postsList.length})
+            </button>
+            <button
+              onClick={() => setActiveTab('settings')}
+              className={`px-4 py-2 rounded-xl text-xs font-bold transition-all flex items-center gap-2 ${
+                activeTab === 'settings' ? 'bg-white text-neutral-900 shadow-sm' : 'text-neutral-600 hover:text-neutral-900'
+              }`}
+            >
+              <Settings className="w-4 h-4 text-primary" /> 보안 & 접속설정
             </button>
           </div>
         </div>
@@ -676,7 +762,6 @@ export default function AdminPortal() {
                     </div>
                   )}
 
-                  {/* Body Content preview */}
                   {contentHtml && (
                     <div className="pt-4 border-t border-neutral-100">
                       <span className="text-xs font-bold text-neutral-400 block mb-2">워드 본문 렌더링 미리보기:</span>
@@ -813,6 +898,186 @@ export default function AdminPortal() {
                   ))}
                 </div>
               )}
+            </div>
+          </div>
+        )}
+
+        {/* Tab 3: Security & Admin Settings View */}
+        {activeTab === 'settings' && (
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
+            {/* Section 1: Change Admin Path */}
+            <div className="bg-white p-6 md:p-8 rounded-3xl border border-neutral-200 shadow-sm space-y-6">
+              <div className="flex items-center gap-3">
+                <div className="w-10 h-10 rounded-2xl bg-cyan-100 text-cyan-800 flex items-center justify-center font-bold">
+                  <Link2 className="w-5 h-5" />
+                </div>
+                <div>
+                  <h3 className="text-lg font-serif font-bold text-neutral-900">
+                    관리자 접속 주소(URL) 설정
+                  </h3>
+                  <p className="text-xs text-neutral-500">
+                    보안 강화를 위해 기본 <code className="text-primary font-bold">/admin</code> 대신 나만의 비밀 주소를 설정할 수 있습니다.
+                  </p>
+                </div>
+              </div>
+
+              {/* Current URL preview and copy */}
+              <div className="p-4 rounded-2xl bg-neutral-50 border border-neutral-200/80 space-y-2">
+                <span className="text-[11px] font-bold text-neutral-500 block uppercase tracking-wider">
+                  현재 활성화된 관리자 주소
+                </span>
+                <div className="flex items-center justify-between gap-2">
+                  <code className="text-xs md:text-sm font-mono text-neutral-800 break-all select-all font-bold">
+                    {fullAdminUrl}
+                  </code>
+                  <button
+                    onClick={handleCopyAdminUrl}
+                    className="p-2 rounded-xl bg-white hover:bg-neutral-100 text-neutral-700 border border-neutral-200 text-xs flex items-center gap-1 flex-shrink-0 transition-colors"
+                  >
+                    {copiedUrl ? <Check className="w-3.5 h-3.5 text-primary" /> : <Copy className="w-3.5 h-3.5" />}
+                    <span>{copiedUrl ? '복사됨' : '복사'}</span>
+                  </button>
+                </div>
+              </div>
+
+              <form onSubmit={handleSaveAdminPath} className="space-y-4">
+                <div>
+                  <label className="block text-xs font-bold text-neutral-700 mb-1">
+                    새 접속 경로 (URL Path)
+                  </label>
+                  <div className="flex items-center">
+                    <span className="px-3.5 py-3 rounded-l-2xl bg-neutral-100 border border-r-0 border-neutral-300 text-xs font-mono text-neutral-500">
+                      namdoartgarden.com
+                    </span>
+                    <input
+                      type="text"
+                      value={newAdminPath}
+                      onChange={(e) => setNewAdminPath(e.target.value)}
+                      placeholder="/admin 또는 /namdo-manage"
+                      required
+                      className="flex-grow border border-neutral-300 rounded-r-2xl px-4 py-3 text-sm focus:outline-none focus:border-primary font-mono"
+                    />
+                  </div>
+                  <span className="text-[11px] text-neutral-400 mt-1 block">
+                    예: <code className="font-mono">/namdo-manage</code>, <code className="font-mono">/partner-login</code>
+                  </span>
+                </div>
+
+                <button
+                  type="submit"
+                  className="w-full py-3 rounded-2xl bg-cyan-700 hover:bg-cyan-800 text-white font-bold text-sm shadow-md transition-all flex items-center justify-center gap-2"
+                >
+                  <CheckCircle2 className="w-4 h-4" /> 관리자 접속 경로 저장
+                </button>
+              </form>
+            </div>
+
+            {/* Section 2: Change ID and Password */}
+            <div className="bg-white p-6 md:p-8 rounded-3xl border border-neutral-200 shadow-sm space-y-6">
+              <div className="flex items-center gap-3">
+                <div className="w-10 h-10 rounded-2xl bg-emerald-100 text-emerald-800 flex items-center justify-center font-bold">
+                  <KeyRound className="w-5 h-5" />
+                </div>
+                <div>
+                  <h3 className="text-lg font-serif font-bold text-neutral-900">
+                    관리자 계정 및 비밀번호 변경
+                  </h3>
+                  <p className="text-xs text-neutral-500">
+                    클라이언트 담당자 전용 로그인 아이디와 비밀번호를 변경합니다.
+                  </p>
+                </div>
+              </div>
+
+              {settingsMessage.text && (
+                <div className={`p-4 rounded-2xl text-xs flex items-center gap-2 ${
+                  settingsMessage.type === 'success' 
+                    ? 'bg-emerald-50 border border-emerald-200 text-emerald-800' 
+                    : 'bg-rose-50 border border-rose-200 text-rose-800'
+                }`}>
+                  {settingsMessage.type === 'success' ? (
+                    <CheckCircle2 className="w-4 h-4 flex-shrink-0" />
+                  ) : (
+                    <AlertCircle className="w-4 h-4 flex-shrink-0" />
+                  )}
+                  <span>{settingsMessage.text}</span>
+                </div>
+              )}
+
+              <form onSubmit={handleSaveCredentials} className="space-y-4">
+                <div>
+                  <label className="block text-xs font-bold text-neutral-700 mb-1">
+                    관리자 아이디 (ID)
+                  </label>
+                  <input
+                    type="text"
+                    value={newAdminId}
+                    onChange={(e) => setNewAdminId(e.target.value)}
+                    required
+                    placeholder="새 아이디 입력"
+                    className="w-full border border-neutral-300 rounded-2xl px-4 py-3 text-sm focus:outline-none focus:border-primary"
+                  />
+                </div>
+
+                <div>
+                  <label className="block text-xs font-bold text-neutral-700 mb-1">
+                    현재 비밀번호 (확인용) *
+                  </label>
+                  <input
+                    type="password"
+                    value={currentPwForCheck}
+                    onChange={(e) => setCurrentPwForCheck(e.target.value)}
+                    required
+                    placeholder="현재 비밀번호를 입력해 주세요"
+                    className="w-full border border-neutral-300 rounded-2xl px-4 py-3 text-sm focus:outline-none focus:border-primary"
+                  />
+                </div>
+
+                <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+                  <div>
+                    <label className="block text-xs font-bold text-neutral-700 mb-1">
+                      새 비밀번호 (선택)
+                    </label>
+                    <input
+                      type="password"
+                      value={newAdminPw}
+                      onChange={(e) => setNewAdminPw(e.target.value)}
+                      placeholder="변경할 새 비밀번호"
+                      className="w-full border border-neutral-300 rounded-2xl px-4 py-3 text-sm focus:outline-none focus:border-primary"
+                    />
+                  </div>
+
+                  <div>
+                    <label className="block text-xs font-bold text-neutral-700 mb-1">
+                      새 비밀번호 재입력
+                    </label>
+                    <input
+                      type="password"
+                      value={confirmAdminPw}
+                      onChange={(e) => setConfirmAdminPw(e.target.value)}
+                      placeholder="새 비밀번호 다시 입력"
+                      className="w-full border border-neutral-300 rounded-2xl px-4 py-3 text-sm focus:outline-none focus:border-primary"
+                    />
+                  </div>
+                </div>
+
+                <div className="pt-2 flex flex-col sm:flex-row items-center gap-3">
+                  <button
+                    type="submit"
+                    className="w-full sm:flex-1 py-3 rounded-2xl bg-primary hover:bg-primary/90 text-white font-bold text-sm shadow-md transition-all flex items-center justify-center gap-2"
+                  >
+                    <CheckCircle2 className="w-4 h-4" /> 계정 정보 변경 저장
+                  </button>
+
+                  <button
+                    type="button"
+                    onClick={handleResetDefaults}
+                    className="w-full sm:w-auto px-4 py-3 rounded-2xl bg-neutral-100 hover:bg-neutral-200 text-neutral-600 text-xs font-bold transition-all flex items-center justify-center gap-1.5"
+                    title="기본값(admin / namdo2026!)으로 복원"
+                  >
+                    <RotateCcw className="w-3.5 h-3.5" /> 기본값 복원
+                  </button>
+                </div>
+              </form>
             </div>
           </div>
         )}

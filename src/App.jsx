@@ -17,9 +17,12 @@ import GardenDetail from './pages/GardenDetail';
 import GardensHub from './pages/GardensHub';
 import PostsArchive from './pages/PostsArchive';
 import AdminPortal from './pages/Admin';
+import { getAdminConfig } from './utils/adminStorage';
 
 function AnimatedRoutes() {
   const location = useLocation();
+  const adminConfig = getAdminConfig();
+  const customAdminPath = adminConfig.adminPath !== '/admin' ? adminConfig.adminPath : null;
 
   return (
     <AnimatePresence mode="wait">
@@ -36,6 +39,9 @@ function AnimatedRoutes() {
         <Route path="/region/:regionId" element={<PageTransition><RegionGallery /></PageTransition>} />
         <Route path="/posts/:id" element={<PageTransition><PostDetail /></PageTransition>} />
         <Route path="/admin" element={<PageTransition><AdminPortal /></PageTransition>} />
+        {customAdminPath && (
+          <Route path={customAdminPath} element={<PageTransition><AdminPortal /></PageTransition>} />
+        )}
       </Routes>
     </AnimatePresence>
   );

@@ -435,28 +435,33 @@ export default function Home() {
                   transition={{ duration: 0.4 }}
                   className="space-y-4"
                 >
-                  {allNotices.map((item) => (
-                    <a
-                      key={item.id}
-                      href={item.link}
-                      target={item.isExternal ? "_blank" : undefined}
-                      rel={item.isExternal ? "noopener noreferrer" : undefined}
-                      className="group flex flex-col md:flex-row md:items-center justify-between p-6 md:p-8 rounded-3xl bg-white/70 hover:bg-white backdrop-blur-md border border-neutral-200/50 hover:border-primary/30 shadow-sm hover:shadow-xl transition-all duration-500 cursor-pointer"
-                    >
-                      <div className="space-y-2 max-w-2xl">
-                        <span className="text-[10px] font-bold text-primary tracking-widest uppercase bg-primary/10 px-3 py-1 rounded-full">Notice</span>
-                        <h3 className="text-lg md:text-xl font-bold text-neutral-900 group-hover:text-primary transition-colors flex items-center gap-2">
-                          {item.title}
-                          {item.isExternal && <ExternalLink className="w-4 h-4 text-neutral-400" />}
-                        </h3>
-                        <p className="text-neutral-500 font-light text-sm line-clamp-2">{item.desc}</p>
-                      </div>
-                      <div className="mt-4 md:mt-0 text-right flex items-center md:flex-col justify-between md:justify-center border-t md:border-t-0 pt-4 md:pt-0 border-neutral-100">
-                        <span className="text-xs font-bold text-neutral-400 tracking-wider font-mono">{item.date}</span>
-                        <span className="text-[10px] font-bold text-neutral-900 group-hover:text-primary transition-colors tracking-widest uppercase md:mt-2 block group-hover:translate-x-1 duration-300">Read More &rarr;</span>
-                      </div>
-                    </a>
-                  ))}
+                  {allNotices.map((item) => {
+                    const CardWrapper = item.isExternal ? 'a' : Link;
+                    const linkProps = item.isExternal 
+                      ? { href: item.link, target: "_blank", rel: "noopener noreferrer" }
+                      : { to: item.link || '/posts' };
+
+                    return (
+                      <CardWrapper
+                        key={item.id}
+                        {...linkProps}
+                        className="group flex flex-col md:flex-row md:items-center justify-between p-6 md:p-8 rounded-3xl bg-white/70 hover:bg-white backdrop-blur-md border border-neutral-200/50 hover:border-primary/30 shadow-sm hover:shadow-xl transition-all duration-500 cursor-pointer"
+                      >
+                        <div className="space-y-2 max-w-2xl">
+                          <span className="text-[10px] font-bold text-primary tracking-widest uppercase bg-primary/10 px-3 py-1 rounded-full">Notice</span>
+                          <h3 className="text-lg md:text-xl font-bold text-neutral-900 group-hover:text-primary transition-colors flex items-center gap-2">
+                            {item.title}
+                            {item.isExternal && <ExternalLink className="w-4 h-4 text-neutral-400" />}
+                          </h3>
+                          <p className="text-neutral-500 font-light text-sm line-clamp-2">{item.desc}</p>
+                        </div>
+                        <div className="mt-4 md:mt-0 text-right flex items-center md:flex-col justify-between md:justify-center border-t md:border-t-0 pt-4 md:pt-0 border-neutral-100">
+                          <span className="text-xs font-bold text-neutral-400 tracking-wider font-mono">{item.date}</span>
+                          <span className="text-[10px] font-bold text-neutral-900 group-hover:text-primary transition-colors tracking-widest uppercase md:mt-2 block group-hover:translate-x-1 duration-300">Read More &rarr;</span>
+                        </div>
+                      </CardWrapper>
+                    );
+                  })}
                 </motion.div>
               )}
 
