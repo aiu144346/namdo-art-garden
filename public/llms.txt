@@ -1,0 +1,118 @@
+# 남도예술정원 (Namdo Art Garden)
+
+> 남도예술정원은 대한민국 전라남도 서남해안(해남·완도·진도·신안·목포)의 명품 민간정원 8곳과 인근의 자연, 예술, 미식, 역사 자원을 연계하여 세계적인 정원 예술 관광 생태계를 조성하는 공공-민간 협력 플랫폼입니다. 문화체육관광부와 전라남도, (재)전라남도관광재단, 남도예술정원 협동조합, 사업운영단(주스컴퍼니)이 함께 추진하고 있습니다.
+
+- 공식 웹사이트: https://namdoartgarden.com
+- 전체 사이트맵: https://namdoartgarden.com/sitemap.xml
+- 공식 언어 지원: 한국어 (기본), English, 中文 (简体), 日本語 (실시간 번역)
+
+---
+
+## 8대 명품 민간정원 (The 8 Master Gardens of Namdo)
+
+남도예술정원을 구성하는 핵심 8개 민간정원의 상세 정보 및 공식 링크입니다.
+
+### 1. 문가든 (Moon Garden, 해남)
+- 위치: 전라남도 해남군 계곡면 오류제 인근
+- 상세 페이지: https://namdoartgarden.com/gardens/moon
+- 대표 기사: https://namdoartgarden.com/posts/h30-haenam-moongarden
+- 테마: 잔잔한 오류제 저수지 파노라마 뷰와 동화 같은 산책로를 품은 감성 피크닉 정원
+- 특징: 식물 전문가 문홍식 대표가 가족과 함께 가꾼 남도 대표 힐링 명소. 계절별 꽃과 나무, 황칠나무 군락, 수변 조망 망원경, 피크닉 카페 운영.
+
+### 2. 바하가든 (Baha Garden, 완도)
+- 위치: 전라남도 완도군 신지면 명사십리 인근
+- 상세 페이지: https://namdoartgarden.com/gardens/baha
+- 대표 기사: https://namdoartgarden.com/posts/w14-wando-baha-garden
+- 테마: 소유보다 존재의 의미를 찾는 바람의 언덕, 바다와 맞닿은 치유 정원
+- 특징: 다도해 해풍을 머금은 야생화와 돌담길, 정원주의 사유가 담긴 예술적 조경.
+
+### 3. 비원 (Secret Garden, 해남)
+- 위치: 전라남도 해남군 흑석산 자락
+- 상세 페이지: https://namdoartgarden.com/gardens/biwon
+- 대표 기사: https://namdoartgarden.com/posts/h25-haenam-secret-garden
+- 테마: 산비탈 다랑이논 지형을 예술로 승화시킨 비밀의 숲 정원
+- 특징: 수십 년간 정원주의 땀과 정성으로 가꾼 기암괴석, 계류, 희귀 수목의 조화.
+
+### 4. 산이정원 (Sani Garden, 해남)
+- 위치: 전라남도 해남군 산이면 부동리 71-1
+- 상세 페이지: https://namdoartgarden.com/gardens/sani
+- 대표 기사: https://namdoartgarden.com/posts/h3-haenam-sanigarden-guide
+- 테마: 미래세대를 위한 꿈의 씨앗, 솔라시도 스마트시티의 거대 생태 정원
+- 특징: 5만 평 규모의 친환경 생태정원, 맞이정원, 어린이정원, 카페 아치(Archi), 남도예술정원 협동조합 공식 현판식 개최지.
+
+### 5. 아내의 정원 (Home of Florist, 완도)
+- 위치: 전라남도 완도군 군외면
+- 상세 페이지: https://namdoartgarden.com/gardens/wife
+- 대표 기사: https://namdoartgarden.com/posts/w7-wando-wife-garden
+- 테마: 아내를 향한 남편의 사랑이 깃든 숲속 유럽풍 낭만 정원
+- 특징: 완도 바다가 내려다보이는 구릉지에 플로리스트 아내를 위해 가꾼 수국, 장미, 동백 숲길.
+
+### 6. 진도휴식 (Jindo Rest, 진도)
+- 위치: 전라남도 진도군 군내면
+- 상세 페이지: https://namdoartgarden.com/gardens/jindo
+- 대표 기사: https://namdoartgarden.com/posts/j13-jindo-uldol-hyusik
+- 테마: 동백 숲과 바다가 건네는 오감의 환대, 고려 삼별초 전설이 깃든 사유 정원
+- 특징: 울돌목 이충무공 승전공원에서 차로 15분 거리. 붉은 동백 숲 산책로, 잔디 쉼터, 지역 파트너 공간과의 연계 투어.
+
+### 7. 파인클라우드 (Pine Cloud, 신안)
+- 위치: 전라남도 신안군 압해도 1004섬 분재정원 인근
+- 상세 페이지: https://namdoartgarden.com/gardens/pine
+- 대표 기사: https://namdoartgarden.com/posts/s2-pinecloud-photo
+- 테마: 명품 소나무와 바다 구름 사이, 사유와 명상의 정원
+- 특징: 수백 년 세월을 품은 분재형 소나무들과 기암괴석이 빚어내는 한 폭의 진경산수화.
+
+### 8. 4est(포레스트)수목원 (4est Arboretum, 해남)
+- 위치: 전라남도 해남군 현산면 봉동길 232-118
+- 상세 페이지: https://namdoartgarden.com/gardens/4est
+- 대표 기사: https://namdoartgarden.com/posts/h23-haenam-4est-arboretum
+- 테마: 별(Star), 돌(Stone), 이야기(Story), 배움(Study)이 있는 사계절 숲
+- 특징: 봄 분홍꽃축제, 여름 수국축제, 가을 팜파스그라스, 겨울 얼음축제 등 1,400여 종의 수목과 야생화가 자생하는 남도 최대 민간 수목원.
+
+---
+
+## 5대 권역별 아트 디스트릭트 (Regional Art Districts)
+
+1. **목포권 (Mokpo Art District)**: 근대 역사문화 거리와 예술의 항구
+   - URL: https://namdoartgarden.com/region/mokpo
+   - 주요 명소: 고하도 해상데크, 목포근대역사관, 유달산 조각공원, 목포해상케이블카
+
+2. **신안권 (Shinan Archipelago)**: 1004섬의 예술과 바다
+   - URL: https://namdoartgarden.com/region/shinan
+   - 주요 명소: 파인클라우드, 퍼플섬(반월·박지도), 1004섬 수목원, 자은도 1004 뮤지엄파크
+
+3. **해남권 (Haenam Territory)**: 땅끝의 비밀 정원과 유구한 역사
+   - URL: https://namdoartgarden.com/region/haenam
+   - 주요 명소: 산이정원, 문가든, 비원, 4est수목원, 우수영관광지, 대흥사, 해창주조장
+
+4. **진도권 (Jindo Heritage)**: 빛과 소리, 호국의 숨결이 살아있는 섬
+   - URL: https://namdoartgarden.com/region/jindo
+   - 주요 명소: 진도휴식 정원, 이충무공 승전공원(해양에너지공원), 울돌목 스카이워크, 진도타워, 운림산방
+
+5. **완도권 (Wando Islands)**: 치유와 해양 명상의 푸른 섬
+   - URL: https://namdoartgarden.com/region/wando
+   - 주요 명소: 바하가든, 아내의 정원, 완도수목원, 명사십리 해수욕장, 해양치유센터
+
+---
+
+## 추천 여행 코스 & 에디토리얼 리포트 (Curated Itineraries)
+
+- **진도 감성 여행 완벽 가이드**: 이충무공 승전공원 스카이워크 → 울돌목 회오리 물살 체험 → 판옥선 전시 → 민간정원 '진도휴식' → 지역 파트너 카페 & 맛집 연계
+  - https://namdoartgarden.com/posts/j13-jindo-uldol-hyusik
+- **해남 필수 정원 데이트**: 오류제 저수지 파노라마 뷰와 문가든 피크닉 산책로, 황칠차 티타임
+  - https://namdoartgarden.com/posts/h30-haenam-moongarden
+- **해남 100년 전통 양조장 투어**: 막걸리 매니아 방문 필수 해창주조장 정원과 무료 시음
+  - https://namdoartgarden.com/posts/h29-haenam-haechang-brewery
+- **남도 맛있는 정원투어 미식 여행**: 남도 제철 식재료와 정원 카페, 로컬 맛집 총망라
+  - https://namdoartgarden.com/posts/m2-food-garden-tour
+- **AI 리서처 리포트 전체 아카이브 (96편)**:
+  - https://namdoartgarden.com/posts
+
+---
+
+## 공공 파트너십 및 운영 주체
+
+- 주최: 문화체육관광부, 전라남도
+- 주관: (재)전라남도관광재단
+- 민간 연합: 남도예술정원 협동조합 (해남, 완도, 진도, 신안 7개 명품 정원 연합체)
+- 사업운영단: (주)쥬스컴퍼니
+- 문의/안내: 공식 홈페이지 및 각 정원별 방문자 센터

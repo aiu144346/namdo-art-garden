@@ -1,26 +1,65 @@
 # https://www.robotstxt.org/robotstxt.html
+# 남도예술정원 (Namdo Art Garden) - SEO & GEO (Generative Engine Optimization) Rules
+
 User-agent: *
 Allow: /
 Disallow: /admin/
 Disallow: /api/
 
-# Sitemaps
+# Sitemaps & LLM Discovery Standards
 Sitemap: https://namdoartgarden.com/sitemap.xml
+# LLM Knowledge Feed: https://namdoartgarden.com/llms.txt
 
-# Naver Search Advisor
-User-agent: Yeti
-Allow: /
+# --- AI & Generative Search Engine Crawlers (Full Access for Real-time Citations & Learning) ---
 
-# Googlebot
-User-agent: Googlebot
-Allow: /
-
-# Generative AI Crawlers (Allowing for search richness)
+# OpenAI (ChatGPT, ChatGPT Search, SearchGPT)
 User-agent: GPTBot
 Allow: /
 
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+# Perplexity AI (Real-time citation & Search)
+User-agent: PerplexityBot
+Allow: /
+
+# Anthropic (Claude & Claude Search)
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+# Google (Gemini, AI Overviews, SGE)
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
+# Naver (Naver Search & Cue: Generative AI)
+User-agent: Yeti
+Allow: /
+
+# Microsoft (Copilot & Bing)
+User-agent: Bingbot
+Allow: /
+
+# Apple Intelligence
+User-agent: Applebot-Extended
+Allow: /
+
+# Common Crawl & Open LLM Datasets
 User-agent: CCBot
 Allow: /
 
-User-agent: Google-Extended
+# Cohere AI
+User-agent: cohere-ai
+Allow: /
+
+# ByteDance
+User-agent: Bytespider
 Allow: /
