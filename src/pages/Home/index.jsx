@@ -547,7 +547,7 @@ export default function Home() {
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-10">
             {[
-              { id: 'm2-food-april', title: 'AI 리서처가 추천하는 4월의 목포 맛집 탐방', cat: '맛집', icon: Coffee, img: '/images/post-food-jokzakaya.webp' },
+              { id: 'm2-food-garden-tour', title: '남도와 정원에 관심있는 사람 모여라! 맛있는 정원투어 미식 여행', cat: '미식 투어', icon: Coffee, img: '/images/food-tour/food-tour-01.webp' },
               { id: 's20-shinan-stay-best8', title: 'AI 리서처가 추천하는 신안권 숙소 심층 리뷰 BEST 8', cat: '숙소', icon: Search, img: '/images/post-stay-chunhwadang.webp' },
               { id: 'h28-haenam-walking-best4', title: '해남 걷는 행복 — AI 리서처가 추천하는 최고의 걷기 탐방 가이드', cat: '여행 팁', icon: Compass, img: '/images/wando-074.webp' }
             ].map((post) => (

@@ -1,4 +1,389 @@
 export const postsMain = {
+  "m2-food-garden-tour": {
+    "id": "m2-food-garden-tour",
+    "regionId": "main",
+    "title": "남도와 정원에 관심있는 사람 모여라! 맛있는 정원투어 미식 여행",
+    "description": "목포역에서 출발해 완도 닭코스 요리와 아내의 정원, 해남 해창주조장과 문가든, 진도 진도휴식의 붉은 노을과 어란 디저트까지! 하루 만에 즐긴 생생한 남도 맛있는 정원투어 미식 여행기.",
+    "keywords": "남도맛있는정원투어, 맛있는정원투어, 남도여행, 정원투어, 만남의광장, 아내의정원, 해창주조장, 문가든, 진도휴식, 남도맛집투어, 남도당일치기, 가을미식여행",
+    "date": "2026. 04. 18",
+    "author": "남도예술정원 공식 에디터",
+    "readTime": "6분",
+    "image": "/images/food-tour/food-tour-01.webp",
+    "content": `
+      <div class="max-w-4xl mx-auto space-y-10 text-neutral-800 leading-relaxed font-sans mt-4 px-2 md:px-0">
+        <!-- Hero Section -->
+        <div class="space-y-4">
+          <div class="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-primary/10 text-primary text-xs font-bold uppercase tracking-wider">
+            🍽️ 특별 기획 | 남도 맛있는 정원 투어
+          </div>
+          <h1 class="text-3xl md:text-5xl font-serif font-bold text-neutral-900 leading-tight">
+            남도와 정원에 관심있는 사람 모여라!<br/>
+            <span class="text-primary font-sans">맛있는 정원투어 미식 여행</span>
+          </h1>
+          <p class="text-base md:text-lg text-neutral-600 font-light leading-relaxed">
+            남도의 아름다운 정원과 지역의 깊은 손맛이 어우러진 특별한 하루! 목포역에서 출발해 완도, 해남, 진도까지 오감을 사로잡는 생생한 당일치기 미식 로드무비를 전해드립니다.
+          </p>
+        </div>
+
+        <!-- [1] Main Photo -->
+        <div class="space-y-2">
+          <img src="/images/food-tour/food-tour-01.webp" alt="남도 맛있는 정원투어 미식 여행 메인 전경" class="w-full rounded-3xl object-cover shadow-xl border border-neutral-100 max-h-[600px]" />
+          <p class="text-center text-xs md:text-sm text-neutral-500 font-medium">(▲ 남도의 아름다운 정원과 깊은 로컬의 맛을 하루에 만나는 '맛있는 정원 투어')</p>
+        </div>
+
+        <!-- Intro Text Box -->
+        <div class="bg-[#fafaf7] p-6 md:p-8 rounded-3xl border border-neutral-200/80 shadow-sm space-y-4">
+          <p class="text-base md:text-lg font-medium text-neutral-800">
+            안녕하세요.<br/>
+            오늘은 멋진 정원과 입이 즐거운 <strong>‘맛있는 정원 투어’</strong>에 다녀온 이야기를 시작해보겠습니다.
+          </p>
+          <p class="text-neutral-600 leading-relaxed">
+            이번에 다녀온 미식 여행은 <strong>‘남도예술정원’</strong>에서 남도의 아름다운 정원과 지역의 깊은 맛을 스토리텔링한 특별한 관광 상품인데요.<br/>
+            목포역에서 출발해서 완도, 해남, 그리고 진도까지 남도의 대표 명소들을 하루 만에 둘러보았습니다.
+          </p>
+        </div>
+
+        <hr class="border-neutral-200" />
+
+        <!-- Course 1: 완도 만남의 광장 -->
+        <section class="space-y-6">
+          <div class="flex items-center gap-3">
+            <span class="w-8 h-8 rounded-full bg-primary text-white flex items-center justify-center font-bold text-sm">01</span>
+            <div>
+              <span class="text-xs font-bold text-primary tracking-widest uppercase">Wando Gourmet</span>
+              <h2 class="text-2xl md:text-3xl font-serif font-bold text-neutral-900">[완도] 만남의 광장: 감탄이 절로 나오는 닭코스 요리</h2>
+            </div>
+          </div>
+
+          <!-- [2, 3] Photos -->
+          <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+            <div class="space-y-1">
+              <img src="/images/food-tour/food-tour-02.webp" alt="완도 만남의 광장 외관 및 단체 룸 전경" class="w-full h-72 md:h-80 rounded-2xl object-cover shadow-md border border-neutral-100" />
+              <p class="text-center text-xs text-neutral-500">완도 만남의 광장 넓고 쾌적한 실내 공간</p>
+            </div>
+            <div class="space-y-1">
+              <img src="/images/food-tour/food-tour-03.webp" alt="신선한 닭가슴살 육회" class="w-full h-72 md:h-80 rounded-2xl object-cover shadow-md border border-neutral-100" />
+              <p class="text-center text-xs text-neutral-500">신선함과 쫄깃한 식감이 일품인 닭가슴살 육회</p>
+            </div>
+          </div>
+
+          <div class="text-neutral-700 space-y-4 leading-relaxed">
+            <p>
+              목포역을 출발해 가장 먼저 도착한 곳은 완도에 위치한 <strong>‘만남의 광장’</strong>이었습니다.<br/>
+              이곳은 다음 코스로 방문할 ‘아내의 정원’ 대표님께서 추천해주신 로컬 맛집이었는데요.
+            </p>
+            <p>
+              안으로 들어가 보니 넓고 쾌적한 룸이 준비되어 있어 단체 모임이나 회식하기 좋았습니다.<br/>
+              코스의 시작을 알린 첫 요리는 <strong>닭가슴살 육회</strong>였는데요. 신선함이 입안 가득 맴돌며 쫄깃하게 씹히는 식감이 일품이었습니다.
+            </p>
+          </div>
+
+          <!-- [4, 5] Photos -->
+          <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+            <div class="space-y-1">
+              <img src="/images/food-tour/food-tour-04.webp" alt="노릇노릇하게 구워진 토종 닭구이" class="w-full h-72 md:h-80 rounded-2xl object-cover shadow-md border border-neutral-100" />
+              <p class="text-center text-xs text-neutral-500">오븐에서 노릇하게 구워진 토종 닭구이</p>
+            </div>
+            <div class="space-y-1">
+              <img src="/images/food-tour/food-tour-05.webp" alt="싱싱한 채소가 듬뿍 들어간 닭 주물럭과 부드러운 백숙" class="w-full h-72 md:h-80 rounded-2xl object-cover shadow-md border border-neutral-100" />
+              <p class="text-center text-xs text-neutral-500">매콤달콤 닭 주물럭과 찰밥이 들어간 부드러운 닭백숙</p>
+            </div>
+          </div>
+
+          <div class="text-neutral-700 space-y-4 leading-relaxed">
+            <p>
+              오븐에서 노릇노릇 구워져 나온 닭구이는 다리, 날개, 그리고 쫀득한 닭발까지 가장 인기 있는 부위들로 알차게 구성되었는데요. 토종 촌닭이라 그런지 뼈 크기부터 압도적이었고, 담백한 육즙이 살아있었습니다.
+            </p>
+            <p>
+              싱싱한 채소가 듬뿍 들어간 닭 주물럭은 젓가락질을 멈출 수 없었는데요. 찰밥이 들어간 닭백숙은 어찌나 부드러운지 입안에서 살살 녹았습니다.<br/>
+              마지막 코스로 진한 닭 육수에 끓인 녹두죽을 먹었는데, 배가 터질 정도로 푸짐하고 든든했습니다.
+            </p>
+          </div>
+        </section>
+
+        <hr class="border-neutral-200" />
+
+        <!-- Course 2: 완도 아내의 정원 -->
+        <section class="space-y-6">
+          <div class="flex items-center gap-3">
+            <span class="w-8 h-8 rounded-full bg-primary text-white flex items-center justify-center font-bold text-sm">02</span>
+            <div>
+              <span class="text-xs font-bold text-primary tracking-widest uppercase">Wando Garden</span>
+              <h2 class="text-2xl md:text-3xl font-serif font-bold text-neutral-900">[완도] 아내의 정원: 사랑으로 빚어낸 유럽형 힐링 정원</h2>
+            </div>
+          </div>
+
+          <!-- [6, 7] Photos -->
+          <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+            <div class="space-y-1">
+              <img src="/images/food-tour/food-tour-06.webp" alt="완도 아내의 정원 동화 같은 유럽풍 전경" class="w-full h-72 md:h-80 rounded-2xl object-cover shadow-md border border-neutral-100" />
+              <p class="text-center text-xs text-neutral-500">동화 속 유럽 마을 같은 아내의 정원 전경</p>
+            </div>
+            <div class="space-y-1">
+              <img src="/images/food-tour/food-tour-07.webp" alt="정원 속 귀여운 포니와 동물 친구들" class="w-full h-72 md:h-80 rounded-2xl object-cover shadow-md border border-neutral-100" />
+              <p class="text-center text-xs text-neutral-500">정원 한편에서 평화롭게 뛰노는 귀여운 동물 친구들</p>
+            </div>
+          </div>
+
+          <div class="text-neutral-700 space-y-4 leading-relaxed">
+            <p>
+              맛있는 식사를 마치고 기분 좋게 도착한 첫 번째 정원은 완도의 <strong>‘아내의 정원’</strong>이었습니다.<br/>
+              이곳은 꽃과 나무를 너무나 사랑해서 정원을 가꾸고 꽃꽂이할 때 가장 큰 행복을 느끼는 아내를 위해, 남편분께서 아내의 작은 소망들을 하나하나 실현해 준 사랑 가득한 공간인데요.
+            </p>
+            <p>
+              정원 한편에는 동물을 좋아하는 남편의 취향을 담은 귀여운 포니들과 미니 돼지들이 평화롭게 뛰놀고 있었습니다.<br/>
+              식물 구경에 귀여운 동물 친구들까지 만나니, 절로 힐링이 되는 것 같았습니다.
+            </p>
+          </div>
+
+          <!-- [8, 9] Photos -->
+          <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+            <div class="space-y-1">
+              <img src="/images/food-tour/food-tour-08.webp" alt="완도 특산품 비파와 향긋한 티타임" class="w-full h-72 md:h-80 rounded-2xl object-cover shadow-md border border-neutral-100" />
+              <p class="text-center text-xs text-neutral-500">완도 특산품 귀한 비파와 향긋한 티</p>
+            </div>
+            <div class="space-y-1">
+              <img src="/images/food-tour/food-tour-09.webp" alt="유럽 귀족의 오후 같은 디저트 테이블" class="w-full h-72 md:h-80 rounded-2xl object-cover shadow-md border border-neutral-100" />
+              <p class="text-center text-xs text-neutral-500">중세 유럽 귀족의 오후 같은 우아한 디저트 테이블</p>
+            </div>
+          </div>
+
+          <div class="text-neutral-700 space-y-4 leading-relaxed">
+            <p>
+              이곳에서 준비해 주신 티타임은 품격이 넘쳤는데요.<br/>
+              완도 특산품인 귀한 비파를 직접 맛볼 수 있는 특별한 시간이었습니다.
+            </p>
+            <p>
+              드라마 세트장 같이 우아하고 예쁜 공간에서 고급스러운 테이블 위에 정갈하게 놓인 차와 디저트를 즐기고 있으니, 꼭 중세 유럽의 귀족이 된 것 같았는데요.<br/>
+              <em>"오늘 이 투어 안 왔으면 어쩔 뻔했어?"</em>라는 생각이 들 정도로 높은 퀄리티와 디테일이 돋보였습니다.
+            </p>
+          </div>
+        </section>
+
+        <hr class="border-neutral-200" />
+
+        <!-- Course 3: 해남 해창주조장 -->
+        <section class="space-y-6">
+          <div class="flex items-center gap-3">
+            <span class="w-8 h-8 rounded-full bg-primary text-white flex items-center justify-center font-bold text-sm">03</span>
+            <div>
+              <span class="text-xs font-bold text-primary tracking-widest uppercase">Haenam Brewery</span>
+              <h2 class="text-2xl md:text-3xl font-serif font-bold text-neutral-900">[해남] 해창주조장: 유기농 찹쌀이 주는 천연 단맛과 백년 정원</h2>
+            </div>
+          </div>
+
+          <!-- [10, 11] Photos -->
+          <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+            <div class="space-y-1">
+              <img src="/images/food-tour/food-tour-10.webp" alt="해창주조장 백년 정원과 근대 역사 건축물" class="w-full h-72 md:h-80 rounded-2xl object-cover shadow-md border border-neutral-100" />
+              <p class="text-center text-xs text-neutral-500">세월의 깊이가 느껴지는 근대 역사 건축물과 백년 정원</p>
+            </div>
+            <div class="space-y-1">
+              <img src="/images/food-tour/food-tour-11.webp" alt="장기 저온 발효 숙성 해창막걸리의 숨결" class="w-full h-72 md:h-80 rounded-2xl object-cover shadow-md border border-neutral-100" />
+              <p class="text-center text-xs text-neutral-500">정성스런 장기 저온 발효 숙성을 거치는 명품 양조 공간</p>
+            </div>
+          </div>
+
+          <div class="text-neutral-700 space-y-4 leading-relaxed">
+            <p>
+              두 번째로 향한 곳은 전남 해남의 대표 명소, 막걸리 애주가들의 성지인 <strong>‘해창주조장’</strong>이었습니다.<br/>
+              이곳은 세월의 깊이가 느껴지는 근대 역사 건축물과 멋들어진 조경수가 그림처럼 어우러진 명품 양조장인데요.
+            </p>
+            <p>
+              <strong>‘해창막걸리’</strong>는 인공 감미료를 전혀 사용하지 않고 6개월에서 20일 이상 장기 저온 발효 숙성을 거치기 때문에, 찹쌀 본연의 자연스러운 깊은 단맛을 느낄 수 있고 마신 뒤 트림이나 숙취가 없는 것으로 유명합니다.
+            </p>
+          </div>
+
+          <!-- [12, 13] Photos -->
+          <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+            <div class="space-y-1">
+              <img src="/images/food-tour/food-tour-12.webp" alt="해창막걸리 12도와 9도 무료 비교 시음" class="w-full h-72 md:h-80 rounded-2xl object-cover shadow-md border border-neutral-100" />
+              <p class="text-center text-xs text-neutral-500">시그니처 12도와 9도 해창막걸리 비교 시음</p>
+            </div>
+            <div class="space-y-1">
+              <img src="/images/food-tour/food-tour-13.webp" alt="정원 벤치에서 시원하게 들이켜는 명품 막걸리 한잔" class="w-full h-72 md:h-80 rounded-2xl object-cover shadow-md border border-neutral-100" />
+              <p class="text-center text-xs text-neutral-500">초록빛 정원 벤치에서 즐기는 낭만적인 막걸리 한잔</p>
+            </div>
+          </div>
+
+          <div class="text-neutral-700 space-y-4 leading-relaxed">
+            <p>
+              ‘해창주조장’에서는 대표 시그니처인 12도와 9도 막걸리를 무료로 비교 시음할 수 있었는데요.<br/>
+              요거트처럼 걸쭉하고 묵직한 12도 막걸리와 깔끔하고 산뜻한 9도 막걸리를 번갈아 음미하며 주조장의 흥미진진한 스토리까지 들을 수 있어서 굉장히 유익했습니다.
+            </p>
+            <p>
+              평화로운 정원 벤치에 걸터앉아 초록초록한 풍경을 바라보며 시원하게 들이켜는 명품 막걸리 한잔은 낭만 그 자체이자 힐링 끝판왕이었습니다.
+            </p>
+          </div>
+        </section>
+
+        <hr class="border-neutral-200" />
+
+        <!-- Course 4: 해남 문가든 -->
+        <section class="space-y-6">
+          <div class="flex items-center gap-3">
+            <span class="w-8 h-8 rounded-full bg-primary text-white flex items-center justify-center font-bold text-sm">04</span>
+            <div>
+              <span class="text-xs font-bold text-primary tracking-widest uppercase">Haenam Garden</span>
+              <h2 class="text-2xl md:text-3xl font-serif font-bold text-neutral-900">[해남] 문가든: 가족 정원에서 맛본 황칠차와 바움쿠헨</h2>
+            </div>
+          </div>
+
+          <!-- [14, 15] Photos -->
+          <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+            <div class="space-y-1">
+              <img src="/images/food-tour/food-tour-14.webp" alt="문가든 문홍식 대표님과 가족 정원 전경" class="w-full h-72 md:h-80 rounded-2xl object-cover shadow-md border border-neutral-100" />
+              <p class="text-center text-xs text-neutral-500">정원주 문홍식 대표님의 유쾌한 안내와 정원 전경</p>
+            </div>
+            <div class="space-y-1">
+              <img src="/images/food-tour/food-tour-15.webp" alt="푸른 잔디광장과 아름다운 수목" class="w-full h-72 md:h-80 rounded-2xl object-cover shadow-md border border-neutral-100" />
+              <p class="text-center text-xs text-neutral-500">퇴직 후 손수 일군 세상에 단 하나뿐인 가족 정원</p>
+            </div>
+          </div>
+
+          <div class="text-neutral-700 space-y-4 leading-relaxed">
+            <p>
+              다음으로 향한 목적지는 바로 해남 계곡면에 자리 잡은 소문난 뷰 맛집 민간정원, <strong>‘문가든’</strong>이었습니다.<br/>
+              이곳은 정원주 문홍식 대표님이 퇴직 후, 손수 일군 세상에 단 하나뿐인 '가족 정원'인데요.
+            </p>
+            <p>
+              정원을 가꾸며 사는 삶이 매일매일 엄청난 행운이라며 <em>"정원은 로또다"</em>라고 유쾌하게 말씀하시는 대표님의 안내를 받으며 함께 정원을 산책했습니다.
+            </p>
+          </div>
+
+          <!-- [16, 17] Photos -->
+          <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+            <div class="space-y-1">
+              <img src="/images/food-tour/food-tour-16.webp" alt="문가든 저수지와 수려한 산세 파노라마" class="w-full h-72 md:h-80 rounded-2xl object-cover shadow-md border border-neutral-100" />
+              <p class="text-center text-xs text-neutral-500">잔잔한 저수지와 웅장한 산세가 펼쳐지는 뷰 맛집 산책로</p>
+            </div>
+            <div class="space-y-1">
+              <img src="/images/food-tour/food-tour-17.webp" alt="황칠나무 진액 황칠차와 바움쿠헨" class="w-full h-72 md:h-80 rounded-2xl object-cover shadow-md border border-neutral-100" />
+              <p class="text-center text-xs text-neutral-500">진시황의 불로초 황칠차와 독일식 전통 바움쿠헨의 환상 조화</p>
+            </div>
+          </div>
+
+          <div class="text-neutral-700 space-y-4 leading-relaxed">
+            <p>
+              이곳 ‘문가든’의 산책로는 일반적인 정원들과 달리 실제 가족들의 이름을 딴 정겨운 테마 공간들로 아기자기하게 채워져 있었는데요.<br/>
+              모퉁이를 사뿐사뿐 돌 때마다 눈앞에 잔잔한 저수지와 웅장하고 수려한 산세가 파노라마처럼 시원하게 펼쳐지는데 그야말로 뷰 맛집이었습니다.
+            </p>
+            <p>
+              산책을 마친 뒤에는 진시황이 불로초로 탐냈다는 만병통치 나무인 황칠나무 진액으로 우려낸 <strong>황칠차</strong>와 독일식 전통 케이크인 <strong>바움쿠헨</strong>을 맛보았는데요.<br/>
+              깊고 은은한 나무 향 뒤로 기분 좋은 단맛이 올라오는 황칠차에 달콤한 바움쿠헨의 조합은 마치 고급 호텔 연회에 초대받아 대접 받는 것 같았습니다.
+            </p>
+          </div>
+        </section>
+
+        <hr class="border-neutral-200" />
+
+        <!-- Course 5: 진도 진도휴식 -->
+        <section class="space-y-6">
+          <div class="flex items-center gap-3">
+            <span class="w-8 h-8 rounded-full bg-primary text-white flex items-center justify-center font-bold text-sm">05</span>
+            <div>
+              <span class="text-xs font-bold text-primary tracking-widest uppercase">Jindo Gourmet & Sunset</span>
+              <h2 class="text-2xl md:text-3xl font-serif font-bold text-neutral-900">[진도] 진도휴식: 붉은 노을 바다와 귀한 어란, 홍주의 향연</h2>
+            </div>
+          </div>
+
+          <!-- [18, 19] Photos -->
+          <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+            <div class="space-y-1">
+              <img src="/images/food-tour/food-tour-18.webp" alt="진도휴식의 환상적인 붉은 노을 바다" class="w-full h-72 md:h-80 rounded-2xl object-cover shadow-md border border-neutral-100" />
+              <p class="text-center text-xs text-neutral-500">석양으로 붉게 물드는 진도 다도해 파노라마</p>
+            </div>
+            <div class="space-y-1">
+              <img src="/images/food-tour/food-tour-19.webp" alt="임금님 수라상의 귀한 식재료 전통 어란 디저트" class="w-full h-72 md:h-80 rounded-2xl object-cover shadow-md border border-neutral-100" />
+              <p class="text-center text-xs text-neutral-500">임금님 수라상에 오르던 최고급 전통 어란 특급 디저트</p>
+            </div>
+          </div>
+
+          <div class="text-neutral-700 space-y-4 leading-relaxed">
+            <p>
+              이번 미식 여행의 피날레를 장식한 마지막 코스는 바로 <strong>‘진도휴식’</strong>이었습니다.<br/>
+              이곳은 신선한 제철 로컬 식재료를 활용해 남도의 깊은 음식 문화를 경험하고, 일상으로 돌아갈 힐링 에너지를 충전할 수 있는 복합 힐링 공간이었는데요.
+            </p>
+            <p>
+              먼저, 옛날 임금님 수라상에 귀하게 올라가던 최고급 전통 식재료인 ‘어란’을 활용한 특급 디저트가 등장했습니다.
+            </p>
+          </div>
+
+          <!-- [20, 21] Photos -->
+          <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+            <div class="space-y-1">
+              <img src="/images/food-tour/food-tour-20.webp" alt="어란 디저트와 막걸리, 진도 3대 나물" class="w-full h-72 md:h-80 rounded-2xl object-cover shadow-md border border-neutral-100" />
+              <p class="text-center text-xs text-neutral-500">감칠맛 가득한 어란 디저트와 막걸리, 정갈한 진도 제철 나물</p>
+            </div>
+            <div class="space-y-1">
+              <img src="/images/food-tour/food-tour-21.webp" alt="진도 홍주, 백주와 싱싱한 제철 회, 갈비찜 만찬" class="w-full h-72 md:h-80 rounded-2xl object-cover shadow-md border border-neutral-100" />
+              <p class="text-center text-xs text-neutral-500">진도 명주 홍주와 백주, 당일 갓 잡아올린 싱싱한 제철 회 만찬</p>
+            </div>
+          </div>
+
+          <div class="text-neutral-700 space-y-4 leading-relaxed">
+            <p>
+              짭조름하면서도 깊은 감칠맛을 품은 귀한 어란으로 만든 디저트는 아이디어가 굉장히 신선했는데요.<br/>
+              황금빛 붉은 석양으로 물드는 진도 바다를 바라보며, 시원한 막걸리 한 잔에 어란 디저트, 그리고 정갈한 3가지 진도 제철 나물을 딱 곁들이니 기품 있는 맛에 감탄이 멈추질 않았습니다.
+            </p>
+            <p>
+              여기에 진도 하면 빼놓을 수 없는 붉은빛 명주 <strong>‘진도 홍주’</strong>와 깔끔한 ‘백주’, 그리고 당일 바다에서 갓 잡아 올린 싱싱한 제철 회와 갈비찜까지 더해져서 미식 여행의 정점을 제대로 찍었는데요.<br/>
+              파도 소리에 낭만적인 붉은 노을, 그리고 정성 가득한 귀한 음식들까지 함께한 이 순간은 평생 잊지 못할 인생 추억이 되었습니다.
+            </p>
+          </div>
+        </section>
+
+        <hr class="border-neutral-200" />
+
+        <!-- Epilogue & Summary -->
+        <section class="space-y-6">
+          <div class="flex items-center gap-3">
+            <span class="w-8 h-8 rounded-full bg-neutral-900 text-white flex items-center justify-center font-bold text-sm">✦</span>
+            <h2 class="text-2xl md:text-3xl font-serif font-bold text-neutral-900">에필로그: 하루 만에 만난 남도의 깊은 맛과 멋</h2>
+          </div>
+
+          <!-- [22] Photo -->
+          <div class="space-y-2">
+            <img src="/images/food-tour/food-tour-22.webp" alt="남도 맛있는 정원투어 미식 여행의 감동적인 피날레" class="w-full rounded-3xl object-cover shadow-xl border border-neutral-100 max-h-[550px]" />
+            <p class="text-center text-xs md:text-sm text-neutral-500 font-medium">(▲ 목포-완도-해남-진도를 하루 만에 완성한 품격 있는 남도 미식 정원 투어)</p>
+          </div>
+
+          <div class="bg-gradient-to-br from-primary/5 to-primary/10 p-6 md:p-8 rounded-3xl border border-primary/20 space-y-4 text-neutral-800 leading-relaxed">
+            <p>
+              사실 아침에 목포역에서 출발할 때만 해도 <em>"과연 하루라는 짧은 시간 안에 남도의 그 넓고 깊은 맛과 멋을 다 느낄 수 있을까?"</em> 하고 살짝 걱정 반, 설렘 반이었는데요.
+            </p>
+            <p>
+              완도의 푸짐하고 든든한 닭코스 요리로 시작해서, 감성 가득한 유럽풍 <strong>‘아내의 정원’</strong>, 해남 <strong>‘해창주조장’</strong>의 진한 막걸리 향과 운치 있는 정원, 따뜻한 가족 사랑이 묻어나는 <strong>‘문가든’</strong>의 황칠차, 그리고 <strong>‘진도휴식’</strong>의 환상적인 붉은 노을과 고급 어란 디저트까지, 발길 닿는 곳마다 개성 넘치는 매력으로 가득 차 있어 지루할 틈이 1도 없었습니다.
+            </p>
+            <p class="font-semibold text-primary">
+              마치 하루 동안 중세 귀족이 되어 남도의 최고급 야외 연회에 초대받아 극진한 대접을 받고 온 것 같았는데요.<br/>
+              특별한 남도 여행을 계획 중이거나, 눈과 입이 동시에 호강하는 품격 있는 당일치기 힐링을 원하신다면 ‘남도 맛있는 정원투어 미식 여행’을 꼭 경험해 보시길 바랍니다.
+            </p>
+          </div>
+
+          <!-- Hashtags -->
+          <div class="pt-6 border-t border-neutral-200">
+            <div class="flex flex-wrap gap-2 text-xs font-medium text-neutral-600">
+              <span class="bg-surface px-3 py-1.5 rounded-full">#남도가볼만한곳</span>
+              <span class="bg-surface px-3 py-1.5 rounded-full">#남도여행</span>
+              <span class="bg-surface px-3 py-1.5 rounded-full">#남도여행코스</span>
+              <span class="bg-surface px-3 py-1.5 rounded-full">#맛있는정원투어</span>
+              <span class="bg-surface px-3 py-1.5 rounded-full">#남도맛있는정원투어</span>
+              <span class="bg-surface px-3 py-1.5 rounded-full">#만남의광장</span>
+              <span class="bg-surface px-3 py-1.5 rounded-full">#아내의정원</span>
+              <span class="bg-surface px-3 py-1.5 rounded-full">#해창주조장</span>
+              <span class="bg-surface px-3 py-1.5 rounded-full">#문가든</span>
+              <span class="bg-surface px-3 py-1.5 rounded-full">#진도휴식</span>
+              <span class="bg-surface px-3 py-1.5 rounded-full">#남도맛집투어</span>
+              <span class="bg-surface px-3 py-1.5 rounded-full">#정원투어</span>
+              <span class="bg-surface px-3 py-1.5 rounded-full">#남도당일치기</span>
+              <span class="bg-surface px-3 py-1.5 rounded-full">#가을미식여행</span>
+            </div>
+          </div>
+        </section>
+      </div>
+    `
+  },
   "notice-260703-supporters": {
     "id": "notice-260703-supporters",
     "regionId": "haenam",
