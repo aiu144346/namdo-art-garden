@@ -547,7 +547,7 @@ export default function Home() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8">
             {[
-              { id: 'j13-jindo-uldol-hyusik', title: '포효하는 명량의 바다에서 다정한 초록의 정원까지, 진도 감성 유람기', cat: '감성 유람', icon: Waves, img: '/images/Uldol/uldol-01.webp' },
+              { id: 'j13-jindo-uldol-hyusik', title: '필사즉생의 기상에서 초록빛 안식까지, 진도 감성 여행 완벽 가이드', cat: '감성 유람', icon: Waves, img: '/images/haeyang/haeyang-10.webp' },
               { id: 'm2-food-garden-tour', title: '남도와 정원에 관심있는 사람 모여라! 맛있는 정원투어 미식 여행', cat: '미식 투어', icon: Coffee, img: '/images/food-tour/food-tour-01.webp' },
               { id: 'h30-haenam-moongarden', title: '해남 필수 여행 코스! 맛있는 피크닉 명소 ‘문가든’ 정원 데이트', cat: '정원 피크닉', icon: Flower2, img: '/images/moongarden/moongarden-01.webp' },
               { id: 'h29-haenam-haechang-brewery', title: '막걸리 매니아 방문 필수! 무료 시음 가능한 해남 해창주조장 정원', cat: '양조장 투어', icon: Sparkles, img: '/images/haechang/haechang-01.webp' }

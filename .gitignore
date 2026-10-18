@@ -27,3 +27,4 @@ dist-ssr
 .env*
 raw_photos/
 scratch/
+.temp_inspect/

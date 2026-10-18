@@ -2,566 +2,451 @@ export const postsMain = {
   "j13-jindo-uldol-hyusik": {
     "id": "j13-jindo-uldol-hyusik",
     "regionId": "jindo",
-    "title": "포효하는 명량의 바다에서 다정한 초록의 정원까지, 진도 감성 유람기",
-    "description": "울돌목의 거센 회오리 물살과 스카이워크, 해전사 기념관의 웅장함을 지나 민간정원 '진도휴식'의 다정한 초록 쉼표와 진도 로컬 맛집·카페·공방 여행길까지! 완벽한 진도 감성 유람 가이드.",
-    "keywords": "진도여행, 울돌목스카이워크, 해남우수영관광지, 명량대첩, 진도휴식, 진도휴식정원, 남도예술정원, 남도예술정원서포터즈, 진도가볼만한곳, 진도여행코스, 진도카페, 진도맛집, 진도숙소, 스탬프투어, 정원여행자, 남도여행",
+    "title": "필사즉생의 기상에서 초록빛 안식까지, 진도 감성 여행 완벽 가이드",
+    "description": "진도 이충무공 승전공원(해양에너지공원)부터 민간정원 '진도휴식', 그리고 마을 파트너 공간까지 이어지는 하루 완벽 가이드.",
+    "keywords": "진도여행, 이충무공승전공원, 해양에너지공원, 울돌목스카이워크, 명량대첩, 진도휴식, 진도휴식정원, 남도예술정원, 남도예술정원서포터즈, 진도가볼만한곳, 진도여행코스, 진도카페, 진도맛집, 진도숙소, 스탬프투어, 정원여행자, 남도여행",
     "date": "2026. 04. 19",
     "author": "남도예술정원 공식 에디터",
     "readTime": "6분",
-    "image": "/images/Uldol/uldol-01.webp",
+    "image": "/images/haeyang/haeyang-10.webp",
     "content": `
-      <div class="max-w-4xl mx-auto space-y-10 text-neutral-800 leading-relaxed font-sans mt-4 px-2 md:px-0">
-        <!-- Hero Section -->
+      <div class="max-w-4xl mx-auto space-y-12 text-neutral-800 leading-relaxed font-sans mt-4 px-2 md:px-0">
+        <!-- Hero Banner / 상단 타이틀 영역 -->
         <div class="space-y-4">
           <div class="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-cyan-500/10 text-cyan-800 text-xs font-bold uppercase tracking-wider">
-            🌊 호국의 바다 & 힐링 정원 | 진도·해남
+            남도예술정원 트래블 가이드 Vol. 02
           </div>
           <h1 class="text-3xl md:text-5xl font-serif font-bold text-neutral-900 leading-tight">
-            포효하는 명량의 바다에서<br/>
-            <span class="text-cyan-700 font-sans">다정한 초록의 정원까지, 진도 감성 유람기</span>
+            필사즉생의 기상에서 초록빛 안식까지,<br/>
+            <span class="text-cyan-700 font-sans">진도 감성 여행 완벽 가이드</span>
           </h1>
           <p class="text-base md:text-lg text-neutral-600 font-light leading-relaxed">
-            바다가 울며 돌아 나간다는 해협, 울돌목의 거센 물살을 발아래 두고 걷는 아찔한 첫걸음. 그 뜨거운 역사의 현장을 지나 고즈넉한 민간정원 ‘진도휴식’의 초록빛 품에 안기면, 진도는 비로소 진짜 얼굴을 보여줍니다.
+            진도 이충무공 승전공원(해양에너지공원)부터 민간정원 '진도휴식', 그리고 마을 파트너 공간까지 이어지는 하루
           </p>
         </div>
 
-        <!-- [1] Main Hero Photo -->
-        <div class="space-y-2">
-          <img src="/images/Uldol/uldol-01.webp" alt="포효하는 울돌목과 진도대교 전경" class="w-full rounded-3xl object-cover shadow-xl border border-neutral-100 max-h-[600px]" />
+        <!-- Main Hero Photo -->
+        <div class="rounded-3xl overflow-hidden shadow-xl border border-neutral-100 max-h-[600px]">
+          <img src="/images/haeyang/haeyang-10.webp" alt="진도 이충무공 승전공원 이순신 동상과 스카이워크 전경" class="w-full h-full object-cover" />
         </div>
 
-        <!-- Intro Text Box -->
+        <!-- [INTRO / 프롤로그] -->
         <div class="bg-[#f4f8fa] p-6 md:p-8 rounded-3xl border border-cyan-100 shadow-sm space-y-4">
-          <p class="text-base md:text-lg font-medium text-neutral-800">
-            회오리바다의 강렬한 울림 뒤에 찾아오는 ‘진도휴식’ 정원의 다정한 온기, 그리고 골목마다 삶의 이야기를 일구어가는 지역 사람들의 공간까지.
+          <p class="text-base md:text-lg font-medium text-neutral-800 leading-relaxed">
+            진도대교를 건너자마자 마주하는 거센 해협, 울돌목. 그 역동적인 물살을 발아래 두고 걷는 해안 데크길의 전율 뒤로, 사계절 푸르른 민간정원의 평온함이 기다리고 있습니다.
           </p>
           <p class="text-neutral-600 leading-relaxed">
-            단순한 유람을 넘어 남도의 깊은 숨결을 호흡하는 <strong>‘남도예술정원 여행길’</strong>을 따라가 보았습니다.
+            이순신 장군의 뜨거운 호국 기상이 서린 '진도 이충무공 승전공원(해양에너지공원)'을 출발해, 고즈넉한 자연의 위로를 건네는 '진도휴식' 정원, 그리고 골목마다 다정한 이야기를 품은 지역 파트너 공간까지. 단순한 유람을 넘어 진도의 참된 매력을 오감으로 만끽하는 남도예술정원 여행길을 안내합니다.
           </p>
         </div>
 
-        <!-- Section 1: 역사의 소용돌이 위로 걷다 -->
-        <section class="space-y-6">
+        <!-- SECTION 01. 역사의 파도 위를 걷다: 진도 이충무공 승전공원 (해양에너지공원) -->
+        <section class="space-y-8">
           <div class="flex items-center gap-3">
             <span class="w-8 h-8 rounded-full bg-cyan-700 text-white flex items-center justify-center font-bold text-sm">01</span>
             <div>
-              <span class="text-xs font-bold text-cyan-800 tracking-widest uppercase">History & Whirlpool</span>
-              <h2 class="text-2xl md:text-3xl font-serif font-bold text-neutral-900">해남 우수영관광지와 울돌목 스카이워크</h2>
+              <span class="text-xs font-bold text-cyan-800 tracking-widest uppercase">Historic Sea Trail</span>
+              <h2 class="text-2xl md:text-3xl font-serif font-bold text-neutral-900">역사의 파도 위를 걷다: 진도 이충무공 승전공원 (해양에너지공원)</h2>
             </div>
           </div>
 
-          <p class="text-neutral-700 leading-relaxed">
-            여정의 시작점은 명량대첩의 격전지, <strong>울돌목</strong>입니다. 1597년 이순신 장군이 단 13척의 배로 133척의 왜선을 격파하며 기적을 써 내려간 바로 그 바다입니다.
-          </p>
-          <p class="text-neutral-700 leading-relaxed">
-            내비게이션에 ‘해남 우수영관광지 주차장’을 입력하고 들어서면, 성수기에도 여유롭게 차를 댈 수 있을 만큼 널찍한 주차 공간이 여행자를 맞이합니다. 스카이워크와 케이블카 탑승장이 지척에 맞닿은 주차장에 차를 세우면 이동 동선이 한결 매끄럽습니다.
-          </p>
-
-          <!-- [2, 3] Photos Grid -->
-          <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
-            <div>
-              <img src="/images/Uldol/uldol-02.webp" alt="우수영관광지 현장 풍경 1" class="w-full h-72 md:h-80 rounded-2xl object-cover shadow-md border border-neutral-100" />
-            </div>
-            <div>
-              <img src="/images/Uldol/uldol-03.webp" alt="우수영관광지 현장 풍경 2" class="w-full h-72 md:h-80 rounded-2xl object-cover shadow-md border border-neutral-100" />
-            </div>
-          </div>
-
-          <p class="text-neutral-700 leading-relaxed">
-            주차장 한편의 대형 종합 안내도 앞에서 오늘 걸어갈 길의 윤곽을 가늠해 봅니다. 입구에서부터 화사한 계절 꽃으로 단장한 거북선 모형이 시선을 사로잡는데요. 자칫 무거울 수 있는 호국의 현장에 정겨운 온기를 불어넣는 상징물입니다.
-          </p>
-        </section>
-
-        <!-- Section 2: 명량대첩 해전사 기념전시관 -->
-        <section class="space-y-6">
-          <div class="flex items-center gap-3">
-            <span class="w-8 h-8 rounded-full bg-cyan-700 text-white flex items-center justify-center font-bold text-sm">02</span>
-            <div>
-              <span class="text-xs font-bold text-cyan-800 tracking-widest uppercase">Memorial Exhibition</span>
-              <h2 class="text-2xl md:text-3xl font-serif font-bold text-neutral-900">400년 전 그날의 팽팽한 숨결을 마주하다</h2>
-            </div>
-          </div>
-
-          <p class="text-neutral-700 leading-relaxed">
-            바다로 곧장 향하기 전, 웅장한 외관의 <strong>명량대첩 해전사 기념전시관</strong>에 먼저 들르기를 권합니다. 벽면에 내걸린 <em>‘무료개방’</em>이라는 문구가 무척 반갑습니다.
-          </p>
-          <p class="text-neutral-700 leading-relaxed">
-            입구에서 방문객을 맞이하는 친근한 이순신 장군 조형물을 지나 실내로 들어서면 총 3층 규모의 탄탄한 전시가 펼쳐집니다. 엘리베이터 옆 층별 안내도를 따라 동선을 잡으면 더욱 효율적입니다.
-          </p>
-
-          <!-- [4, 5] Photos Grid -->
-          <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
-            <div>
-              <img src="/images/Uldol/uldol-04.webp" alt="전시관 현장 풍경 1" class="w-full h-72 md:h-80 rounded-2xl object-cover shadow-md border border-neutral-100" />
-            </div>
-            <div>
-              <img src="/images/Uldol/uldol-05.webp" alt="전시관 현장 풍경 2" class="w-full h-72 md:h-80 rounded-2xl object-cover shadow-md border border-neutral-100" />
-            </div>
-          </div>
-
-          <!-- [6, 7] Photos Grid -->
-          <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
-            <div>
-              <img src="/images/Uldol/uldol-06.webp" alt="전시관 현장 풍경 3" class="w-full h-72 md:h-80 rounded-2xl object-cover shadow-md border border-neutral-100" />
-            </div>
-            <div>
-              <img src="/images/Uldol/uldol-07.webp" alt="전시관 현장 풍경 4" class="w-full h-72 md:h-80 rounded-2xl object-cover shadow-md border border-neutral-100" />
-            </div>
-          </div>
-
-          <p class="text-neutral-700 leading-relaxed">
-            전시관 내부의 백미는 정교하게 재현된 거북선 내부 모형입니다. 거친 숨을 몰아쉬며 노를 젓던 수군들의 역동적인 근육과 치밀하게 배치된 화포의 구도를 들여다보고 있으면, 400여 년 전 그날의 팽팽한 긴장감이 손끝에 만져질 듯 생생합니다.
-          </p>
-          <p class="text-neutral-700 leading-relaxed">
-            1층에 자리한 4D 상영관 역시 놓치기 아까운 코스입니다. 부담 없는 관람료로 시각과 청각은 물론 온몸을 울리는 진동까지 더해져, 명량해전의 한복판에 뛰어든 듯한 짜릿한 몰입감을 선사합니다.
-          </p>
-        </section>
-
-        <!-- Section 3: 해안 산책로 & 울돌목 스카이워크 -->
-        <section class="space-y-6">
-          <div class="flex items-center gap-3">
-            <span class="w-8 h-8 rounded-full bg-cyan-700 text-white flex items-center justify-center font-bold text-sm">03</span>
-            <div>
-              <span class="text-xs font-bold text-cyan-800 tracking-widest uppercase">Skywalk & Whirlpool</span>
-              <h2 class="text-2xl md:text-3xl font-serif font-bold text-neutral-900">바다 위를 걷는 전율, 울돌목 스카이워크</h2>
-            </div>
-          </div>
-
-          <p class="text-neutral-700 leading-relaxed">
-            전시관을 나서면 시야가 단숨에 트입니다. 파란 하늘을 배경으로 진도타워 옆 바다를 유유히 가로지르는 케이블카가 한 폭의 그림처럼 떠 있고, 해안 산책로를 따라 늘어선 친절한 이정표들이 ‘울돌목 스카이워크’와 ‘영화 <명량> 촬영지’로 발걸음을 이끕니다.
-          </p>
-
-          <!-- [8, 9] Photos Grid -->
-          <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
-            <div>
-              <img src="/images/Uldol/uldol-08.webp" alt="해안 풍경 1" class="w-full h-72 md:h-80 rounded-2xl object-cover shadow-md border border-neutral-100" />
-            </div>
-            <div>
-              <img src="/images/Uldol/uldol-09.webp" alt="해안 풍경 2" class="w-full h-72 md:h-80 rounded-2xl object-cover shadow-md border border-neutral-100" />
-            </div>
-          </div>
-
-          <!-- [10, 11] Photos Grid -->
-          <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
-            <div>
-              <img src="/images/Uldol/uldol-10.webp" alt="스카이워크 풍경 1" class="w-full h-72 md:h-80 rounded-2xl object-cover shadow-md border border-neutral-100" />
-            </div>
-            <div>
-              <img src="/images/Uldol/uldol-11.webp" alt="스카이워크 풍경 2" class="w-full h-72 md:h-80 rounded-2xl object-cover shadow-md border border-neutral-100" />
-            </div>
-          </div>
-
-          <p class="text-neutral-700 leading-relaxed">
-            드디어 마주한 <strong>울돌목 스카이워크</strong>. 입구의 상세 안내판을 통해 좁은 해협이 만들어내는 거센 유속의 비밀과 이순신 장군의 전술적 지혜를 마음에 새긴 뒤 바다 위로 뻗은 다리에 오릅니다. 탁 트인 바다를 배경으로 서 있는 ‘울돌목 스카이워크’ 조형물은 바람에 흩날리는 머리카락마저 추억이 되는 훌륭한 포토스팟입니다.
-          </p>
-
-          <!-- [12, 13] Photos Grid -->
-          <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
-            <div>
-              <img src="/images/Uldol/uldol-12.webp" alt="바다 풍경 1" class="w-full h-72 md:h-80 rounded-2xl object-cover shadow-md border border-neutral-100" />
-            </div>
-            <div>
-              <img src="/images/Uldol/uldol-13.webp" alt="바다 풍경 2" class="w-full h-72 md:h-80 rounded-2xl object-cover shadow-md border border-neutral-100" />
-            </div>
-          </div>
-
-          <!-- [14, 15] Photos Grid -->
-          <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
-            <div>
-              <img src="/images/Uldol/uldol-14.webp" alt="바다 풍경 3" class="w-full h-72 md:h-80 rounded-2xl object-cover shadow-md border border-neutral-100" />
-            </div>
-            <div>
-              <img src="/images/Uldol/uldol-15.webp" alt="바다 풍경 4" class="w-full h-72 md:h-80 rounded-2xl object-cover shadow-md border border-neutral-100" />
-            </div>
-          </div>
-
-          <!-- [16, 17] Photos Grid -->
-          <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
-            <div>
-              <img src="/images/Uldol/uldol-16.webp" alt="현장 풍경 1" class="w-full h-72 md:h-80 rounded-2xl object-cover shadow-md border border-neutral-100" />
-            </div>
-            <div>
-              <img src="/images/Uldol/uldol-17.webp" alt="현장 풍경 2" class="w-full h-72 md:h-80 rounded-2xl object-cover shadow-md border border-neutral-100" />
-            </div>
-          </div>
-
-          <p class="text-neutral-700 leading-relaxed">
-            스카이워크 아래쪽, 영화 <명량>의 회오리바다 촬영지 안내판 앞에 서면 자연의 경외감이 절정에 달합니다. 특히 비가 내린 직후나 물때가 맞는 날이면, 수량이 풍부해져 한층 사나워진 물살이 거대한 소용돌이를 일으키며 포효합니다.
-          </p>
-          <p class="text-neutral-700 leading-relaxed">
-            스카이워크 옆, 해전의 역사를 은유하듯 독특한 배 모양으로 지어진 건축물과 해안 절벽에 고즈넉하게 내려앉은 정자는 이 거친 바다를 조용히 관망하기에 더없이 좋은 쉼터입니다. 정자에 올라 성난 물결을 내려다보며 잠시 숨을 고르면, 시대를 초월한 역사의 울림이 가슴 깊이 차오릅니다.
-          </p>
-
-          <!-- Uldol Travel Tip Box -->
+          <!-- Quick Info Box -->
           <div class="bg-gradient-to-br from-cyan-50 to-blue-50/60 p-6 md:p-8 rounded-3xl border border-cyan-200/80 shadow-sm space-y-3">
             <h3 class="text-lg font-serif font-bold text-cyan-950 flex items-center gap-2">
-              <span>💡</span> 울돌목 스카이워크 관람 핵심 팁
+              <span>📌</span> 방문 전 확인하세요! (Quick Info)
             </h3>
-            <ul class="text-sm text-neutral-700 space-y-1.5 pl-1">
-              <li>• <strong>운영 시간</strong>: 09:00 ~ 18:00 (계절 및 기상 상황에 따라 변동 가능)</li>
-              <li>• <strong>입장료</strong>: 성인 기준 2,000원 내외 (우수영관광지 입장권 포함, 시즌별 상이)</li>
-              <li>• <strong>내비게이션</strong>: ‘해남 우수영관광지 주차장’ 또는 ‘울돌목 스카이워크’ 검색 (케이블카 탑승장 인근 주차장 이용 시 동선 최소화)</li>
+            <ul class="text-sm text-neutral-700 space-y-2 pl-1">
+              <li>• <strong>운영 시간</strong>: 연중무휴 상시 개방 (※ 내부 체험관 등 일부 시설 09:00~18:00 운영 / 현재 명량대첩체험관 및 판옥선 전시공간은 더 나은 관람 환경을 위해 정비 공사 중입니다.)</li>
+              <li>• <strong>입장료</strong>: 무료</li>
+              <li>• <strong>내비게이션</strong>: '이충무공 승전공원' 또는 '진도 해양에너지공원' 검색 (진도대교 진입 직후 위치)</li>
+              <li>• <strong>주차 안내</strong>: 진도녹진관광지 내 제3주차장 등 대형 주차 공간 완비</li>
             </ul>
+          </div>
+
+          <!-- Subsection 1 -->
+          <div class="space-y-4 pt-2">
+            <h3 class="text-xl font-serif font-bold text-neutral-900">1. 은빛 팜파스그라스와 바다 바람이 반기는 도입부</h3>
+            <p class="text-neutral-700 leading-relaxed">
+              진도대교를 건너 공원 입구에 들어서면 친절하게 정비된 이정표와 함께 탁 트인 주차장이 여행자를 맞이합니다. 성수기에도 여유롭게 차를 댈 수 있는 쾌적한 공간입니다. 산책에 앞서 진도녹진관광지 전체 배치도를 살펴보며 오늘 걸어갈 길의 윤곽을 그려봅니다.
+            </p>
+
+            <!-- Photos 01, 02 -->
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+              <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+                <img src="/images/haeyang/haeyang-01.webp" alt="공원 입구 이정표" class="w-full h-72 md:h-80 object-cover" />
+              </div>
+              <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+                <img src="/images/haeyang/haeyang-02.webp" alt="녹진관광지 종합 배치도 안내판" class="w-full h-72 md:h-80 object-cover" />
+              </div>
+            </div>
+
+            <p class="text-neutral-700 leading-relaxed">
+              현재 새 단장을 위해 정비 공사가 한창인 명량대첩체험관을 지나 아래쪽 산책로로 내려서면, 바닷바람이 시원하게 스치는 야외 무대 공연장이 펼쳐집니다. 무대 한편으로 계절의 정취를 머금은 은빛 팜파스그라스와 정갈한 조경수들이 바람에 일렁이며, 자칫 비장할 수 있는 역사 공원에 부드러운 서정을 더해줍니다.
+            </p>
+
+            <!-- Photos 03, 04, 05, 06 -->
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+              <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+                <img src="/images/haeyang/haeyang-03.webp" alt="여유로운 주차 공간 전경" class="w-full h-72 md:h-80 object-cover" />
+              </div>
+              <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+                <img src="/images/haeyang/haeyang-04.webp" alt="명량대첩체험관 건물 외관" class="w-full h-72 md:h-80 object-cover" />
+              </div>
+              <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+                <img src="/images/haeyang/haeyang-05.webp" alt="야외 무대 공연장과 바다 풍경" class="w-full h-72 md:h-80 object-cover" />
+              </div>
+              <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+                <img src="/images/haeyang/haeyang-06.webp" alt="은빛 팜파스그라스와 조경수들" class="w-full h-72 md:h-80 object-cover" />
+              </div>
+            </div>
+          </div>
+
+          <!-- Subsection 2 -->
+          <div class="space-y-4 pt-6">
+            <h3 class="text-xl font-serif font-bold text-neutral-900">2. 압도적 위용, 이충무공 동상과 스카이워크</h3>
+            <p class="text-neutral-700 leading-relaxed">
+              긴 철제 터널이 만들어내는 빛과 그림자의 교차를 지나면, '이충무공동상 30m'라는 반가운 이정표가 나타납니다. 발걸음을 옮겨 스카이워크에 오르면 시야가 단숨에 열리며 진도대교의 웅장한 자태와 명량해협이 한눈에 들어옵니다.
+            </p>
+
+            <!-- Photos 07, 08, 09, 10 -->
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+              <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+                <img src="/images/haeyang/haeyang-07.webp" alt="길목 철제 터널" class="w-full h-72 md:h-80 object-cover" />
+              </div>
+              <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+                <img src="/images/haeyang/haeyang-08.webp" alt="이충무공 동상 이정표" class="w-full h-72 md:h-80 object-cover" />
+              </div>
+              <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+                <img src="/images/haeyang/haeyang-09.webp" alt="이충무공 스카이워크 입구" class="w-full h-72 md:h-80 object-cover" />
+              </div>
+              <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+                <img src="/images/haeyang/haeyang-10.webp" alt="스카이워크와 진도대교 전망" class="w-full h-72 md:h-80 object-cover" />
+              </div>
+            </div>
+
+            <p class="text-neutral-700 leading-relaxed">
+              그 중심에는 성난 진도 바다를 매서운 눈빛으로 가리키는 거대한 이순신 장군 동상이 자리하고 있습니다. 바다를 향해 당당히 선 장군의 위용은 보는 이의 가슴을 뭉클하게 만들 만큼 압도적입니다. 동상 인근에는 당시 나라를 위해 산화한 호국영령들의 넋을 기리는 제향대가 조용히 바다를 마주하고 있어, 거센 파도 소리를 배경 삼아 잠시 묵념을 올리게 됩니다.
+            </p>
+
+            <!-- Photos 11, 12, 13, 14 -->
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+              <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+                <img src="/images/haeyang/haeyang-11.webp" alt="이순신 장군 동상 위용" class="w-full h-72 md:h-80 object-cover" />
+              </div>
+              <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+                <img src="/images/haeyang/haeyang-12.webp" alt="호국영령 제향대" class="w-full h-72 md:h-80 object-cover" />
+              </div>
+              <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+                <img src="/images/haeyang/haeyang-13.webp" alt="아이들을 위한 키재기 캐릭터 조형물" class="w-full h-72 md:h-80 object-cover" />
+              </div>
+              <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+                <img src="/images/haeyang/haeyang-14.webp" alt="명량대첩 이야기 만화 안내판" class="w-full h-72 md:h-80 object-cover" />
+              </div>
+            </div>
+
+            <p class="text-neutral-700 leading-relaxed">
+              가족 단위 여행객을 위한 세심한 배려도 돋보입니다. 스카이워크 입구의 귀여운 키 재기 캐릭터 조형물과, 어렵고 딱딱한 해전사를 친근한 그림으로 풀어낸 '명량대첩 이야기 만화 안내판' 덕분에 아이들도 흥미롭게 역사의 현장으로 빠져듭니다.
+            </p>
+          </div>
+
+          <!-- Subsection 3 -->
+          <div class="space-y-4 pt-6">
+            <h3 class="text-xl font-serif font-bold text-neutral-900">3. 거대한 배를 탄 듯, 해안 나무데크와 감성 포토존</h3>
+            <p class="text-neutral-700 leading-relaxed">
+              승전공원의 백미는 해안선을 따라 정교하게 이어진 나무데크 산책로입니다. 찰랑이는 물소리를 바로 옆에 두고 걷다 보면, 마치 거친 바다를 항해하는 거대한 목선에 오른 듯한 착각마저 듭니다. 데크길을 따라 이순신 장군의 일대기 중 주요 순간을 고풍스러운 화폭에 담은 '십경도 안내판'이 이어져, 장군의 삶과 신념을 하나씩 곱씹으며 걷기 좋습니다.
+            </p>
+
+            <!-- Photos 15, 16, 17, 18, 19, 20 -->
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+              <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+                <img src="/images/haeyang/haeyang-15.webp" alt="명량 달빛을 품다 포토존" class="w-full h-72 md:h-80 object-cover" />
+              </div>
+              <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+                <img src="/images/haeyang/haeyang-16.webp" alt="이순신 장군 십경도 안내판" class="w-full h-72 md:h-80 object-cover" />
+              </div>
+              <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+                <img src="/images/haeyang/haeyang-17.webp" alt="해안 나무데크 산책로" class="w-full h-72 md:h-80 object-cover" />
+              </div>
+              <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+                <img src="/images/haeyang/haeyang-18.webp" alt="진도대교 프레임 액자 포토존" class="w-full h-72 md:h-80 object-cover" />
+              </div>
+              <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+                <img src="/images/haeyang/haeyang-19.webp" alt="송가인 손하트 조형물" class="w-full h-72 md:h-80 object-cover" />
+              </div>
+              <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+                <img src="/images/haeyang/haeyang-20.webp" alt="아이러브진도 포토존" class="w-full h-72 md:h-80 object-cover" />
+              </div>
+            </div>
+
+            <p class="text-neutral-700 leading-relaxed">
+              산책로 곳곳은 그 자체로 훌륭한 사진관이 됩니다. 낮에는 청량한 바다를, 밤에는 낭만적인 교량 야경을 품는 '명량, 달빛을 품다' 포토존부터, 푸른 바다와 진도대교를 한 폭의 액자처럼 담아내는 사각 프레임 포토존, 진도가 낳은 트로트 스타 송가인의 손하트 조형물과 '아이러브진도' 프레임까지, 발걸음이 닿는 곳마다 특별한 추억이 기록됩니다.
+            </p>
+          </div>
+
+          <!-- Subsection 4 -->
+          <div class="space-y-4 pt-6">
+            <h3 class="text-xl font-serif font-bold text-neutral-900">4. 손에 잡힐 듯 생생한 포효, 울돌목 물살 체험장</h3>
+            <p class="text-neutral-700 leading-relaxed">
+              해안 데크길 끝자락, 실물 크기로 위용을 자랑하는 판옥선 전시 공간(현재 정비 중)을 지나면 공원의 하이라이트인 울돌목 물살 체험장에 닿습니다. 계단 벽면에 그려진 정겨운 강강술래 벽화를 따라 내려서면, 방송을 통해 수차례 소개되었던 명량해협의 맹렬한 물살이 바로 눈앞에서 소용돌이칩니다.
+            </p>
+
+            <!-- Photos 21, 22, 23, 24, 25, 26 -->
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+              <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+                <img src="/images/haeyang/haeyang-21.webp" alt="실물 크기 판옥선 전시 공간" class="w-full h-72 md:h-80 object-cover" />
+              </div>
+              <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+                <img src="/images/haeyang/haeyang-22.webp" alt="강강술래 벽화와 물살 체험장 진입로" class="w-full h-72 md:h-80 object-cover" />
+              </div>
+              <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+                <img src="/images/haeyang/haeyang-23.webp" alt="울돌목 물살 체험장 근접 전경" class="w-full h-72 md:h-80 object-cover" />
+              </div>
+              <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+                <img src="/images/haeyang/haeyang-24.webp" alt="진도대교 교각 필사즉생 글귀" class="w-full h-72 md:h-80 object-cover" />
+              </div>
+              <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+                <img src="/images/haeyang/haeyang-25.webp" alt="해양에너지공원 안내 표지판" class="w-full h-72 md:h-80 object-cover" />
+              </div>
+              <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+                <img src="/images/haeyang/haeyang-26.webp" alt="명량대첩체험관 주변 전경" class="w-full h-72 md:h-80 object-cover" />
+              </div>
+            </div>
+
+            <p class="text-neutral-700 leading-relaxed">
+              손을 뻗으면 닿을 듯 가까운 거리에서 거대한 해류가 꿈틀거리며 휘몰아치는 광경은 자연의 경외감과 1597년 그날의 긴박함을 오감으로 체감하게 합니다. 체험장 바로 위, 진도대교의 거대한 교각에 새겨진 "필사즉생 필생즉사(죽고자 하면 살고, 살고자 하면 죽는다)"라는 글귀를 올려다보는 순간, 명량대첩의 숭고한 승리가 묵직한 울림으로 가슴에 박힙니다.
+            </p>
           </div>
         </section>
 
-        <!-- Section 4: 민간정원 '진도휴식' -->
+        <!-- SECTION 02. 초록빛 고요 속으로: 민간정원 '진도휴식' -->
         <section class="space-y-6">
           <div class="flex items-center gap-3">
-            <span class="w-8 h-8 rounded-full bg-emerald-700 text-white flex items-center justify-center font-bold text-sm">04</span>
+            <span class="w-8 h-8 rounded-full bg-emerald-700 text-white flex items-center justify-center font-bold text-sm">02</span>
             <div>
-              <span class="text-xs font-bold text-emerald-800 tracking-widest uppercase">Healing Garden</span>
-              <h2 class="text-2xl md:text-3xl font-serif font-bold text-neutral-900">거친 파도 끝에 만난 초록의 위안, ‘진도휴식’</h2>
+              <span class="text-xs font-bold text-emerald-800 tracking-widest uppercase">Healing Nature</span>
+              <h2 class="text-2xl md:text-3xl font-serif font-bold text-neutral-900">초록빛 고요 속으로: 민간정원 '진도휴식'</h2>
             </div>
           </div>
 
           <p class="text-neutral-700 leading-relaxed">
-            울돌목에서 역사의 뜨거운 에너지를 마주했다면, 이제는 차분한 자연의 품으로 스며들 차례입니다. 진도대교를 건너 고군면 원포길로 들어서면, 진도의 수려한 산세 속에 포근히 안긴 민간정원 <strong>‘진도휴식’</strong>이 나타납니다.
+            울돌목에서 거친 바다의 에너지와 호국의 숨결을 가슴에 채웠다면, 이제는 차분한 자연의 품으로 발길을 옮길 차례입니다.
+          </p>
+          <p class="text-neutral-700 leading-relaxed">
+            고군면의 수려한 산세 속에 살포시 내려앉은 민간정원 '진도휴식'은 방문객에게 계절의 흐름과 정서적 안식을 선물하는 치유의 공간입니다. 정원주가 오랜 세월 정성으로 다듬은 산책로를 따라 천천히 걷다 보면, 맹렬했던 회오리바다의 잔상은 어느새 사그라들고 푸른 나무와 들꽃이 건네는 다정한 위로가 일상의 피로를 씻어줍니다.
           </p>
 
-          <!-- [18, 19] Photos Grid -->
+          <!-- Photos 27, 28, 29, 30 -->
           <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
-            <div>
-              <img src="/images/Uldol/uldol-18.webp" alt="정원 풍경 1" class="w-full h-72 md:h-80 rounded-2xl object-cover shadow-md border border-neutral-100" />
+            <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+              <img src="/images/haeyang/haeyang-27.webp" alt="진도휴식 정원 전경 1" class="w-full h-72 md:h-80 object-cover" />
             </div>
-            <div>
-              <img src="/images/Uldol/uldol-19.webp" alt="정원 풍경 2" class="w-full h-72 md:h-80 rounded-2xl object-cover shadow-md border border-neutral-100" />
+            <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+              <img src="/images/haeyang/haeyang-28.webp" alt="진도휴식 정원 전경 2" class="w-full h-72 md:h-80 object-cover" />
+            </div>
+            <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+              <img src="/images/haeyang/haeyang-29.webp" alt="진도휴식 정원 전경 3" class="w-full h-72 md:h-80 object-cover" />
+            </div>
+            <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+              <img src="/images/haeyang/haeyang-30.webp" alt="진도휴식 정원 전경 4" class="w-full h-72 md:h-80 object-cover" />
             </div>
           </div>
 
-          <p class="text-neutral-700 leading-relaxed">
-            이곳은 정원주가 오랜 시간 정성으로 가꿔낸 산책로를 따라 걸으며 계절의 변화를 오감으로 만끽하는 치유의 공간입니다. 맹렬하게 소용돌이치던 바다의 잔상은 이내 바람에 흔들리는 나뭇잎 소리와 들꽃의 다정한 색채로 덮여갑니다.
-          </p>
-          <p class="text-neutral-700 leading-relaxed">
-            잘 다듬어진 정원 오솔길을 느린 걸음으로 거닐다 보면, 일상의 피로가 씻겨 나가고 자연이 건네는 고요한 정서적 안식이 마음의 빈자리를 가득 채웁니다.
-          </p>
           <div class="inline-flex items-center gap-2 px-4 py-2 rounded-xl bg-emerald-50 text-emerald-800 text-xs font-bold border border-emerald-200">
             📍 위치: 전라남도 진도군 고군면 원포길 226
           </div>
         </section>
 
-        <!-- Section 5: 진도 여행 코스 제안 -->
-        <section class="space-y-6">
+        <!-- SECTION 03. 취향 따라 골라 떠나는 맞춤형 여행 코스 -->
+        <section class="space-y-8">
           <div class="flex items-center gap-3">
-            <span class="w-8 h-8 rounded-full bg-cyan-700 text-white flex items-center justify-center font-bold text-sm">05</span>
+            <span class="w-8 h-8 rounded-full bg-cyan-700 text-white flex items-center justify-center font-bold text-sm">03</span>
             <div>
-              <span class="text-xs font-bold text-cyan-800 tracking-widest uppercase">Travel Itinerary</span>
-              <h2 class="text-2xl md:text-3xl font-serif font-bold text-neutral-900">취향과 시간에 맞춰 고르는 진도 여행 코스</h2>
+              <span class="text-xs font-bold text-cyan-800 tracking-widest uppercase">Custom Itinerary</span>
+              <h2 class="text-2xl md:text-3xl font-serif font-bold text-neutral-900">취향 따라 골라 떠나는 맞춤형 여행 코스</h2>
             </div>
           </div>
 
           <p class="text-neutral-700 leading-relaxed">
-            정원에서의 휴식을 지역 골목의 활기와 연결한 <strong>남도예술정원 추천 루트</strong>입니다. 진도읍과 의신면 일대의 파트너 상점들을 엮어 여행의 밀도를 높였습니다.
+            역사 현장에서 출발해 고즈넉한 정원과 마을 골목 상권까지 알차게 잇는 추천 루트입니다. 일정과 동반자에 맞춰 나만의 진도 여행을 설계해 보세요.
           </p>
 
-          <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
-            <!-- Day Trip Box -->
-            <div class="bg-white p-6 rounded-3xl border border-neutral-200 shadow-sm space-y-4">
-              <span class="px-3 py-1 rounded-full bg-amber-500/10 text-amber-800 text-xs font-bold uppercase tracking-wider">🚘 당일치기 코스</span>
-              <h3 class="text-xl font-serif font-bold text-neutral-900">하루 만에 만끽하는 진도 핵심 힐링</h3>
-              <ul class="text-sm text-neutral-600 space-y-2.5">
-                <li><strong>오전 | 역사의 현장</strong>: 우수영관광지 & 해전사 기념관 ➔ 울돌목 스카이워크</li>
-                <li><strong>점심 | 로컬의 맛</strong>: 진도읍 파트너 식당 (수품어장, 신호등회관 등 / 10% 할인)</li>
-                <li><strong>오후 | 정원과 커피</strong>: 민간정원 '진도휴식' 산책 ➔ 감성 카페 (모도상회, 하이진도 등)</li>
-                <li><strong>늦은 오후 | 공방 산책</strong>: 진도읍 공방 (윤공방, 니트테이블) & 스탬프 투어</li>
-              </ul>
-            </div>
+          <!-- 일정별 추천 코스 -->
+          <div class="space-y-4">
+            <h3 class="text-lg font-bold text-neutral-900 flex items-center gap-2">📅 일정별 추천 코스</h3>
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+              <!-- 당일치기 코스 -->
+              <div class="bg-white p-6 rounded-3xl border border-neutral-200 shadow-sm space-y-4">
+                <span class="px-3 py-1 rounded-full bg-amber-500/10 text-amber-800 text-xs font-bold uppercase tracking-wider">🚘 당일치기 코스 (역사와 힐링의 하루)</span>
+                <ul class="text-sm text-neutral-600 space-y-2.5">
+                  <li>• <strong>오전</strong>: 이충무공 승전공원(해양에너지공원) & 해안 데크길 탐방</li>
+                  <li>• <strong>점심</strong>: 진도읍 파트너 식당 (수품어장, 신호등회관, 그냥경양식 등 / 10% 할인 혜택)</li>
+                  <li>• <strong>오후</strong>: 민간정원 '진도휴식' 산책 ➔ 인근 감성 카페 (모도상회, 하이진도, 구름숲아토리 등)</li>
+                  <li>• <strong>늦은 오후</strong>: 진도읍 지역 플레이어 공방 탐방 (윤공방, 니트테이블 등) 및 스탬프 투어 완료 후 귀가</li>
+                </ul>
+              </div>
 
-            <!-- 1N2D Box -->
-            <div class="bg-white p-6 rounded-3xl border border-neutral-200 shadow-sm space-y-4">
-              <span class="px-3 py-1 rounded-full bg-cyan-500/10 text-cyan-800 text-xs font-bold uppercase tracking-wider">🌙 1박 2일 코스</span>
-              <h3 class="text-xl font-serif font-bold text-neutral-900">밤과 낮을 잇는 깊이 있는 여정</h3>
-              <ul class="text-sm text-neutral-600 space-y-2.5">
-                <li><strong>Day 1</strong>: 울돌목 스카이워크 ➔ 진도읍 점심 ➔ 진도휴식 산책 ➔ 감성 카페 ➔ 공방 체험 ➔ 저녁 식사 ➔ 숙소 체크인 (골드마운틴하우스, 해오름펜션, 쏠비치)</li>
-                <li><strong>Day 2</strong>: 숙소 체크아웃 ➔ 맛나식당·박가네왕갈비 아침 ➔ 군내·의신 해안 산책로 드라이브 ➔ 스탬프 최종 인증</li>
-              </ul>
+              <!-- 1박 2일 코스 -->
+              <div class="bg-white p-6 rounded-3xl border border-neutral-200 shadow-sm space-y-4">
+                <span class="px-3 py-1 rounded-full bg-cyan-500/10 text-cyan-800 text-xs font-bold uppercase tracking-wider">🌙 1박 2일 코스 (완벽한 남도예술정원 유람)</span>
+                <ul class="text-sm text-neutral-600 space-y-2.5">
+                  <li>• <strong>1일 차</strong>: 이충무공 승전공원 관람 ➔ 진도읍 파트너 식당 점심 ➔ '진도휴식' 정원 산책 ➔ 로컬 카페(모도상회 또는 구름숲아토리) 휴식 ➔ 지역 공방 체험 ➔ 저녁 식사(진도아리랑회센터 또는 서우담) ➔ 연계 숙소 체크인(골드마운틴하우스, 해오름펜션, 솔비치호텔 중 택1)</li>
+                  <li>• <strong>2일 차</strong>: 숙소 체크아웃 ➔ 든든한 아점 식사(맛나식당 또는 박가네왕갈비) ➔ 의신면·군내면 해안 산책로 드라이브 ➔ 스탬프 투어 최종 인증 후 귀가</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+
+          <!-- 여행자 페르소나별 맞춤 테마 동선 -->
+          <div class="space-y-4 pt-4">
+            <h3 class="text-lg font-bold text-neutral-900 flex items-center gap-2">👥 여행자 페르소나별 맞춤 테마 동선</h3>
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
+              <!-- 가족 -->
+              <div class="bg-white p-5 rounded-2xl border border-neutral-200 shadow-sm space-y-3">
+                <h4 class="font-bold text-neutral-900 text-sm">👨‍👩‍👧‍👦 [가족 여행자]</h4>
+                <p class="text-xs text-cyan-800 font-bold">살아있는 역사 교육 & 자연 체험</p>
+                <p class="text-xs text-neutral-600 leading-relaxed">
+                  <strong>추천 동선:</strong> 이충무공 승전공원(만화 안내판 & 물살 체험장) ➔ 그냥경양식(아이 맞춤 메뉴) ➔ 진도휴식 정원(잔디밭 산책) ➔ 꿈의세계카페
+                </p>
+                <p class="text-[11px] text-neutral-500 bg-neutral-50 p-2.5 rounded-xl leading-relaxed">
+                  <strong>매력 포인트:</strong> 아이들의 눈높이에서 역사를 흥미롭게 배우고, 안전한 정원 산책로에서 마음껏 자연을 호흡하는 가족 맞춤형 루트입니다.
+                </p>
+              </div>
+
+              <!-- 커플 -->
+              <div class="bg-white p-5 rounded-2xl border border-neutral-200 shadow-sm space-y-3">
+                <h4 class="font-bold text-neutral-900 text-sm">👩‍❤️‍👨 [커플 여행자]</h4>
+                <p class="text-xs text-rose-700 font-bold">로맨틱 인생샷 & 오션뷰 감성 충전</p>
+                <p class="text-xs text-neutral-600 leading-relaxed">
+                  <strong>추천 동선:</strong> 이충무공 승전공원('명량, 달빛을 품다' & 액자 프레임 포토존) ➔ 서우담 또는 수품어장 ➔ 진도휴식 정원 ➔ 모도상회(바다 뷰 카페) ➔ 골드마운틴하우스 숙박
+                </p>
+                <p class="text-[11px] text-neutral-500 bg-neutral-50 p-2.5 rounded-xl leading-relaxed">
+                  <strong>매력 포인트:</strong> 바다 위 데크길에서 커플 인생샷을 남기고, 감각적인 오션뷰 카페와 아늑한 숙소에서 로맨틱한 하루를 완성합니다.
+                </p>
+              </div>
+
+              <!-- 나홀로 -->
+              <div class="bg-white p-5 rounded-2xl border border-neutral-200 shadow-sm space-y-3">
+                <h4 class="font-bold text-neutral-900 text-sm">🎒 [나홀로 여행자]</h4>
+                <p class="text-xs text-emerald-800 font-bold">사색이 머무는 정원 & 공방 투어</p>
+                <p class="text-xs text-neutral-600 leading-relaxed">
+                  <strong>추천 동선:</strong> 이충무공 승전공원 해안 데크길 산책 ➔ 맛나식당 ➔ 진도휴식 정원 ➔ 구름숲아토리 카페 ➔ 윤공방 또는 니트테이블(공방 체험)
+                </p>
+                <p class="text-[11px] text-neutral-500 bg-neutral-50 p-2.5 rounded-xl leading-relaxed">
+                  <strong>매력 포인트:</strong> 파도 소리와 초록빛 정원에 집중하며 온전한 사색을 즐기고, 로컬 아티스트의 공방에서 취향을 발견하는 고요한 휴식 코스입니다.
+                </p>
+              </div>
             </div>
           </div>
         </section>
 
-        <!-- Section 6: 지역 파트너 디렉토리 -->
+        <!-- SECTION 04. 남도예술정원 지역 파트너 & 프로모션 안내 -->
         <section class="space-y-6">
           <div class="flex items-center gap-3">
-            <span class="w-8 h-8 rounded-full bg-cyan-700 text-white flex items-center justify-center font-bold text-sm">06</span>
+            <span class="w-8 h-8 rounded-full bg-cyan-700 text-white flex items-center justify-center font-bold text-sm">04</span>
             <div>
-              <span class="text-xs font-bold text-cyan-800 tracking-widest uppercase">Local Directory</span>
-              <h2 class="text-2xl md:text-3xl font-serif font-bold text-neutral-900">남도예술정원(진도휴식) 지역 파트너 디렉토리</h2>
+              <span class="text-xs font-bold text-cyan-800 tracking-widest uppercase">Partner Directory</span>
+              <h2 class="text-2xl md:text-3xl font-serif font-bold text-neutral-900">남도예술정원 지역 파트너 & 프로모션 안내</h2>
             </div>
           </div>
 
           <p class="text-neutral-700 leading-relaxed">
-            남도예술정원은 정원의 담장을 넘어 마을 전체를 하나의 따뜻한 여행길로 잇습니다. 특히 <strong>‘정원주 추천(★)’</strong> 마크가 붙은 곳들은 진도휴식 정원주가 직접 보증하는 알짜배기 로컬 스팟입니다.
+            남도예술정원은 정원의 담장을 넘어 지역 전체를 하나의 따뜻한 여행길로 연결합니다. 정원에서 시작된 휴식을 마을의 식당, 카페, 숙소, 그리고 지역 플레이어들의 공간으로 이어가 보세요. (★ 표시는 '진도휴식' 정원주가 직접 추천하는 로컬 스팟입니다.)
           </p>
 
-          <!-- Food Directory Table -->
-          <div class="space-y-3">
-            <h4 class="font-bold text-neutral-900 text-base flex items-center gap-2">🍽️ 미식 (식당)</h4>
-            <div class="overflow-x-auto rounded-2xl border border-neutral-200 shadow-sm">
-              <table class="w-full text-xs md:text-sm text-left text-neutral-700">
-                <thead class="bg-neutral-100 text-neutral-900 font-bold">
-                  <tr>
-                    <th class="p-3">상호명</th>
-                    <th class="p-3">소재지</th>
-                    <th class="p-3">연락처</th>
-                    <th class="p-3">비고</th>
-                  </tr>
-                </thead>
-                <tbody class="divide-y divide-neutral-100">
-                  <tr class="bg-cyan-50/40 font-semibold text-cyan-900">
-                    <td class="p-3">수품어장</td>
-                    <td class="p-3">진도읍 남동1길 36</td>
-                    <td class="p-3">061-544-0039</td>
-                    <td class="p-3 text-cyan-700">★ 정원주 추천</td>
-                  </tr>
-                  <tr>
-                    <td class="p-3">신호등회관</td>
-                    <td class="p-3">진도읍 남동1길 66</td>
-                    <td class="p-3">0507-1413-4449</td>
-                    <td class="p-3">로컬 대표 맛집</td>
-                  </tr>
-                  <tr>
-                    <td class="p-3">그냥경양식</td>
-                    <td class="p-3">진도읍 철마길 3-8</td>
-                    <td class="p-3">061-544-2484</td>
-                    <td class="p-3">백년가게 돈까스</td>
-                  </tr>
-                  <tr>
-                    <td class="p-3">이화식당</td>
-                    <td class="p-3">진도읍 남동리 494-10</td>
-                    <td class="p-3">0507-1486-5688</td>
-                    <td class="p-3">정갈한 한식</td>
-                  </tr>
-                  <tr>
-                    <td class="p-3">궁전음식점</td>
-                    <td class="p-3">진도읍 남동1길 6-1</td>
-                    <td class="p-3">061-544-1500</td>
-                    <td class="p-3">듬북갈비탕 전문</td>
-                  </tr>
-                  <tr>
-                    <td class="p-3">서우담</td>
-                    <td class="p-3">진도읍 남산로 130-46</td>
-                    <td class="p-3">061-544-9494</td>
-                    <td class="p-3">깔끔한 회 정식</td>
-                  </tr>
-                  <tr>
-                    <td class="p-3">용천식당</td>
-                    <td class="p-3">의신면 초평길 64</td>
-                    <td class="p-3">0507-1313-1105</td>
-                    <td class="p-3">낙지·해물 요리</td>
-                  </tr>
-                  <tr>
-                    <td class="p-3">박가네왕갈비</td>
-                    <td class="p-3">진도읍 남산로 133</td>
-                    <td class="p-3">061-544-7472</td>
-                    <td class="p-3">푸짐한 고기 식사</td>
-                  </tr>
-                  <tr>
-                    <td class="p-3">진도아리랑회센터</td>
-                    <td class="p-3">진도읍 쌍정1길 8-6</td>
-                    <td class="p-3">0507-1475-5260</td>
-                    <td class="p-3">싱싱한 제철 활어회</td>
-                  </tr>
-                  <tr>
-                    <td class="p-3">꽃게선장 낙지박사</td>
-                    <td class="p-3">의신면 초사로 66-1 2층</td>
-                    <td class="p-3">0507-1366-5222</td>
-                    <td class="p-3">꽃게·낙지 한상</td>
-                  </tr>
-                  <tr>
-                    <td class="p-3">맛나식당</td>
-                    <td class="p-3">진도읍 남산로 124-1</td>
-                    <td class="p-3">061-544-6171</td>
-                    <td class="p-3">정겨운 백반 전문</td>
-                  </tr>
-                </tbody>
-              </table>
-            </div>
-          </div>
-
-          <!-- Cafe & Stay Table -->
-          <div class="space-y-3 pt-4">
-            <h4 class="font-bold text-neutral-900 text-base flex items-center gap-2">☕ 카페 & 🛌 숙소</h4>
-            <div class="overflow-x-auto rounded-2xl border border-neutral-200 shadow-sm">
-              <table class="w-full text-xs md:text-sm text-left text-neutral-700">
-                <thead class="bg-neutral-100 text-neutral-900 font-bold">
-                  <tr>
-                    <th class="p-3">구분</th>
-                    <th class="p-3">상호명</th>
-                    <th class="p-3">소재지</th>
-                    <th class="p-3">연락처</th>
-                    <th class="p-3">비고</th>
-                  </tr>
-                </thead>
-                <tbody class="divide-y divide-neutral-100">
-                  <tr class="bg-cyan-50/40 font-semibold text-cyan-900">
-                    <td class="p-3">카페</td>
-                    <td class="p-3">모도상회</td>
-                    <td class="p-3">의신면 초평길 54</td>
-                    <td class="p-3">0507-1378-3230</td>
-                    <td class="p-3 text-cyan-700">★ 정원주 추천 (오션뷰 감성)</td>
-                  </tr>
-                  <tr class="bg-cyan-50/40 font-semibold text-cyan-900">
-                    <td class="p-3">카페</td>
-                    <td class="p-3">구름숲아토리</td>
-                    <td class="p-3">의신면 의신사천길 26</td>
-                    <td class="p-3">0507-1377-5426</td>
-                    <td class="p-3 text-cyan-700">★ 정원주 추천 (숲속 복합공간)</td>
-                  </tr>
-                  <tr>
-                    <td class="p-3">카페</td>
-                    <td class="p-3">하이진도</td>
-                    <td class="p-3">진도읍 철마길 30</td>
-                    <td class="p-3">010-3836-9611</td>
-                    <td class="p-3">진도 디저트 카페</td>
-                  </tr>
-                  <tr>
-                    <td class="p-3">카페</td>
-                    <td class="p-3">도캐도캐</td>
-                    <td class="p-3">진도읍 서문길 1</td>
-                    <td class="p-3">0507-1408-0008</td>
-                    <td class="p-3">진돗개 빵 베이커리</td>
-                  </tr>
-                  <tr>
-                    <td class="p-3">카페</td>
-                    <td class="p-3">꿈의세계카페</td>
-                    <td class="p-3">군내면 명량대첩로 37</td>
-                    <td class="p-3">061-542-3500</td>
-                    <td class="p-3">오션뷰 라운지</td>
-                  </tr>
-                  <tr class="bg-emerald-50/40 font-semibold text-emerald-900">
-                    <td class="p-3">숙소</td>
-                    <td class="p-3">골드마운틴하우스</td>
-                    <td class="p-3">고군면 원포길 226</td>
-                    <td class="p-3">0507-1472-8992</td>
-                    <td class="p-3 text-emerald-700">★ 정원주 추천 (진도휴식 인접)</td>
-                  </tr>
-                  <tr class="bg-emerald-50/40 font-semibold text-emerald-900">
-                    <td class="p-3">숙소</td>
-                    <td class="p-3">해오름펜션</td>
-                    <td class="p-3">고군면 모사길 109-89</td>
-                    <td class="p-3">0507-1430-7793</td>
-                    <td class="p-3 text-emerald-700">★ 정원주 추천 (일출 오션뷰)</td>
-                  </tr>
-                  <tr class="bg-emerald-50/40 font-semibold text-emerald-900">
-                    <td class="p-3">숙소</td>
-                    <td class="p-3">쏠비치 진도</td>
-                    <td class="p-3">의신면 송군길 30-40</td>
-                    <td class="p-3">1588-4888</td>
-                    <td class="p-3 text-emerald-700">★ 정원주 추천 (프리미엄 리조트)</td>
-                  </tr>
-                </tbody>
-              </table>
-            </div>
-          </div>
-
-          <!-- Creative Player Table -->
-          <div class="space-y-3 pt-4">
-            <h4 class="font-bold text-neutral-900 text-base flex items-center gap-2">🎨 취향과 체험 (지역 플레이어 공간)</h4>
-            <div class="overflow-x-auto rounded-2xl border border-neutral-200 shadow-sm">
-              <table class="w-full text-xs md:text-sm text-left text-neutral-700">
-                <thead class="bg-neutral-100 text-neutral-900 font-bold">
-                  <tr>
-                    <th class="p-3">상호명 (대표자)</th>
-                    <th class="p-3">소재지</th>
-                    <th class="p-3">연락처</th>
-                    <th class="p-3">비고</th>
-                  </tr>
-                </thead>
-                <tbody class="divide-y divide-neutral-100">
-                  <tr class="bg-purple-50/40 font-semibold text-purple-900">
-                    <td class="p-3">니트테이블 (김종표)</td>
-                    <td class="p-3">진도읍 동외4길 117</td>
-                    <td class="p-3">010-4008-6476</td>
-                    <td class="p-3 text-purple-700">★ 정원주 추천</td>
-                  </tr>
-                  <tr class="bg-purple-50/40 font-semibold text-purple-900">
-                    <td class="p-3">아리락 (임현호)</td>
-                    <td class="p-3">진도 일원</td>
-                    <td class="p-3">010-4112-0645</td>
-                    <td class="p-3 text-purple-700">★ 정원주 추천 (사전 문의)</td>
-                  </tr>
-                  <tr class="bg-purple-50/40 font-semibold text-purple-900">
-                    <td class="p-3">비레레 (김현준)</td>
-                    <td class="p-3">진도 일원</td>
-                    <td class="p-3">010-6222-5512</td>
-                    <td class="p-3 text-purple-700">★ 정원주 추천 (사전 문의)</td>
-                  </tr>
-                  <tr class="bg-purple-50/40 font-semibold text-purple-900">
-                    <td class="p-3">홍홍단</td>
-                    <td class="p-3">지산면 보전리 285</td>
-                    <td class="p-3">현장 방문</td>
-                    <td class="p-3 text-purple-700">★ 정원주 추천</td>
-                  </tr>
-                  <tr class="bg-purple-50/40 font-semibold text-purple-900">
-                    <td class="p-3">준아트벽화 (이준옥)</td>
-                    <td class="p-3">진도 일원</td>
-                    <td class="p-3">현장 관람</td>
-                    <td class="p-3 text-purple-700">★ 정원주 추천</td>
-                  </tr>
-                  <tr>
-                    <td class="p-3">윤공방 (윤성실)</td>
-                    <td class="p-3">진도읍 남동1길 53</td>
-                    <td class="p-3">0507-1380-6833</td>
-                    <td class="p-3">가죽 & 패브릭 공예</td>
-                  </tr>
-                  <tr>
-                    <td class="p-3">오렌케이크 (강보혜)</td>
-                    <td class="p-3">진도읍 옥주길 10</td>
-                    <td class="p-3">010-2698-8517</td>
-                    <td class="p-3">수제 구움과자 & 케이크</td>
-                  </tr>
-                </tbody>
-              </table>
-            </div>
-          </div>
-        </section>
-
-        <!-- Section 7: 특별 혜택 및 에필로그 -->
-        <section class="space-y-6 pt-4">
-          <!-- [20, 21] Photos Grid -->
-          <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
-            <div>
-              <img src="/images/Uldol/uldol-20.webp" alt="진도 현장 풍경 1" class="w-full h-72 md:h-80 rounded-2xl object-cover shadow-md border border-neutral-100" />
-            </div>
-            <div>
-              <img src="/images/Uldol/uldol-21.webp" alt="진도 현장 풍경 2" class="w-full h-72 md:h-80 rounded-2xl object-cover shadow-md border border-neutral-100" />
-            </div>
+          <!-- Directory Table -->
+          <div class="overflow-x-auto rounded-2xl border border-neutral-200 shadow-sm">
+            <table class="w-full text-xs md:text-sm text-left text-neutral-700">
+              <thead class="bg-neutral-100 text-neutral-900 font-bold">
+                <tr>
+                  <th class="p-3.5 w-28">카테고리</th>
+                  <th class="p-3.5">파트너 매장 및 플레이어 (★ 정원주 추천)</th>
+                </tr>
+              </thead>
+              <tbody class="divide-y divide-neutral-100">
+                <tr>
+                  <td class="p-3.5 font-bold text-neutral-900 bg-neutral-50/50">🍽️ 식당</td>
+                  <td class="p-3.5 leading-relaxed">
+                    <strong class="text-cyan-800">★수품어장</strong>, 신호등회관, 그냥경양식, 이화식당, 궁전음식점, 서우담, 용천식당, 박가네왕갈비, 진도아리랑회센터, 꽃게선장 낙지박사, 맛나식당
+                  </td>
+                </tr>
+                <tr>
+                  <td class="p-3.5 font-bold text-neutral-900 bg-neutral-50/50">☕ 카페</td>
+                  <td class="p-3.5 leading-relaxed">
+                    <strong class="text-cyan-800">★모도상회</strong>, <strong class="text-cyan-800">★구름숲아토리</strong>, 하이진도, 도캐도캐, 꿈의세계카페
+                  </td>
+                </tr>
+                <tr>
+                  <td class="p-3.5 font-bold text-neutral-900 bg-neutral-50/50">🛌 숙소</td>
+                  <td class="p-3.5 leading-relaxed">
+                    <strong class="text-emerald-800">★골드마운틴하우스</strong>, <strong class="text-emerald-800">★해오름펜션</strong>, <strong class="text-emerald-800">★솔비치호텔</strong>
+                  </td>
+                </tr>
+                <tr>
+                  <td class="p-3.5 font-bold text-neutral-900 bg-neutral-50/50">🎨 지역 플레이어</td>
+                  <td class="p-3.5 leading-relaxed">
+                    <strong class="text-purple-800">★아리락(임현호)</strong>, <strong class="text-purple-800">★니트테이블(김종표)</strong>, <strong class="text-purple-800">★홍홍단</strong>, <strong class="text-purple-800">★준아트벽화(이준옥)</strong>, <strong class="text-purple-800">★비레레(김현준)</strong>, 윤공방(윤성실), 오렌케이크(강보혜)
+                  </td>
+                </tr>
+              </tbody>
+            </table>
           </div>
 
           <!-- Benefits Box -->
           <div class="bg-gradient-to-br from-amber-500/10 to-amber-500/5 p-6 md:p-8 rounded-3xl border border-amber-500/20 space-y-4 text-neutral-800">
             <h3 class="text-xl font-serif font-bold text-amber-950 flex items-center gap-2">
-              <span>🎁</span> 놓치면 아쉬운 ‘남도예술정원 여행자’ 특별 혜택
+              <span>🎁</span> 남도예술정원 여행자를 위한 특별 혜택
             </h3>
             <p class="text-xs text-amber-900 font-bold">
-              • 운영 기간: 2026년 9월 19일(토) ~ 11월 22일(일)
+              • 프로모션 운영 기간: 2026년 9월 19일(토) ~ 11월 22일(일)
             </p>
             <div class="grid grid-cols-1 md:grid-cols-2 gap-4 text-sm pt-2">
               <div class="bg-white/80 p-4 rounded-2xl border border-amber-200/60 shadow-sm">
-                <span class="font-bold text-amber-900 block mb-1">✨ 파트너 매장 10% 할인 & 스탬프 투어</span>
+                <span class="font-bold text-amber-900 block mb-1">Benefit 01. 파트너 매장 10% 할인 & 스탬프 투어</span>
                 <p class="text-neutral-600 text-xs leading-relaxed">
-                  지역 파트너 매장 방문 시 지정 메뉴 10% 할인! 연계 코스를 완주하며 스탬프를 모으면 기념 보상품을 발송해 드립니다.
+                  운영 기간 중 지역 파트너 매장을 방문하시면 지정 메뉴 10% 할인 혜택을 드립니다. 연계 코스를 순례하며 스탬프를 모두 적립해 인증을 완료하시면, 정성껏 준비한 기념 보상품을 받아보실 수 있습니다. (※ 보상품은 투어 종료 후 일괄 제공되며, 한정 수량으로 조기 소진될 수 있습니다.)
                 </p>
               </div>
               <div class="bg-white/80 p-4 rounded-2xl border border-amber-200/60 shadow-sm">
-                <span class="font-bold text-amber-900 block mb-1">🌿 남도예술정원여행자 멤버십 가입</span>
+                <span class="font-bold text-amber-900 block mb-1">Benefit 02. '남도예술정원여행자' 멤버십 가입</span>
                 <p class="text-neutral-600 text-xs leading-relaxed">
-                  정원을 통해 일상의 쉼표를 찾는 커뮤니티! 다채로운 정원 여행 정보와 특별 체험 프로그램 혜택을 제공합니다.
+                  정원을 통해 일상의 여유와 새로운 가능성을 발견하는 분들을 '남도예술정원여행자'라 부릅니다. 멤버십에 가입하시면 남도의 다채로운 정원 여행 정보와 특별 체험 프로그램 참여 기회, 지역 상권 연계 혜택을 가장 먼저 만나보실 수 있습니다.
                 </p>
               </div>
             </div>
           </div>
+        </section>
 
-          <!-- Closing Box -->
+        <!-- [OUTRO / 에필로그] -->
+        <section class="space-y-6 pt-4">
+          <!-- Photos 31, 32, 33, 34, 35 -->
+          <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+            <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+              <img src="/images/haeyang/haeyang-31.webp" alt="진도 감성 여행 풍경 1" class="w-full h-72 md:h-80 object-cover" />
+            </div>
+            <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+              <img src="/images/haeyang/haeyang-32.webp" alt="진도 감성 여행 풍경 2" class="w-full h-72 md:h-80 object-cover" />
+            </div>
+            <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+              <img src="/images/haeyang/haeyang-33.webp" alt="진도 감성 여행 풍경 3" class="w-full h-72 md:h-80 object-cover" />
+            </div>
+            <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+              <img src="/images/haeyang/haeyang-34.webp" alt="진도 감성 여행 풍경 4" class="w-full h-72 md:h-80 object-cover" />
+            </div>
+          </div>
+          <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[500px]">
+            <img src="/images/haeyang/haeyang-35.webp" alt="진도 감성 여행 피날레" class="w-full h-full object-cover" />
+          </div>
+
+          <!-- Outro Callout -->
           <div class="p-6 md:p-8 rounded-3xl bg-neutral-900 text-white space-y-4">
             <h3 class="text-2xl font-serif font-bold text-cyan-400">
               성난 파도의 울림에서 시작해 다정한 정원의 품으로
             </h3>
             <p class="text-neutral-300 leading-relaxed">
-              울돌목의 거센 파도 소리로 깨운 감각을 ‘진도휴식’ 정원의 고요한 바람으로 다독이고, 정겨운 골목의 사람들과 온기를 나누는 여정.
+              이충무공 승전공원의 거센 바닷바람 속에서 역사의 맥박을 느끼고, '진도휴식' 정원의 호젓한 풍경 속에서 마음을 정돈한 뒤, 다정한 마을 사람들의 공간으로 발걸음을 잇는 여정.
             </p>
             <p class="text-neutral-200 font-medium">
-              이번 계절, 남도예술정원이 빚어낸 이 다정한 여행길을 따라 진도의 깊은 속살을 마주해 보시는 건 어떨까요? ✨
+              남도예술정원이 정성껏 빚어낸 이 정원여행길을 따라 진도의 깊은 멋과 온기를 느긋하게 누려보시길 바랍니다. ✨
             </p>
           </div>
 
@@ -569,8 +454,9 @@ export const postsMain = {
           <div class="pt-6 border-t border-neutral-200">
             <div class="flex flex-wrap gap-2 text-xs font-medium text-neutral-600">
               <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-cyan-50 hover:text-cyan-700 transition-colors">#진도여행</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-cyan-50 hover:text-cyan-700 transition-colors">#이충무공승전공원</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-cyan-50 hover:text-cyan-700 transition-colors">#해양에너지공원</span>
               <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-cyan-50 hover:text-cyan-700 transition-colors">#울돌목스카이워크</span>
-              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-cyan-50 hover:text-cyan-700 transition-colors">#해남우수영관광지</span>
               <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-cyan-50 hover:text-cyan-700 transition-colors">#명량대첩</span>
               <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-cyan-50 hover:text-cyan-700 transition-colors">#진도휴식</span>
               <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-cyan-50 hover:text-cyan-700 transition-colors">#진도휴식정원</span>
@@ -585,8 +471,6 @@ export const postsMain = {
               <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-cyan-50 hover:text-cyan-700 transition-colors">#정원여행자</span>
               <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-cyan-50 hover:text-cyan-700 transition-colors">#남도여행</span>
             </div>
-          </div>
-        </section>
       </div>
     `
   },

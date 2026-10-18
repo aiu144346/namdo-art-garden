@@ -58,6 +58,7 @@ export default function PostsArchive() {
 
       // Priority ordering (Featured first)
       const isFeatured = [
+        'j13-jindo-uldol-hyusik',
         'h30-haenam-moongarden',
         'h29-haenam-haechang-brewery',
         'm2-food-garden-tour',
