@@ -23,3 +23,37 @@
     animation: slow-zoom 20s ease-in-out infinite alternate;
   }
 }
+
+/* Google Translate Customization: Seamlessly hide default toolbar & tooltips */
+body {
+  top: 0 !important;
+  position: static !important;
+}
+
+.goog-te-banner-frame.skiptranslate,
+.goog-te-banner-frame,
+iframe.goog-te-banner-frame {
+  display: none !important;
+  visibility: hidden !important;
+  height: 0 !important;
+}
+
+#goog-gt-tt,
+.goog-tooltip,
+.goog-tooltip:hover {
+  display: none !important;
+}
+
+.goog-text-highlight {
+  background-color: transparent !important;
+  box-shadow: none !important;
+}
+
+#google_translate_element {
+  display: none !important;
+}
+
+.skiptranslate:not(.notranslate) {
+  display: none !important;
+}
+

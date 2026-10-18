@@ -4,6 +4,7 @@ import { Link, useLocation } from 'react-router-dom';
 import { Menu, X, Leaf } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { cn } from '../../lib/utils';
+import LanguageSelector from './LanguageSelector';
 
 export default function Header() {
   const [isOpen, setIsOpen] = useState(false);
@@ -63,6 +64,11 @@ export default function Header() {
                 ))}
               </NavigationMenu.List>
             </NavigationMenu.Root>
+          </div>
+
+          {/* Right Action: Language Selector */}
+          <div className="flex items-center gap-2 md:gap-3">
+            <LanguageSelector />
           </div>
         </div>
 
