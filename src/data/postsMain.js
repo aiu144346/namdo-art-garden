@@ -331,13 +331,21 @@ export const postsMain = {
             </p>
           </div>
 
-          <!-- Tags -->
-          <div class="flex flex-wrap gap-2 pt-4">
-            {['#해남가볼만한곳', '#해남여행', '#해남여행코스', '#해남문가든', '#문가든', '#해남피크닉', '#해멍', '#해남데이트', '#해남당일치기', '#전남해남가볼만한곳', '#남도예술정원'].map((tag, idx) => (
-              <span key={idx} class="px-3.5 py-1.5 rounded-xl bg-neutral-100 hover:bg-emerald-50 text-neutral-600 hover:text-emerald-700 text-xs font-medium transition-colors cursor-pointer">
-                {tag}
-              </span>
-            ))}
+          <!-- Hashtags -->
+          <div class="pt-6 border-t border-neutral-200">
+            <div class="flex flex-wrap gap-2 text-xs font-medium text-neutral-600">
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#해남가볼만한곳</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#해남여행</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#해남여행코스</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#해남문가든</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#문가든</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#해남피크닉</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#해멍</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#해남데이트</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#해남당일치기</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#전남해남가볼만한곳</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#남도예술정원</span>
+            </div>
           </div>
         </section>
       </div>
