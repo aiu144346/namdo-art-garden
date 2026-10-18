@@ -15,6 +15,7 @@ import PostDetail from './pages/PostDetail';
 import RegionGallery from './pages/Region';
 import GardenDetail from './pages/GardenDetail';
 import GardensHub from './pages/GardensHub';
+import PostsArchive from './pages/PostsArchive';
 
 function AnimatedRoutes() {
   const location = useLocation();
@@ -25,6 +26,7 @@ function AnimatedRoutes() {
         <Route path="/" element={<PageTransition><Home /></PageTransition>} />
         <Route path="/gardens" element={<PageTransition><GardensHub /></PageTransition>} />
         <Route path="/gardens/:gardenId" element={<PageTransition><GardenDetail /></PageTransition>} />
+        <Route path="/posts" element={<PageTransition><PostsArchive /></PageTransition>} />
         <Route path="/about-us" element={<PageTransition><AboutUs /></PageTransition>} />
         <Route path="/artists" element={<PageTransition><Artists /></PageTransition>} />
         <Route path="/events" element={<PageTransition><Events /></PageTransition>} />
