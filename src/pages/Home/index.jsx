@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { motion, AnimatePresence, useScroll, useTransform, useMotionValue, useSpring } from 'framer-motion';
-import { Search, MapPin, ArrowRight, Compass, Coffee, ChevronRight, PlayCircle, Newspaper, Bell, ExternalLink } from 'lucide-react';
+import { Search, MapPin, ArrowRight, Compass, Coffee, ChevronRight, PlayCircle, Newspaper, Bell, ExternalLink, Camera } from 'lucide-react';
 import { Link } from 'react-router-dom';
 import { cn } from '../../lib/utils';
 import SEO from '../../components/SEO';
@@ -21,7 +21,7 @@ const HERO_IMAGES = [
   { src: '/images/main-intro-14.webp', name: '아내의 정원' },
   { src: '/images/main-intro-15.webp', name: '진도휴식' },
   { src: '/images/main-intro-16.webp', name: '파인클라우드' },
-  { src: '/images/main-intro-17.webp', name: '포레스트 수목원' }
+  { src: '/images/gardens/4est/garden-4est-01.webp', name: '4est(포레스트)수목원' }
 ];
 
 const NOTICES = [
@@ -348,7 +348,7 @@ export default function Home() {
               { id: 'wife', name: '아내의 정원', en: 'Home of Florist', img: '/images/main-intro-14.webp', quote: '아내를 향한 남편의 숲속 유럽형 정원', video: 'https://www.youtube.com/watch?v=FrlTdCYDydw', postId: 'w7-wando-wife-garden' },
               { id: 'jindo', name: '진도휴식', en: 'Jindo Rest', img: '/images/main-intro-15.webp', quote: '동백 숲과 바다가 건네는 오감의 환대', video: 'https://www.youtube.com/watch?v=6tc6CFsyekE', postId: 'j11-jindo-hyusik' },
               { id: 'pine', name: '파인클라우드', en: 'Pine Cloud', img: '/images/main-intro-16.webp', quote: '소나무와 구름 사이, 사유의 즐거움', video: 'https://www.youtube.com/watch?v=onnW1mJWSvE', postId: 's2-pinecloud-photo' },
-              { id: 'forest', name: '포레스트 수목원', en: '4est Arboretum', img: '/images/main-intro-17.webp', quote: '별, 돌, 이야기, 배움이 있는 인생의 숲', video: 'https://www.youtube.com/watch?v=BWgurEgrrUM', postId: 'h23-haenam-4est-arboretum' },
+              { id: '4est', name: '4est(포레스트)수목원', en: '4est Arboretum', img: '/images/gardens/4est/garden-4est-01.webp', quote: '별, 돌, 이야기, 배움이 있는 인생의 숲', video: 'https://www.youtube.com/watch?v=BWgurEgrrUM', postId: 'h23-haenam-4est-arboretum' },
             ].map((garden, idx) => (
               <TiltCard key={garden.id} garden={garden} idx={idx} />
             ))}

@@ -6,12 +6,24 @@ import SEO from '../../components/SEO';
 import POST_DATA from '../../data/postsData';
 
 import PostSharing from '../../components/PostSharing';
+import GardenGallery from '../../components/GardenGallery';
+import { getGalleryByPostId } from '../../data/gardensGallery';
 
 export default function PostDetail() {
   const { id } = useParams();
   const post = POST_DATA[id];
   const [copied, setCopied] = useState(false);
   const [activeImage, setActiveImage] = useState(null);
+  const galleryData = useMemo(() => getGalleryByPostId(id), [id]);
+
+  React.useEffect(() => {
+    if (window.location.hash === '#gallery') {
+      setTimeout(() => {
+        const el = document.getElementById('gallery');
+        if (el) el.scrollIntoView({ behavior: 'smooth' });
+      }, 400);
+    }
+  }, [id]);
 
   React.useEffect(() => {
     const proseEl = document.querySelector('.prose');
@@ -161,6 +173,9 @@ export default function PostDetail() {
               onClick={handleImageClick}
               dangerouslySetInnerHTML={{ __html: post.content }}
             />
+
+            {/* Garden Photo Gallery */}
+            {galleryData && <GardenGallery gallery={galleryData} />}
 
             <PostSharing />
 

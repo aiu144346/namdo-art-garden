@@ -25,6 +25,7 @@ export default function Header() {
   }, [isOpen]);
 
   const navLinks = [
+    { to: "/gardens", label: "남도예술정원", en: "Master Gardens", isHighlight: true },
     { to: "/region/mokpo", label: "목포권", en: "Mokpo Art District" },
     { to: "/region/shinan", label: "신안권", en: "Shinan Archipelago" },
     { to: "/region/haenam", label: "해남권", en: "Haenam Territory" },
@@ -56,7 +57,8 @@ export default function Header() {
                     to={link.to} 
                     label={link.label}
                     en={link.en}
-                    current={location.pathname === link.to || location.pathname.startsWith(link.to + '/')}
+                    isHighlight={link.isHighlight}
+                    current={location.pathname === link.to || (link.to !== '/' && location.pathname.startsWith(link.to + '/'))}
                   />
                 ))}
               </NavigationMenu.List>
@@ -98,7 +100,7 @@ export default function Header() {
   );
 }
 
-function NavItem({ to, label, en, current }) {
+function NavItem({ to, label, en, isHighlight, current }) {
   const [isHovered, setIsHovered] = useState(false);
 
   return (
@@ -143,9 +145,11 @@ function NavItem({ to, label, en, current }) {
 
             {/* main Korean Label */}
             <span className={cn(
-              "text-[24px] font-[900] tracking-tight transition-all duration-500",
+              "text-[24px] font-[900] tracking-tight transition-all duration-500 flex items-center gap-1.5",
+              isHighlight && !current ? "text-neutral-900 font-black" : "",
               isHovered ? "translate-y-1 scale-105" : "translate-y-0"
             )}>
+              {isHighlight && <Leaf className="w-4 h-4 text-primary fill-primary/20" />}
               {label}
             </span>
           </div>
