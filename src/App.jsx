@@ -16,6 +16,7 @@ import RegionGallery from './pages/Region';
 import GardenDetail from './pages/GardenDetail';
 import GardensHub from './pages/GardensHub';
 import PostsArchive from './pages/PostsArchive';
+import AdminPortal from './pages/Admin';
 
 function AnimatedRoutes() {
   const location = useLocation();
@@ -34,6 +35,7 @@ function AnimatedRoutes() {
         <Route path="/shop" element={<PageTransition><Shop /></PageTransition>} />
         <Route path="/region/:regionId" element={<PageTransition><RegionGallery /></PageTransition>} />
         <Route path="/posts/:id" element={<PageTransition><PostDetail /></PageTransition>} />
+        <Route path="/admin" element={<PageTransition><AdminPortal /></PageTransition>} />
       </Routes>
     </AnimatePresence>
   );

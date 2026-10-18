@@ -3,6 +3,7 @@ import { Link } from 'react-router-dom';
 import { motion, AnimatePresence } from 'framer-motion';
 import { Search, Compass, Calendar, Clock, ChevronRight, Sparkles, Filter, ArrowRight, BookOpen, Layers } from 'lucide-react';
 import POST_DATA from '../../data/postsData';
+import { getCustomPosts } from '../../utils/adminStorage';
 import SEO from '../../components/SEO';
 
 const REGION_TABS = [
@@ -22,7 +23,9 @@ export default function PostsArchive() {
 
   // Convert post data object into structured array with normalized metadata
   const allPosts = useMemo(() => {
-    return Object.entries(POST_DATA).map(([id, post]) => {
+    const customObj = getCustomPosts().reduce((acc, p) => ({ ...acc, [p.id]: p }), {});
+    const merged = { ...customObj, ...POST_DATA };
+    return Object.entries(merged).map(([id, post]) => {
       // Clean title
       const cleanTitle = (post.title || '').replace(/\\n/g, ' ').trim();
       

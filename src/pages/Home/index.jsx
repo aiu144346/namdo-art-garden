@@ -1,9 +1,10 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useMemo } from 'react';
 import { motion, AnimatePresence, useScroll, useTransform, useMotionValue, useSpring } from 'framer-motion';
 import { Search, MapPin, ArrowRight, Compass, Coffee, ChevronRight, PlayCircle, Newspaper, Bell, ExternalLink, Camera, Sparkles, Flower2, Heart, Waves } from 'lucide-react';
 import { Link } from 'react-router-dom';
 import { cn } from '../../lib/utils';
 import SEO from '../../components/SEO';
+import { getCustomNotices, getCustomPress } from '../../utils/adminStorage';
 
 const REGIONS = [
   { id: 'mokpo', name: '목포 (Mokpo)', desc: '근대 역사와 예술의 항구', image: '/images/gohado-main.webp', link: '/region/mokpo' },
@@ -193,6 +194,14 @@ export default function Home() {
   const { scrollY } = useScroll();
   const y1 = useTransform(scrollY, [0, 1000], [0, 200]);
   const opacity1 = useTransform(scrollY, [0, 500], [1, 0]);
+
+  const allNotices = useMemo(() => {
+    return [...getCustomNotices(), ...NOTICES];
+  }, []);
+
+  const allPress = useMemo(() => {
+    return [...getCustomPress(), ...PRESS_RELEASE];
+  }, []);
 
   useEffect(() => {
     const timer = setInterval(() => {
@@ -426,7 +435,7 @@ export default function Home() {
                   transition={{ duration: 0.4 }}
                   className="space-y-4"
                 >
-                  {NOTICES.map((item) => (
+                  {allNotices.map((item) => (
                     <a
                       key={item.id}
                       href={item.link}
@@ -460,7 +469,7 @@ export default function Home() {
                   transition={{ duration: 0.4 }}
                   className="grid grid-cols-1 md:grid-cols-3 gap-6"
                 >
-                  {PRESS_RELEASE.map((item) => {
+                  {allPress.map((item) => {
                     const CardWrapper = item.isExternal ? 'a' : Link;
                     const linkProps = item.isExternal 
                       ? { href: item.link, target: "_blank", rel: "noopener noreferrer" }

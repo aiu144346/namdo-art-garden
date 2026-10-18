@@ -4,6 +4,7 @@ import { motion, AnimatePresence } from 'framer-motion';
 import { ArrowLeft, ArrowRight, Clock, Share2, MapPin, Check, Link as LinkIcon } from 'lucide-react';
 import SEO from '../../components/SEO';
 import POST_DATA from '../../data/postsData';
+import { getCustomPosts, getCustomNotices } from '../../utils/adminStorage';
 
 import PostSharing from '../../components/PostSharing';
 import GardenGallery from '../../components/GardenGallery';
@@ -11,7 +12,10 @@ import { getGalleryByPostId } from '../../data/gardensGallery';
 
 export default function PostDetail() {
   const { id } = useParams();
-  const post = POST_DATA[id];
+  const customPosts = useMemo(() => getCustomPosts(), []);
+  const customNotices = useMemo(() => getCustomNotices(), []);
+  const customPost = customPosts.find(p => p.id === id) || customNotices.find(n => n.id === id);
+  const post = POST_DATA[id] || customPost;
   const [copied, setCopied] = useState(false);
   const [activeImage, setActiveImage] = useState(null);
   const galleryData = useMemo(() => getGalleryByPostId(id), [id]);
