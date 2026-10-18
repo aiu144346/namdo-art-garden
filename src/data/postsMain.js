@@ -1,4 +1,348 @@
 export const postsMain = {
+  "h30-haenam-moongarden": {
+    "id": "h30-haenam-moongarden",
+    "regionId": "haenam",
+    "title": "해남 필수 여행 코스! 맛있는 피크닉 명소 ‘문가든’ 정원 데이트",
+    "description": "오류제 저수지 파노라마 뷰와 동화 같은 산책로, 정원주 문홍식 대표님의 감동적인 가족 스토리와 귀한 황칠차 & 바움쿠헨 티타임까지! 낭만 가득한 해남 문가든 정원 완벽 가이드.",
+    "keywords": "해남가볼만한곳, 해남여행, 해남여행코스, 해남문가든, 문가든, 해남피크닉, 해멍, 해남데이트, 해남당일치기, 전남해남가볼만한곳, 남도예술정원",
+    "date": "2026. 04. 19",
+    "author": "남도예술정원 공식 에디터",
+    "readTime": "5분",
+    "image": "/images/moongarden/moongarden-01.webp",
+    "content": `
+      <div class="max-w-4xl mx-auto space-y-10 text-neutral-800 leading-relaxed font-sans mt-4 px-2 md:px-0">
+        <!-- Hero Section -->
+        <div class="space-y-4">
+          <div class="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-emerald-500/10 text-emerald-800 text-xs font-bold uppercase tracking-wider">
+            🌿 감성 힐링 & 피크닉 명소 | 해남 문가든
+          </div>
+          <h1 class="text-3xl md:text-5xl font-serif font-bold text-neutral-900 leading-tight">
+            해남 필수 여행 코스!<br/>
+            <span class="text-emerald-700 font-sans">맛있는 피크닉 명소 ‘문가든’ 정원 데이트</span>
+          </h1>
+          <p class="text-base md:text-lg text-neutral-600 font-light leading-relaxed">
+            잔잔한 오류제 저수지 수변 풍경과 온 가족의 사랑이 담긴 동화 같은 숲길. 귀한 황칠차와 달콤한 바움쿠헨이 함께하는 해남 최고의 힐링 정원 데이트 코스!
+          </p>
+        </div>
+
+        <!-- [1] Main Hero Photo -->
+        <div class="space-y-2">
+          <img src="/images/moongarden/moongarden-01.webp" alt="해남 문가든 정원 대표 전경" class="w-full rounded-3xl object-cover shadow-xl border border-neutral-100 max-h-[600px]" />
+          <p class="text-center text-xs md:text-sm text-neutral-500 font-medium">(▲ 푸른 오류제 저수지와 꽃나무가 평화롭게 어우러진 해남 피크닉 명소 ‘문가든’ 전경)</p>
+        </div>
+
+        <!-- Intro Text Box -->
+        <div class="bg-[#f7f9f6] p-6 md:p-8 rounded-3xl border border-emerald-100 shadow-sm space-y-4">
+          <p class="text-base md:text-lg font-medium text-neutral-800">
+            안녕하세요. 😊<br/>
+            오늘은 해남 필수 여행 코스를 한 곳 소개해 보려고 하는데요.
+          </p>
+          <p class="text-neutral-600 leading-relaxed">
+            피크닉 명소로 소문이 자자한 <strong>‘문가든’</strong>입니다.<br/>
+            자연 속에서 인생샷도 남기고 힐링 가득한 시간을 보낼 수 있는 이곳, 저와 함께 떠나보실까요?
+          </p>
+        </div>
+
+        <!-- Section 1: 위치 & 카페 입구 -->
+        <section class="space-y-6">
+          <div class="flex items-center gap-3">
+            <span class="w-8 h-8 rounded-full bg-emerald-700 text-white flex items-center justify-center font-bold text-sm">01</span>
+            <div>
+              <span class="text-xs font-bold text-emerald-800 tracking-widest uppercase">Location & Entrance</span>
+              <h2 class="text-2xl md:text-3xl font-serif font-bold text-neutral-900">오류제 수변의 여유로운 주차 & 감성 포토존</h2>
+            </div>
+          </div>
+
+          <p class="text-neutral-700 leading-relaxed">
+            ‘문가든’은 잔잔한 저수지 풍경이 매력적인 해남 <strong>오류제</strong> 옆에 위치해 있는데요. 넓고 쾌적한 전용 주차장이 마련되어 있어 주말 나들이에도 주차 걱정 없이 편하게 차를 댈 수 있습니다.
+          </p>
+
+          <!-- [2, 3] Photos Grid -->
+          <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+            <div class="space-y-1">
+              <img src="/images/moongarden/moongarden-02.webp" alt="오류제 수변과 문가든 주차장 안내" class="w-full h-72 md:h-80 rounded-2xl object-cover shadow-md border border-neutral-100" />
+              <p class="text-center text-xs text-neutral-500">오류제 저수지 옆 넓은 주차 공간</p>
+            </div>
+            <div class="space-y-1">
+              <img src="/images/moongarden/moongarden-03.webp" alt="문가든 카페 진입로 감성 포토존" class="w-full h-72 md:h-80 rounded-2xl object-cover shadow-md border border-neutral-100" />
+              <p class="text-center text-xs text-neutral-500">기대감을 높여주는 카페 입구 감성 포토존</p>
+            </div>
+          </div>
+
+          <p class="text-neutral-700 leading-relaxed">
+            주차 후 예쁜 산책길을 따라 걸어가다 보면 감각적인 현대식 카페 건물이 나타나는데요. 입구부터 아기자기한 감성 포토존이 꾸며져 있어 본격적인 관람에 앞서 설레는 마음으로 예쁜 사진을 먼저 남길 수 있었습니다.
+          </p>
+        </section>
+
+        <!-- Section 2: 카페 1층 & 통창 정원 뷰 -->
+        <section class="space-y-6">
+          <div class="flex items-center gap-3">
+            <span class="w-8 h-8 rounded-full bg-emerald-700 text-white flex items-center justify-center font-bold text-sm">02</span>
+            <div>
+              <span class="text-xs font-bold text-emerald-800 tracking-widest uppercase">1F Cafe & Garden View</span>
+              <h2 class="text-2xl md:text-3xl font-serif font-bold text-neutral-900">전면 통유리창으로 즐기는 싱그러운 파노라마 뷰</h2>
+            </div>
+          </div>
+
+          <p class="text-neutral-700 leading-relaxed">
+            ‘문가든’ 카페는 지상 2층 규모로 웅장하면서도 따뜻하게 조성되어 있는데요. 1층 카운터 앞에는 정갈하고 먹음직스러운 디저트 모형들이 친절하게 안내되어 있어 메뉴를 고르는 데 큰 도움이 되었습니다.
+          </p>
+
+          <!-- [4, 5] Photos Grid -->
+          <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+            <div class="space-y-1">
+              <img src="/images/moongarden/moongarden-04.webp" alt="문가든 1층 카운터 및 디저트 모형 쇼케이스" class="w-full h-72 md:h-80 rounded-2xl object-cover shadow-md border border-neutral-100" />
+              <p class="text-center text-xs text-neutral-500">한눈에 고르기 편한 디저트 쇼케이스</p>
+            </div>
+            <div class="space-y-1">
+              <img src="/images/moongarden/moongarden-05.webp" alt="전면 통창 너머로 초록 정원이 펼쳐지는 카페 내부" class="w-full h-72 md:h-80 rounded-2xl object-cover shadow-md border border-neutral-100" />
+              <p class="text-center text-xs text-neutral-500">정원을 향해 배치된 전면 통유리 좌석</p>
+            </div>
+          </div>
+
+          <p class="text-neutral-700 leading-relaxed">
+            실내 공간은 개방감을 극대화한 전면 통유리창 구조로 설계되었는데요. 모든 좌석이 정원을 향하도록 배치되어 있어, 시원한 에어컨 바람을 맞으며 통창 너머로 그림 같은 초록빛 정원 뷰를 감상할 수 있었습니다.
+          </p>
+        </section>
+
+        <!-- Section 3: 2층 오류제 망원경 & 루프탑 -->
+        <section class="space-y-6">
+          <div class="flex items-center gap-3">
+            <span class="w-8 h-8 rounded-full bg-emerald-700 text-white flex items-center justify-center font-bold text-sm">03</span>
+            <div>
+              <span class="text-xs font-bold text-emerald-800 tracking-widest uppercase">2F Observatory & Rooftop</span>
+              <h2 class="text-2xl md:text-3xl font-serif font-bold text-neutral-900">오류제 저수지 망원경 조망과 탁 트인 루프탑</h2>
+            </div>
+          </div>
+
+          <!-- [6, 7] Photos Grid -->
+          <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+            <div class="space-y-1">
+              <img src="/images/moongarden/moongarden-06.webp" alt="오류제 수변을 조망할 수 있는 2층 망원경" class="w-full h-72 md:h-80 rounded-2xl object-cover shadow-md border border-neutral-100" />
+              <p class="text-center text-xs text-neutral-500">잔잔한 물결을 생생하게 보는 망원경</p>
+            </div>
+            <div class="space-y-1">
+              <img src="/images/moongarden/moongarden-07.webp" alt="초록빛 문가든 전경이 한눈에 들어오는 루프탑" class="w-full h-72 md:h-80 rounded-2xl object-cover shadow-md border border-neutral-100" />
+              <p class="text-center text-xs text-neutral-500">문가든 전체가 내려다보이는 루프탑 옥상</p>
+            </div>
+          </div>
+
+          <p class="text-neutral-700 leading-relaxed">
+            ‘문가든’ 카페 2층으로 올라가면 1층에서는 볼 수 없었던 오류제 저수지 뷰가 시원하게 눈앞에 펼쳐집니다. 센스 있게 망원경이 준비되어 있어 잔잔한 물결과 수변 생태 환경을 생생하게 조망할 수 있었습니다.
+          </p>
+          <p class="text-neutral-700 leading-relaxed">
+            루프탑 옥상으로 나가면 초록빛 문가든 전경이 한눈에 내려다보이는데요. 어디서 찍어도 인생샷을 남길 수 있는 최고의 포토존이니 꼭 올라가 보시길 추천합니다.
+          </p>
+        </section>
+
+        <!-- Section 4: 정원주 문홍식 대표님의 철학 인터뷰 -->
+        <section class="space-y-6">
+          <div class="flex items-center gap-3">
+            <span class="w-8 h-8 rounded-full bg-emerald-700 text-white flex items-center justify-center font-bold text-sm">04</span>
+            <div>
+              <span class="text-xs font-bold text-emerald-800 tracking-widest uppercase">Garden Master Story</span>
+              <h2 class="text-2xl md:text-3xl font-serif font-bold text-neutral-900">“저에게 이 정원은 로또나 다름없습니다”</h2>
+            </div>
+          </div>
+
+          <p class="text-neutral-700 leading-relaxed">
+            제가 방문했을 때 마침, ‘문가든’을 깊은 애정으로 가꿔오신 정원주 <strong>문홍식 대표님</strong>을 직접 만날 수 있었는데요.<br/>
+            대표님께서는 평소 식물에 관심이 많아 관련 분야에서 오랫동안 근무하시다가, 퇴직 후 <em>“온 가족이 다 함께 모여 행복을 누릴 수 있는 예쁜 공간을 만들자!”</em>라는 따뜻한 마음으로 이곳에 자리를 잡으셨다고 합니다.
+          </p>
+
+          <!-- [8, 9] Photos Grid -->
+          <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+            <div class="space-y-1">
+              <img src="/images/moongarden/moongarden-08.webp" alt="정원주 문홍식 대표님의 온화한 미소와 인터뷰" class="w-full h-72 md:h-80 rounded-2xl object-cover shadow-md border border-neutral-100" />
+              <p class="text-center text-xs text-neutral-500">문가든을 가꿔온 문홍식 대표님</p>
+            </div>
+            <div class="space-y-1">
+              <img src="/images/moongarden/moongarden-09.webp" alt="정원의 나무와 꽃을 보듬는 손길" class="w-full h-72 md:h-80 rounded-2xl object-cover shadow-md border border-neutral-100" />
+              <p class="text-center text-xs text-neutral-500">세월과 함께 깊어지는 정원의 스토리</p>
+            </div>
+          </div>
+
+          <!-- Highlight Quote Box -->
+          <div class="relative bg-gradient-to-br from-emerald-50 to-teal-50/50 p-8 rounded-3xl border border-emerald-200/80 shadow-sm space-y-4">
+            <div class="text-4xl text-emerald-400 font-serif leading-none">“</div>
+            <blockquote class="text-lg md:text-xl font-serif font-semibold text-emerald-950 leading-relaxed -mt-4 pl-4 border-l-2 border-emerald-500">
+              저에게 이 정원은 ‘로또’나 다름없습니다!<br/>
+              제가 가슴 뛰게 좋아하는 일을 매일 할 수 있다는 것만으로도 어마어마한 행운인데, 정성껏 가꾼 공간에서 찾아오시는 분들이 편안하게 쉬어가고 힘을 얻어 가시니 저에겐 그 어떤 복권 당첨보다 값진 행복이죠.
+            </blockquote>
+            <p class="text-right text-xs md:text-sm font-bold text-emerald-800">— 정원주 문홍식 대표 인터뷰 중</p>
+          </div>
+
+          <!-- [10, 11] Photos Grid -->
+          <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+            <div class="space-y-1">
+              <img src="/images/moongarden/moongarden-10.webp" alt="문가든에 담긴 따뜻한 진심" class="w-full h-72 md:h-80 rounded-2xl object-cover shadow-md border border-neutral-100" />
+              <p class="text-center text-xs text-neutral-500">한 그루 한 그루 애정으로 보듬은 나무들</p>
+            </div>
+            <div class="space-y-1">
+              <img src="/images/moongarden/moongarden-11.webp" alt="깊은 울림을 전하는 정원의 녹음" class="w-full h-72 md:h-80 rounded-2xl object-cover shadow-md border border-neutral-100" />
+              <p class="text-center text-xs text-neutral-500">해를 거듭할수록 나이를 먹어가는 명품 정원</p>
+            </div>
+          </div>
+
+          <p class="text-neutral-700 leading-relaxed">
+            처음에는 가족들과 오붓하고 소소하게 힐링하려고 시작했던 정원이, 지금은 아름다움이 입소문을 타며 전국 각지에서 지친 마음을 위로받으러 찾아오는 남도 대표 힐링 명소가 되었습니다.
+          </p>
+          <p class="text-neutral-700 leading-relaxed">
+            정원도 사람처럼 해를 거듭하고 나이를 먹어갈수록 한층 더 깊은 아름다움과 무궁무진한 스토리를 품게 된다는 대표님의 말씀에서, 작은 풀잎 하나, 나무 한 그루까지 애정 어린 눈빛으로 보듬는 따뜻한 진심이 고스란히 전해졌습니다.
+          </p>
+        </section>
+
+        <!-- Section 5: 가족 사랑이 깃든 테마 길목 & 곡선 산책로 -->
+        <section class="space-y-6">
+          <div class="flex items-center gap-3">
+            <span class="w-8 h-8 rounded-full bg-emerald-700 text-white flex items-center justify-center font-bold text-sm">05</span>
+            <div>
+              <span class="text-xs font-bold text-emerald-800 tracking-widest uppercase">Family Stories & Walking Trails</span>
+              <h2 class="text-2xl md:text-3xl font-serif font-bold text-neutral-900">가족의 이름이 붙은 길, 동화 같은 미로 산책로</h2>
+            </div>
+          </div>
+
+          <p class="text-neutral-700 leading-relaxed">
+            보통 수목원이나 식물원에 가면 ‘장미원’, ‘수국원’, ‘허브정원’처럼 품종별로 구역을 나누곤 하죠. 그런데 이곳 ‘문가든’은 세상에서 가장 따뜻한 가족 정원이었습니다. 길목마다 <strong>‘어머니의 길’</strong>, <strong>‘지호의 꿈’</strong>처럼 소중한 가족들의 이름이 붙어있고, 곁에는 짧지만 진솔한 가족 이야기가 담겨 있어 걷는 내내 마음이 훈훈해집니다.
+          </p>
+
+          <!-- [12, 13] Photos Grid -->
+          <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+            <div class="space-y-1">
+              <img src="/images/moongarden/moongarden-12.webp" alt="어머니의 길 팻말과 가족 이야기" class="w-full h-72 md:h-80 rounded-2xl object-cover shadow-md border border-neutral-100" />
+              <p class="text-center text-xs text-neutral-500">소중한 가족의 이야기가 적힌 팻말</p>
+            </div>
+            <div class="space-y-1">
+              <img src="/images/moongarden/moongarden-13.webp" alt="정원 산책로 길목 풍경" class="w-full h-72 md:h-80 rounded-2xl object-cover shadow-md border border-neutral-100" />
+              <p class="text-center text-xs text-neutral-500">따스한 가족의 사랑이 녹아있는 정원길</p>
+            </div>
+          </div>
+
+          <!-- [14, 15] Photos Grid -->
+          <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+            <div class="space-y-1">
+              <img src="/images/moongarden/moongarden-14.webp" alt="피톤치드 가득한 비밀 화원과 나무 터널" class="w-full h-72 md:h-80 rounded-2xl object-cover shadow-md border border-neutral-100" />
+              <p class="text-center text-xs text-neutral-500">코너마다 색다른 비밀 화원과 나무 터널</p>
+            </div>
+            <div class="space-y-1">
+              <img src="/images/moongarden/moongarden-15.webp" alt="수채화 같은 저수지와 숲 전경 산책로" class="w-full h-72 md:h-80 rounded-2xl object-cover shadow-md border border-neutral-100" />
+              <p class="text-center text-xs text-neutral-500">높은 언덕에서 바라본 맑은 저수지와 수려한 숲</p>
+            </div>
+          </div>
+
+          <p class="text-neutral-700 leading-relaxed">
+            ‘문가든’은 아기자기한 미로처럼 부드러운 곡선 산책로가 길게 이어져 있는데요. 폭신폭신한 흙길을 천천히 걷다가 모퉁이를 살짝 돌면 동화 속에 나올 법한 아늑한 비밀 화원이 나타나고, 돌담길 코너를 돌면 피톤치드 가득한 울창한 나무 터널이 연속적으로 펼쳐집니다.
+          </p>
+          <p class="text-neutral-700 leading-relaxed">
+            걸음을 옮길 때마다 각도에 따라 풍경이 끊임없이 바뀌어 지루할 틈이 없었는데요. 산책로 높은 곳에 오르면 맑은 저수지와 수려한 숲이 한 폭의 수채화처럼 펼쳐져, 시원한 바람을 맞으며 바라보니 가슴이 뻥 뚫리는 기분이었습니다.
+          </p>
+        </section>
+
+        <!-- Section 6: 귀한 황칠차 & 전통 바움쿠헨 티타임 -->
+        <section class="space-y-6">
+          <div class="flex items-center gap-3">
+            <span class="w-8 h-8 rounded-full bg-emerald-700 text-white flex items-center justify-center font-bold text-sm">06</span>
+            <div>
+              <span class="text-xs font-bold text-emerald-800 tracking-widest uppercase">Special Tea Time</span>
+              <h2 class="text-2xl md:text-3xl font-serif font-bold text-neutral-900">귀한 ‘황칠차’와 독일식 케이크 ‘바움쿠헨’의 만남</h2>
+            </div>
+          </div>
+
+          <p class="text-neutral-700 leading-relaxed">
+            상쾌한 정원 산책을 마치고 특별한 티타임을 가졌는데요. 준비된 메뉴는 바로 귀하다고 소문난 <strong>‘황칠차’</strong>와 독일 전통 명품 케이크 <strong>‘바움쿠헨’</strong>이었습니다.
+          </p>
+
+          <!-- [16, 17] Photos Grid -->
+          <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+            <div class="space-y-1">
+              <img src="/images/moongarden/moongarden-16.webp" alt="정갈하게 준비된 황칠차와 바움쿠헨 세트" class="w-full h-72 md:h-80 rounded-2xl object-cover shadow-md border border-neutral-100" />
+              <p class="text-center text-xs text-neutral-500">품격 있는 황칠차 & 바움쿠헨 페어링</p>
+            </div>
+            <div class="space-y-1">
+              <img src="/images/moongarden/moongarden-17.webp" alt="은은한 황금빛을 띠는 황칠차" class="w-full h-72 md:h-80 rounded-2xl object-cover shadow-md border border-neutral-100" />
+              <p class="text-center text-xs text-neutral-500">만병통치 나무로 불린 귀한 황칠나무 진액 차</p>
+            </div>
+          </div>
+
+          <p class="text-neutral-700 leading-relaxed">
+            ‘황칠차’는 옛날부터 아픈 곳을 낫게 해준다고 하여 <em>‘만병통치 나무’</em>라 불렸고, 불로장생을 꿈꾸던 진시황이 애타게 찾던 불로초 후보 중 하나로 전해지는 귀한 나무 진액으로 우려낸 차입니다.
+          </p>
+
+          <!-- [18, 19] Photos Grid -->
+          <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+            <div class="space-y-1">
+              <img src="/images/moongarden/moongarden-18.webp" alt="숲의 향기를 머금은 황칠차 한 잔" class="w-full h-72 md:h-80 rounded-2xl object-cover shadow-md border border-neutral-100" />
+              <p class="text-center text-xs text-neutral-500">입안 가득 퍼지는 천연의 은은한 단맛</p>
+            </div>
+            <div class="space-y-1">
+              <img src="/images/moongarden/moongarden-19.webp" alt="달콤하고 부드러운 독일식 전통 바움쿠헨" class="w-full h-72 md:h-80 rounded-2xl object-cover shadow-md border border-neutral-100" />
+              <p class="text-center text-xs text-neutral-500">겹겹이 층을 이룬 촉촉한 바움쿠헨 디저트</p>
+            </div>
+          </div>
+
+          <p class="text-neutral-700 leading-relaxed">
+            찻잔을 들어 향을 맡아보니, 깊은 숲속에 온 듯 그윽한 나무 향이 은은하게 퍼졌는데요. 한 모금 머금는 순간, 신기하게도 입안 가득 기분 좋은 천연의 단맛이 부드럽게 감돌았습니다.
+          </p>
+          <p class="text-neutral-700 leading-relaxed">
+            쌉싸름하면서도 끝 맛은 달콤한 황칠차에 겹겹이 층을 이룬 달달하고 부드러운 바움쿠헨 한 조각을 곁들이니 그야말로 찰떡궁합이었습니다. 따스한 차 한 잔과 달콤한 디저트에 문가든의 자연과 힐링이 그대로 담겨있었습니다.
+          </p>
+
+          <!-- Moon Garden Infobox / Tips -->
+          <div class="bg-gradient-to-br from-[#f2f7f4] to-[#e7f1eb] p-6 md:p-8 rounded-3xl border border-emerald-200 shadow-md space-y-4">
+            <h3 class="text-xl font-serif font-bold text-emerald-950 flex items-center gap-2">
+              <span>🍵</span> 문가든 힐링 데이트 완전 정복 가이드
+            </h3>
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-4 text-sm text-neutral-700 pt-2">
+              <div class="bg-white/80 p-4 rounded-2xl border border-emerald-100 shadow-sm">
+                <span class="font-bold text-emerald-800 block mb-1">📍 저수지 & 카페 뷰</span>
+                <p>1층 통창 정원뷰 좌석과 2층 오류제 망원경 관측석, 탁 트인 루프탑은 필수 코스!</p>
+              </div>
+              <div class="bg-white/80 p-4 rounded-2xl border border-emerald-100 shadow-sm">
+                <span class="font-bold text-emerald-800 block mb-1">🌿 감성 산책 포인트</span>
+                <p>‘어머니의 길’, ‘지호의 꿈’ 팻말을 따라 걸으며 비밀 화원과 나무 터널에서 인생샷 완성.</p>
+              </div>
+              <div class="bg-white/80 p-4 rounded-2xl border border-emerald-100 shadow-sm">
+                <span class="font-bold text-emerald-800 block mb-1">🍰 시그니처 페어링</span>
+                <p>진시황의 불로초 후보 ‘황칠차’의 깊은 숲향과 독일식 전통 디저트 ‘바움쿠헨’ 추천.</p>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <!-- Section 7: [20] Ending & Summary -->
+        <section class="space-y-6 pt-4">
+          <div class="space-y-2">
+            <img src="/images/moongarden/moongarden-20.webp" alt="해남 문가든 힐링 엔딩 컷" class="w-full rounded-3xl object-cover shadow-xl border border-neutral-100 max-h-[550px]" />
+            <p class="text-center text-xs md:text-sm text-neutral-500 font-medium">(▲ 바쁜 일상에서 벗어나 진정한 쉼과 여유를 선물하는 해남의 보물, 문가든)</p>
+          </div>
+
+          <div class="p-6 md:p-8 rounded-3xl bg-neutral-900 text-white space-y-4">
+            <h3 class="text-2xl font-serif font-bold text-emerald-400">
+              자연과 가족의 사랑이 머무는 곳, 문가든으로 떠나보세요
+            </h3>
+            <p class="text-neutral-300 leading-relaxed">
+              해남 ‘문가든’은 정원주 대표님의 열정과 땀방울, 가족을 향한 따스한 사랑, 그리고 세월과 함께 깊어지는 나무들의 숨결이 오롯이 살아 숨 쉬는 곳이었습니다.
+            </p>
+            <p class="text-neutral-300 leading-relaxed">
+              동화 같은 산책로를 따라 걷다 보니 바쁜 일상에 쫓겨 잃어버렸던 마음의 여유가 피어나고, 몸에 좋은 따뜻한 황칠차에 달콤한 바움쿠헨까지 곁들이며 제대로 힐링할 수 있었습니다.
+            </p>
+            <p class="text-neutral-200 font-medium">
+              반복되는 일상에 지쳐 진정한 쉼과 힐링이 필요하다면, 땅끝 해남의 아름다운 품속에서 가족의 따뜻한 사랑을 노래하는 ‘문가든’으로 기분 좋은 나들이를 떠나보시는 건 어떨까요? ✨
+            </p>
+          </div>
+
+          <!-- Tags -->
+          <div class="flex flex-wrap gap-2 pt-4">
+            {['#해남가볼만한곳', '#해남여행', '#해남여행코스', '#해남문가든', '#문가든', '#해남피크닉', '#해멍', '#해남데이트', '#해남당일치기', '#전남해남가볼만한곳', '#남도예술정원'].map((tag, idx) => (
+              <span key={idx} class="px-3.5 py-1.5 rounded-xl bg-neutral-100 hover:bg-emerald-50 text-neutral-600 hover:text-emerald-700 text-xs font-medium transition-colors cursor-pointer">
+                {tag}
+              </span>
+            ))}
+          </div>
+        </section>
+      </div>
+    `
+  },
   "h29-haenam-haechang-brewery": {
     "id": "h29-haenam-haechang-brewery",
     "regionId": "haenam",

@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { motion, AnimatePresence, useScroll, useTransform, useMotionValue, useSpring } from 'framer-motion';
-import { Search, MapPin, ArrowRight, Compass, Coffee, ChevronRight, PlayCircle, Newspaper, Bell, ExternalLink, Camera, Sparkles } from 'lucide-react';
+import { Search, MapPin, ArrowRight, Compass, Coffee, ChevronRight, PlayCircle, Newspaper, Bell, ExternalLink, Camera, Sparkles, Flower2, Heart } from 'lucide-react';
 import { Link } from 'react-router-dom';
 import { cn } from '../../lib/utils';
 import SEO from '../../components/SEO';
@@ -548,9 +548,9 @@ export default function Home() {
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8">
             {[
               { id: 'm2-food-garden-tour', title: '남도와 정원에 관심있는 사람 모여라! 맛있는 정원투어 미식 여행', cat: '미식 투어', icon: Coffee, img: '/images/food-tour/food-tour-01.webp' },
+              { id: 'h30-haenam-moongarden', title: '해남 필수 여행 코스! 맛있는 피크닉 명소 ‘문가든’ 정원 데이트', cat: '정원 피크닉', icon: Flower2, img: '/images/moongarden/moongarden-01.webp' },
               { id: 'h29-haenam-haechang-brewery', title: '막걸리 매니아 방문 필수! 무료 시음 가능한 해남 해창주조장 정원', cat: '양조장 투어', icon: Sparkles, img: '/images/haechang/haechang-01.webp' },
-              { id: 's20-shinan-stay-best8', title: 'AI 리서처가 추천하는 신안권 숙소 심층 리뷰 BEST 8', cat: '숙소', icon: Search, img: '/images/post-stay-chunhwadang.webp' },
-              { id: 'h28-haenam-walking-best4', title: '해남 걷는 행복 — AI 리서처가 추천하는 최고의 걷기 탐방 가이드', cat: '여행 팁', icon: Compass, img: '/images/wando-074.webp' }
+              { id: 's20-shinan-stay-best8', title: 'AI 리서처가 추천하는 신안권 숙소 심층 리뷰 BEST 8', cat: '숙소', icon: Search, img: '/images/post-stay-chunhwadang.webp' }
             ].map((post) => (
               <Link key={post.id} to={`/posts/${post.id}`} className="group">
                 <div className="relative aspect-[4/5] overflow-hidden rounded-3xl mb-6 shadow-md border border-neutral-100">
