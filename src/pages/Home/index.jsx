@@ -4,6 +4,7 @@ import { Search, MapPin, ArrowRight, Compass, Coffee, ChevronRight, PlayCircle, 
 import { Link } from 'react-router-dom';
 import { cn } from '../../lib/utils';
 import SEO from '../../components/SEO';
+import EventPopup from '../../components/EventPopup';
 import { getCustomNotices, getCustomPress } from '../../utils/adminStorage';
 
 const REGIONS = [
@@ -27,11 +28,21 @@ const HERO_IMAGES = [
 
 const NOTICES = [
   {
+    id: 4,
+    title: "남도예술정원 여행주간 (11.06 ~ 11.20)",
+    date: "2026.10.28",
+    desc: "남도의 정원을 여행하는 2주! 문가든, 산이정원, 포레스트수목원 등 7개 명품 민간정원과 지역 파트너 공간이 함께하는 특별한 가을 정원 여행주간에 여러분을 초대합니다.",
+    link: "/posts/notice-261106-travel-week",
+    thumbnail: "/images/namdo-travel-week-poster-thumb.webp",
+    isExternal: false
+  },
+  {
     id: 3,
     title: "남도예술정원 서포터즈 모집",
     date: "2026.06.23",
     desc: "남도예술정원 2권역(해남‧완도‧진도‧신안)의 다양한 민간정원을 직접 방문해 체험하고, 콘텐츠를 생산 및 홍보하는 「남도예술정원 서포터즈」를 모집합니다!",
     link: "/posts/notice-260703-supporters",
+    thumbnail: "/images/notice_260703_creator02_thumb.png",
     isExternal: false
   },
   {
@@ -218,6 +229,7 @@ export default function Home() {
         keywords="남도예술정원, 남도여행, 전남여행, 완도, 해남, 신안, 진도, 민간정원"
         schemaData={generateSchema()}
       />
+      <EventPopup />
 
       {/* Hero Section (Cinematic Canvas - Brightened) */}
       <section className="relative w-full h-screen overflow-hidden bg-black">
@@ -445,17 +457,28 @@ export default function Home() {
                       <CardWrapper
                         key={item.id}
                         {...linkProps}
-                        className="group flex flex-col md:flex-row md:items-center justify-between p-6 md:p-8 rounded-3xl bg-white/70 hover:bg-white backdrop-blur-md border border-neutral-200/50 hover:border-primary/30 shadow-sm hover:shadow-xl transition-all duration-500 cursor-pointer"
+                        className="group flex flex-col md:flex-row md:items-center justify-between p-6 md:p-8 rounded-3xl bg-white/70 hover:bg-white backdrop-blur-md border border-neutral-200/50 hover:border-primary/30 shadow-sm hover:shadow-xl transition-all duration-500 cursor-pointer gap-6"
                       >
-                        <div className="space-y-2 max-w-2xl">
-                          <span className="text-[10px] font-bold text-primary tracking-widest uppercase bg-primary/10 px-3 py-1 rounded-full">Notice</span>
-                          <h3 className="text-lg md:text-xl font-bold text-neutral-900 group-hover:text-primary transition-colors flex items-center gap-2">
-                            {item.title}
-                            {item.isExternal && <ExternalLink className="w-4 h-4 text-neutral-400" />}
-                          </h3>
-                          <p className="text-neutral-500 font-light text-sm line-clamp-2">{item.desc}</p>
+                        <div className="flex flex-col sm:flex-row items-start sm:items-center gap-5 flex-grow">
+                          {item.thumbnail && (
+                            <div className="w-20 h-28 sm:w-24 sm:h-32 flex-shrink-0 rounded-2xl overflow-hidden border border-neutral-200/70 shadow-sm bg-neutral-100 relative group-hover:shadow-md transition-all">
+                              <img
+                                src={item.thumbnail}
+                                alt={item.title}
+                                className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
+                              />
+                            </div>
+                          )}
+                          <div className="space-y-2 max-w-2xl">
+                            <span className="text-[10px] font-bold text-primary tracking-widest uppercase bg-primary/10 px-3 py-1 rounded-full">Notice</span>
+                            <h3 className="text-lg md:text-xl font-bold text-neutral-900 group-hover:text-primary transition-colors flex items-center gap-2">
+                              {item.title}
+                              {item.isExternal && <ExternalLink className="w-4 h-4 text-neutral-400" />}
+                            </h3>
+                            <p className="text-neutral-500 font-light text-sm line-clamp-2">{item.desc}</p>
+                          </div>
                         </div>
-                        <div className="mt-4 md:mt-0 text-right flex items-center md:flex-col justify-between md:justify-center border-t md:border-t-0 pt-4 md:pt-0 border-neutral-100">
+                        <div className="mt-4 md:mt-0 text-right flex items-center md:flex-col justify-between md:justify-center border-t md:border-t-0 pt-4 md:pt-0 border-neutral-100 flex-shrink-0">
                           <span className="text-xs font-bold text-neutral-400 tracking-wider font-mono">{item.date}</span>
                           <span className="text-[10px] font-bold text-neutral-900 group-hover:text-primary transition-colors tracking-widest uppercase md:mt-2 block group-hover:translate-x-1 duration-300">Read More &rarr;</span>
                         </div>

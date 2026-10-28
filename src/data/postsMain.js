@@ -1619,6 +1619,170 @@ export const postsMain = {
       </div>
     `
   },
+  "notice-261106-travel-week": {
+    "id": "notice-261106-travel-week",
+    "regionId": "haenam",
+    "title": "[공지] 2026 남도예술정원 여행주간 (11.06 ~ 11.20)",
+    "description": "남도의 정원을 여행하는 2주! 문가든, 산이정원, 포레스트수목원 등 7개 명품 민간정원과 지역 파트너 공간이 함께하는 특별한 정원 여행주간에 여러분을 초대합니다.",
+    "keywords": "남도예술정원, 여행주간, 가을여행, 정원투어, 문가든, 바하정원, 산이정원, 아내의정원, 진도휴식, 파인클라우드, 포레스트수목원",
+    "image": "/images/namdo-travel-week-poster.webp",
+    "content": `
+      <div class="max-w-3xl mx-auto space-y-12 text-neutral-800 leading-relaxed font-sans mt-8 px-4 md:px-0">
+        
+        <!-- Premium Notice Header -->
+        <div class="bg-neutral-900 text-white rounded-3xl p-8 md:p-12 shadow-2xl relative overflow-hidden">
+          <div class="absolute -right-16 -bottom-16 w-48 h-48 bg-primary/20 rounded-full blur-3xl"></div>
+          <div class="absolute -left-12 -top-12 w-36 h-36 bg-primary/10 rounded-full blur-2xl"></div>
+          <div class="relative z-10 space-y-6">
+            <div class="flex flex-wrap items-center gap-2">
+              <span class="inline-block bg-primary text-white text-[10px] md:text-xs font-bold uppercase tracking-[0.2em] px-4 py-1.5 rounded-full">
+                OFFICIAL NOTICE & EVENT
+              </span>
+              <span class="inline-block bg-white/10 text-neutral-200 text-[10px] md:text-xs font-medium px-3 py-1.5 rounded-full">
+                2026. 11. 06 — 11. 20
+              </span>
+            </div>
+            <h1 class="text-2xl md:text-4xl font-serif font-bold leading-tight md:leading-normal">
+              남도의 정원을 여행하는 2주<br />
+              <span class="text-primary-foreground font-sans">남도예술정원 여행주간</span>
+            </h1>
+            <p class="text-sm md:text-base text-neutral-300 font-light leading-relaxed">
+              "You Must Cultivate Your Garden! 당신의 정원을 가꾸세요!"<br />
+              문화체육관광부, 전남광주통합특별시, (재)전남관광재단과 2권역 7대 명품 민간정원, 지역 파트너 공간이 함께하는 특별한 힐링 여정에 여러분을 초대합니다.
+            </p>
+          </div>
+        </div>
+
+        <!-- Poster Preview & Download Section -->
+        <div class="space-y-4">
+          <div class="flex flex-col sm:flex-row sm:items-center justify-between gap-3">
+            <h3 class="text-lg font-bold text-neutral-900 flex items-center gap-2">
+              <span class="w-2.5 h-2.5 bg-primary rounded-full"></span>
+              공식 포스터 안내
+            </h3>
+            <a 
+              href="/images/namdo-travel-week-poster.png" 
+              download="남도예술정원_여행주간_포스터_고화질.png"
+              class="inline-flex items-center gap-1.5 text-xs font-bold text-primary hover:text-primary/80 bg-primary/10 hover:bg-primary/20 px-4 py-2 rounded-full transition-colors self-start sm:self-auto"
+            >
+              <svg xmlns="http://www.w3.org/2000/svg" class="w-3.5 h-3.5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
+              포스터 고화질 원본 다운로드
+            </a>
+          </div>
+          
+          <div class="relative group overflow-hidden rounded-3xl border border-neutral-200 shadow-xl bg-white max-w-2xl mx-auto">
+            <img 
+              src="/images/namdo-travel-week-poster.webp" 
+              alt="남도예술정원 여행주간 공식 포스터" 
+              class="w-full h-auto object-cover transition-transform duration-700 group-hover:scale-[1.01]"
+            />
+            <div class="p-4 bg-neutral-50/80 border-t border-neutral-100 flex items-center justify-between text-xs text-neutral-500">
+              <span>※ 이미지를 클릭하시면 고해상도 전체 화면으로 확인하실 수 있습니다.</span>
+              <span class="font-mono text-[11px] text-neutral-400">2481 × 3509 px</span>
+            </div>
+          </div>
+        </div>
+
+        <!-- Event Overview Table -->
+        <div class="bg-white rounded-3xl border border-neutral-200/60 p-8 md:p-10 shadow-sm space-y-6">
+          <h3 class="text-xl font-bold text-neutral-900 flex items-center gap-2 pb-4 border-b border-neutral-100">
+            <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5 text-primary" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>
+            행사 개요
+          </h3>
+          
+          <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+            <div class="space-y-2">
+              <span class="text-xs text-neutral-400 font-bold uppercase tracking-wider block">행사명</span>
+              <p class="text-sm md:text-base font-semibold text-neutral-800">남도예술정원 여행주간 (NAMDO ARTGARDEN TRAVEL WEEK)</p>
+            </div>
+            <div class="space-y-2">
+              <span class="text-xs text-neutral-400 font-bold uppercase tracking-wider block">행사 기간</span>
+              <p class="text-sm md:text-base font-semibold text-primary">2026. 11. 06(금) ~ 2026. 11. 20(금) [2주간]</p>
+            </div>
+            <div class="space-y-2">
+              <span class="text-xs text-neutral-400 font-bold uppercase tracking-wider block">행사 장소</span>
+              <p class="text-sm md:text-base font-semibold text-neutral-800">남도예술정원(7대 민간정원) 및 인근 지역파트너 공간</p>
+            </div>
+            <div class="space-y-2">
+              <span class="text-xs text-neutral-400 font-bold uppercase tracking-wider block">슬로건</span>
+              <p class="text-sm md:text-base font-semibold text-neutral-800">You Must Cultivate Your Garden! 당신의 정원을 가꾸세요!</p>
+            </div>
+          </div>
+        </div>
+
+        <!-- Participating 7 Gardens Grid -->
+        <div class="bg-white rounded-3xl border border-neutral-200/60 p-8 md:p-10 shadow-sm space-y-6">
+          <h3 class="text-xl font-bold text-neutral-900 flex items-center gap-2 pb-4 border-b border-neutral-100">
+            <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5 text-primary" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2a10 10 0 1 0 10 10A10 10 0 0 0 12 2zm0 18a8 8 0 1 1 8-8 8 8 0 0 1-8 8z"/><path d="M12 6v6l4 2"/></svg>
+            참여 명품 정원 (7선)
+          </h3>
+
+          <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4">
+            <div class="p-4 rounded-2xl bg-neutral-50 border border-neutral-100 space-y-1.5">
+              <span class="text-[10px] font-bold text-primary uppercase tracking-wider">해남</span>
+              <h4 class="text-base font-bold text-neutral-800">문가든</h4>
+              <p class="text-xs text-neutral-500 font-light">자연과 차, 예술이 함께하는 비밀의 호수 정원</p>
+            </div>
+            <div class="p-4 rounded-2xl bg-neutral-50 border border-neutral-100 space-y-1.5">
+              <span class="text-[10px] font-bold text-primary uppercase tracking-wider">완도</span>
+              <h4 class="text-base font-bold text-neutral-800">바하정원</h4>
+              <p class="text-xs text-neutral-500 font-light">클래식 선율과 바다 바람이 머무는 힐링 정원</p>
+            </div>
+            <div class="p-4 rounded-2xl bg-neutral-50 border border-neutral-100 space-y-1.5">
+              <span class="text-[10px] font-bold text-primary uppercase tracking-wider">해남</span>
+              <h4 class="text-base font-bold text-neutral-800">산이정원</h4>
+              <p class="text-xs text-neutral-500 font-light">서남해안 생태와 예술이 결합된 대한민국 대표 미래 정원</p>
+            </div>
+            <div class="p-4 rounded-2xl bg-neutral-50 border border-neutral-100 space-y-1.5">
+              <span class="text-[10px] font-bold text-primary uppercase tracking-wider">신안</span>
+              <h4 class="text-base font-bold text-neutral-800">아내의정원</h4>
+              <p class="text-xs text-neutral-500 font-light">1004섬의 다정한 애정과 손길로 가꾼 사계절 꽃정원</p>
+            </div>
+            <div class="p-4 rounded-2xl bg-neutral-50 border border-neutral-100 space-y-1.5">
+              <span class="text-[10px] font-bold text-primary uppercase tracking-wider">진도</span>
+              <h4 class="text-base font-bold text-neutral-800">진도휴식</h4>
+              <p class="text-xs text-neutral-500 font-light">울돌목의 기상과 고즈넉한 대자연의 안식이 공존하는 정원</p>
+            </div>
+            <div class="p-4 rounded-2xl bg-neutral-50 border border-neutral-100 space-y-1.5">
+              <span class="text-[10px] font-bold text-primary uppercase tracking-wider">해남</span>
+              <h4 class="text-base font-bold text-neutral-800">파인클라우드</h4>
+              <p class="text-xs text-neutral-500 font-light">소나무와 구름이 빚어낸 한 폭의 동양화 같은 명품 분재원</p>
+            </div>
+            <div class="p-4 rounded-2xl bg-neutral-50 border border-neutral-100 space-y-1.5 sm:col-span-2 md:col-span-3">
+              <span class="text-[10px] font-bold text-primary uppercase tracking-wider">해남</span>
+              <h4 class="text-base font-bold text-neutral-800">4est(포레스트)수목원</h4>
+              <p class="text-xs text-neutral-500 font-light">숲(Forest), 별(Star), 돌(Stone), 이야기(Story)가 가득한 계절 수목원</p>
+            </div>
+          </div>
+        </div>
+
+        <!-- Organization / Partners Box -->
+        <div class="bg-neutral-900 text-white rounded-3xl p-8 md:p-10 shadow-xl space-y-6">
+          <h3 class="text-lg font-bold text-white flex items-center gap-2 pb-3 border-b border-neutral-800">
+            주최 / 주관 및 협력 기관
+          </h3>
+          <div class="grid grid-cols-1 md:grid-cols-3 gap-6 text-xs text-neutral-300">
+            <div>
+              <span class="text-neutral-500 font-bold uppercase tracking-wider block mb-1">주최 / 주관</span>
+              <p class="text-sm font-semibold text-white">문화체육관광부</p>
+              <p class="text-sm font-semibold text-white">전남광주통합특별시</p>
+              <p class="text-sm font-semibold text-white">(재)전남관광재단</p>
+            </div>
+            <div>
+              <span class="text-neutral-500 font-bold uppercase tracking-wider block mb-1">사업 운영</span>
+              <p class="text-sm font-semibold text-white">남도예술정원 2권역 사업단</p>
+              <p class="text-xs text-neutral-400">((주)쥬스컴퍼니)</p>
+            </div>
+            <div>
+              <span class="text-neutral-500 font-bold uppercase tracking-wider block mb-1">협력 지자체</span>
+              <p class="text-sm font-semibold text-white">목포시 · 해남군 · 완도군 · 진도군 · 1004 신안군</p>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    `
+  },
   "notice-260703-supporters": {
     "id": "notice-260703-supporters",
     "regionId": "haenam",
