@@ -78,7 +78,7 @@ export default function EventPopup() {
 
             {/* Poster Header Image (Clickable) */}
             <Link
-              to="/posts/notice-261106-travel-week"
+              to="/about-us"
               onClick={handleLinkClick}
               className="relative block w-full aspect-[4/5] max-h-[380px] sm:max-h-[420px] overflow-hidden bg-neutral-100 group"
             >
@@ -115,11 +115,11 @@ export default function EventPopup() {
             {/* Action Bar */}
             <div className="p-5 sm:p-6 bg-white space-y-4">
               <Link
-                to="/posts/notice-261106-travel-week"
+                to="/about-us"
                 onClick={handleLinkClick}
                 className="w-full py-3.5 px-5 rounded-2xl bg-neutral-900 hover:bg-primary text-white font-bold text-sm tracking-wide flex items-center justify-center gap-2 shadow-lg transition-all duration-300 group"
               >
-                <span>행사 안내 & 포스터 자세히 보기</span>
+                <span>여행주간 프로그램 & 리플릿 보기</span>
                 <ArrowRight className="w-4 h-4 group-hover:translate-x-1 transition-transform" />
               </Link>
 

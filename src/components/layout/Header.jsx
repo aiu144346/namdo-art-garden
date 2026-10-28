@@ -26,6 +26,7 @@ export default function Header() {
   }, [isOpen]);
 
   const navLinks = [
+    { to: "/about-us", label: "정원 소개", en: "About Us" },
     { to: "/gardens", label: "남도예술정원", en: "Master Gardens", isHighlight: true },
     { to: "/region/mokpo", label: "목포권", en: "Mokpo Art District" },
     { to: "/region/shinan", label: "신안권", en: "Shinan Archipelago" },
@@ -51,7 +52,7 @@ export default function Header() {
           {/* Desktop Navigation */}
           <div className="hidden md:block">
             <NavigationMenu.Root className="relative flex justify-center">
-              <NavigationMenu.List className="flex items-center gap-2 lg:gap-6">
+              <NavigationMenu.List className="flex items-center gap-1 lg:gap-2 xl:gap-4">
                 {navLinks.map((link) => (
                   <NavItem 
                     key={link.to} 
@@ -117,7 +118,7 @@ function NavItem({ to, label, en, isHighlight, current }) {
           onMouseEnter={() => setIsHovered(true)}
           onMouseLeave={() => setIsHovered(false)}
           className={cn(
-            "group relative px-6 py-4 rounded-2xl transition-all duration-500 block",
+            "group relative px-3 lg:px-4 xl:px-6 py-4 rounded-2xl transition-all duration-500 block",
             current ? "text-primary" : "text-neutral-500 hover:text-neutral-900"
           )}
         >
@@ -138,7 +139,7 @@ function NavItem({ to, label, en, isHighlight, current }) {
           <div className="flex flex-col items-center justify-center relative">
             {/* English Label (Top Layer - Animated) */}
             <motion.span 
-              className="text-[12px] uppercase tracking-[0.2em] font-bold absolute -top-6 whitespace-nowrap"
+              className="text-[10px] xl:text-[12px] uppercase tracking-[0.2em] font-bold absolute -top-5 xl:-top-6 whitespace-nowrap"
               initial={{ opacity: 0, y: 5 }}
               animate={{ 
                 y: isHovered ? 0 : 5,
@@ -151,7 +152,7 @@ function NavItem({ to, label, en, isHighlight, current }) {
 
             {/* main Korean Label */}
             <span className={cn(
-              "text-[24px] font-[900] tracking-tight transition-all duration-500 flex items-center gap-1.5",
+              "text-[18px] lg:text-[20px] xl:text-[24px] font-[900] tracking-tight transition-all duration-500 flex items-center gap-1.5",
               isHighlight && !current ? "text-neutral-900 font-black" : "",
               isHovered ? "translate-y-1 scale-105" : "translate-y-0"
             )}>
@@ -164,7 +165,7 @@ function NavItem({ to, label, en, isHighlight, current }) {
           {current && (
             <motion.div
               layoutId="desktopNavActive"
-              className="absolute bottom-2 left-6 right-6 h-[4px] bg-primary rounded-full shadow-[0_0_15px_rgba(var(--color-primary),0.6)]"
+              className="absolute bottom-2 left-3 right-3 lg:left-4 lg:right-4 xl:left-6 xl:right-6 h-[4px] bg-primary rounded-full shadow-[0_0_15px_rgba(var(--color-primary),0.6)]"
               transition={{ type: "spring", stiffness: 300, damping: 35 }}
             />
           )}

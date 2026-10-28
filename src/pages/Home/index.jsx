@@ -386,6 +386,30 @@ export default function Home() {
               </div>
             </Link>
           </div>
+
+          {/* Travel Week & About Us Brand Banner */}
+          <div className="mt-16 bg-gradient-to-r from-neutral-900 via-neutral-900 to-neutral-950 text-white rounded-[2.5rem] p-8 sm:p-12 shadow-xl border border-neutral-800 flex flex-col md:flex-row items-center justify-between gap-8 relative overflow-hidden">
+            <div className="absolute top-0 right-0 w-80 h-80 bg-primary/20 rounded-full blur-3xl pointer-events-none" />
+            <div className="space-y-3 max-w-2xl relative z-10 text-center md:text-left">
+              <span className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-primary/20 text-primary-foreground text-xs font-bold uppercase tracking-widest border border-primary/30">
+                2026. 11. 06 — 11. 20 (2주간)
+              </span>
+              <h3 className="text-2xl sm:text-3xl font-serif font-bold text-white">
+                We Must Cultivate Our Garden<br className="hidden sm:inline" />
+                <span className="text-primary-foreground font-sans">남도예술정원 여행주간 4대 프로그램 & 공식 리플릿</span>
+              </h3>
+              <p className="text-neutral-300 text-sm font-light">
+                투어, 예술무대, 지역 크리에이터 특화체험, 비전세미나 및 스탬프 투어 안내와 공식 리플릿 PDF를 만나보세요.
+              </p>
+            </div>
+            <Link
+              to="/about-us"
+              className="px-7 py-4 rounded-2xl bg-white hover:bg-neutral-100 text-neutral-950 font-bold text-sm tracking-wide shadow-xl flex items-center gap-2 group flex-shrink-0 relative z-10 transition-transform hover:scale-105"
+            >
+              <span>정원 소개 & 리플릿 받기</span>
+              <ArrowRight className="w-4 h-4 text-primary group-hover:translate-x-1 transition-transform" />
+            </Link>
+          </div>
         </div>
       </section>
 

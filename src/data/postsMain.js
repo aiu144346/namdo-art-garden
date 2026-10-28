@@ -1658,16 +1658,24 @@ export const postsMain = {
           <div class="flex flex-col sm:flex-row sm:items-center justify-between gap-3">
             <h3 class="text-lg font-bold text-neutral-900 flex items-center gap-2">
               <span class="w-2.5 h-2.5 bg-primary rounded-full"></span>
-              공식 포스터 안내
+              공식 포스터 및 리플릿
             </h3>
-            <a 
-              href="/images/namdo-travel-week-poster.png" 
-              download="남도예술정원_여행주간_포스터_고화질.png"
-              class="inline-flex items-center gap-1.5 text-xs font-bold text-primary hover:text-primary/80 bg-primary/10 hover:bg-primary/20 px-4 py-2 rounded-full transition-colors self-start sm:self-auto"
-            >
-              <svg xmlns="http://www.w3.org/2000/svg" class="w-3.5 h-3.5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
-              포스터 고화질 원본 다운로드
-            </a>
+            <div class="flex flex-wrap items-center gap-2 self-start sm:self-auto">
+              <a 
+                href="/about-us" 
+                class="inline-flex items-center gap-1.5 text-xs font-bold text-white bg-neutral-900 hover:bg-neutral-800 px-3.5 py-2 rounded-full transition-colors"
+              >
+                4대 프로그램 & 리플릿 보기 &rarr;
+              </a>
+              <a 
+                href="/files/namdo-artgarden-leaflet.pdf" 
+                download="2026_남도예술정원_여행주간_공식리플릿.pdf"
+                class="inline-flex items-center gap-1.5 text-xs font-bold text-primary hover:text-primary/80 bg-primary/10 hover:bg-primary/20 px-3.5 py-2 rounded-full transition-colors"
+              >
+                <svg xmlns="http://www.w3.org/2000/svg" class="w-3.5 h-3.5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
+                리플릿 PDF 다운로드
+              </a>
+            </div>
           </div>
           
           <div class="relative group overflow-hidden rounded-3xl border border-neutral-200 shadow-xl bg-white max-w-2xl mx-auto">

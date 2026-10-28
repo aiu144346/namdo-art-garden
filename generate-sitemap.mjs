@@ -15,7 +15,7 @@ const staticPages = [
   { url: '/region/haenam', priority: '0.8', changefreq: 'weekly' },
   { url: '/region/jindo', priority: '0.8', changefreq: 'weekly' },
   { url: '/region/wando', priority: '0.8', changefreq: 'weekly' },
-  { url: '/about-us', priority: '0.7', changefreq: 'monthly' },
+  { url: '/about-us', priority: '0.9', changefreq: 'weekly' },
   { url: '/artists', priority: '0.7', changefreq: 'monthly' },
   { url: '/events', priority: '0.8', changefreq: 'weekly' },
   { url: '/news', priority: '0.8', changefreq: 'weekly' },
