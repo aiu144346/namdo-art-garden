@@ -1,4 +1,1032 @@
 export const postsMain = {
+  "j14-jindo-tidal-flat-wetland": {
+    "id": "j14-jindo-tidal-flat-wetland",
+    "regionId": "jindo",
+    "title": "진도 드라이브길에서 만난 보석 같은 자연 \"진도갯벌습지보호지역\"\n진도휴식 정원까지 이어지는 완벽한 하루 여행 코스",
+    "description": "진도 해안 드라이브 중 만나는 국가 보호구역 진도갯벌습지보호지역! 바다 위 나무데크길과 주황빛 코스모스 언덕, 민간정원 진도휴식까지 이어지는 완벽한 하루 힐링 코스를 소개합니다.",
+    "keywords": "진도여행, 진도갯벌습지보호지역, 진도드라이브, 진도휴식, 진도휴식정원, 남도예술정원, 남도예술정원서포터즈, 우수영관광지, 울돌목스카이워크, 이충무공승전공원, 진도타워, 벽파진천첩비, 용장사, 용장성, 진도개테마파크, 운방산림, 진도가볼만한곳, 진도여행코스, 진도카페, 진도맛집, 진도숙소, 스탬프투어, 정원여행자, 남도여행",
+    "date": "2026. 11. 19",
+    "author": "남도예술정원 공식 서포터즈",
+    "readTime": "6분",
+    "image": "/images/jindo-wetland/jindo-wetland-12.webp",
+    "content": `
+      <div class="max-w-4xl mx-auto space-y-8 text-neutral-800 leading-relaxed font-sans mt-4 px-2 md:px-0">
+        <!-- Hero Banner / 최적 줄바꿈 타이틀 영역 -->
+        <div class="space-y-4">
+          <div class="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-teal-500/10 text-teal-800 text-xs font-bold uppercase tracking-wider">
+            🌊 진도 해안 드라이브 & 국가 생태습지 명소 | 진도 고군면·군내면
+          </div>
+          <h1 class="text-3xl md:text-5xl font-serif font-bold text-neutral-900 leading-tight">
+            진도 드라이브길에서 만난 보석 같은 자연!<br/>
+            <span class="text-teal-700 font-sans block mt-1">“진도갯벌습지보호지역”</span>
+            <span class="text-xl md:text-2xl text-neutral-600 font-light font-sans block mt-2">해안 나무데크 산책로와 주황빛 코스모스 언덕, 진도휴식 정원까지 이어지는 하루 코스</span>
+          </h1>
+          <p class="text-base md:text-lg text-neutral-600 font-light leading-relaxed">
+            시원하게 뻗은 진도 해안도로 옆 청정 갯벌과 바다 위 나무데크길, 그리고 언덕 위 황홀한 주황빛 코스모스 꽃밭에서 만나는 남도의 여유
+          </p>
+        </div>
+
+        
+        <div class="bg-[#f3faf9] border-teal-100 p-6 md:p-8 rounded-3xl border shadow-sm">
+          <p class="text-base md:text-lg font-medium text-neutral-800 leading-relaxed">진도 해안 도로를 기분 좋게 달리다 우연히 발길을 멈추게 된 '진도갯벌습지보호지역'은 탁 트인 바다와 생명력 넘치는 갯벌, 그리고 아름다운 코스모스가 어우러진 숨은 자연 쉼터입니다. 본 원고는 거대한 청정 갯벌의 생태적 가치와 나무데크 길을 따라 이어지는 언덕 위 주황빛 꽃밭의 장관을 담아내는 것에서 시작하여, 호적한 휴식을 선사하는 진도휴식 정원, 그리고 지역 곳곳의 정겨운 음식점·카페·숙박·문화공간까지 하나로 잇는 남도예술정원 여행길을 소개합니다. 바다 바람을 맞으며 거니는 해안 산책의 여유와 정원에서의 고즈넉한 휴식이 어우러진 알찬 당일치기 및 1박 2일 추천 코스까지 함께 확인하시며 진도의 진짜 매력을 발견해 보시기 바랍니다.</p>
+        </div>
+        <div class="bg-gradient-to-br from-teal-50/90 to-cyan-50/40 border-teal-200/80 p-6 md:p-8 rounded-3xl border shadow-sm">
+          <h3 class="text-lg md:text-xl font-serif font-bold text-teal-950 mb-3 flex items-center gap-2">📌  장소 안내 및 방문 정보</h3><p class="text-sm md:text-base text-neutral-700 leading-relaxed mb-3">진도갯벌습지보호지역은 연안 습지의 생물 다양성을 보존하고 멸종위기 야생생물과 다채로운 갯벌 생물의 서식지를 보호하기 위해 지정된 국가 보호구역입니다. 갯벌이 지닌 육상 오염물질 정화 기능과 자연 재해 완화 기능, 그리고 풍부한 수산 자원의 모태가 되는 생태적 가치를 몸소 느끼며 한적한 해안 산책을 즐길 수 있습니다.</p><ul class="text-sm text-neutral-700 space-y-2 pl-4 list-disc"><li>이용시간: 연중무휴 상시 개방 (자연 습지 구역이므로 주간 방문을 권장하며, 물때 시간표를 확인하고 오시면 더욱 좋습니다.)</li><li>입장료: 무료 (누구나 자유롭게 방문하여 데크길 산책과 생태 관람을 즐기실 수 있습니다.)</li><li>자차 이용 방법: 진도 해안 도로(군내면 및 고군면 일대 해안길)를 따라 드라이브하는 도중 갯벌습지보호지역 안내 표지판을 따라 진입하시면 됩니다.</li><li>주차장: 갓길 및 도로 인근에 잠시 차를 세울 수 있는 갓길 주차 공간과 정비된 소형 주차 구역이 마련되어 있어 드라이브 도중 편안하게 주차 가능합니다.</li></ul>
+        </div>
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+          <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+            <img src="/images/jindo-wetland/jindo-wetland-01.webp" alt="진도갯벌습지보호지역 사진 1" class="w-full h-72 md:h-80 object-cover" loading="lazy" />
+          </div>
+          <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+            <img src="/images/jindo-wetland/jindo-wetland-02.webp" alt="진도갯벌습지보호지역 사진 2" class="w-full h-72 md:h-80 object-cover" loading="lazy" />
+          </div>
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">진도 해안을 따라 난 도로를 차로 시원하게 달리며 창밖으로 펼쳐진 바다 옆 풍경을 찍은 모습입니다. 바람을 맞으며 달리는 해안 도로는 시야가 탁 트여 있어 드라이브 자체만으로도 일상의 피로가 씻겨 나갑니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/jindo-wetland/jindo-wetland-03.webp" alt="진도갯벌습지보호지역 사진 3" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">해안길을 달리다가 발견한 습지보호지역에 도착하여 선명하게 적힌 '습지보호지역' 글씨를 담은 모습입니다. 우연히 찾아낸 장소이지만 국가에서 관리하는 보호 구역다운 차분하고 잘 가꿔진 첫인상을 전달합니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/jindo-wetland/jindo-wetland-04.webp" alt="진도갯벌습지보호지역 사진 4" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">진도갯벌 습지보호구역 생태지도가 상세히 그려져 있는 종합 안내판의 모습입니다. 진도의 주요 특산물은 물론 이곳에 서식하는 특징적인 새들과 해양 생물들이 한눈에 보기 쉽게 설명되어 있습니다. 산책을 시작하기 전 지역의 자연 환경과 생태적 특성을 미리 배워볼 수 있는 유익한 자료입니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/jindo-wetland/jindo-wetland-05.webp" alt="진도갯벌습지보호지역 사진 5" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">인근의 벽파항 및 주변 추천 탐방 코스 등이 알기 쉽게 표시되어 있는 이정표의 모습입니다. 이곳에서부터 연계하여 이동할 수 있는 주변 명소들과의 방향 및 거리가 정교하게 안내되어 있습니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/jindo-wetland/jindo-wetland-06.webp" alt="진도갯벌습지보호지역 사진 6" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">진도갯벌 습지보호지역에 대한 상세 내용과 함께 '갯벌이란 무엇인가'에 대해 설명해 두는 안내판입니다. 갯벌의 종류와 생태계 정화 기능 등 갯벌이 지닌 소중한 역할들이 친절하게 설명되어 있습니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/jindo-wetland/jindo-wetland-07.webp" alt="진도갯벌습지보호지역 사진 7" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">바닷가 갓길에 차를 세워두고 여유롭게 바다 낚시를 즐기고 있는 방문객들의 모습입니다. 잔잔한 바다를 바라보며 세월을 낚는 강태공들의 모습에서 남도 특유의 여유로움이 느껴집니다. 자연과 어우러져 각자의 방식으로 휴식을 취하는 정겨운 풍경이 마음을 평온하게 해줍니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/jindo-wetland/jindo-wetland-08.webp" alt="진도갯벌습지보호지역 사진 8" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">주변 나무데크길 입구에 조성되어 있는 습지보호구역 서식생물도의 세부 모습입니다. 갯벌 속에 숨어 사는 다양한 게류와 조개류, 갯지렁이 등의 생김새와 이름이 보기 쉽게 정돈되어 있습니다. 데크길을 걸으며 발밑 갯벌을 유심히 관찰하게 만드는 재미난 생태 가이드 역할을 해줍니다.</p>
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+          <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+            <img src="/images/jindo-wetland/jindo-wetland-09.webp" alt="진도갯벌습지보호지역 사진 9" class="w-full h-72 md:h-80 object-cover" loading="lazy" />
+          </div>
+          <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+            <img src="/images/jindo-wetland/jindo-wetland-10.webp" alt="진도갯벌습지보호지역 사진 10" class="w-full h-72 md:h-80 object-cover" loading="lazy" />
+          </div>
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">바다를 향해 뻗어 있는 나무데크길 위에서 잔잔한 수면을 향해 낚싯대를 드리운 분들의 모습입니다. 길 양쪽으로 편안하게 쉬어갈 수 있는 벤치 등이 잘 갖춰져 있어 산책객과 낚시객 모두에게 친숙합니다. 시원한 바닷바람을 맞으며 정취를 느끼기에 더없이 좋은 해안 산책로 구역입니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/jindo-wetland/jindo-wetland-11.webp" alt="진도갯벌습지보호지역 사진 11" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">나무데크길을 따라 야트막한 언덕 위로 기분 좋게 연결되는 나뭇결 느낌의 계단길입니다. 바다 바로 옆에서부터 언덕 위로 차근차근 걸어 오르는 길목의 주변 조경이 아주 다정합니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/jindo-wetland/jindo-wetland-12.webp" alt="진도갯벌습지보호지역 사진 12" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">계단을 올라와 눈앞에 펼쳐진 아름다운 주황색 코스모스 들판의 화사한 모습입니다. 푸른 바다와 대조를 이루며 바람에 살랑이는 주황빛 꽃물결이 한 폭의 장관을 이룹니다. 생각지 못한 꽃밭의 발견에 방문객들 모두 탄성을 자아내며 인생 사진을 남기기에 바쁜 스팟입니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/jindo-wetland/jindo-wetland-13.webp" alt="진도갯벌습지보호지역 사진 13" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">언덕 위에서 내려다본 습지보호지역 바다 전경으로, 가운데로 난 나무데크길과 양식 어망들이 보입니다. 남도의 삶이 녹아 있는 바다 풍경과 정비된 산책로가 어우러져 호젓한 정취를 풍깁니다. 높은 곳에서 바다를 굽어보며 사색에 잠기기에 더없이 평화로운 풍광입니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/jindo-wetland/jindo-wetland-14.webp" alt="진도갯벌습지보호지역 사진 14" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">언덕 꼭대기에 공원처럼 아늑하게 조성된 걷기 좋은 작은 광장의 전체적인 모습입니다. 정갈하게 정비된 보도와 쉬어갈 수 있는 쉼터가 어우러져 드라이브 중 피로를 풀기 좋습니다. 자연 바람을 맞으며 담소를 나누고 한적한 진도의 바다를 마음껏 감상할 수 있는 멋진 마무리를 선물합니다.</p>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">진도 해안 도로를 달리다 만난 갯벌 습지보호지역의 한적함과 진도휴식 정원의 고즈넉한 온기, 그리고 명량의 웅장한 역사 명소들이 한데 어우러진 이번 코스는 진도의 진짜 숨은 가치를 다채롭게 전해 줍니다. 남도예술정원이 준비한 정원여행길을 따라 사랑하는 이들과 함께 진도의 다정한 멋과 맛을 한껏 만끽해 보시기 바랍니다.</p>
+
+        <!-- 해시태그 -->
+        <div class="pt-8 border-t border-neutral-200">
+          <div class="flex flex-wrap gap-2 text-xs font-medium text-neutral-600">
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-teal-50 hover:text-teal-700 transition-colors">#진도여행</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-teal-50 hover:text-teal-700 transition-colors">#진도갯벌습지보호지역</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-teal-50 hover:text-teal-700 transition-colors">#진도드라이브</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-teal-50 hover:text-teal-700 transition-colors">#진도휴식</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-teal-50 hover:text-teal-700 transition-colors">#진도휴식정원</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-teal-50 hover:text-teal-700 transition-colors">#남도예술정원</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-teal-50 hover:text-teal-700 transition-colors">#남도예술정원서포터즈</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-teal-50 hover:text-teal-700 transition-colors">#우수영관광지</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-teal-50 hover:text-teal-700 transition-colors">#울돌목스카이워크</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-teal-50 hover:text-teal-700 transition-colors">#이충무공승전공원</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-teal-50 hover:text-teal-700 transition-colors">#진도타워</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-teal-50 hover:text-teal-700 transition-colors">#벽파진천첩비</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-teal-50 hover:text-teal-700 transition-colors">#용장사</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-teal-50 hover:text-teal-700 transition-colors">#용장성</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-teal-50 hover:text-teal-700 transition-colors">#진도개테마파크</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-teal-50 hover:text-teal-700 transition-colors">#운방산림</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-teal-50 hover:text-teal-700 transition-colors">#진도가볼만한곳</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-teal-50 hover:text-teal-700 transition-colors">#진도여행코스</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-teal-50 hover:text-teal-700 transition-colors">#진도카페</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-teal-50 hover:text-teal-700 transition-colors">#진도맛집</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-teal-50 hover:text-teal-700 transition-colors">#진도숙소</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-teal-50 hover:text-teal-700 transition-colors">#스탬프투어</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-teal-50 hover:text-teal-700 transition-colors">#정원여행자</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-teal-50 hover:text-teal-700 transition-colors">#남도여행</span>
+          </div>
+        </div>
+      </div>
+    `
+  },
+  "j15-jindo-byeokpajin-monument": {
+    "id": "j15-jindo-byeokpajin-monument",
+    "regionId": "jindo",
+    "title": "진도의 바다를 품은 호국의 성지 \"벽파진전첩비\"\n벽파정부터 진도휴식 정원까지 이어지는 역사와 힐링의 여정",
+    "description": "1597년 명량대첩의 기적을 준비했던 진도 벽파진전첩비와 고풍스러운 벽파정 정자 탐방기. 호국의 바다 조망부터 민간정원 진도휴식까지 이어지는 당일치기·1박 2일 추천 코스.",
+    "keywords": "진도여행, 벽파진전첩비, 벽파진, 이충무공벽파진전첩비, 진도휴식, 진도휴식정원, 남도예술정원, 남도예술정원서포터즈, 우수영관광지, 울돌목스카이워크, 이충무공승전공원, 진도타워, 진도갯벌습지보호구역, 용장사, 용장성, 진도개테마파크, 운방산림, 진도가볼만한곳, 진도여행코스, 진도맛집, 진도카페, 남도여행",
+    "date": "2026. 11. 19",
+    "author": "남도예술정원 공식 서포터즈",
+    "readTime": "6분",
+    "image": "/images/jindo-byeokpajin/jindo-byeokpajin-13.webp",
+    "content": `
+      <div class="max-w-4xl mx-auto space-y-8 text-neutral-800 leading-relaxed font-sans mt-4 px-2 md:px-0">
+        <!-- Hero Banner / 최적 줄바꿈 타이틀 영역 -->
+        <div class="space-y-4">
+          <div class="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-sky-500/10 text-sky-800 text-xs font-bold uppercase tracking-wider">
+            ⚔️ 명량대첩 호국 성지 & 다도해 조망 명소 | 진도 고군면 벽파진
+          </div>
+          <h1 class="text-3xl md:text-5xl font-serif font-bold text-neutral-900 leading-tight">
+            진도의 바다를 품은 호국의 성지<br/>
+            <span class="text-sky-700 font-sans block mt-1">“이충무공 벽파진전첩비”</span>
+            <span class="text-xl md:text-2xl text-neutral-600 font-light font-sans block mt-2">벽파정부터 민간정원 ‘진도휴식’까지 이어지는 역사와 힐링의 여정</span>
+          </h1>
+          <p class="text-base md:text-lg text-neutral-600 font-light leading-relaxed">
+            충무공 이순신 장군이 명량대첩을 앞두고 16일간 수군을 재건했던 역사의 바다, 벽파진전첩비와 벽파정에서 만나는 숭고한 울림
+          </p>
+        </div>
+
+        
+        <div class="bg-[#f3f9fc] border-sky-100 p-6 md:p-8 rounded-3xl border shadow-sm">
+          <p class="text-base md:text-lg font-medium text-neutral-800 leading-relaxed">진도 동쪽 끝 해안 언덕 위에 당당히 서 있는 벽파진전첩비는 충무공 이순신 장군이 명량대첩을 앞두고 16일간 머물며 조선 수군을 재건하고 전열을 가다듬었던 역사적 현장입니다. 거센 바람과 탁 트인 다도해 풍경을 배경으로 지어진 벽파진전첩비와 고풍스러운 벽파정 정자를 거닐며 숭고한 호국 정신을 가슴 깊이 새겨본 뒤, 푸르른 자연의 품인 진도휴식 정원과 지역 곳곳의 명소들로 이어지는 완성도 높은 여행길을 소개합니다.</p>
+        </div>
+        <div class="bg-gradient-to-br from-sky-50/90 to-blue-50/40 border-sky-200/80 p-6 md:p-8 rounded-3xl border shadow-sm">
+          <h3 class="text-lg md:text-xl font-serif font-bold text-sky-950 mb-3 flex items-center gap-2">📌  장소 안내 및 방문 정보</h3><p class="text-sm md:text-base text-neutral-700 leading-relaxed mb-3">벽파진전첩비는 1597년 이순신 장군이 진도 벽파진에 진을 치고 명량해협을 지켜내기 위해 전열을 정비했던 위대한 역사를 기념하기 위해 1956년 조성된 사적지입니다. 노산 이은상 선생이 글을 짓고 소전 손재형 선생이 글씨를 쓴 거대한 전첩비가 진도 바다를 굽어보며 거룩하게 세워져 있어, 남도의 대표적인 역사 교육장이자 명품 조망 지점으로 꼽힙니다.</p><ul class="text-sm text-neutral-700 space-y-2 pl-4 list-disc"><li>이용시간: 연중무휴 상시 개방 (언덕 위 암반 지대이므로 안전을 위해 주간 방문을 권장합니다.)</li><li>입장료: 무료 (누구나 편안하게 들러 둘러보실 수 있습니다.)</li><li>자차 이용 방법: 네비게이션에 '벽파진전첩비' 또는 '벽파진'을 검색하신 후 진도군 고군면 벽파리 해안길을 따라 이동하시면 됩니다.</li><li>주차장: 벽파진 입구 광장 및 전첩비 하단에 차를 대실 수 있는 주차 공간이 잘 마련되어 있어 편안하게 주차 가능합니다.</li></ul>
+        </div>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/jindo-byeokpajin/jindo-byeokpajin-01.webp" alt="이충무공 벽파진전첩비 사진 1" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+          <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+            <img src="/images/jindo-byeokpajin/jindo-byeokpajin-02.webp" alt="이충무공 벽파진전첩비 사진 2" class="w-full h-72 md:h-80 object-cover" loading="lazy" />
+          </div>
+          <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+            <img src="/images/jindo-byeokpajin/jindo-byeokpajin-03.webp" alt="이충무공 벽파진전첩비 사진 3" class="w-full h-72 md:h-80 object-cover" loading="lazy" />
+          </div>
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">벽파진에 도착한 후 눈앞에 시원하게 펼쳐진 넓은 광장과 탁 트인 바다의 모습입니다. 점점이 떠 있는 남도의 작은 섬들과 어우러진 잔잔한 수면이 평화로운 장관을 이룹니다. 과거에 치열 역사의 거친 풍파를 간직한 현장이라고 믿기지 않을 만큼 차분하고 평화로운 분위기를 선사합니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/jindo-byeokpajin/jindo-byeokpajin-04.webp" alt="이충무공 벽파진전첩비 사진 4" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">광장 한쪽에 약 1평 크기로 아담하게 세워져 있는 '남도이순신길 조선수군 재건로' 안내판의 모습입니다. 하단에는 남도 각 지역별로 지정된 조선수군 재건로 8경에 대한 설명이 알기 쉽게 수록되어 있습니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/jindo-byeokpajin/jindo-byeokpajin-05.webp" alt="이충무공 벽파진전첩비 사진 5" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">전첩비로 올라가는 계단 바로 아래쪽에 조성되어 있는 생활운동기구들의 모습입니다. 지역 주민들과 방문객들이 자연스럽게 체력을 단련하고 쉬어갈 수 있도록 배려된 공간입니다. 역사 유적지 내에 주민 생활 편의시설이 소박하게 어우러져 있는 정겨운 풍경을 보여줍니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/jindo-byeokpajin/jindo-byeokpajin-06.webp" alt="이충무공 벽파진전첩비 사진 6" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">약 2평 남짓한 크기로 깔끔하게 제작되어 설치되어 있는 이충무공 벽파진 전첩비 안내문입니다. 전첩비의 건립 배경과 이순신 장군이 벽파진에서 거둔 역사적 성과가 세심하게 정리되어 있습니다. 올라가기 전 글을 천천히 읽어보면 전첩비에 담긴 가치와 숭고한 뜻을 깊이 이해할 수 있습니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/jindo-byeokpajin/jindo-byeokpajin-07.webp" alt="이충무공 벽파진전첩비 사진 7" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">벽파진 입구에 커다란 규모로 위풍당당하게 서 있는 진도군 관광안내도의 전체 모습입니다. 벽파진을 비롯하여 진도의 주요 명소들과 도로망이 한눈에 파악하기 쉽게 표시되어 있습니다. 진도 여행의 전체적인 동선을 점검하고 다음 목적지를 구상하기에 아주 유용한 안내도입니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/jindo-byeokpajin/jindo-byeokpajin-08.webp" alt="이충무공 벽파진전첩비 사진 8" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+          <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+            <img src="/images/jindo-byeokpajin/jindo-byeokpajin-09.webp" alt="이충무공 벽파진전첩비 사진 9" class="w-full h-72 md:h-80 object-cover" loading="lazy" />
+          </div>
+          <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+            <img src="/images/jindo-byeokpajin/jindo-byeokpajin-10.webp" alt="이충무공 벽파진전첩비 사진 10" class="w-full h-72 md:h-80 object-cover" loading="lazy" />
+          </div>
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">벽파진전첩비를 향해 돌도로를 따라 고즈넉하게 이어지는 계단길의 멋스러운 전경입니다. 바닥의 정갈한 돌길과 계단 주변의 수목이 어우러져 깊은 역사적 운치를 자아냅니다. 한 걸음씩 계단을 오를 때마다 호국의 성지로 들어서는 듯한 묵직한 감동이 밀려옵니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/jindo-byeokpajin/jindo-byeokpajin-11.webp" alt="이충무공 벽파진전첩비 사진 11" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">바다가 한눈에 내려다보이는 높이 서 있는 벽파정 정자의 고화사한 전경입니다. 예부터 많은 시인묵객들이 지나며 풍류를 읊었던 역사적 정자의 그윽한 기상이 느껴집니다. 정자 그늘에 서서 바라보는 남도 바다 풍경은 일상의 시름을 잊게 만드는 장관을 선사합니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/jindo-byeokpajin/jindo-byeokpajin-12.webp" alt="이충무공 벽파진전첩비 사진 12" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">명량해전 전후로 나라를 위해 순절한 진도 출신 참전자들과 무명 용사들을 기리는 작은 산소의 모습입니다. 그 옆에는 "오메, 오셨소 반갑네요 또 오시요"라고 써진 진도 사투리의 글귀가 함께 서 있습니다. 호국영령에 대한 숭고한 감사와 진도 민초들의 따뜻한 정이 동시에 느껴져 가슴을 뭉클하게 합니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/jindo-byeokpajin/jindo-byeokpajin-13.webp" alt="이충무공 벽파진전첩비 사진 13" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">벽파진전첩비의 우뚝 솟은 자태를 향해 바위 언덕을 따라 곧게 늘어선 계단길입니다. 계단 끝에 당당히 서 있는 전첩비의 모습이 하늘과 어우러져 압도적인 위용을 자랑합니다. 올라가는 이로 하여금 장엄한 역사적 숙연함을 한껏 느끼게 만드는 훌륭한 구도입니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/jindo-byeokpajin/jindo-byeokpajin-14.webp" alt="이충무공 벽파진전첩비 사진 14" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">벽파진전첩비를 다른 각도에서 바라본 모습으로, 옆에는 소박한 음수대가 마련되어 있습니다. 거대한 암반 위에 웅장하게 서 있는 비석의 조형미와 방문객을 배려한 편의시설이 눈에 띕니다. 탁 트인 하늘을 배경으로 서 있는 비석의 자태가 바다 바람과 어우러져 절경을 이룹니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/jindo-byeokpajin/jindo-byeokpajin-15.webp" alt="이충무공 벽파진전첩비 사진 15" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">이충무공 벽파진 전첩비의 상세한 건립 취지와 예술적 가치가 기록된 소개글 표지판입니다. 소전 손재형 선생의 필체와 노산 이은상 선생의 명문이 지닌 가치가 상세히 기술되어 있습니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/jindo-byeokpajin/jindo-byeokpajin-16.webp" alt="이충무공 벽파진전첩비 사진 16" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">전첩비를 둘러보고 내려오는 반대쪽 길로 이어지는 고즈넉한 오솔길의 풍경입니다. 오래된 길 옆으로 당당하게 자란 조선소나무들과 작은 나무들이 정겹게 우거져 있습니다. 세월의 흔적이 묻어나는 호젓한 숲길을 걸으며 차분하게 사색에 잠기기에 좋습니다.</p>
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+          <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+            <img src="/images/jindo-byeokpajin/jindo-byeokpajin-17.webp" alt="이충무공 벽파진전첩비 사진 17" class="w-full h-72 md:h-80 object-cover" loading="lazy" />
+          </div>
+          <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+            <img src="/images/jindo-byeokpajin/jindo-byeokpajin-18.webp" alt="이충무공 벽파진전첩비 사진 18" class="w-full h-72 md:h-80 object-cover" loading="lazy" />
+          </div>
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">동백나무들 사이로 아담하게 난 운치 있는 산책길의 어두우면서도 정갈한 모습입니다. 계절이 되면 붉은 동백꽃이 피어날 길목마다 남도 특유의 정서가 깊게 베어 있습니다. 바다 바람을 막아주는 동백나무 그늘 아래를 거닐며 한가로운 휴식을 만끽할 수 있습니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/jindo-byeokpajin/jindo-byeokpajin-19.webp" alt="이충무공 벽파진전첩비 사진 19" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">또 다른 벽파진전첩비 입구에 세워져 있는 한자가 선명히 적힌 안내 비석의 정면 모습입니다. 역사적 사적지로서의 품격과 예스러운 멋을 그대로 고수하고 있는 정문 포인트입니다. 벽파진 탐방을 깔끔하게 마무리하고 다음 여정으로 발길을 돌리기에 적합한 입구입니다.</p>
+        <div class="pt-6 border-t border-neutral-100">
+          <h2 class="text-xl md:text-2xl font-serif font-bold text-neutral-900 flex items-center gap-2.5">
+            <span class="w-2 h-6 rounded-full bg-sky-700 inline-block"></span>
+            추천! 일정별 진도 여행 코스 안내
+          </h2>
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">벽파진전첩비를 비롯한 진도의 핵심 관광지 10곳과 진도휴식 정원을 유기적으로 엮어 만든 코스입니다. 식사와 카페 휴식은 특정 매장 대신 진도 가계곤드레밥, 신선한 회, 울금 요리, 바지락 무침 등 <strong>진도 지역 대표 음식</strong>과 <strong>해안가 감성 카페</strong>로 구성하여 남도의 맛과 멋을 자유롭게 즐기실 수 있도록 안내합니다.</p>
+        <div class="pt-6 border-t border-neutral-100">
+          <h2 class="text-xl md:text-2xl font-serif font-bold text-neutral-900 flex items-center gap-2.5">
+            <span class="w-2 h-6 rounded-full bg-sky-700 inline-block"></span>
+            추천 당일치기 코스 (역사 탐방 &amp; 정원 힐링 여정)
+          </h2>
+        </div>
+        <ul class="bg-neutral-50/90 p-6 rounded-2xl border border-neutral-200/70 space-y-2.5 text-sm md:text-base text-neutral-700 list-disc pl-8"><li><strong>오전</strong>: 우수영관광지 ➔ 울돌목스카이워크 ➔ 이충무공승전공원 ➔ 진도타워 (울돌목 해협 관람)</li><li><strong>점심</strong>: 진도읍 또는 해안가 주변 지역 대표 음식 맛집 (진도 울금 백반 또는 신선한 수산물 정식)</li><li><strong>오후</strong>: 벽파진전첩비 (역사 산책) ➔ 진도휴식 정원 (민간정원 산책 및 힐링)</li><li><strong>늦은 오후</strong>: 진도 해안가 감성 카페 (바다 조망 차 한 잔) ➔ 진도 갯벌 습지보호구역 ➔ 귀가</li></ul>
+        <div class="pt-6 border-t border-neutral-100">
+          <h2 class="text-xl md:text-2xl font-serif font-bold text-neutral-900 flex items-center gap-2.5">
+            <span class="w-2 h-6 rounded-full bg-sky-700 inline-block"></span>
+            추천 1박 2일 코스 (진도 명소 구석구석 완주 코스)
+          </h2>
+        </div>
+        <ul class="bg-neutral-50/90 p-6 rounded-2xl border border-neutral-200/70 space-y-2.5 text-sm md:text-base text-neutral-700 list-disc pl-8"><li><strong>1일 차: 울돌목 역사 명소와 정원 힐링</strong></li><li><strong>오전</strong>: 우수영관광지 &amp; 울돌목스카이워크 ➔ 이충무공승전공원</li><li><strong>점심</strong>: 진도 지역 대표 음식 (진도 바지락회무침 또는 해물탕)</li><li><strong>오후</strong>: 진도타워 ➔ 벽파진전첩비 ➔ 진도휴식 정원 산책</li><li><strong>저녁</strong>: 해안가 주변 지역 대표 음식 (진도 모듬회 또는 꽃게 요리)</li><li><strong>숙박</strong>: 진도 고군면 또는 의신면 일대 추천 숙소 입실</li><li><strong>2일 차: 문화재와 숲길, 체험이 있는 여정</strong></li><li><strong>오전</strong>: 진도 대표 아침 식사 ➔ 용장사 &amp; 용장성 (삼별초 역사 유적 탐방)</li><li><strong>점심</strong>: 지역 대표 음식 (진도 갈비탕 또는 백반정식)</li><li><strong>오후</strong>: 진도개 테마파크 (진도개 관람 및 체험) ➔ 운방산림 (차분한 숲길 산책) ➔ 진도 갯벌 습지보호구역 ➔ 마무리</li></ul>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">벽파진전첩비에 올라 진도 바다를 바라보며 느꼈던 호국의 묵직한 감동과 진도휴식 정원이 건넨 따스한 안식은 오래도록 가슴속에 깊은 여운으로 남을 것입니다. 역사적 유산과 자연, 그리고 정겨운 남도의 맛이 살아 숨 쉬는 진도로 여행을 떠나시어 잊지 못할 특별한 추억을 만들어 보시기를 진심으로 추천해 드립니다.</p>
+
+        <!-- 해시태그 -->
+        <div class="pt-8 border-t border-neutral-200">
+          <div class="flex flex-wrap gap-2 text-xs font-medium text-neutral-600">
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-sky-50 hover:text-sky-700 transition-colors">#진도여행</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-sky-50 hover:text-sky-700 transition-colors">#벽파진전첩비</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-sky-50 hover:text-sky-700 transition-colors">#벽파진</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-sky-50 hover:text-sky-700 transition-colors">#이충무공벽파진전첩비</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-sky-50 hover:text-sky-700 transition-colors">#진도휴식</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-sky-50 hover:text-sky-700 transition-colors">#진도휴식정원</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-sky-50 hover:text-sky-700 transition-colors">#남도예술정원</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-sky-50 hover:text-sky-700 transition-colors">#남도예술정원서포터즈</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-sky-50 hover:text-sky-700 transition-colors">#우수영관광지</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-sky-50 hover:text-sky-700 transition-colors">#울돌목스카이워크</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-sky-50 hover:text-sky-700 transition-colors">#이충무공승전공원</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-sky-50 hover:text-sky-700 transition-colors">#진도타워</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-sky-50 hover:text-sky-700 transition-colors">#진도갯벌습지보호구역</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-sky-50 hover:text-sky-700 transition-colors">#용장사</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-sky-50 hover:text-sky-700 transition-colors">#용장성</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-sky-50 hover:text-sky-700 transition-colors">#진도개테마파크</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-sky-50 hover:text-sky-700 transition-colors">#운방산림</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-sky-50 hover:text-sky-700 transition-colors">#진도가볼만한곳</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-sky-50 hover:text-sky-700 transition-colors">#진도여행코스</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-sky-50 hover:text-sky-700 transition-colors">#진도맛집</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-sky-50 hover:text-sky-700 transition-colors">#진도카페</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-sky-50 hover:text-sky-700 transition-colors">#남도여행</span>
+          </div>
+        </div>
+      </div>
+    `
+  },
+  "j16-jindo-yongjangseong-fortress": {
+    "id": "j16-jindo-yongjangseong-fortress",
+    "regionId": "jindo",
+    "title": "고려 삼별초의 기상이 숨 쉬는 \"진도 용장성\"\n진도휴식 정원까지 역사와 자연을 잇는 감성 여행 코스",
+    "description": "고려 삼별초의 대몽항쟁 거점인 사적 제126호 진도 용장성과 배중손 장군 사당 정충사, 홍보전시관, 둘레길 산책로까지! 진도휴식 정원과 연계한 역사·자연 힐링 여행 가이드.",
+    "keywords": "진도여행, 진도용장성, 용장성, 삼별초, 배중손장군, 진도휴식, 진도휴식정원, 남도예술정원, 남도예술정원서포터즈, 진도맛집, 수품어장, 진도카페, 모도상회, 도캐도캐, 꿈의세계카페, 망고보이, 스탬프투어, 정원여행자, 남도여행",
+    "date": "2026. 11. 19",
+    "author": "남도예술정원 공식 서포터즈",
+    "readTime": "6분",
+    "image": "/images/jindo-yongjangseong/jindo-yongjangseong-01.webp",
+    "content": `
+      <div class="max-w-4xl mx-auto space-y-8 text-neutral-800 leading-relaxed font-sans mt-4 px-2 md:px-0">
+        <!-- Hero Banner / 최적 줄바꿈 타이틀 영역 -->
+        <div class="space-y-4">
+          <div class="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-amber-500/10 text-amber-800 text-xs font-bold uppercase tracking-wider">
+            🏯 고려 삼별초 대몽항쟁 사적 제126호 | 진도 군내면 용장성
+          </div>
+          <h1 class="text-3xl md:text-5xl font-serif font-bold text-neutral-900 leading-tight">
+            고려 삼별초의 붉은 기상이 숨 쉬는 곳<br/>
+            <span class="text-amber-700 font-sans block mt-1">“진도 용장성 & 정충사”</span>
+            <span class="text-xl md:text-2xl text-neutral-600 font-light font-sans block mt-2">배중손 장군의 호국 성지에서 진도휴식 정원까지, 역사와 자연을 잇는 감성 코스</span>
+          </h1>
+          <p class="text-base md:text-lg text-neutral-600 font-light leading-relaxed">
+            몽골의 침략에 맞서 자주독립의 의지를 불태웠던 삼별초의 해상 왕국 수도, 계단식 궁궐 석축과 숭의문을 따라 걷는 천년의 시간
+          </p>
+        </div>
+
+        
+        <div class="bg-[#fdfaf5] border-amber-100 p-6 md:p-8 rounded-3xl border shadow-sm">
+          <p class="text-base md:text-lg font-medium text-neutral-800 leading-relaxed">고려시대 몽골의 침략에 맞서 고려의 자존심을 끝까지 지키고자 했던 삼별초의 대몽항쟁 거점, 진도 용장성을 찾아 그 웅장한 역사적 숨결을 가슴 깊이 새겨봅니다. 거친 바윗돌 축대 위에 남아 있는 용장성의 흔적과 배중손 장군의 충절을 기리는 정충사를 거닐며 역사적 묵직함을 느낀 뒤, 초록빛 자연의 품에서 안식을 선사하는 진도휴식 정원, 그리고 지역 소상공인과 함께 만들어가는 남도예술정원 지역파트너 매장으로 하루를 마무리 해보세요</p>
+        </div>
+        <div class="bg-gradient-to-br from-amber-50/90 to-orange-50/40 border-amber-200/80 p-6 md:p-8 rounded-3xl border shadow-sm">
+          <h3 class="text-lg md:text-xl font-serif font-bold text-amber-950 mb-3 flex items-center gap-2">📌  장소 안내 및 역사 탐방 정보</h3><p class="text-sm md:text-base text-neutral-700 leading-relaxed mb-3">진도 용장성은 고려 원종 11년(1270년) 삼별초가 개경 환도에 반대하며 배중손 장군을 중심으로 승화후 온을 왕으로 옹립하고 몽골과의 항쟁을 이어가기 위해 도읍을 옮겨 쌓은 역사적인 성곽입니다. 용장산성을 중심으로 계단식 궁궐 터가 능선을 따라 우뚝 들어서 있어 당시 고려의 굳은 의지와 호국 정신을 고스란히 느낄 수 있습니다.</p><ul class="text-sm text-neutral-700 space-y-2 pl-4 list-disc"><li><strong>이용시간</strong>: 09:00 ~ 18:00 (연중무휴 상시 개방되어 있으나 야외 유적지 특성상 주간 방문을 권장합니다.)</li><li><strong>입장료</strong>: <strong>무료</strong>(누구나 자유롭게 방문하여 역사 탐방과 주변 산책을 즐기실 수 있습니다.)</li><li><strong>자차 이용 방법</strong>: 네비게이션에 '<strong>진도 용장성</strong>' 또는 '<strong>용장성 전시관</strong>'(전라남도 진도군 군내면 용장산성길 92)을 검색하여 진입하시면 됩니다.</li><li><strong>주차장</strong>: 용장성 전시관 및 입구 광장에 넓은 무료 주차 공간이 잘 마련되어 있어 편안하게 주차하실 수 있습니다.</li></ul>
+        </div>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/jindo-yongjangseong/jindo-yongjangseong-01.webp" alt="진도 용장성 & 정충사 사진 1" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">용장성 전시관 앞마당에 웅장하고 굳건하게 세워져 있는 고려항몽충혼탑(고려항쟁충혼탑)과 삼별초 항전 조형물의 모습입니다. 몽골의 침략에 맞서 끝까지 조선 수군과 나라를 지키기 위해 헌신했던 영령들의 거룩한 넋이 서려 있어 절로 고개가 숙여집니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/jindo-yongjangseong/jindo-yongjangseong-02.webp" alt="진도 용장성 & 정충사 사진 2" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">삼별초 항쟁의 역사적 의의와 기록들이 정교하게 새겨져 있는 웅장한 대리석 벽의 전경입니다. 당시 몽골에 타협하지 않고 민족의 자존심을 지키고자 했던 삼별초의 숭고한 역사적 가치가 친절하게 정리되어 있습니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/jindo-yongjangseong/jindo-yongjangseong-03.webp" alt="진도 용장성 & 정충사 사진 3" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">전라남도 진도군 용장성 내에 정갈하게 위치한 배중손 사당(정충사)의 외삼문인 <strong>숭의문(崇義門)</strong>입구입니다. 의로움을 숭상한다는 문 이름처럼 고풍스러운 단청과 단정한 기와지붕이 남다른 품격을 자랑합니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/jindo-yongjangseong/jindo-yongjangseong-04.webp" alt="진도 용장성 & 정충사 사진 4" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">진도 용장성 내에 당당하고 위풍당당하게 세워져 있는 배중손 장군 동상(裴仲孫將軍像)의 정면 모습입니다. 칼을 쥐고 시선을 멀리 바다로 향하고 있는 장군의 기상에서 굽히지 않는 삼별초의 결의가 느껴집니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/jindo-yongjangseong/jindo-yongjangseong-05.webp" alt="진도 용장성 & 정충사 사진 5" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">배중손 장군의 공적과 정충사의 건립 역사에 대한 내용이 상세히 기록되어 있는 <strong>정충사 연혁비</strong>의 모습입니다. 세월의 깊이가 느껴지는 돌비석 위에 새겨진 한자와 설명문이 사당의 역사적 가치를 입증해 줍니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/jindo-yongjangseong/jindo-yongjangseong-06.webp" alt="진도 용장성 & 정충사 사진 6" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">용장성 내에 삼별초의 격렬했던 치열한 전쟁의 모습을 생생하게 재현해 놓은 이색 포토스팟입니다. 당시 군사들의 역동적인 모습과 무기가 입체적으로 꾸며져 있어 방문객들의 시선을 단번에 사로잡습니다. 아이들과 함께 방문했을 때 역사 속 한 장면을 체험하며 흥미로운 사진을 남기기에 더없이 훌륭합니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/jindo-yongjangseong/jindo-yongjangseong-07.webp" alt="진도 용장성 & 정충사 사진 7" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">용장성 전체 단지의 구조와 관람 동선이 한눈에 들어오도록 큼직하게 세워진 <strong>용장성관광안내도</strong>입니다. 전시관, 사당, 궁궐 터, 둘레길 등 주요 탐방 포인트의 위치가 명확하게 안내되어 있습니다. 탐방을 시작하기에 앞서 효율적인 관람 동선을 계획하고 위치를 미리 파악하는 데 매우 유용합니다</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/jindo-yongjangseong/jindo-yongjangseong-08.webp" alt="진도 용장성 & 정충사 사진 8" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">진도 용장성의 역사적인 배경과 가치를 다정한 글귀로 풀어낸 소개글 및 지도가 담긴 안내판입니다. 고려 왕조의 대몽항쟁 거점으로서 지닌 독보적인 역사적 지위와 지형적 특성이 잘 기재되어 있습니다. 안내판의 설명을 따라 유적지를 거닐면 눈앞에 펼쳐진 석축들이 훨씬 다채롭고 특별하게 다가옵니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/jindo-yongjangseong/jindo-yongjangseong-09.webp" alt="진도 용장성 & 정충사 사진 9" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">용장성 주변으로 정갈하고 아늑하게 조성되어 있는 걷기 좋은 둘레길 산책로의 풍경입니다. 울창한 수목 사이로 불어오는 바람을 맞으며 한적하게 발걸음을 옮기기에 더없이 정겨운 길입니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/jindo-yongjangseong/jindo-yongjangseong-10.webp" alt="진도 용장성 & 정충사 사진 10" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">세월의 풍상을 견뎌내고 굳건하게 남아 있는 고려 시대 <strong>용장성의 잔해(궁궐 석축)</strong>모습입니다. 계단식 형태로 쌓아 올린 웅장한 돌벽의 흔적에서 당시 고려 궁궐의 남다른 규모를 가늠해 봅니다. 이끼 낀 돌 하나하나에 삼별초의 뜨거운 숨결이 베어 있어 아련한 역사적 감회를 선사합니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/jindo-yongjangseong/jindo-yongjangseong-11.webp" alt="진도 용장성 & 정충사 사진 11" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">용장성 바로 앞에 설치되어 주요 탐방 방향과 거리를 친절하게 알려주는 이정표의 모습입니다. 둘레길 코스와 주요 유적지로 향하는 갈림길마다 알기 쉽게 안내되어 있어 이동이 매우 편합니다. 처음 방문하는 여행자도 길을 잃지 않고 마음에 드는 코스를 선택해 산책을 이어갈 수 있도록 돕습니다.</p>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">용장성에서 고려 삼별초의 웅장한 기상과 역사의 여운을 가슴 깊이 간직하신 후에는, 차분한 자연의 품인 정원으로 발길을 이어보시기를 적극 추천합니다.</p>
+        <div class="pt-6 border-t border-neutral-100">
+          <h2 class="text-xl md:text-2xl font-serif font-bold text-neutral-900 flex items-center gap-2.5">
+            <span class="w-2 h-6 rounded-full bg-amber-700 inline-block"></span>
+            진도휴식
+          </h2>
+        </div>
+        <ul class="bg-neutral-50/90 p-6 rounded-2xl border border-neutral-200/70 space-y-2.5 text-sm md:text-base text-neutral-700 list-disc pl-8"><li>📌  위치: 전라남도 진도군 고군면 원포길 226</li><li>📌  정원 소개: '진도휴식' 정원은 진도의 아름다운 자연 풍광 속에 안겨 있는 아늑한 민간정원입니다. 정성스레 가꿔진 정원 산책로를 걸으며 사계절의 싱그러움을 마주하고, 푸른 나무와 꽃들이 건네는 포근한 안식을 온전히 느껴보실 수 있는 힐링 명소입니다.</li></ul>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">진도 용장성의 웅장한 고려 석축 위에서 삼별초의 호국 기상을 가슴 깊이 새기고, 진도휴식 정원이 전하는 포근한 자연의 품에서 일상의 시름을 내려놓아 보시기 바랍니다. 남도예술정원이 정성껏 준비한 정원여행길을 따라 사랑하는 이들과 함께 진도의 깊은 멋과 정겨운 맛을 느긋하게 즐겨보시기를 진심으로 권해 드립니다.</p>
+
+        <!-- 해시태그 -->
+        <div class="pt-8 border-t border-neutral-200">
+          <div class="flex flex-wrap gap-2 text-xs font-medium text-neutral-600">
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-amber-50 hover:text-amber-700 transition-colors">#진도여행</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-amber-50 hover:text-amber-700 transition-colors">#진도용장성</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-amber-50 hover:text-amber-700 transition-colors">#용장성</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-amber-50 hover:text-amber-700 transition-colors">#삼별초</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-amber-50 hover:text-amber-700 transition-colors">#배중손장군</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-amber-50 hover:text-amber-700 transition-colors">#진도휴식</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-amber-50 hover:text-amber-700 transition-colors">#진도휴식정원</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-amber-50 hover:text-amber-700 transition-colors">#남도예술정원</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-amber-50 hover:text-amber-700 transition-colors">#남도예술정원서포터즈</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-amber-50 hover:text-amber-700 transition-colors">#진도맛집</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-amber-50 hover:text-amber-700 transition-colors">#수품어장</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-amber-50 hover:text-amber-700 transition-colors">#진도카페</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-amber-50 hover:text-amber-700 transition-colors">#모도상회</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-amber-50 hover:text-amber-700 transition-colors">#도캐도캐</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-amber-50 hover:text-amber-700 transition-colors">#꿈의세계카페</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-amber-50 hover:text-amber-700 transition-colors">#망고보이</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-amber-50 hover:text-amber-700 transition-colors">#스탬프투어</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-amber-50 hover:text-amber-700 transition-colors">#정원여행자</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-amber-50 hover:text-amber-700 transition-colors">#남도여행</span>
+          </div>
+        </div>
+      </div>
+    `
+  },
+  "j17-jindo-dog-theme-park": {
+    "id": "j17-jindo-dog-theme-park",
+    "regionId": "jindo",
+    "title": "진도개의 사랑스러움과 정원의 아늑함이 만나는 \"진도개 테마파크\"\n진도휴식 정원까지 이어지는 가족 감성 여행 코스",
+    "description": "천연기념물 제53호 진도개를 가까이서 만나고 교감할 수 있는 진도개 테마파크! 진도개 홍보관, 강아지 먹이체험장과 쉼터, 사계절 썰매장, 미니 동물농장부터 진도휴식 정원 연계 코스까지.",
+    "keywords": "진도여행, 진도개테마파크, 진도개홍보관, 진도개, 진도휴식, 진도휴식정원, 남도예술정원, 남도예술정원서포터즈, 진도맛집, 수품어장, 진도카페, 모도상회, 도캐도캐, 꿈의세계카페, 망고보이, 스탬프투어, 정원여행자, 남도여행",
+    "date": "2026. 11. 19",
+    "author": "남도예술정원 공식 서포터즈",
+    "readTime": "6분",
+    "image": "/images/jindo-dog-park/jindo-dog-park-09.webp",
+    "content": `
+      <div class="max-w-4xl mx-auto space-y-8 text-neutral-800 leading-relaxed font-sans mt-4 px-2 md:px-0">
+        <!-- Hero Banner / 최적 줄바꿈 타이틀 영역 -->
+        <div class="space-y-4">
+          <div class="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-amber-500/10 text-amber-800 text-xs font-bold uppercase tracking-wider">
+            🐕 천연기념물 제53호 생태 체험 & 가족 나들이 명소 | 진도읍
+          </div>
+          <h1 class="text-3xl md:text-5xl font-serif font-bold text-neutral-900 leading-tight">
+            진도개의 사랑스러움과 정원의 아늑함이 만나는 곳!<br/>
+            <span class="text-amber-700 font-sans block mt-1">“진도개 테마파크”</span>
+            <span class="text-xl md:text-2xl text-neutral-600 font-light font-sans block mt-2">천연기념물 제53호 진도개 교감 체험부터 진도휴식 정원까지 이어지는 감성 여행</span>
+          </h1>
+          <p class="text-base md:text-lg text-neutral-600 font-light leading-relaxed">
+            순하고 영특한 아기 백구들과의 다정한 교감, 신나는 사계절 인조잔디 썰매장과 미니 동물농장까지 온 가족이 행복한 무료 생태 테마공원
+          </p>
+        </div>
+
+        
+        <div class="bg-[#fdfaf5] border-amber-100 p-6 md:p-8 rounded-3xl border shadow-sm">
+          <p class="text-base md:text-lg font-medium text-neutral-800 leading-relaxed">대한민국 천연기념물 제53호인 진도개의 귀여움과 뛰어난 지능을 온몸으로 체감할 수 있는 <strong>진도개 테마파크</strong>를 시작으로, 차분한 자연의 품에서 안식을 선사하는 <strong>진도휴식 정원</strong>, 그리고 진도 마을 구석구석을 채우고 있는 감성 카페와 정겨운 맛집까지 하나의 매력적인 여행길로 연결해 소개합니다. 귀여운 강아지들과의 교감 및 다채로운 놀이 시설에서 느껴지는 즐거움 뒤에 찾아오는 민간정원의 포근한 위로, 그리고 남도예술정원 지역 파트너 매장에서 누리는 특별한 혜택이 어우러져 단순한 관광을 넘어 진도라는 지역의 진정한 매력을 깊이 있게 경험할 수 있는 알찬 코스를 확인해보세요</p>
+        </div>
+        <div class="bg-gradient-to-br from-amber-50/90 to-orange-50/40 border-amber-200/80 p-6 md:p-8 rounded-3xl border shadow-sm">
+          <h3 class="text-lg md:text-xl font-serif font-bold text-amber-950 mb-3 flex items-center gap-2">📌  장소 안내 및 기본 정보</h3><p class="text-sm md:text-base text-neutral-700 leading-relaxed mb-3">진도개 테마파크는 진도의 상징이자 자랑인 진도개를 체계적으로 보호 및 육성하고 방문객들에게 진도개의 우수성을 널리 알리기 위해 조성된 생태 체험형 공원입니다. 넓은 잔디 광장과 썰매장, 어린이 놀이터, 동물 농장, 그리고 진도개 홍보관 등이 알차게 갖춰져 있어 남녀노소 누구나 즐거운 시간을 보낼 수 있습니다.</p><ul class="text-sm text-neutral-700 space-y-2 pl-4 list-disc"><li><strong>이용시간</strong>: 09:00 ~ 18:00 (연중무휴 상시 개방되나 내부 홍보관 및 체험 시설 운영 시간은 다소 변동될 수 있습니다.)</li><li><strong>입장료</strong>: <strong>무료</strong>(누구나 부담 없이 들러 테마파크 산책과 야외 놀이 시설을 자유롭게 이용할 수 있습니다.)</li><li><strong>자차 이용 방법</strong>: 네비게이션에 '<strong>진도개 테마파크</strong>' 또는 '<strong>진도개 홍보관</strong>'(전라남도 진도군 진도읍 성방길 30)을 검색하여 오시면 편리하게 도착하실 수 있습니다.</li><li><strong>주차장</strong>: 입구 및 테마파크 전용 주차 공간이 넓고 정갈하게 마련되어 있어 자차 이용 시에도 여유롭게 주차할 수 있습니다.</li></ul>
+        </div>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/jindo-dog-park/jindo-dog-park-01.webp" alt="진도개 테마파크 사진 1" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">진도개 테마파크 입구에 도착하여 커다란 <strong>주차장 표지판</strong>과 <strong>진도개 홍보관</strong>건물을 담아본 모습입니다. 주차장으로 안내하는 친절한 표지판과 함께 주변 특산물 판매장, 동물 먹이 체험을 알리는 입간판이 눈길을 끕니다. 도착하는 순간부터 체계적으로 가꿔진 테마파크의 분위기가 느껴져 아이들과 함께 방문하는 여행객들에게 설렘을 안겨줍니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/jindo-dog-park/jindo-dog-park-02.webp" alt="진도개 테마파크 사진 2" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">홍보관 앞 광장 바닥에 화사한 색감으로 다채롭게 그려진 <strong>고래 및 해양 캐릭터 바닥화</strong>전경입니다. 귀여운 고래와 해양 생물들이 그려진 알록달록한 그림 덕분에 걸어 들어가는 발걸음이 한층 가벼워집니다. 아이들이 바닥 위를 뛰놀며 재미있게 첫인상을 쌓기에 더없이 훌륭한 친근한 포토스팟 역할을 해줍니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/jindo-dog-park/jindo-dog-park-03.webp" alt="진도개 테마파크 사진 3" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">테마파크 내부 산책로로 이어지는 길 바닥에 깜찍하게 표현된 <strong>진도개 얼굴 보도블록</strong>의 모습입니다. 발밑 길목 하나하나까지 진도개 테마에 맞춰 섬세하게 디자인되어 있어 걷는 재미를 더해줍니다. 양옆의 정갈한 목재 울타리와 산책로 전경이 어우러져 한가롭게 거닐기 좋은 조화로운 구도를 보여줍니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/jindo-dog-park/jindo-dog-park-04.webp" alt="진도개 테마파크 사진 4" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">어린이 방문객들이 안전하게 즐길 수 있는 <strong>네트해먹 놀이대 이용안내판</strong>과 알록달록한 네트 놀이터입니다. 안전 수칙과 사용 연령이 상세히 안내되어 있어 부모님들이 안심하고 아이들을 놀게 할 수 있습니다. 알록달록 기둥과 푹신한 네트 구조물이 야외 공간과 조화를 이루어 어린이들에게 인기 만점인 놀이 요소입니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/jindo-dog-park/jindo-dog-park-05.webp" alt="진도개 테마파크 사진 5" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">진도의 자랑거리인 대파와 울금 등을 친근한 캐릭터로 형상화해 놓은 <strong>진도 특산물 조형물</strong>입니다. 진도 대파와 울금, 지역 귀여운 캐릭터들이 방긋 웃고 있어 절로 미소를 짓게 만듭니다. 지역의 대표 특산물을 아이들의 눈높이에 맞추어 재치 있게 알리는 정겨운 포토존 공간입니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/jindo-dog-park/jindo-dog-park-06.webp" alt="진도개 테마파크 사진 6" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">건물 상단에 날렵한 진도개 모형이 우뚝 서 있는 웅장한 <strong>진도개 홍보관</strong>의 전면 모습입니다. 진도개의 역사와 특성, 우수성을 한눈에 둘러볼 수 있는 다채로운 실내 전시 공간이 들어서 있습니다. 현대적이고 독특한 외관 디자인이 시선을 사로잡으며 유익한 역사 교육의 장을 제공해 줍니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/jindo-dog-park/jindo-dog-park-07.webp" alt="진도개 테마파크 사진 7" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">테마파크 내에 귀엽게 자리한 <strong>진도개 53 cafe</strong>와 강아지 먹이 체험장 앞의 아늑한 풍경입니다. 방문객이 품에 순한 진도 강아지를 안고 따뜻하게 교감하는 모습이 너무나 다정해 보입니다. 시원한 음료 한 잔과 함께 순하고 영리한 진도 강아지들과 다정한 추억을 쌓기에 최적인 휴식처입니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/jindo-dog-park/jindo-dog-park-08.webp" alt="진도개 테마파크 사진 8" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">테마파크 전체 시설의 위치와 산책 동선이 큼직하고 보기 쉽게 정리된 <strong>진도개 테마파크 안내도</strong>입니다. 썰매장, 쉼터, 미니동물농장, 홍보관, 쉼터 등 다채로운 코스가 보기 쉽게 표시되어 있습니다. 넓은 테마파크를 효율적으로 탐방하기 전 동선을 미리 구상하고 계획하기에 매우 유용한 지표입니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/jindo-dog-park/jindo-dog-park-09.webp" alt="진도개 테마파크 사진 9" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">체험장 한쪽에 귀여운 순혈 진도개 강아지들이 우산을 쓰고 편안히 쉬고 있는 <strong>강아지 쉼터 공간</strong>입니다. 말갛고 동그란 눈망울로 카메라를 응시하는 아기 진도개의 모습이 심장을 사르르 녹게 만듭니다. 혈통이 철저히 보호되는 진도개의 건강한 모습을 가까이서 관찰할 수 있어 방문객 만족도가 아주 높습니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/jindo-dog-park/jindo-dog-park-10.webp" alt="진도개 테마파크 사진 10" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">'진도개 테마파크' 글자 조형물과 함께 언덕을 따라 멋스럽게 조성된 <strong>화단 산책로 전경</strong>입니다. 돌길을 따라 정성스럽게 식재된 예쁜 꽃들과 푸른 나무들이 어우러져 한적한 산책을 돕습니다. 자연과 동물, 그리고 사람이 함께 어우러져 쾌적하고 조용한 시간을 누릴 수 있는 어울림 공간입니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/jindo-dog-park/jindo-dog-park-11.webp" alt="진도개 테마파크 사진 11" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">체크무늬 패턴과 인조잔디가 시원스럽게 깔려 있는 <strong>테마파크 썰매장 레인 슬로프</strong>모습입니다. 넓고 신나게 미끄러져 내려올 수 있는 인조잔디 썰매장으로, 아이들과 청소년 방문객들에게 환호성을 자아냅니다. 안전 울타리가 잘 정비되어 있어 가족 단위 여행객들이 신나는 레저 액티비티를 안전하게 즐길 수 있습니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/jindo-dog-park/jindo-dog-park-12.webp" alt="진도개 테마파크 사진 12" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">파란 지붕 아래 훈련 기구와 시소 등이 갖춰진 <strong>진도개 어울마당 야외 훈련·놀이 공간</strong>입니다. 진도개들의 민첩성과 순발력을 기르는 다양한 어질리티 장애물과 야외 쉼터가 정갈하게 꾸며져 있습니다. 진도개의 뛰어난 지능과 운동 능력을 직접 관찰하고 소통할 수 있어 이색적인 재미를 안겨줍니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/jindo-dog-park/jindo-dog-park-13.webp" alt="진도개 테마파크 사진 13" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">깔끔하고 쾌적하게 관리되는 <strong>진도개 전용 견사</strong>에서 카메라를 정면으로 응시하는 늠름한 백구의 모습입니다. 견명(서동)과 성별, 출생일이 적힌 표지판과 함께 매우 청결하게 보호되고 관리받는 상태를 확인할 수 있습니다.</p>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">명석한 눈빛과 의젓한 자태를 자랑하는 순종 진도개의 기품을 눈앞에서 실감 나게 감상하게 됩니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/jindo-dog-park/jindo-dog-park-14.webp" alt="진도개 테마파크 사진 14" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">남도의 이국적인 풍광을 한껏 더해주는 <strong>야자수 나무가 열지어 서 있는 흙길 산책로</strong>의 풍경입니다. 야자수와 울창한 수목이 다정하게 이어져 있어 이국적이면서도 한적한 남도만의 정취를 자아냅니다. 부드러운 흙길을 걸으며 시원한 바람을 맞고 피로를 풀기에 최적인 힐링 걷기 코스입니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/jindo-dog-park/jindo-dog-park-15.webp" alt="진도개 테마파크 사진 15" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">아기자기하고 아늑하게 꾸며진 <strong>미니 동물농장 아치형 입구</strong>의 알록달록한 전경입니다. 초록빛 울타리와 친근한 동물 캐릭터 표지판이 반갑게 서 있어 어린이들의 호기심을 유발합니다. 진도개뿐만 아니라 다채로운 소동물들을 만날 수 있는 체험 공간으로 들어서는 기분 좋은 안내문 역할을 합니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/jindo-dog-park/jindo-dog-park-16.webp" alt="진도개 테마파크 사진 16" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">공작, 공작 비둘기, 토종닭 등의 특징이 알기 쉽게 적힌 <strong>조류 사육장 안내판과 대형 사육장</strong>입니다. 새들의 고향과 좋아하는 간식, 생태적 특징이 그림과 함께 친절하게 게재되어 있어 유익합니다. 다양한 새들의 화려한 깃털과 생기 넘치는 움직임을 가까이서 관찰 할 수 있는 생태 관람 구역입니다.</p>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">진도개 테마파크에서 활기찬 에너지와 사랑스러운 강아지들과의 교감을 마음껏 즐기셨다면, 이제 사색과 차분함이 흐르는 자연의 품인 정원으로 이동해 깊은 휴식을 경험해 보시기를 적극 추천해 드립니다.</p>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">진도개 테마파크에서 사랑스러운 강아지들과 따뜻한 체온을 나누고, 진도휴식 정원이 전하는 초록빛 품 안에서 지친 일상의 피로를 말끔히 씻어내 보시기 바랍니다. 남도예술정원이 준비한 정원여행길을 따라 사랑하는 사람들과 함께 진도의 참된 멋과 다정한 맛을 오래도록 만끽하시기를 진심으로 권해 드립니다.</p>
+
+        <!-- 해시태그 -->
+        <div class="pt-8 border-t border-neutral-200">
+          <div class="flex flex-wrap gap-2 text-xs font-medium text-neutral-600">
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-amber-50 hover:text-amber-700 transition-colors">#진도여행</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-amber-50 hover:text-amber-700 transition-colors">#진도개테마파크</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-amber-50 hover:text-amber-700 transition-colors">#진도개홍보관</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-amber-50 hover:text-amber-700 transition-colors">#진도개</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-amber-50 hover:text-amber-700 transition-colors">#진도휴식</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-amber-50 hover:text-amber-700 transition-colors">#진도휴식정원</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-amber-50 hover:text-amber-700 transition-colors">#남도예술정원</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-amber-50 hover:text-amber-700 transition-colors">#남도예술정원서포터즈</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-amber-50 hover:text-amber-700 transition-colors">#진도맛집</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-amber-50 hover:text-amber-700 transition-colors">#수품어장</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-amber-50 hover:text-amber-700 transition-colors">#진도카페</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-amber-50 hover:text-amber-700 transition-colors">#모도상회</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-amber-50 hover:text-amber-700 transition-colors">#도캐도캐</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-amber-50 hover:text-amber-700 transition-colors">#꿈의세계카페</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-amber-50 hover:text-amber-700 transition-colors">#망고보이</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-amber-50 hover:text-amber-700 transition-colors">#스탬프투어</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-amber-50 hover:text-amber-700 transition-colors">#정원여행자</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-amber-50 hover:text-amber-700 transition-colors">#남도여행</span>
+          </div>
+        </div>
+      </div>
+    `
+  },
+  "j18-jindo-yongjangsa-temple": {
+    "id": "j18-jindo-yongjangsa-temple",
+    "regionId": "jindo",
+    "title": "역사와 자연이 호흡하는 숨은 힐링 명소 \"진도 용장사\"\n삼별초 산성 터부터 보물 석불의 단아한 미소까지 호국 역사 탐방기",
+    "description": "사적 제126호 진도 용장성 터에 자리한 고찰 용장사와 보물 석조여래좌상·석조비로자나불좌상! 코리아둘레길 서해랑길 진도 7코스와 삼별초 호국역사 탐방길을 따라 걷는 고요한 사색 여행.",
+    "keywords": "진도여행, 진도가볼만한곳, 진도용장성, 용장성, 진도용장사, 용장사석조여래좌상, 삼별초, 서해랑길진도7코스, 진도역사여행, 운림산방, 벽파진, 진도타워, 진도산책코스, 진도드라이브, 전남여행, 진도여행코스",
+    "date": "2026. 11. 19",
+    "author": "남도예술정원 공식 서포터즈",
+    "readTime": "6분",
+    "image": "/images/jindo-yongjangsa/jindo-yongjangsa-11.webp",
+    "content": `
+      <div class="max-w-4xl mx-auto space-y-8 text-neutral-800 leading-relaxed font-sans mt-4 px-2 md:px-0">
+        <!-- Hero Banner / 최적 줄바꿈 타이틀 영역 -->
+        <div class="space-y-4">
+          <div class="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-emerald-500/10 text-emerald-800 text-xs font-bold uppercase tracking-wider">
+            ☸️ 보물 석불좌상 & 서해랑길 진도 7코스 | 진도 고군면 용장사
+          </div>
+          <h1 class="text-3xl md:text-5xl font-serif font-bold text-neutral-900 leading-tight">
+            역사와 자연이 호흡하는 진도 고군면의 숨은 힐링 명소<br/>
+            <span class="text-emerald-700 font-sans block mt-1">“진도 용장사 & 보물 석불좌상”</span>
+            <span class="text-xl md:text-2xl text-neutral-600 font-light font-sans block mt-2">삼별초 항몽 투쟁의 산성 터부터 서해랑길 진도 7코스까지 호국 역사 탐방기</span>
+          </h1>
+          <p class="text-base md:text-lg text-neutral-600 font-light leading-relaxed">
+            옛 용장산성의 고즈넉한 돌담 계단을 올라 마주하는 보물 석조여래좌상의 온화한 미소와 분홍빛 꽃나무가 어우러진 산사 산책
+          </p>
+        </div>
+
+        
+        <div class="bg-[#f4faf6] border-emerald-100 p-6 md:p-8 rounded-3xl border shadow-sm">
+          <p class="text-base md:text-lg font-medium text-neutral-800 leading-relaxed">전라남도 진도의 수려한 산세 사이에 자리 잡은 용장성은 과연 어떠한 역사의 흔적과 숭고한 이야기를 간직하고 있을까요? 많은 분이 진도 하면 신비의 바다갈라짐이나 진도대교만을 떠올리시곤 하지만, 고려 시대 삼별초가 강화도에서 진도로 이동하여 대몽 항쟁의 거점으로 삼았던 진도 용장성(사적 제126호)에 들어서면 천년 역사의 무게감과 고즈넉한 풍경이 마음을 겸허하게 만들어 줍니다. 용장성 터 인근에 위치한 용장사 대웅전 안에는 보물로 지정된 석조여래좌상과 석조비로자나불좌상이 함께 모셔져 있어 역사적 가치와 문화재적 인상을 동시에 더해줍니다.</p>
+        </div>
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+          <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+            <img src="/images/jindo-yongjangsa/jindo-yongjangsa-01.webp" alt="진도 용장사 & 보물 석불좌상 사진 1" class="w-full h-72 md:h-80 object-cover" loading="lazy" />
+          </div>
+          <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+            <img src="/images/jindo-yongjangsa/jindo-yongjangsa-02.webp" alt="진도 용장사 & 보물 석불좌상 사진 2" class="w-full h-72 md:h-80 object-cover" loading="lazy" />
+          </div>
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">진도 고군면 용장리 마을 진입로 도로변에 도착하자 큼직하고 웅장하게 깎인 '용장성' 표석이 자리하고 있어 목적지에 잘 도착했음을 직관적으로 알려줍니다. 뒤편으로 한적한 시골 들녘과 비닐하우스, 그리고 낮게 깔린 산자락 풍경이 어우러지며 시골길 특유의 편안함과 한적한 휴식의 분위기를 뿜어냅니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/jindo-yongjangsa/jindo-yongjangsa-03.webp" alt="진도 용장사 & 보물 석불좌상 사진 3" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">용장성 주변은 코리아둘레길 중 하나인 '서해랑길 진도 7코스'의 주요 경유지로, 걷기 여행객들을 위한 지도 표지판이 세워져 있습니다. 진도 6코스와 7코스의 구체적인 연결 경로 및 현재 위치가 일목요연하게 안내되어 있어 도보 여행자들이 코스를 파악하고 안전하게 탐방을 이어가는 데 유용합니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/jindo-yongjangsa/jindo-yongjangsa-04.webp" alt="진도 용장사 & 보물 석불좌상 사진 4" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">삼별초의 숭고한 정신을 따라 걸을 수 있는 '삼별초 호국역사 탐방길 안내판'에는 벽파정, 연동마을, 선황산, 용장성으로 이어지는 총 4개의 다채로운 탐방 코스가 나타나 있습니다. 구간별 거리와 동선이 색깔별로 명확하게 표시되어 있어 체력에 맞는 맞춤형 산책 코스를 선택하기 좋습니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/jindo-yongjangsa/jindo-yongjangsa-05.webp" alt="진도 용장사 & 보물 석불좌상 사진 5" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">용장성 입구에 도달하면 수십 대의 차량이 동시에 주차할 수 있는 널찍한 아스팔트 전용 주차장이 눈앞에 시원하게 펼쳐집니다. 산자락 아래 탁 트인 공간에 주차장이 마련되어 있어 주말이나 성수기에도 차량 혼잡 없이 편안하게 차를 대고 탐방을 시작하실 수 있습니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/jindo-yongjangsa/jindo-yongjangsa-06.webp" alt="진도 용장사 & 보물 석불좌상 사진 6" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">유적지 산책로 입구 부근에는 정교하게 조각된 석조 용두 음수대와 함께 잠시 쉬어갈 수 있는 목재 정자 쉼터가 구비되어 있습니다. 연꽃 문양이 입체적으로 들어간 돌 우물 모양 음수대는 용장성의 명칭과 어우러져 이색적인 멋을 더해주며 산책 전후 목을 축이거나 쉬어가기 적합합니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/jindo-yongjangsa/jindo-yongjangsa-07.webp" alt="진도 용장사 & 보물 석불좌상 사진 7" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">주차장에서 시작해 용장사 법당으로 향하는 길은 경사가 완만하고 단정하게 정비된 콘크리트 오르막길로 이루어져 있습니다. 길 양옆으로 돌담과 나무들이 정겹게 늘어서 있어 싱그러운 산공기를 마시며 가벼운 걸음으로 호젓한 산책을 즐기기에 참 좋습니다.</p>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">용장사 내부를 담은 10초 영상입니다.</p>
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+          <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+            <img src="/images/jindo-yongjangsa/jindo-yongjangsa-08.webp" alt="진도 용장사 & 보물 석불좌상 사진 8" class="w-full h-72 md:h-80 object-cover" loading="lazy" />
+          </div>
+          <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+            <img src="/images/jindo-yongjangsa/jindo-yongjangsa-09.webp" alt="진도 용장사 & 보물 석불좌상 사진 9" class="w-full h-72 md:h-80 object-cover" loading="lazy" />
+          </div>
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">용장사 법당 내부로 들어서자 화려하게 단청이 입혀진 전각 안쪽에 웅장한 크기의 석조여래좌상이 좌정해 계신 모습이 눈에 들어옵니다. 은은한 불전 등불 빛과 어우러진 석불의 온화한 모습은 법당 내부에 감도는 분위기를 한층 숭고하고 평온하게 만들어 줍니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/jindo-yongjangsa/jindo-yongjangsa-10.webp" alt="진도 용장사 & 보물 석불좌상 사진 10" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">석불 뒤쪽 벽면에는 붉은색 색조를 중심으로 수많은 신중들이 정교하게 묘사된 웅장한 대형 신중탱화가 걸려 있어 시선을 사로잡습니다. 정교한 필선과 화려한 금빛 문양이 조화를 이루며 법당 내부를 한층 장엄하고 신성한 문화 예술 공간으로 완성해 줍니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/jindo-yongjangsa/jindo-yongjangsa-11.webp" alt="진도 용장사 & 보물 석불좌상 사진 11" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">용장사 경내 마당으로 발걸음을 옮기면 차분하게 피어난 분홍빛 꽃나무 사이로 정교하게 조성된 석탑과 한 쌍의 석등이 단아하게 균형을 이루고 있습니다. 푸른 산자락을 배경으로 기품 있게 서 있는 석탑은 용장사의 고즈넉한 사찰 분위기를 더욱 감성적으로 채워줍니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/jindo-yongjangsa/jindo-yongjangsa-12.webp" alt="진도 용장사 & 보물 석불좌상 사진 12" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">사찰 한구석에는 웅장한 범종이 안치된 범종각이 단단하게 자리 잡고 있으며, 지붕 아래 화려한 단청 문양이 기품을 더해줍니다. 범종 주위로는 안전 목재 펜스가 잘 둘러쳐져 있으며, 사찰의 고요함 속에서 울려 퍼질 종소리의 여운을 떠올려 보게 됩니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/jindo-yongjangsa/jindo-yongjangsa-13.webp" alt="진도 용장사 & 보물 석불좌상 사진 13" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">다른쪽으로 올라오는 용장사 가는길 입니다.높다란 옛 돌담 성벽 계단 입구에는 "용장사 입니다, 사찰경내 정숙"이라 적힌 직관적인 표지판이 세워져 있습니다. 돌을 하나하나 쌓아 올린 웅장한 돌담 계단은 삼별초가 궁궐로 삼았던 옛 용장산성의 역동적인 성벽 구조를 눈으로 직접 확인하게 해줍니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/jindo-yongjangsa/jindo-yongjangsa-14.webp" alt="진도 용장사 & 보물 석불좌상 사진 14" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">잔디와 보도블록이 잘 깔린 산책로 옆으로 '용장사 석불 좌상' 방향을 가리키는 큼직한 안내 기둥이 굳건하게 서 있습니다. 녹음이 우거진 수목 사이로 완만하게 이어지는 데크 산책로는 초행길 방문객도 헤매지 않고 석불이 모셔진 대웅전으로 올라갈 수 있도록 길을 친절히 인도해 줍니다</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/jindo-yongjangsa/jindo-yongjangsa-15.webp" alt="진도 용장사 & 보물 석불좌상 사진 15" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">용장성 탐방로 시작 지점 부근에는 큼직한 목재 'P 주차장' 표지목과 함께 삼별초 군사들의 역동적인 기상을 표현한 동상 조형물이 잔디밭에 조성되어 있습니다. 주차 공간 안내가 명확하게 잘 되어 있어 자차로 찾아오는 관광객들의 편의를 최우선으로 고려했음을 알 수 있습니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/jindo-yongjangsa/jindo-yongjangsa-16.webp" alt="진도 용장사 & 보물 석불좌상 사진 16" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">갈림길목에 세워진 종합 이정표는 용장성, 용장사, 화장실, 음수대의 방향을 한글과 영문, 한자로 정갈하게 명시하고 있습니다. 주변 환경과 조화롭게 어우러진 목재 이정표 덕분에 관람객들은 넓은 성터 안에서도 자신의 동선을 손쉽게 계획할 수 있습니다.</p>
+        <div class="pt-6 border-t border-neutral-100">
+          <h2 class="text-xl md:text-2xl font-serif font-bold text-neutral-900 flex items-center gap-2.5">
+            <span class="w-2 h-6 rounded-full bg-emerald-700 inline-block"></span>
+            함께 가기 좋은 주변 자연 관광지 코스
+          </h2>
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">진도 용장성 탐방 후 함께 연계하여 둘러보기 좋은 진도 고군면 및 의신면 인근의 수려한 자연 명소들을 소개합니다.</p>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed"><strong>당일치기 알짜 자연·역사 코스</strong></p>
+        <ul class="bg-neutral-50/90 p-6 rounded-2xl border border-neutral-200/70 space-y-2.5 text-sm md:text-base text-neutral-700 list-disc pl-8"><li><strong>코스</strong>: <strong>진도 용장성 및 용장사벽파진전첩비 &amp; 벽파정</strong>(이순신 장군 명량대첩 전승지) ➔ <strong>운림산방</strong>(조선시대 남종화의 거장 소치 허련 선생의 화실과 아름다운 연못) ➔ <strong>진도 타워 및 명량대첩 울돌목 스카이워크</strong></li></ul>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed"><strong>1박 2일 힐링 자연 코스</strong></p>
+        <ul class="bg-neutral-50/90 p-6 rounded-2xl border border-neutral-200/70 space-y-2.5 text-sm md:text-base text-neutral-700 list-disc pl-8"><li><strong>1일 차</strong>: 진도대교 도착 ➔ <strong>용장성 &amp; 용장사</strong>역사 탐방 ➔ <strong>운림산방 및 진도 쌍계사</strong>숲길 산책 ➔ <strong>진도 세방낙조 전망대</strong>(대한민국 최고 일몰 감상)</li><li><strong>2일 차</strong>: <strong>진도 갯벌습지보호지역 / 신비의 바다갈라짐 체험장진도 남도진성진도 타워</strong>관람 후 귀가</li></ul>
+        <div class="pt-6 border-t border-neutral-100">
+          <h2 class="text-xl md:text-2xl font-serif font-bold text-neutral-900 flex items-center gap-2.5">
+            <span class="w-2 h-6 rounded-full bg-emerald-700 inline-block"></span>
+            마치며
+          </h2>
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">진도 용장성은 고려 삼별초 대원들이 마지막까지 자주독립을 위해 붉은 피를 흘렸던 숭고한 역사와 용장사 석불의 단아한 은혜로움이 한데 어우러진 특별한 공간이었습니다. 화려하고 번잡한 관광지와 달리, 푸른 산자락과 옛 성터의 돌담 사이를 거닐며 진정한 휴식과 사색의 가치를 다시금 배울 수 있었습니다. 진도 여행을 계획 중이시라면 역사와 자연의 호흡을 직접 체감할 수 있는 진도 용장성에 꼭 들러 보시기를 권해드립니다. 긴 후기를 끝까지 읽어주신 방문객 분들께 감사드리며, 오늘도 평온하고 마음 따스한 하루 보내시길 바랍니다.</p>
+
+        <!-- 해시태그 -->
+        <div class="pt-8 border-t border-neutral-200">
+          <div class="flex flex-wrap gap-2 text-xs font-medium text-neutral-600">
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#진도여행</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#진도가볼만한곳</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#진도용장성</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#용장성</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#진도용장사</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#용장사석조여래좌상</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#삼별초</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#서해랑길진도7코스</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#진도역사여행</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#운림산방</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#벽파진</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#진도타워</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#진도산책코스</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#진도드라이브</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#전남여행</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#진도여행코스</span>
+          </div>
+        </div>
+      </div>
+    `
+  },
+  "j19-namdo-humanities-garden-tour": {
+    "id": "j19-namdo-humanities-garden-tour",
+    "regionId": "jindo",
+    "title": "운전 스트레스 제로! 버스만 타면 완성되는 \"남도한바퀴 인문 정원 여행\"\n바하정원·포레스트수목원·산이정원 전남 명품 정원 힐링 코스",
+    "description": "운전 걱정 없이 남도한바퀴 전용 버스로 떠나는 해남·완도 인문 정원 여행! 정도리 구계등 무장애 탐방로부터 바하정원 정원주와의 대화, 월송한우촌 점심, 포레스트(4est)수목원, 산이정원까지 36장의 현장 사진으로 담은 완벽 후기.",
+    "keywords": "남도예술정원, 남도한바퀴, 인문정원여행, 남도정원여행, 완도바하정원, 바하정원, 정도리구계등, 해남포레스트수목원, 4est수목원, 해남산이정원, 산이정원, 월송한우촌, 남도예술정원지역파트너, 광주송정역, 유스퀘어버스투어, 전남정원투어, 완도여행, 해남여행, 진도여행, 전남가볼만한곳, 남도여행, 정원여행자, 스탬프투어, 국내힐링여행",
+    "date": "2026. 11. 19",
+    "author": "남도예술정원 공식 서포터즈",
+    "readTime": "6분",
+    "image": "/images/namdo-garden-bus/namdo-garden-bus-31.webp",
+    "content": `
+      <div class="max-w-4xl mx-auto space-y-8 text-neutral-800 leading-relaxed font-sans mt-4 px-2 md:px-0">
+        <!-- Hero Banner / 최적 줄바꿈 타이틀 영역 -->
+        <div class="space-y-4">
+          <div class="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-emerald-500/10 text-emerald-800 text-xs font-bold uppercase tracking-wider">
+            🚌 남도한바퀴 명품 정원 인문학 버스투어 | 완도·해남·진도 권역
+          </div>
+          <h1 class="text-3xl md:text-5xl font-serif font-bold text-neutral-900 leading-tight">
+            운전 스트레스 제로! 뚜벅이도 완벽하게 즐기는 전남 명품 정원<br/>
+            <span class="text-emerald-700 font-sans block mt-1">“남도한바퀴 인문 정원 여행”</span>
+            <span class="text-xl md:text-2xl text-neutral-600 font-light font-sans block mt-2">정도리 구계등 · 바하정원 · 월송한우촌 · 4est수목원 · 산이정원 원데이 버스투어</span>
+          </h1>
+          <p class="text-base md:text-lg text-neutral-600 font-light leading-relaxed">
+            광주송정역과 유스퀘어에서 출발해 정원주의 철학이 깃든 남도 대표 민간정원 3곳과 다도해 몽돌해변, 한우 불고기 전골 미식까지 하루에 만끽하는 정원 인문학 기행
+          </p>
+        </div>
+
+        
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/namdo-garden-bus/namdo-garden-bus-01.webp" alt="남도한바퀴 인문 정원 여행 사진 1" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <div class="bg-[#f4faf6] border-emerald-100 p-6 md:p-8 rounded-3xl border shadow-sm">
+          <p class="text-base md:text-lg font-medium text-neutral-800 leading-relaxed">남도한바퀴 버스투어로 완도 바하정원과 정도리 구계등, 해남 4est수목원과 산이정원까지 한 번에 돌아보는 특별한 정원 인문학 여행을 다녀왔습니다. 광주송정역이나 유스퀘어에서 전용 버스에 올라타기만 하면 운전 걱정 없이 남도의 아름다운 민간정원과 수목원, 먹거리와 계절 축제까지 여유 있게 즐길 수 있는 최고의 남도 힐링 프로그램입니다. 정원주가 들려주는 깊이 있는 정원 이야기와 향토 맛집의 별미, 그리고 파도 소리가 울려 퍼지는 몽돌해변 산책까지 결합된 이번 투어의 생생한 현장 기록과 함께 주변 자연 관광지 연계 코스까지 확인해보세요!</p>
+        </div>
+        <div class="bg-gradient-to-br from-emerald-50/90 to-teal-50/40 border-emerald-200/80 p-6 md:p-8 rounded-3xl border shadow-sm">
+          <h3 class="text-lg md:text-xl font-serif font-bold text-emerald-950 mb-3 flex items-center gap-2">📌  남도한바퀴 정원 투어 기본 안내 및 이용 정보</h3><ul class="text-sm text-neutral-700 space-y-2 pl-4 list-disc"><li><strong>출발지 및 승차 장소</strong>: 광주유스퀘어터미널(전남 광주 서구 무진대로 904) 및 광주송정역(전남 광주 광산구 송정동)</li><li><strong>투어 코스</strong>: 광주 출발 ➔ 완도 정도리 구계등 &amp; 바하정원 ➔ 해남 월송한우촌(점심식사) ➔ 해남 4est수목원(포레스트수목원) ➔ 해남 산이정원 ➔ 광주 도착</li><li><strong>이용시간 및 총 소요시간</strong>: 08:00 광주 출발 ~ 18:30 광주 도착 (약 10시간 30분 소요)</li><li><strong>이용 요금 및 포함 사항</strong>: 남도한바퀴 버스 탑승료 (일반적으로 1~2만 원 대의 저렴한 금액으로 운영되며 관광지 입장료 및 식사비는 개별 부담)</li><li><strong>자차 이용 시 참고사항</strong>: 각 정원 방문 시 완도 구계등 주차장(완도읍 정도리 91), 포레스트수목원 주차장(해남군 현산면 봉동길 232-118), 산이정원 주차장(해남군 산이면 구성리 664)에 대형 주차공간이 마련되어 있습니다.</li></ul>
+        </div>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/namdo-garden-bus/namdo-garden-bus-02.webp" alt="남도한바퀴 인문 정원 여행 사진 2" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">'정원에서 만나는 이야기와 사색의 하루'라는 슬로건처럼 남도의 아름다운 정원들을 거닐며 사람과 자연, 그리고 삶을 나눌 수 있는 독특한 기획 투어예요. 바하정원, 4est수목원, 산이정원을 하루 만에 순회하는 알찬 일정으로 기대감이 물씬 풍겨오는 출발점입니다.</p>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">오전 8시 광주유스퀘어와 광주송정역에서 출발하여 완도로 이동한 뒤, 해남으로 넘어가 점심 식사와 수목원 탐방을 이어가는 알찬 코스로 구성되어 있습니다. 이동 시간과 각 장소별 관람 시간이 체계적으로 배정되어 있어 여유로우면서도 기품 있게 탐방을 즐길 수 있습니다.</p>
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+          <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+            <img src="/images/namdo-garden-bus/namdo-garden-bus-03.webp" alt="남도한바퀴 인문 정원 여행 사진 3" class="w-full h-72 md:h-80 object-cover" loading="lazy" />
+          </div>
+          <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+            <img src="/images/namdo-garden-bus/namdo-garden-bus-04.webp" alt="남도한바퀴 인문 정원 여행 사진 4" class="w-full h-72 md:h-80 object-cover" loading="lazy" />
+          </div>
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">투어 내내 정갈하고 안락한 이동을 도와준 <strong>남도한바퀴 전용 버스 내부</strong>의 전경입니다. 좌석마다 배치된 남도 여행 안내 리플렛을 살펴보며 이동할 수 있어 장거리 주행 시에도 피로함 없이 편안한 시간을 보낼 수 있습니다. 창밖으로 차분하게 지나가는 남도의 시골 풍광과 청정한 다도해 바다를 조망하는 버스 여행만의 호젓한 운치가 느껴집니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/namdo-garden-bus/namdo-garden-bus-05.webp" alt="남도한바퀴 인문 정원 여행 사진 5" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">투어 버스에 탑승했던 <strong>광주송정역 앞 광장</strong>의 탁 트인 풍경입니다. 철도를 이용해 남도로 내려오는 방문객들도 송정역 광장에서 바로 탑승할 수 있어 이동의 편의성이 매우 뛰어납니다. 시원한 바람이 불어오는 역전 광장에서 투어 일행들과 인사를 나누며 기대감을 안고 남도 정원 여행의 첫발을 내딛습니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/namdo-garden-bus/namdo-garden-bus-06.webp" alt="남도한바퀴 인문 정원 여행 사진 6" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">완도의 첫 관문인 <strong>정도리 구계등 몽돌해변 무장애탐방로 종합안내 촉지도</strong>입니다. 명승 제3호로 지정된 정도리 구계등의 특이한 자갈 지형과 해변 뒤편을 감싸고 있는 상록수림 방풍림 조성이 상세히 설명되어 있습니다. 교통약자도 편안히 바다와 숲을 탐방할 수 있도록 무장애 목재 데크길이 정교하게 갖추어져 있어 배려가 느껴집니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/namdo-garden-bus/namdo-garden-bus-07.webp" alt="남도한바퀴 인문 정원 여행 사진 7" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">구계등 해변과 바하정원으로 유기적으로 이어지는 <strong>상록수림 속 무장애 탐방로</strong>의 고즈넉한 길입니다. 경사가 완만한 목재 데크가 수목 사이로 길게 펼쳐져 있어 가벼운 걸음으로 숲길 산책의 정취를 누릴 수 있습니다. 울창한 상록수가 풍기는 푸른 향기와 바다에서 불어오는 시원한 바닷바람이 어우러져 한없는 평온함을 선물합니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/namdo-garden-bus/namdo-garden-bus-08.webp" alt="남도한바퀴 인문 정원 여행 사진 8" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">다도해해상국립공원 구역에 속한 <strong>정도리 일원 세부 안내도</strong>입니다. 탐방로 코스와 편의시설, 주요 관람 명소들이 알기 쉽게 표시되어 있어 현장 탐방 시 유용한 이정표가 되어줍니다. 자연 생태 보호 구역답게 식물 채취 금지 및 환경 보호에 관한 수칙들이 명확하게 게재되어 있습니다.</p>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">해변에 들어서서 바라본 <strong>완도 정도리 구계등의 탁 트인 바다</strong>풍경입니다. 크고 작은 자갈들이 해변을 덮고 있으며, 아득한 수평선 너머로 다도해의 섬들이 수묵화처럼 그윽하게 펼쳐집니다. 파도가 밀려왔다 쓸려나갈 때마다 갯돌들이 서로 부딪히며 내는 '자르르' 소리가 마음의 피로를 차분히 씻어내 줍니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/namdo-garden-bus/namdo-garden-bus-09.webp" alt="남도한바퀴 인문 정원 여행 사진 9" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed"><strong>몽돌자갈밭 근처 어린이 숲속 놀이터</strong>의 아늑한 풍경입니다. 숲의 품 안에 자연 친화적인 목재 슬라이드와 놀이 시설이 동화 속 한 장면처럼 정갈하게 조성되어 있습니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/namdo-garden-bus/namdo-garden-bus-10.webp" alt="남도한바퀴 인문 정원 여행 사진 10" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed"><strong>카바나 스타일의 캠 및 숙박 시설</strong>전경입니다. 초록빛 잔디밭 위에 목조 구조와 화이트 톤의 천막이 조화롭게 어우러져 방문객들이 편안하게 쉬어갈 수 있는 힐링 공간을 제공합니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/namdo-garden-bus/namdo-garden-bus-11.webp" alt="남도한바퀴 인문 정원 여행 사진 11" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">자연석과 부드러운 곡선 미가 돋보이는 <strong>바하정원 입구 안내 조형물</strong>과 산책로 풍경입니다. 붉게 물든 댑싸리와 정성스럽게 가꿔진 정원수가 조화롭게 배치되어 있어 방문객들을 다정하게 맞이해 줍니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/namdo-garden-bus/namdo-garden-bus-12.webp" alt="남도한바퀴 인문 정원 여행 사진 12" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">정원 한가운데 묵직하게 자리 잡은 기암괴석과 주변을 둘러싼 <strong>자연석 조경 및 산책로</strong>의 모습입니다. 작은 자갈이 깔린 길을 따라 걸으며 다채로운 야생화와 정원수를 감상할 수 있도록 세심하게 가꾸어져 있습니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/namdo-garden-bus/namdo-garden-bus-13.webp" alt="남도한바퀴 인문 정원 여행 사진 13" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">모던하고 세련된 건축 양식이 돋보이는 <strong>바하정원 건물 앞 광장과 구형 조형물</strong>전경입니다. 하얀 자갈 마당 위에 놓인 둥근 돌 조형물이 예술적인 감성을 더해주며, 주변의 푸른 식생과 어우러져 이국적인 분위기를 자아냅니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/namdo-garden-bus/namdo-garden-bus-14.webp" alt="남도한바퀴 인문 정원 여행 사진 14" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">따스한 조명과 아늑한 인테리어로 꾸며진 <strong>바하정원 실내 카페 내부</strong>의 모습입니다. 투어 일행들이 편안한 의자에 앉아 따뜻한 차를 마시며 여유로운 담소를 나누고 휴식을 취하는 공간입니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/namdo-garden-bus/namdo-garden-bus-15.webp" alt="남도한바퀴 인문 정원 여행 사진 15" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">카페 실내에서 방문객들을 향해 정원의 역사와 가치에 대해 깊이 있는 이야기를 들려주고 있는 <strong>정원주의 모습</strong>입니다. 정원을 가꾸며 얻은 삶의 철학과 인문학적 사색을 나누어 주는 시간이라 여행의 깊이를 더해줍니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/namdo-garden-bus/namdo-garden-bus-16.webp" alt="남도한바퀴 인문 정원 여행 사진 16" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">커피부터 수제청으로 만든 전통차와 에이드류까지 다양하게 준비되어 있는 <strong>바하 카페 메뉴판</strong>입니다. 취향에 따라 싱그러운 수제차나 시원한 음료를 선택하여 정원의 풍경을 바라보며 즐길 수 있습니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/namdo-garden-bus/namdo-garden-bus-17.webp" alt="남도한바퀴 인문 정원 여행 사진 17" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">남도예술정원 지역파트너이자 든든한 점심 식사를 책임지는 <strong>해남 월송한우촌 식당 외관</strong>입니다. 깔끔한 건물 앞에 넉넉한 주차 공간이 마련되어 있어 단체 방문객들도 편안하게 이용할 수 있습니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/namdo-garden-bus/namdo-garden-bus-18.webp" alt="남도한바퀴 인문 정원 여행 사진 18" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">식탁 위에서 신선한 채소와 버섯이 듬뿍 얹어진 채 먹음직스럽게 끓어오르는 <strong>월송한우촌의 대표 불고기 전골</strong>입니다. 깊고 진한 육수와 부드러운 고기의 풍미가 어우러져 남도 여행의 즐거움을 한층 더해줍니다</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/namdo-garden-bus/namdo-garden-bus-19.webp" alt="남도한바퀴 인문 정원 여행 사진 19" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">메인 요리와 함께 곁들여지는 <strong>정갈한 밑반찬과 4첩 나물·김치류 상차림</strong>입니다. 남도 특유의 깊은 손맛이 느껴지는 감칠맛 나는 반찬들이 불고기 전골과 완벽한 조화를 이룹니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/namdo-garden-bus/namdo-garden-bus-20.webp" alt="남도한바퀴 인문 정원 여행 사진 20" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">나무 소재의 따스한 인테리어 속에서 일행들과 정답게 모여 앉아 식사를 즐기는 <strong>월송한우촌 식당 내부 전경</strong>입니다. 환기 시설과 넓은 테이블 배치가 잘 갖추어져 있어 여럿이 모여 담소를 나누며 식사하기에 참 안성맞춤입니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/namdo-garden-bus/namdo-garden-bus-21.webp" alt="남도한바퀴 인문 정원 여행 사진 21" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">해남 포레스트수목원으로 올라가는 <strong>수목원 입구 계단과 큼직한 안내 표지판</strong>의 모습입니다. 푸른 나무들과 서양억새(팜파스)가 우거진 언덕길을 따라 계단을 오르면 오롯이 자연에 몰입하는 숲길 산책이 시작됩니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/namdo-garden-bus/namdo-garden-bus-22.webp" alt="남도한바퀴 인문 정원 여행 사진 22" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">수목원 입구에 비치된 <strong>전남 구석구석 수목원 &amp; 정원 스탬프 투어 안내 배너</strong>입니다. 스탬프 투어북을 수령하고 주요 정원들을 탐방하며 스탬프를 모으면 소정의 기념품도 제공받을 수 있어 여행의 소소한 재미를 더해줍니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/namdo-garden-bus/namdo-garden-bus-23.webp" alt="남도한바퀴 인문 정원 여행 사진 23" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">수목원 매표소에 게재되어 있는 <strong>이용요금 안내판과 무인 입장권 발매기</strong>입니다. 관람 시간(08:00~19:00)과 성인, 청소년, 해남군민 등 계절 및 대상별 입장료가 세심하게 안내되어 있어 이용하기에 매우 편리합니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/namdo-garden-bus/namdo-garden-bus-24.webp" alt="남도한바퀴 인문 정원 여행 사진 24" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">수목원 내에 위치한 <strong>감성적인 분위기의 수목원 카페 실내 정경</strong>입니다. 원목 테이블과 라탄 의자, 통창 밖으로 보이는 푸른 수목 풍경이 어우러져 산책 후 여유롭게 차 한 잔을 기울이며 쉬어가기에 좋습니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/namdo-garden-bus/namdo-garden-bus-25.webp" alt="남도한바퀴 인문 정원 여행 사진 25" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">커피류부터 수국차, 상황버섯차, 쌍화차 등 몸에 좋은 건강차까지 정성스럽게 수록된 <strong>카페 메뉴판</strong>입니다. 숲길을 거닐고 난 뒤 따뜻한 수제 차 한 잔으로 깊은 힐링을 선사받을 수 있습니다</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/namdo-garden-bus/namdo-garden-bus-26.webp" alt="남도한바퀴 인문 정원 여행 사진 26" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">수목원 산책로 한쪽에 세워진 <strong>포레스트(4est)수목원의 4가지 의미(Star, Stone, Story, Study) 안내판</strong>입니다. 하늘의 별, 땅의 기암괴석, 곳곳의 이야기, 배움거리가 가득한 숲속 수목원이라는 독특한 가치를 친절히 설명해 줍니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/namdo-garden-bus/namdo-garden-bus-27.webp" alt="남도한바퀴 인문 정원 여행 사진 27" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">알록달록한 집 모양 프레임과 나무 벤치가 팜파스 억새와 어우러진 <strong>야외 포토존 산책로</strong>입니다. 계절마다 각기 다른 매력을 풍기는 가든 속에서 예쁜 사진과 추억을 남기기에 더없이 훌륭한 공간입니다</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/namdo-garden-bus/namdo-garden-bus-28.webp" alt="남도한바퀴 인문 정원 여행 사진 28" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">투어의 마지막 코스인 <strong>해남 산이정원 입구의 종합 안내판과 해설 현장</strong>입니다. '산이 정원이 됩니다'라는 문구처럼 미래형 정원을 지향하는 산이정원의 다채로운 예술 작품 및 구역별 특색을 전문 해설사의 설명으로 들을 수 있어 유익합니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/namdo-garden-bus/namdo-garden-bus-29.webp" alt="남도한바퀴 인문 정원 여행 사진 29" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">산이정원 매표소에 부착된 <strong>이용 요금 및 관람 시간 안내판</strong>입니다. 주중·주말 일반 및 단체 요금, 해남군민 할인 혜택, 동계와 하계 운영시간이 꼼꼼하게 표기되어 있어 방문 시 참고하기 좋습니다.</p>
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+          <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+            <img src="/images/namdo-garden-bus/namdo-garden-bus-30.webp" alt="남도한바퀴 인문 정원 여행 사진 30" class="w-full h-72 md:h-80 object-cover" loading="lazy" />
+          </div>
+          <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+            <img src="/images/namdo-garden-bus/namdo-garden-bus-31.webp" alt="남도한바퀴 인문 정원 여행 사진 31" class="w-full h-72 md:h-80 object-cover" loading="lazy" />
+          </div>
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">'좋은날 좋은너랑' 가랜드와 귀여운 여우 캐릭터 조형물이 눈길을 사로잡는 <strong>산이정원 SANIGARDEN 입구 포토존</strong>입니다. 푸른 덩굴나무와 조형물이 어우러져 기념사진을 남기며 정원으로 들어서는 반가운 마중물 역할을 합니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/namdo-garden-bus/namdo-garden-bus-32.webp" alt="남도한바퀴 인문 정원 여행 사진 32" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">약속의정원, 산이폭포, 맞이정원, 가든뮤지엄 등의 방향을 알록달록하게 안내하는 <strong>산이정원 구역별 이정표</strong>입니다. 수목과 꽃이 우거진 길목마다 방향 표지판이 친절하게 설치되어 있어 넓은 정원을 효율적으로 탐방할 수 있습니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/namdo-garden-bus/namdo-garden-bus-33.webp" alt="남도한바퀴 인문 정원 여행 사진 33" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">흙길과 포장 산책로가 나뉘는 지점에 고즈넉하게 들어선 <strong>약속의 숲 입구 표지석</strong>의 모습입니다. 나무 울타리와 야생화가 어우러진 길을 따라 걸으며 차분한 숲의 안식을 느낄 수 있는 대표 힐링 구역입니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/namdo-garden-bus/namdo-garden-bus-34.webp" alt="남도한바퀴 인문 정원 여행 사진 34" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">하얀 곡선 아치 구조물과 정갈하게 정돈된 정원수들이 감성을 자극하는 <strong>약속의 정원 아치 파고라 포토존</strong>입니다. 유럽풍 돔 구조와 상록수가 어우러져 동화 속 한 장면 같은 우아한 분위기를 자아내며 인생샷을 담아내기에 제격입니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/namdo-garden-bus/namdo-garden-bus-35.webp" alt="남도한바퀴 인문 정원 여행 사진 35" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">양 팔을 넓게 벌린 거대한 인체 형상 위에 수많은 사람 모형이 얹어진 <strong>산이정원 시그니처 대형 조각상</strong>입니다. 자연과 인간의 상생과 약속을 형상화한 작품으로, 그 거대한 규모와 예술성에 방문객들의 탄성이 절로 이어집니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/namdo-garden-bus/namdo-garden-bus-36.webp" alt="남도한바퀴 인문 정원 여행 사진 36" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">모든 정원 일정을 마치고 은은한 무드 조명 아래 광주로 안전하게 복귀하는 <strong>남도한바퀴 버스 내부 야경</strong>입니다. 하루 동안 완도와 해남의 명품 정원들을 오롯이 둘러본 만족감을 품고 편안하게 휴식을 취하며 여행을 마무리합니다.</p>
+
+        <!-- 해시태그 -->
+        <div class="pt-8 border-t border-neutral-200">
+          <div class="flex flex-wrap gap-2 text-xs font-medium text-neutral-600">
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#남도예술정원</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#남도한바퀴</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#인문정원여행</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#남도정원여행</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#완도바하정원</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#바하정원</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#정도리구계등</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#해남포레스트수목원</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#4est수목원</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#해남산이정원</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#산이정원</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#월송한우촌</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#남도예술정원지역파트너</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#광주송정역</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#유스퀘어버스투어</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#전남정원투어</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#완도여행</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#해남여행</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#진도여행</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#전남가볼만한곳</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#남도여행</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#정원여행자</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#스탬프투어</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#국내힐링여행</span>
+          </div>
+        </div>
+      </div>
+    `
+  },
+  "j20-jindo-supum-fishery": {
+    "id": "j20-jindo-supum-fishery",
+    "regionId": "jindo",
+    "title": "3대째 어부 집안의 자연산 한 상, 진도읍 맛집 \"수품어장\"\n남도예술정원 공식 지역파트너 10% 할인 혜택 방문기",
+    "description": "식객 허영만의 백반기행이 인정한 진도읍 자연산 횟집 수품어장! 3대째 어부 집안이 차려내는 자연산 회덮밥, 물회, 고등어구이백반 후기와 남도예술정원 공식 지역파트너 10% 할인 혜택 안내.",
+    "keywords": "진도맛집, 수품어장, 진도읍맛집, 남도예술정원, 남도예술정원지역파트너, 진도여행, 진도가볼만한곳, 백반기행진도, 진도회덮밥, 진도물회, 진도생선구이, 도캐도캐, 망고보이, 꿈의세계카페, 모도상회, 진도당일치기, 진도1박2일, 전남진도여행",
+    "date": "2026. 11. 19",
+    "author": "남도예술정원 공식 서포터즈",
+    "readTime": "6분",
+    "image": "/images/jindo-supum/jindo-supum-13.webp",
+    "content": `
+      <div class="max-w-4xl mx-auto space-y-8 text-neutral-800 leading-relaxed font-sans mt-4 px-2 md:px-0">
+        <!-- Hero Banner / 최적 줄바꿈 타이틀 영역 -->
+        <div class="space-y-4">
+          <div class="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-sky-500/10 text-sky-800 text-xs font-bold uppercase tracking-wider">
+            🐟 남도예술정원 공식 지역파트너 & 백반기행 맛집 | 진도읍 수품어장
+          </div>
+          <h1 class="text-3xl md:text-5xl font-serif font-bold text-neutral-900 leading-tight">
+            3대째 어부 집안의 자연산 바다 한 상, 백반기행 진도 맛집<br/>
+            <span class="text-sky-700 font-sans block mt-1">“진도읍 수품어장”</span>
+            <span class="text-xl md:text-2xl text-neutral-600 font-light font-sans block mt-2">남도예술정원 지역파트너 전 메뉴 10% 할인 혜택과 연계 카페·관광지 완벽 코스</span>
+          </h1>
+          <p class="text-base md:text-lg text-neutral-600 font-light leading-relaxed">
+            수품항에서 매일 직접 조업한 싱싱한 자연산 회덮밥과 살얼음 수품물회, 생선구이백반, 전복장·간장게장 밑반찬까지 푸짐하게 차려지는 진도의 맛
+          </p>
+        </div>
+
+        
+        <div class="bg-[#f3f9fc] border-sky-100 p-6 md:p-8 rounded-3xl border shadow-sm">
+          <p class="text-base md:text-lg font-medium text-neutral-800 leading-relaxed">아름다운 정원을 거닐며 시작된 남도 여행이 지역의 건강한 맛과 따뜻한 인심으로 자연스럽게 이어진다면 얼마나 즐거울까요? 오늘은 정원을 중심으로 지역을 여행하는 새로운 길을 만들어가는 <strong>'남도예술정원'의 공식 지역파트너 매장</strong>중 한 곳인 전남 진도읍의 명소, <strong>수품어장</strong>을 다녀온 생생한 이야기를 들려드리려고 합니다! 3대째 이어온 어부 집안에서 수품항 서부길만으로 매일 직접 조업한 싱싱한 자연산 생선을 선보이는 이곳은 이미 방송에서도 여러 차례 소개될 만큼 현지인과 여행객 모두에게 사랑받는 곳인데요. 특히 남도예술정원 여행자와 지역파트너 매장을 이용하는 분들에게는 <strong>전 메뉴 10% 할인 혜택</strong>까지 제공되어 더욱 기분 좋은 한 끼를 경험할 수 있었습니다.</p>
+        </div>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/jindo-supum/jindo-supum-01.webp" alt="진도읍 수품어장 사진 1" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">진도읍 시내 거리에 자리한 <strong>수품어장</strong>입구 전경입니다. 건물 전면에 걸린 전광판과 은은한 조명, 그리고 유리문에 새겨진 어부 캐릭터 로고가 어우러져 친근하고 활기찬 첫인상을 전해줍니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/jindo-supum/jindo-supum-02.webp" alt="진도읍 수품어장 사진 2" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">매장 입구 앞에는 <strong>'남도예술정원 여행주간' 공식 지역파트너 매장</strong>임을 알리는 화사한 안내 입간판과 함께 방송 출연 사진들이 나란히 세워져 있습니다. 정원 여행객을 반갑게 맞이하는 따뜻한 분위기가 입구에서부터 느껴집니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/jindo-supum/jindo-supum-03.webp" alt="진도읍 수품어장 사진 3" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">식당 안쪽으로 들어서면 나무 바닥과 흰 테이블보가 어우러진 편안한 홀 공간이 펼쳐집니다. 주방 앞 벽면에는 수품항에서 직접 조업한 자연산 생선을 사용한다는 자부심 어린 문구가 적혀 있어 음식에 대한 신뢰를 더해줍니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/jindo-supum/jindo-supum-04.webp" alt="진도읍 수품어장 사진 4" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">홀 내부는 가족 모임이나 단체 여행객도 여유롭게 식사할 수 있도록 여러 개의 테이블이 넉넉한 간격으로 배치되어 있습니다. 밝은 조명과 화분들이 어우러져 아늑하고 쾌적한 식사 환경을 만들어 줍니다</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/jindo-supum/jindo-supum-05.webp" alt="진도읍 수품어장 사진 5" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">벽면에 걸린 커다란 <strong>메뉴판</strong>에는 자연산회정식부터 생선구이백반, 물회, 각종 탕과 조림류까지 바다의 풍미를 담은 다양한 메뉴와 가격이 한눈에 보기 쉽게 안내되어 있습니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/jindo-supum/jindo-supum-06.webp" alt="진도읍 수품어장 사진 6" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">본격적인 식사에 앞서 기본 찬들이 테이블 위에 하나둘 놓이기 시작합니다. 아삭한 무김치와 배추김치, 부드러운 두부 반찬이 소박하면서도 정겨운 남도 밥상의 시작을 알려줍니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/jindo-supum/jindo-supum-07.webp" alt="진도읍 수품어장 사진 7" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">이어서 바다의 내음이 물씬 풍기는 귀한 반찬들이 곁들여집니다. 윤기가 흐르는 전복장과 매콤한 양념게장, 신선한 나물 반찬들이 어우러져 메인 요리가 나오기 전부터 입맛을 돋워줍니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/jindo-supum/jindo-supum-08.webp" alt="진도읍 수품어장 사진 8" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">안쪽 별실 공간 역시 미닫이문으로 구분되어 있어 일행들과 오붓하게 대화를 나누며 식사하기 좋은 아늑한 분위기를 갖추고 있습니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/jindo-supum/jindo-supum-09.webp" alt="진도읍 수품어장 사진 9" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">향긋한 파김치와 감칠맛이 살아 있는 양념게장은 흰쌀밥과 함께 곁들이기 좋은 남도 특유의 깊은 손맛을 그대로 보여줍니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/jindo-supum/jindo-supum-10.webp" alt="진도읍 수품어장 사진 10" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">그릇에 담긴 전복장은 탱글탱글한 식감과 은은한 간장 양념이 조화를 이루며 진도 바다의 신선함을 오롯이 전해줍니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/jindo-supum/jindo-supum-11.webp" alt="진도읍 수품어장 사진 11" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">커다란 흰 그릇 가득 채소와 김 가루, 초고추장, 그리고 윤기 흐르는 두툼한 자연산 회가 듬뿍 올라간 <strong>회덮밥</strong>이 등장했습니다. 신선한 채소와 탱글한 횟감이 어우러져 보기만 해도 입안 가득 바다의 향긋함이 퍼지는 듯한 비주얼입니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/jindo-supum/jindo-supum-12.webp" alt="진도읍 수품어장 사진 12" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">붉은 살얼음 양념이 수북하게 덮인 <strong>수품물회</strong>를 젓가락으로 살살 비벼주는 순간입니다. 시원하고 매콤달콤한 육수와 쫄깃한 자연산 회의 조화가 식욕을 한껏 돋워줍니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/jindo-supum/jindo-supum-13.webp" alt="진도읍 수품어장 사진 13" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">회덮밥과 물회, 미역국과 공깃밥, 그리고 전복장과 양념게장 등 맛깔스러운 밑반찬들이 테이블을 가득 채웠습니다. 일행과 함께 둘러앉아 숟가락을 들기 전, 보는 것만으로도 마음이 든든해지는 푸짐한 남도 바다 밥상입니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/jindo-supum/jindo-supum-14.webp" alt="진도읍 수품어장 사진 14" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">옆 테이블에서는 노릇하게 구워진 커다란 생선이 접시 가득 담긴 또 다른 이곳의 대표 메뉴인 <strong>생선구이백반</strong>을 앞에 두고 즐거운 식사가 이어지고 있습니다. 갓 지은 흰쌀밥과 구수한 국물, 다채로운 나물 반찬이 어우러져 남녀노소 누구나 좋아할 따뜻한 한 끼 분위기를 보여줍니다.</p>
+        <div class="pt-6 border-t border-neutral-100">
+          <h2 class="text-xl md:text-2xl font-serif font-bold text-neutral-900 flex items-center gap-2.5">
+            <span class="w-2 h-6 rounded-full bg-sky-700 inline-block"></span>
+            ☕ 함께 들르기 좋은 진도 '남도예술정원 지역파트너' 카페 소개
+          </h2>
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">수품어장에서 든든하고 맛있는 식사를 마친 뒤에는, 마찬가지로 <strong>각 매장별 지정 메뉴 10% 할인 혜택</strong>을 제공하는 진도 내 남도예술정원 지역파트너 카페에 들러 여유로운 티타임을 즐겨보세요!</p>
+        <ul class="bg-neutral-50/90 p-6 rounded-2xl border border-neutral-200/70 space-y-2.5 text-sm md:text-base text-neutral-700 list-disc pl-8"><li><strong>꿈의세계카페</strong>(진도군 군내면 명량대첩로 37) : 할인대상 메뉴 <strong>수제유자차, 수제생강차</strong></li><li><strong>도캐도캐</strong>(진도읍 서문1길) : 할인대상 메뉴 <strong>진돗개빵(9구/3구), 진도대파빵</strong></li><li><strong>망고보이</strong>(진도읍 교동3길 46) : 할인대상 메뉴 <strong>전 메뉴</strong></li><li><strong>모도상회</strong>(진도군 의신면 초평길 54) : 할인대상 메뉴 <strong>전 메뉴</strong></li></ul>
+        <div class="pt-6 border-t border-neutral-100">
+          <h2 class="text-xl md:text-2xl font-serif font-bold text-neutral-900 flex items-center gap-2.5">
+            <span class="w-2 h-6 rounded-full bg-sky-700 inline-block"></span>
+            수품어장과 함께 가기 좋은 진도 주변 자연 관광지 추천
+          </h2>
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">맛있는 진도 밥상과 지역파트너 카페 투어를 즐기셨다면, 차로 10~30분 거리에 있는 진도의 수려한 자연 명소들을 함께 엮어 알찬 여행 코스를 완성해 보세요!</p>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed"><strong>정원과 바다, 맛집을 한 번에 즐기는 당일치기 코스</strong></p>
+        <ul class="bg-neutral-50/90 p-6 rounded-2xl border border-neutral-200/70 space-y-2.5 text-sm md:text-base text-neutral-700 list-disc pl-8"><li><strong>추천 동선</strong>: <strong>운림산방 &amp; 남도전통미술관 산책 (오전)진도읍 수품어장 점심 식사도캐도캐 또는 망고보이 카페 티타임세방낙조 전망대</strong>(다도해의 크고 작은 섬들 사이로 지는 황홀한 일몰 감상 후 귀가)</li></ul>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed"><strong>진도의 자연과 문화를 깊이 만끽하는 1박 2일 힐링 코스</strong></p>
+        <ul class="bg-neutral-50/90 p-6 rounded-2xl border border-neutral-200/70 space-y-2.5 text-sm md:text-base text-neutral-700 list-disc pl-8"><li><strong>1일 차</strong>: 진도대교 &amp; 울돌목 스카이워크 ➔ <strong>꿈의세계카페진도읍 수품어장 저녁 식사</strong>➔ 숙소 체크인</li><li><strong>2일 차</strong>: <strong>신비의 바닷길 체험관 &amp; 가계해변 산책모도상회 카페 휴식운림산방 &amp; 첨찰산 숲길진도개테마파크</strong>관람 후 귀가</li></ul>
+        <div class="pt-6 border-t border-neutral-100">
+          <h2 class="text-xl md:text-2xl font-serif font-bold text-neutral-900 flex items-center gap-2.5">
+            <span class="w-2 h-6 rounded-full bg-sky-700 inline-block"></span>
+            마치며
+          </h2>
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">3대째 어부 집안의 자부심이 담긴 신선한 회덮밥과 시원한 물회, 노릇한 생선구이 밥상부터 정원 여행자를 반겨주는 따뜻한 지역파트너 할인 혜택까지, <strong>진도 수품어장</strong>에서의 시간은 여행의 즐거움을 한층 더 깊게 만들어 주었습니다. 정원에서 시작된 발걸음이 동네 맛집과 카페로 이어지며 지역의 매력을 온전히 느끼게 해주는 남도예술정원 여행길처럼, 여러분도 이번 주말에는 아름다운 자연과 건강한 맛이 살아 숨 쉬는 전남 진도로 기분 좋은 미식 여행을 떠나보시는 건 어떨까요? 오늘도 행복하고 맛있는 여행 되세요!</p>
+
+        <!-- 해시태그 -->
+        <div class="pt-8 border-t border-neutral-200">
+          <div class="flex flex-wrap gap-2 text-xs font-medium text-neutral-600">
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-sky-50 hover:text-sky-700 transition-colors">#진도맛집</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-sky-50 hover:text-sky-700 transition-colors">#수품어장</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-sky-50 hover:text-sky-700 transition-colors">#진도읍맛집</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-sky-50 hover:text-sky-700 transition-colors">#남도예술정원</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-sky-50 hover:text-sky-700 transition-colors">#남도예술정원지역파트너</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-sky-50 hover:text-sky-700 transition-colors">#진도여행</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-sky-50 hover:text-sky-700 transition-colors">#진도가볼만한곳</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-sky-50 hover:text-sky-700 transition-colors">#백반기행진도</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-sky-50 hover:text-sky-700 transition-colors">#진도회덮밥</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-sky-50 hover:text-sky-700 transition-colors">#진도물회</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-sky-50 hover:text-sky-700 transition-colors">#진도생선구이</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-sky-50 hover:text-sky-700 transition-colors">#도캐도캐</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-sky-50 hover:text-sky-700 transition-colors">#망고보이</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-sky-50 hover:text-sky-700 transition-colors">#꿈의세계카페</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-sky-50 hover:text-sky-700 transition-colors">#모도상회</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-sky-50 hover:text-sky-700 transition-colors">#진도당일치기</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-sky-50 hover:text-sky-700 transition-colors">#진도1박2일</span>
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-sky-50 hover:text-sky-700 transition-colors">#전남진도여행</span>
+          </div>
+        </div>
+      </div>
+    `
+  },
   "w24-wando-urban-grilled-fish": {
     "id": "w24-wando-urban-grilled-fish",
     "regionId": "wando",

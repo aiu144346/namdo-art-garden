@@ -61,6 +61,13 @@ export default function PostsArchive() {
 
       // Priority ordering (Featured first)
       const isFeatured = [
+        'j14-jindo-tidal-flat-wetland',
+        'j15-jindo-byeokpajin-monument',
+        'j16-jindo-yongjangseong-fortress',
+        'j17-jindo-dog-theme-park',
+        'j18-jindo-yongjangsa-temple',
+        'j19-namdo-humanities-garden-tour',
+        'j20-jindo-supum-fishery',
         'w24-wando-urban-grilled-fish',
         'w25-wando-dalsweet-cafe',
         'w26-wando-mannam-plaza',
