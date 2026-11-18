@@ -1,4 +1,1050 @@
 export const postsMain = {
+  "w22-wando-marine-healing-center": {
+    "id": "w22-wando-marine-healing-center",
+    "regionId": "wando",
+    "title": "완도가볼만한곳 완도해양치유센터 바다가 선물하는 특별한 힐링여행",
+    "description": "청정 완도 바다의 해수, 해조류, 머드를 활용한 국내 최초·최대 해양치유 복합시설! 개인 맞춤 건강 측정부터 티테라피, 해조류스파, 딸라소풀 수압마사지까지 오롯이 나를 위해 비우고 채우는 완도해양치유센터 완벽 가이드.",
+    "keywords": "남도예술정원, 완도여행, 완도가볼만한곳, 완도해양치유센터, 해양치유센터, 완도힐링여행, 전남여행, 전남가볼만한곳, 전남실내가볼만한곳, 완도여행코스, 완도여행추천, 완도체험, 해양치유, 해양치유프로그램, 해양치유체험, 신지명사십리, 명사십리해수욕장, 완도명사십리, 딸라소풀, 해조류스파, 해조류거품테라피, 머드테라피, 아로마테라피, 티테라피, 건강관리, 힐링여행, 웰니스관광, 웰니스여행, 국내힐링여행, 남도여행, 국내여행추천",
+    "date": "2026. 11. 18",
+    "author": "남도예술정원 공식 에디터",
+    "readTime": "6분",
+    "image": "/images/healing-center/healing-center-03.webp",
+    "content": `
+      <div class="max-w-4xl mx-auto space-y-12 text-neutral-800 leading-relaxed font-sans mt-4 px-2 md:px-0">
+        <!-- Hero Banner / 상단 타이틀 영역 -->
+        <div class="space-y-4">
+          <div class="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-blue-500/10 text-blue-800 text-xs font-bold uppercase tracking-wider">
+            🌿 완도 웰니스 & 해양치유 명소 | 신지 명사십리
+          </div>
+          <h1 class="text-3xl md:text-5xl font-serif font-bold text-neutral-900 leading-tight">
+            완도가볼만한곳 완도해양치유센터<br/>
+            <span class="text-blue-700 font-sans">바다가 선물하는 특별한 힐링여행</span>
+          </h1>
+          <p class="text-base md:text-lg text-neutral-600 font-light leading-relaxed">
+            청정 해수와 해조류, 천연 머드를 활용한 웰니스 테라피로 지친 몸과 마음에 활력을 불어넣는 건강한 쉼의 공간
+          </p>
+        </div>
+
+        <!-- 대표 히어로 사진: 센터 외관 전경 -->
+        <div class="space-y-2">
+          <div class="rounded-3xl overflow-hidden shadow-xl border border-neutral-100 max-h-[600px]">
+            <img src="/images/healing-center/healing-center-03.webp" alt="완도해양치유센터 외관 전경" class="w-full h-full object-cover" />
+          </div>
+          <p class="text-center text-xs md:text-sm text-neutral-500 font-medium">(▲ 신지 명사십리해수욕장 바로 앞에 위치한 완도해양치유센터 웅장한 외관 전경)</p>
+        </div>
+
+        <!-- [도입부 / 프롤로그] -->
+        <div class="bg-[#f2f8fc] p-6 md:p-8 rounded-3xl border border-blue-100 shadow-sm space-y-4">
+          <p class="text-base md:text-lg font-medium text-neutral-800 leading-relaxed">
+            푸른 바다와 청정 자연이 어우러진 전남 완도는 아름다운 풍경을 감상하는 여행뿐만 아니라 바다가 선물하는 천연자원을 활용해 몸과 마음의 피로를 풀 수 있는 특별한 힐링여행지이기도 합니다.
+          </p>
+          <p class="text-neutral-700 leading-relaxed">
+            바쁜 일상에서 잠시 벗어나 온전히 나만을 위한 휴식이 필요할 때, 완도가볼만한곳으로 추천하고 싶은 곳이 바로 <strong>완도해양치유센터</strong>입니다.<br/>
+            청정 해수와 해조류, 해양자원 등을 활용한 다채로운 치유 프로그램을 통해 지친 몸에 활력을 불어넣고 마음까지 편안하게 쉬어갈 수 있는 공간입니다.
+          </p>
+          <p class="text-neutral-700 leading-relaxed font-medium text-blue-900">
+            오늘은 푸른 완도 바다를 바라보며 건강한 쉼과 특별한 체험을 동시에 즐길 수 있는 완도해양치유센터에서 경험한 힐링여행을 소개해 드리겠습니다.
+          </p>
+        </div>
+
+        <!-- SECTION 01. 신지 명사십리와 어우러진 위치 & 이용 안내 -->
+        <section class="space-y-6">
+          <div class="flex items-center gap-3">
+            <span class="w-8 h-8 rounded-full bg-blue-700 text-white flex items-center justify-center font-bold text-sm">01</span>
+            <div>
+              <span class="text-xs font-bold text-blue-800 tracking-widest uppercase">Location & Reservation</span>
+              <h2 class="text-2xl md:text-3xl font-serif font-bold text-neutral-900">신지 명사십리 해변과 맞닿은 힐링의 요람</h2>
+            </div>
+          </div>
+
+          <!-- 사진 01 (WANDO 포토존) + 사진 02 (센터 앞 해변 전경) 2열 -->
+          <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+            <div class="space-y-1.5">
+              <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+                <img src="/images/healing-center/healing-center-01.webp" alt="완도해양치유센터 WANDO 조형물 포토존" class="w-full h-72 md:h-80 object-cover" />
+              </div>
+              <p class="text-center text-xs text-neutral-500">센터 입구의 시그니처 WANDO 조형물 포토존</p>
+            </div>
+            <div class="space-y-1.5">
+              <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+                <img src="/images/healing-center/healing-center-02.webp" alt="완도해양치유센터 앞 신지 명사십리 해변 전경" class="w-full h-72 md:h-80 object-cover" />
+              </div>
+              <p class="text-center text-xs text-neutral-500">센터 바로 앞으로 펼쳐진 탁 트인 해변 산책로</p>
+            </div>
+          </div>
+
+          <p class="text-neutral-700 text-base md:text-lg leading-relaxed">
+            완도가볼만한곳 완도해양치유센터는 전남 완도군 신지면에 위치하고 있으며, 완도를 대표하는 관광명소인 신지 명사십리해수욕장 인근에 자리하고 있습니다.
+          </p>
+          <p class="text-neutral-700 text-base md:text-lg leading-relaxed">
+            끝없이 펼쳐진 은빛 백사장과 푸른 바다가 아름다운 명사십리해수욕장에서 해변 산책을 즐긴 뒤, 완도해양치유센터에서 다양한 해양치유 프로그램을 체험하며 몸과 마음의 피로를 풀기에 좋은 여행 코스입니다. 완도대교를 건너 완도읍으로 들어온 후 신지대교를 이용하면 신지면으로 이동할 수 있어 완도타워와 다도해일출공원 등 주변 관광명소와 연계한 힐링여행을 즐기기에도 좋습니다.
+          </p>
+
+          <!-- 사진 04 (로비 안내데스크) + 사진 05 (층별 시설 안내판) 2열 -->
+          <div class="grid grid-cols-1 md:grid-cols-2 gap-4 pt-2">
+            <div class="space-y-1.5">
+              <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+                <img src="/images/healing-center/healing-center-04.webp" alt="완도해양치유센터 1층 로비 안내데스크" class="w-full h-72 md:h-80 object-cover" />
+              </div>
+              <p class="text-center text-xs text-neutral-500">친절한 안내와 사전 예약 확인이 이루어지는 1층 로비 데스크</p>
+            </div>
+            <div class="space-y-1.5">
+              <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+                <img src="/images/healing-center/healing-center-05.webp" alt="완도해양치유센터 층별 시설 안내판" class="w-full h-72 md:h-80 object-cover" />
+              </div>
+              <p class="text-center text-xs text-neutral-500">치유 테라피실과 딸라소풀 동선을 한눈에 보여주는 층별 안내판</p>
+            </div>
+          </div>
+
+          <div class="bg-gradient-to-br from-blue-50/80 to-sky-50/50 p-6 md:p-8 rounded-3xl border border-blue-100 space-y-3">
+            <h3 class="text-lg font-serif font-bold text-blue-950 flex items-center gap-2">
+              <span>📌</span> 이용 꿀팁: 사전 예약제 & 맞춤형 프로그램 선택
+            </h3>
+            <p class="text-sm text-neutral-700 leading-relaxed">
+              완도의 청정한 바다와 자연 자원을 활용하여 몸과 마음의 회복을 돕는 다양한 해양치유 프로그램을 제공하는 완도해양치유센터는 <strong>홈페이지를 통한 사전 예약</strong>으로 이용할 수 있습니다.
+            </p>
+            <p class="text-sm text-neutral-700 leading-relaxed">
+              프로그램 구성과 이용 범위에 따라 <strong>기본, 디럭스, 프리미엄</strong>으로 나뉘며, 본인의 건강 상태와 취향, 원하는 치유 프로그램에 맞춰 선택적으로 체험할 수 있다는 점도 완도해양치유센터를 추천하는 이유 중 하나입니다. 단순히 휴식을 취하는 것을 넘어 나에게 꼭 맞는 프로그램으로 몸과 마음을 재충전하며 건강한 힐링여행을 즐길 수 있다는 것이 가장 큰 매력입니다.
+            </p>
+          </div>
+        </section>
+
+        <!-- SECTION 02. 개인별 건강 상태 측정 & 오션뷰 휴게 라운지 -->
+        <section class="space-y-6 pt-4">
+          <div class="flex items-center gap-3">
+            <span class="w-8 h-8 rounded-full bg-cyan-700 text-white flex items-center justify-center font-bold text-sm">02</span>
+            <div>
+              <span class="text-xs font-bold text-cyan-800 tracking-widest uppercase">Health Check & Ocean Lounge</span>
+              <h2 class="text-2xl md:text-3xl font-serif font-bold text-neutral-900">나를 알아가는 첫걸음: 개인별 건강 측정과 오션뷰 쉼터</h2>
+            </div>
+          </div>
+
+          <p class="text-neutral-700 text-base md:text-lg leading-relaxed">
+            완도해양치유센터의 다양한 프로그램 중 가장 먼저 진행된 과정은 <strong>개인별 건강 상태 측정</strong>으로, 현재 자신의 몸 상태를 확인하고 건강관리의 필요성을 알아보는 시간이었습니다.
+          </p>
+
+          <!-- 사진 06 (건강 측정) + 사진 07 (휴게 라운지 오션뷰) 2열 -->
+          <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+            <div class="space-y-1.5">
+              <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+                <img src="/images/healing-center/healing-center-06.webp" alt="해양치유센터 개인 건강 상태 측정" class="w-full h-72 md:h-80 object-cover" />
+              </div>
+              <p class="text-center text-xs text-neutral-500">전문 기기를 통해 체계적으로 체성분 및 건강 상태를 측정하는 모습</p>
+            </div>
+            <div class="space-y-1.5">
+              <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+                <img src="/images/healing-center/healing-center-07.webp" alt="휴게 라운지 오션뷰" class="w-full h-72 md:h-80 object-cover" />
+              </div>
+              <p class="text-center text-xs text-neutral-500">통창 너머로 푸른 남해 바다가 시원하게 펼쳐지는 휴게 라운지</p>
+            </div>
+          </div>
+
+          <p class="text-neutral-700 text-base md:text-lg leading-relaxed">
+            단순히 정해진 프로그램을 체험하는 것이 아니라 개인의 건강 상태를 먼저 살펴보고, 이를 바탕으로 몸과 마음의 회복을 위한 해양치유 프로그램에 참여한다는 점에서 더욱 특별하게 느껴졌습니다.
+          </p>
+        </section>
+
+        <!-- SECTION 03. 티테라피 & 스마트 케어 & 아로마 향기테라피 -->
+        <section class="space-y-6 pt-4">
+          <div class="flex items-center gap-3">
+            <span class="w-8 h-8 rounded-full bg-emerald-700 text-white flex items-center justify-center font-bold text-sm">03</span>
+            <div>
+              <span class="text-xs font-bold text-emerald-800 tracking-widest uppercase">Tea & Aroma Therapy</span>
+              <h2 class="text-2xl md:text-3xl font-serif font-bold text-neutral-900">은은한 차향과 스마트 케어, 천연 아로마의 온기</h2>
+            </div>
+          </div>
+
+          <p class="text-neutral-700 text-base md:text-lg leading-relaxed">
+            본격적인 해양치유 프로그램은 따뜻한 차 한 잔과 함께하는 <strong>티테라피(Tea Therapy)</strong>로 시작합니다. 은은하게 퍼지는 차의 향기를 느끼며 따뜻한 차를 천천히 음미하다 보면 긴장했던 몸과 마음이 차분하게 가라앉고, 바쁜 일상에서 쌓였던 피로도 조금씩 잊게 됩니다.
+          </p>
+
+          <!-- 사진 08 (티테라피 차 코너) + 사진 09 (스마트워치 알림) 2열 -->
+          <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+            <div class="space-y-1.5">
+              <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+                <img src="/images/healing-center/healing-center-08.webp" alt="완도해양치유센터 티테라피 차 코너" class="w-full h-72 md:h-80 object-cover" />
+              </div>
+              <p class="text-center text-xs text-neutral-500">자연의 기운을 담은 건강한 차를 음미하는 티테라피 코너</p>
+            </div>
+            <div class="space-y-1.5">
+              <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+                <img src="/images/healing-center/healing-center-09.webp" alt="스마트워치 프로그램 알림" class="w-full h-72 md:h-80 object-cover" />
+              </div>
+              <p class="text-center text-xs text-neutral-500">손목 스마트워치로 다음 프로그램과 시간을 알려주는 스마트 케어</p>
+            </div>
+          </div>
+
+          <p class="text-neutral-700 text-base md:text-lg leading-relaxed">
+            프로그램 중간중간 자유롭게 이용할 수 있는 티테라피실에서는 따뜻한 차를 마시며 편안하게 휴식을 취할 수 있습니다. 은은한 차 향기와 함께 여유로운 시간을 보내다 보면 손목에 착용한 스마트워치로 다음 프로그램을 안내하는 알림이 전달되어 정해진 시간에 맞춰 이동하면 됩니다. 별도로 시간을 확인하거나 다음 프로그램을 걱정할 필요 없이 오롯이 휴식에 집중할 수 있다는 점도 완도해양치유센터만의 세심한 배려로 느껴졌습니다.
+          </p>
+
+          <!-- 사진 10 (향기테라피) 와이드 -->
+          <div class="space-y-2 pt-2">
+            <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[560px]">
+              <img src="/images/healing-center/healing-center-10.webp" alt="완도해양치유센터 향기테라피 공간" class="w-full h-full object-cover" />
+            </div>
+            <p class="text-center text-xs md:text-sm text-neutral-500">(▲ 천연 아로마 향기와 부드러운 음악으로 심리적 안정을 선사하는 향기테라피실)</p>
+          </div>
+
+          <p class="text-neutral-700 text-base md:text-lg leading-relaxed">
+            <strong>향기테라피(Aroma Therapy)</strong>는 은은하게 퍼지는 천연 아로마 향기를 통해 긴장된 몸과 마음을 편안하게 이완하고 심리적인 안정과 휴식을 경험하는 해양치유 프로그램입니다. 향긋한 아로마 향기가 가득한 공간에서 편안한 음악을 들으며 잠시 눈을 감고 깊게 호흡하다 보면 일상에서 쌓였던 긴장과 스트레스가 조금씩 풀리는 듯한 기분이 듭니다.
+          </p>
+        </section>
+
+        <!-- SECTION 04. 해조류 스파 & 거품테라피 & 머드테라피 -->
+        <section class="space-y-6 pt-4">
+          <div class="flex items-center gap-3">
+            <span class="w-8 h-8 rounded-full bg-teal-800 text-white flex items-center justify-center font-bold text-sm">04</span>
+            <div>
+              <span class="text-xs font-bold text-teal-900 tracking-widest uppercase">Seaweed & Mud Spa Therapy</span>
+              <h2 class="text-2xl md:text-3xl font-serif font-bold text-neutral-900">청정 완도 바다의 선물: 해조류 스파와 머드 테라피</h2>
+            </div>
+          </div>
+
+          <!-- 사진 11 (해조류 스파테라피) 와이드 -->
+          <div class="space-y-2">
+            <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[560px]">
+              <img src="/images/healing-center/healing-center-11.webp" alt="해양치유센터 해조류 스파테라피" class="w-full h-full object-cover" />
+            </div>
+            <p class="text-center text-xs md:text-sm text-neutral-500">(▲ 완도 해조류의 풍부한 미네랄과 영양을 피부로 흡수하는 해조류 스파테라피)</p>
+          </div>
+
+          <p class="text-neutral-700 text-base md:text-lg leading-relaxed">
+            <strong>해조류 스파테라피</strong>는 청정 완도 바다에서 자라는 해조류의 풍부한 영양 성분을 활용하여 피부에 수분과 영양을 공급하고, 따뜻한 물속에서 몸과 마음의 긴장을 풀어주는 해양치유 프로그램입니다. 해조류 성분이 더해진 따뜻한 스파에 몸을 담그고 편안하게 휴식을 취하다 보면 일상에서 쌓였던 피로가 조금씩 풀리는 듯한 기분이 듭니다.
+          </p>
+          <p class="text-neutral-700 text-base md:text-lg leading-relaxed">
+            특히 완도의 대표적인 해양자원인 해조류를 활용해 피부 관리와 휴식을 동시에 경험할 수 있다는 점에서 일반적인 스파와는 또 다른 특별한 힐링 시간이었습니다.
+          </p>
+
+          <!-- 사진 12 (해조류거품테라피) + 사진 13 (머드테라피) 2열 -->
+          <div class="grid grid-cols-1 md:grid-cols-2 gap-4 pt-2">
+            <div class="space-y-1.5">
+              <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+                <img src="/images/healing-center/healing-center-12.webp" alt="해조류거품테라피 체험" class="w-full h-72 md:h-80 object-cover" />
+              </div>
+              <p class="text-center text-xs text-neutral-500">부드럽고 풍성한 해조류 거품으로 피부를 감싸는 거품테라피</p>
+            </div>
+            <div class="space-y-1.5">
+              <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+                <img src="/images/healing-center/healing-center-13.webp" alt="머드테라피 체험" class="w-full h-72 md:h-80 object-cover" />
+              </div>
+              <p class="text-center text-xs text-neutral-500">천연 미네랄 머드로 노폐물을 정화하는 머드테라피</p>
+            </div>
+          </div>
+
+          <p class="text-neutral-700 text-base md:text-lg leading-relaxed">
+            기본 프로그램에 포함된 <strong>해조류거품테라피</strong>와 <strong>머드테라피</strong>는 완도의 청정한 해양자원을 활용하여 피부 관리와 휴식을 동시에 즐길 수 있는 특별한 해양치유 프로그램입니다.
+          </p>
+          <p class="text-neutral-700 text-base md:text-lg leading-relaxed">
+            해조류거품테라피는 해조류 성분을 활용한 부드럽고 풍성한 거품으로 피부를 촉촉하게 관리하며 편안한 휴식을 즐길 수 있고, 머드테라피는 미네랄이 풍부한 머드를 피부에 바르며 묵은 각질과 노폐물을 관리하는 체험입니다. 일반적인 스파에서는 쉽게 경험하기 어려운 이색적인 프로그램으로, 완도 바다가 선물하는 자연의 풍요로움을 온몸으로 느낄 수 있어 더욱 인상적이었습니다.
+          </p>
+        </section>
+
+        <!-- SECTION 05. 바다의 치유력: 딸라소풀 & 옥상 야외 휴게공간 -->
+        <section class="space-y-6 pt-4">
+          <div class="flex items-center gap-3">
+            <span class="w-8 h-8 rounded-full bg-indigo-700 text-white flex items-center justify-center font-bold text-sm">05</span>
+            <div>
+              <span class="text-xs font-bold text-indigo-900 tracking-widest uppercase">Thalasso Pool & Rooftop Lounge</span>
+              <h2 class="text-2xl md:text-3xl font-serif font-bold text-neutral-900">따뜻한 해수풀 ‘딸라소풀’과 시원한 옥상 힐링</h2>
+            </div>
+          </div>
+
+          <p class="text-neutral-700 text-base md:text-lg leading-relaxed">
+            바다를 의미하는 그리스어 'Thalassa'와 치료를 뜻하는 'Therapy'를 합쳐 만든 <strong>딸라소풀(Thalasso Pool)</strong>은 말 그대로 바다의 치유력을 활용해 몸과 마음의 건강을 관리하는 해양치유 공간입니다.
+          </p>
+
+          <!-- 사진 14 (딸라소풀 전경) + 사진 15 (수압마사지) 2열 -->
+          <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+            <div class="space-y-1.5">
+              <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+                <img src="/images/healing-center/healing-center-14.webp" alt="완도해양치유센터 딸라소풀 전경" class="w-full h-72 md:h-80 object-cover" />
+              </div>
+              <p class="text-center text-xs text-neutral-500">따뜻한 청정 해수가 가득 채워진 대형 딸라소풀 전경</p>
+            </div>
+            <div class="space-y-1.5">
+              <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+                <img src="/images/healing-center/healing-center-15.webp" alt="딸라소풀 수압마사지" class="w-full h-72 md:h-80 object-cover" />
+              </div>
+              <p class="text-center text-xs text-neutral-500">다양한 수압 제트로 뭉친 근육을 부드럽게 이완시키는 수압마사지</p>
+            </div>
+          </div>
+
+          <p class="text-neutral-700 text-base md:text-lg leading-relaxed">
+            미네랄이 풍부한 해수를 활용한 따뜻한 풀에서 자유롭게 수압마사지와 수중운동을 즐길 수 있으며, 물의 부력을 이용해 관절에 가해지는 부담을 줄이면서 가볍게 몸을 움직일 수 있다는 점도 매력적입니다. 특별한 순서나 정해진 동작에 얽매이지 않고 자신의 건강 상태와 컨디션에 맞춰 자유롭게 시설을 이용하며, 완도의 청정 바다가 선물하는 편안한 휴식과 힐링을 만끽해 보시기 바랍니다.
+          </p>
+
+          <!-- 사진 16 (옥상 야외 휴게공간) 와이드 -->
+          <div class="space-y-2 pt-2">
+            <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[560px]">
+              <img src="/images/healing-center/healing-center-16.webp" alt="완도해양치유센터 옥상 야외 휴게공간" class="w-full h-full object-cover" />
+            </div>
+            <p class="text-center text-xs md:text-sm text-neutral-500">(▲ 테라피 후 시원한 바닷바람을 맞으며 파도 소리를 감상하는 옥상 야외 휴게공간)</p>
+          </div>
+        </section>
+
+        <!-- SECTION 06. 1층 편의시설 (식당 & 특산물 판매점) & 에필로그 -->
+        <section class="space-y-6 pt-4">
+          <div class="flex items-center gap-3">
+            <span class="w-8 h-8 rounded-full bg-amber-600 text-white flex items-center justify-center font-bold text-sm">06</span>
+            <div>
+              <span class="text-xs font-bold text-amber-800 tracking-widest uppercase">Dining & Local Goods</span>
+              <h2 class="text-2xl md:text-3xl font-serif font-bold text-neutral-900">로컬 미식과 특산물 쇼핑까지 한번에</h2>
+            </div>
+          </div>
+
+          <p class="text-neutral-700 text-base md:text-lg leading-relaxed">
+            푸른 바다와 은빛 백사장이 아름답게 펼쳐진 신지 명사십리해수욕장 인근에 자리한 완도가볼만한곳 완도해양치유센터는 온종일 다양한 해양치유 프로그램을 체험하며 몸과 마음의 피로를 풀고 건강한 휴식을 즐길 수 있는 특별한 힐링여행지입니다.
+          </p>
+          <p class="text-neutral-700 text-base md:text-lg leading-relaxed">
+            청정 완도의 해양자원을 활용한 다채로운 테라피부터 따뜻한 해수풀에서 즐기는 수중운동과 수압마사지까지, 일상에서 벗어나 오롯이 나 자신에게 집중하며 재충전하는 시간을 가질 수 있습니다.
+          </p>
+
+          <!-- 사진 17 (1층 식당) + 사진 18 (1층 특산물 판매점) 2열 -->
+          <div class="grid grid-cols-1 md:grid-cols-2 gap-4 pt-2">
+            <div class="space-y-1.5">
+              <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+                <img src="/images/healing-center/healing-center-17.webp" alt="해양치유센터 1층 식당" class="w-full h-72 md:h-80 object-cover" />
+              </div>
+              <p class="text-center text-xs text-neutral-500">테라피 후 정갈하고 맛있는 식사를 즐길 수 있는 1층 식당</p>
+            </div>
+            <div class="space-y-1.5">
+              <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+                <img src="/images/healing-center/healing-center-18.webp" alt="해양치유센터 1층 완도 특산물 판매점" class="w-full h-72 md:h-80 object-cover" />
+              </div>
+              <p class="text-center text-xs text-neutral-500">완도산 미역, 다시마, 전복 등 우수한 로컬 특산물을 만나는 판매점</p>
+            </div>
+          </div>
+
+          <p class="text-neutral-700 text-base md:text-lg leading-relaxed">
+            완도해양치유센터 1층 로비에는 다양한 음식을 즐길 수 있는 식당과 완도의 우수한 지역 특산물을 만나볼 수 있는 판매점도 마련되어 있어 식사부터 쇼핑까지 편리하게 즐길 수 있습니다.
+          </p>
+
+          <!-- 에필로그 요약 박스 -->
+          <div class="p-6 md:p-8 rounded-3xl bg-neutral-900 text-white space-y-4">
+            <h3 class="text-xl md:text-2xl font-serif font-bold text-blue-400">
+              바다가 건네는 가장 건강하고 다정한 위로
+            </h3>
+            <p class="text-neutral-200 leading-relaxed">
+              완도여행을 계획하고 계신다면 아름다운 신지 명사십리해수욕장에서 푸른 바다를 바라보며 여유롭게 산책도 즐기고, 완도해양치유센터에서 다양한 해양치유 프로그램을 체험하며 지친 몸과 마음에 활력을 불어넣는 특별한 힐링여행을 떠나보시는 건 어떠신가요? ✨
+            </p>
+          </div>
+
+          <!-- 해시태그 -->
+          <div class="pt-6 border-t border-neutral-200">
+            <div class="flex flex-wrap gap-2 text-xs font-medium text-neutral-600">
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-blue-50 hover:text-blue-700 transition-colors">#남도예술정원</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-blue-50 hover:text-blue-700 transition-colors">#완도여행</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-blue-50 hover:text-blue-700 transition-colors">#완도가볼만한곳</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-blue-50 hover:text-blue-700 transition-colors">#완도해양치유센터</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-blue-50 hover:text-blue-700 transition-colors">#해양치유센터</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-blue-50 hover:text-blue-700 transition-colors">#완도힐링여행</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-blue-50 hover:text-blue-700 transition-colors">#전남여행</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-blue-50 hover:text-blue-700 transition-colors">#전남가볼만한곳</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-blue-50 hover:text-blue-700 transition-colors">#전남실내가볼만한곳</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-blue-50 hover:text-blue-700 transition-colors">#완도여행코스</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-blue-50 hover:text-blue-700 transition-colors">#완도여행추천</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-blue-50 hover:text-blue-700 transition-colors">#완도체험</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-blue-50 hover:text-blue-700 transition-colors">#해양치유</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-blue-50 hover:text-blue-700 transition-colors">#해양치유프로그램</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-blue-50 hover:text-blue-700 transition-colors">#해양치유체험</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-blue-50 hover:text-blue-700 transition-colors">#신지명사십리</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-blue-50 hover:text-blue-700 transition-colors">#명사십리해수욕장</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-blue-50 hover:text-blue-700 transition-colors">#완도명사십리</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-blue-50 hover:text-blue-700 transition-colors">#딸라소풀</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-blue-50 hover:text-blue-700 transition-colors">#해조류스파</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-blue-50 hover:text-blue-700 transition-colors">#해조류거품테라피</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-blue-50 hover:text-blue-700 transition-colors">#머드테라피</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-blue-50 hover:text-blue-700 transition-colors">#아로마테라피</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-blue-50 hover:text-blue-700 transition-colors">#티테라피</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-blue-50 hover:text-blue-700 transition-colors">#건강관리</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-blue-50 hover:text-blue-700 transition-colors">#힐링여행</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-blue-50 hover:text-blue-700 transition-colors">#웰니스관광</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-blue-50 hover:text-blue-700 transition-colors">#웰니스여행</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-blue-50 hover:text-blue-700 transition-colors">#국내힐링여행</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-blue-50 hover:text-blue-700 transition-colors">#남도여행</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-blue-50 hover:text-blue-700 transition-colors">#국내여행추천</span>
+            </div>
+          </div>
+        </section>
+      </div>
+    `
+  },
+  "w21-wando-marine-ecology-museum": {
+    "id": "w21-wando-marine-ecology-museum",
+    "regionId": "wando",
+    "title": "완도 아이와 가볼만한곳 해양생태전시관 바닷속 생태계를 만나는 특별한 여행",
+    "description": "날씨에 구애받지 않는 완도 대표 실내 가족 여행지! 기획전시실과 오감 체험실, 2층 트릭아트 포토존, 장도 청해진유적전시실, 해양실·생태실·미래실까지 바닷속 생태계와 천년 해양 역사를 한자리에서 만나는 완도 해양생태전시관 완벽 가이드.",
+    "keywords": "남도예술정원, 완도여행, 완도가볼만한곳, 완도아이랑가볼만한곳, 완도해양생태전시관, 해양생태전시관, 완도실내가볼만한곳, 완도실내여행, 완도가족여행, 완도아이와함께, 완도여행코스, 전남완도여행, 전남가볼만한곳, 전남아이랑가볼만한곳, 전남가족여행, 아이와가볼만한곳, 아이와체험학습, 해양생태체험, 해양생태계, 해양생물, 청정바다완도, 장보고기념관, 장도청해진유적, 청해진유적지, 완도역사여행, 완도관광, 남도여행",
+    "date": "2026. 11. 18",
+    "author": "남도예술정원 공식 에디터",
+    "readTime": "6분",
+    "image": "/images/marine-eco/marine-eco-02.webp",
+    "content": `
+      <div class="max-w-4xl mx-auto space-y-12 text-neutral-800 leading-relaxed font-sans mt-4 px-2 md:px-0">
+        <!-- Hero Banner / 상단 타이틀 영역 -->
+        <div class="space-y-4">
+          <div class="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-teal-500/10 text-teal-800 text-xs font-bold uppercase tracking-wider">
+            🐠 완도 실내 가족여행 & 생태 체험 명소 | 완도 해양생태전시관
+          </div>
+          <h1 class="text-3xl md:text-5xl font-serif font-bold text-neutral-900 leading-tight">
+            완도 아이와 가볼만한곳 해양생태전시관<br/>
+            <span class="text-teal-700 font-sans">바닷속 생태계를 만나는 특별한 여행</span>
+          </h1>
+          <p class="text-base md:text-lg text-neutral-600 font-light leading-relaxed">
+            신비로운 바닷속 생태계 오감 체험부터 천년 해상왕 장보고의 청해진 역사까지, 온 가족이 함께 보고 배우고 즐기는 완도 대표 실내 여행지
+          </p>
+        </div>
+
+        <!-- 대표 히어로 사진: 입구 전경 -->
+        <div class="space-y-2">
+          <div class="rounded-3xl overflow-hidden shadow-xl border border-neutral-100 max-h-[600px]">
+            <img src="/images/marine-eco/marine-eco-02.webp" alt="완도 해양생태전시관 입구 전경" class="w-full h-full object-cover" />
+          </div>
+          <p class="text-center text-xs md:text-sm text-neutral-500 font-medium">(▲ 청정바다 완도의 다채로운 해양생태계를 한자리에서 만날 수 있는 완도 해양생태전시관 입구 전경)</p>
+        </div>
+
+        <!-- [도입부 / 프롤로그] -->
+        <div class="bg-[#f3faf8] p-6 md:p-8 rounded-3xl border border-teal-100 shadow-sm space-y-4">
+          <p class="text-base md:text-lg font-medium text-neutral-800 leading-relaxed">
+            푸른 바다와 아름다운 섬들이 어우러진 완도는 천혜의 자연경관뿐만 아니라 바다와 함께 살아온 사람들의 삶과 다양한 해양생태계를 만날 수 있는 매력적인 여행지입니다.
+          </p>
+          <p class="text-neutral-700 leading-relaxed">
+            완도여행을 하다 보면 눈앞에 펼쳐진 아름다운 바닷속에는 어떤 생물들이 살아가고 있을지 궁금해지기도 합니다.<br/>
+            이번에 소개할 <strong>완도 해양생태전시관</strong>은 우리가 평소 쉽게 접하기 어려운 바닷속 생태계를 살펴보고, 해양생물의 다양성과 바다 환경의 소중함을 배울 수 있는 공간입니다.
+          </p>
+          <p class="text-neutral-700 leading-relaxed">
+            특히 날씨에 구애받지 않고 둘러볼 수 있는 실내 여행지로, 아이들과 함께하는 가족여행은 물론 자연과 생태에 관심 있는 어른들에게도 유익한 시간을 선사합니다. 지금부터 신비로운 바닷속 생태계를 만나는 완도 해양생태전시관으로 함께 떠나볼까요?
+          </p>
+        </div>
+
+        <!-- SECTION 01. 전시관 입구 & 1층 로비 휴게공간 -->
+        <section class="space-y-6">
+          <div class="flex items-center gap-3">
+            <span class="w-8 h-8 rounded-full bg-teal-700 text-white flex items-center justify-center font-bold text-sm">01</span>
+            <div>
+              <span class="text-xs font-bold text-teal-800 tracking-widest uppercase">Welcome & 1F Lobby</span>
+              <h2 class="text-2xl md:text-3xl font-serif font-bold text-neutral-900">물결이 소용돌이치는 듯한 1층 로비와 기획전시실</h2>
+            </div>
+          </div>
+
+          <p class="text-neutral-700 text-base md:text-lg leading-relaxed">
+            완도 아이랑 가볼만한곳 해양생태전시관은 아름다운 완도의 바닷속에 서식하는 다양한 해양생물과 해양생태계를 한자리에서 만나볼 수 있는 특별한 공간입니다. 평소 쉽게 접하기 어려운 바닷속 생물들을 살펴보며 해양환경의 소중함을 배우고, 아이들의 호기심과 상상력을 키워줄 수 있어 가족 단위 여행객들에게 추천하는 완도 실내 여행지입니다.
+          </p>
+
+          <!-- 사진 01(안내 리플릿) & 사진 03(1층 로비 휴게공간) -->
+          <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+            <div class="space-y-1.5">
+              <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+                <img src="/images/marine-eco/marine-eco-01.webp" alt="해양생태전시관 입구 앞 안내 리플릿" class="w-full h-72 md:h-80 object-cover" />
+              </div>
+              <p class="text-center text-xs text-neutral-500">관람 동선을 한눈에 안내하는 전시관 입구 리플릿</p>
+            </div>
+            <div class="space-y-1.5">
+              <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+                <img src="/images/marine-eco/marine-eco-03.webp" alt="1층 로비 휴게공간과 나선형 조명" class="w-full h-72 md:h-80 object-cover" />
+              </div>
+              <p class="text-center text-xs text-neutral-500">바닷속 물결을 형상화한 나선형 조명과 1층 로비 휴게공간</p>
+            </div>
+          </div>
+
+          <p class="text-neutral-700 text-base md:text-lg leading-relaxed">
+            1층 로비 휴게공간은 높은 층고와 탁 트인 천장을 활용한 나선형 조명이 시선을 사로잡습니다. 마치 바닷속에서 물결이 소용돌이치는 듯한 독특한 디자인이 인상적이며, 넓고 쾌적한 공간에 마련된 휴게공간에서 잠시 쉬어가며 여유로운 시간을 보내기에도 좋습니다.
+          </p>
+
+          <!-- 사진 04(기획전시실) -->
+          <div class="space-y-2 pt-2">
+            <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[560px]">
+              <img src="/images/marine-eco/marine-eco-04.webp" alt="완도 해양생태전시관 기획전시실" class="w-full h-full object-cover" />
+            </div>
+            <p class="text-center text-xs md:text-sm text-neutral-500">(▲ 시대별 고지도와 완도의 역사·문학 작품을 만날 수 있는 기획전시실)</p>
+          </div>
+
+          <p class="text-neutral-700 text-base md:text-lg leading-relaxed">
+            다양한 테마의 기획전시를 선보일 수 있도록 가변형 공간으로 구성된 <strong>기획전시실</strong>에서는 시대별 고지도에 나타난 완도의 모습과 선사시대부터 현재에 이르기까지 완도가 걸어온 역사의 발자취를 살펴볼 수 있습니다.
+          </p>
+          <p class="text-neutral-700 text-base md:text-lg leading-relaxed">
+            특히 완도로 유배를 왔던 유학자들의 삶과 발자취를 비롯해 그들이 남긴 저술과 완도를 배경으로 한 문학작품까지 소개하고 있어, 아름다운 바다와 섬으로만 알고 있던 완도의 역사와 인문학적 가치를 새롭게 발견하는 뜻깊은 시간을 가질 수 있습니다.
+          </p>
+        </section>
+
+        <!-- SECTION 02. 오감 만족 체험실 & 2층 트릭아트 포토존 -->
+        <section class="space-y-6 pt-4">
+          <div class="flex items-center gap-3">
+            <span class="w-8 h-8 rounded-full bg-cyan-700 text-white flex items-center justify-center font-bold text-sm">02</span>
+            <div>
+              <span class="text-xs font-bold text-cyan-800 tracking-widest uppercase">Interactive Experience & Photo Zone</span>
+              <h2 class="text-2xl md:text-3xl font-serif font-bold text-neutral-900">보고 만지고 즐기는 오감 체험실과 2층 트릭아트 포토존</h2>
+            </div>
+          </div>
+
+          <p class="text-neutral-700 text-base md:text-lg leading-relaxed">
+            기획전시실 옆에 자리한 <strong>체험실</strong>에서는 살아있는 해양생물을 직접 만져보며 관찰하고, 다채로운 체험 매체를 통해 신비로운 바닷속 생태계를 더욱 생생하게 경험할 수 있습니다.
+          </p>
+
+          <!-- 사진 05(퀴즈 키오스크), 사진 06(내몸에 맞는 해조류), 사진 추가03(전복 키우기), 사진 07(물고기 나무 퍼즐) - 2x2 Grid -->
+          <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+            <div class="space-y-1.5">
+              <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+                <img src="/images/marine-eco/marine-eco-05.webp" alt="체험실 해양생태 퀴즈 키오스크" class="w-full h-72 md:h-80 object-cover" />
+              </div>
+              <p class="text-center text-xs text-neutral-500">체험실 인터랙티브 퀴즈 키오스크</p>
+            </div>
+            <div class="space-y-1.5">
+              <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+                <img src="/images/marine-eco/marine-eco-06.webp" alt="체험실 내 몸에 맞는 해조류 알아보기 화면" class="w-full h-72 md:h-80 object-cover" />
+              </div>
+              <p class="text-center text-xs text-neutral-500">내 몸에 맞는 해조류를 알아보는 디지털 체험</p>
+            </div>
+            <div class="space-y-1.5">
+              <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+                <img src="/images/marine-eco/marine-eco-19.webp" alt="체험실 전복 키우기 디지털 체험 화면" class="w-full h-72 md:h-80 object-cover" />
+              </div>
+              <p class="text-center text-xs text-neutral-500">아이들에게 인기 만점인 ‘전복 키우기’ 체험 화면</p>
+            </div>
+            <div class="space-y-1.5">
+              <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+                <img src="/images/marine-eco/marine-eco-07.webp" alt="체험실 물고기 나무 퍼즐 교구" class="w-full h-72 md:h-80 object-cover" />
+              </div>
+              <p class="text-center text-xs text-neutral-500">어린아이들의 소근육과 호기심을 자극하는 물고기 나무 퍼즐</p>
+            </div>
+          </div>
+
+          <p class="text-neutral-700 text-base md:text-lg leading-relaxed">
+            특히 눈으로만 감상하는 전시에서 벗어나 직접 보고, 만지고, 느끼는 오감 체험을 즐길 수 있어 아이들의 호기심과 탐구심을 자극하며, 놀이와 학습을 동시에 즐길 수 있는 특별한 공간입니다.
+          </p>
+
+          <!-- 사진 08(2층 트릭아트 포토존) -->
+          <div class="space-y-2 pt-2">
+            <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[560px]">
+              <img src="/images/marine-eco/marine-eco-08.webp" alt="2층 광어와 전복 트릭아트 포토존" class="w-full h-full object-cover" />
+            </div>
+            <p class="text-center text-xs md:text-sm text-neutral-500">(▲ 완도 대표 특산품인 광어와 전복 등을 입체적으로 형상화한 2층 트릭아트 포토존)</p>
+          </div>
+
+          <p class="text-neutral-700 text-base md:text-lg leading-relaxed">
+            완도 해양생태전시관 2층에 오르면 완도군의 대표 특산품인 광어와 전복 등 다양한 해양생물을 생동감 있게 형상화한 <strong>트릭아트 포토존</strong>이 방문객들을 반겨줍니다.
+          </p>
+          <p class="text-neutral-700 text-base md:text-lg leading-relaxed">
+            마치 바닷속 생물들이 그림 밖으로 튀어나오는 듯한 입체적인 작품을 배경으로 아이들과 함께 재미있는 포즈를 취하며 사진을 남길 수 있어, 완도 가족여행의 특별한 추억을 만들기에도 안성맞춤입니다.
+          </p>
+        </section>
+
+        <!-- SECTION 03. 청해진유적전시실 & 해양실 -->
+        <section class="space-y-6 pt-4">
+          <div class="flex items-center gap-3">
+            <span class="w-8 h-8 rounded-full bg-blue-800 text-white flex items-center justify-center font-bold text-sm">03</span>
+            <div>
+              <span class="text-xs font-bold text-blue-900 tracking-widest uppercase">Cheonghaejin History & 5 Oceans</span>
+              <h2 class="text-2xl md:text-3xl font-serif font-bold text-neutral-900">장도가 한눈에 보이는 청해진유적전시실과 5대양 해양실</h2>
+            </div>
+          </div>
+
+          <p class="text-neutral-700 text-base md:text-lg leading-relaxed">
+            <strong>청해진유적전시실</strong>에서는 통일신라시대 해상무역의 중심지였던 장도 청해진 유적을 직접 조망하며, 해상왕 장보고의 활약상과 청해진의 역사적 가치를 살펴볼 수 있습니다.
+          </p>
+
+          <!-- 사진 09(장도 조망 창) 단독 + 사진 10(안내도) & 11(장보고 이순신 패널) 2열 -->
+          <div class="space-y-4">
+            <div class="space-y-1.5">
+              <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[560px]">
+                <img src="/images/marine-eco/marine-eco-09.webp" alt="청해진유적전시실 장도 조망 파노라마 창" class="w-full h-full object-cover" />
+              </div>
+              <p class="text-center text-xs text-neutral-500">통창 너머로 실제 장도 청해진 유적지가 한눈에 내려다보이는 조망 공간</p>
+            </div>
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+              <div class="space-y-1.5">
+                <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+                  <img src="/images/marine-eco/marine-eco-10.webp" alt="장도 청해진 유적 안내도" class="w-full h-72 md:h-80 object-cover" />
+                </div>
+                <p class="text-center text-xs text-neutral-500">장도 청해진 유적의 구조와 역사를 설명하는 안내도</p>
+              </div>
+              <div class="space-y-1.5">
+                <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+                  <img src="/images/marine-eco/marine-eco-11.webp" alt="해상왕 장보고와 충무공 이순신 안내 패널" class="w-full h-72 md:h-80 object-cover" />
+                </div>
+                <p class="text-center text-xs text-neutral-500">완도 바다를 무대로 활약한 장보고 대사와 이순신 장군 전시 패널</p>
+              </div>
+            </div>
+          </div>
+
+          <p class="text-neutral-700 text-base md:text-lg leading-relaxed">
+            특히 장보고가 청해진을 설치하고 동아시아 해상무역을 주도했던 당시의 모습을 다양한 전시자료를 통해 만나볼 수 있어, 눈앞에 펼쳐진 장도의 풍경과 함께 천년의 시간을 거슬러 완도의 찬란했던 해양 역사를 되짚어 보는 뜻깊은 공간입니다.
+          </p>
+
+          <!-- 사진 12(해양실 5대양 전시) -->
+          <div class="space-y-2 pt-2">
+            <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[560px]">
+              <img src="/images/marine-eco/marine-eco-12.webp" alt="해양실 세계 5대양 전시 공간" class="w-full h-full object-cover" />
+            </div>
+            <p class="text-center text-xs md:text-sm text-neutral-500">(▲ 지구 바다의 형성과 세계 5대양의 특징을 입체적으로 소개하는 해양실)</p>
+          </div>
+
+          <p class="text-neutral-700 text-base md:text-lg leading-relaxed">
+            <strong>해양실</strong>에서는 지구 생명체 탄생의 시작점인 바다의 형성과 생명의 진화 과정을 비롯해 해양생물의 다양한 생명활동과 세계 5대양의 특징을 흥미롭게 살펴볼 수 있습니다.
+          </p>
+          <p class="text-neutral-700 text-base md:text-lg leading-relaxed">
+            특히 청정바다 완도가 지닌 우수한 해양환경과 풍부한 해양자원을 소개하고, 완도 바다에 서식하는 다양한 해양생물의 종류와 생태적 특징을 알아보며 바다가 품고 있는 생명의 신비로움을 느낄 수 있습니다. 아이들에게는 살아있는 해양생태 학습의 장이 되고, 어른들에게는 바다의 소중함과 해양환경 보전의 중요성을 다시 한번 생각해 보는 유익한 공간입니다.
+          </p>
+        </section>
+
+        <!-- SECTION 04. 생태실 & 미래실 -->
+        <section class="space-y-6 pt-4">
+          <div class="flex items-center gap-3">
+            <span class="w-8 h-8 rounded-full bg-emerald-700 text-white flex items-center justify-center font-bold text-sm">04</span>
+            <div>
+              <span class="text-xs font-bold text-emerald-800 tracking-widest uppercase">Marine Ecology & Future Vision</span>
+              <h2 class="text-2xl md:text-3xl font-serif font-bold text-neutral-900">완도 바다의 풍요로움을 담은 생태실과 꿈을 키우는 미래실</h2>
+            </div>
+          </div>
+
+          <p class="text-neutral-700 text-base md:text-lg leading-relaxed">
+            완도 바다에 서식하는 다양한 해양생물의 특징과 생태적 가치, 활용 방법 등을 알아볼 수 있는 <strong>생태실</strong>에서는 청정바다가 품고 있는 풍부한 해양자원과 생물 다양성을 살펴볼 수 있습니다.
+          </p>
+
+          <!-- 사진 13(ECOLOGY 전시) 단독 + 사진 14(원기둥 전시) & 추가11(해양생물 전시) 2열 -->
+          <div class="space-y-4">
+            <div class="space-y-1.5">
+              <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[560px]">
+                <img src="/images/marine-eco/marine-eco-13.webp" alt="생태실 ECOLOGY 전시관 전경" class="w-full h-full object-cover" />
+              </div>
+              <p class="text-center text-xs text-neutral-500">청정 완도 바다의 생물 다양성을 조명하는 생태실(ECOLOGY) 전시관</p>
+            </div>
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+              <div class="space-y-1.5">
+                <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+                  <img src="/images/marine-eco/marine-eco-14.webp" alt="생태실 해양생물 원기둥 전시" class="w-full h-72 md:h-80 object-cover" />
+                </div>
+                <p class="text-center text-xs text-neutral-500">신비로운 바닷속 생물들을 입체적으로 관찰하는 원기둥 수조 전시</p>
+              </div>
+              <div class="space-y-1.5">
+                <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+                  <img src="/images/marine-eco/marine-eco-21.webp" alt="생태실 완도 해양생물과 해조류 전시" class="w-full h-72 md:h-80 object-cover" />
+                </div>
+                <p class="text-center text-xs text-neutral-500">전복과 해조류 등 완도 대표 해양자원의 생태적 가치를 소개하는 전시</p>
+              </div>
+            </div>
+          </div>
+
+          <p class="text-neutral-700 text-base md:text-lg leading-relaxed">
+            특히 완도의 대표적인 특산물인 전복과 해조류를 비롯한 다양한 해양생물이 바닷속에서 어떤 역할을 하는지 알아보고, 이들이 우리의 식생활과 산업 등 일상생활에서 어떻게 활용되고 있는지도 배울 수 있습니다. 평소 식탁에서만 만나던 수산물의 생태적 특징과 숨겨진 가치를 새롭게 발견하며, 완도 바다가 지닌 풍요로움과 해양생태계 보전의 중요성을 느낄 수 있는 유익한 전시 공간입니다.
+          </p>
+
+          <!-- 사진 15(미래실 DREAM 디지털 지도) 단독 + 사진 16 & 추가08(소망 메모지 벽) 2열 -->
+          <div class="space-y-4 pt-2">
+            <div class="space-y-1.5">
+              <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[560px]">
+                <img src="/images/marine-eco/marine-eco-15.webp" alt="미래실 DREAM 디지털 지도" class="w-full h-full object-cover" />
+              </div>
+              <p class="text-center text-xs text-neutral-500">완도가 꿈꾸는 미래 해양산업 비전을 보여주는 미래실(DREAM) 디지털 지도</p>
+            </div>
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+              <div class="space-y-1.5">
+                <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+                  <img src="/images/marine-eco/marine-eco-16.webp" alt="미래실 소망 메모지 벽" class="w-full h-72 md:h-80 object-cover" />
+                </div>
+                <p class="text-center text-xs text-neutral-500">방문객들이 바다를 향한 다짐과 꿈을 적어 남긴 소망 메모지 월</p>
+              </div>
+              <div class="space-y-1.5">
+                <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+                  <img src="/images/marine-eco/marine-eco-20.webp" alt="미래실 아이들의 소망 메모지 클로즈업" class="w-full h-72 md:h-80 object-cover" />
+                </div>
+                <p class="text-center text-xs text-neutral-500">아이들의 순수한 상상력과 바다 사랑이 가득 담긴 소망 메시지</p>
+              </div>
+            </div>
+          </div>
+
+          <p class="text-neutral-700 text-base md:text-lg leading-relaxed">
+            완도여행 중 아이랑 가볼만한곳 해양생태전시관의 <strong>미래실</strong>에서는 완도가 꿈꾸는 미래 비전과 해양산업의 발전 방향, 기후변화에 대응하기 위한 다양한 전략 등을 소개하고 있습니다. 특히 청정바다 완도가 지닌 풍부한 해양자원을 바탕으로 미래 해양산업의 가능성을 살펴보고, 지속 가능한 해양환경을 만들기 위한 노력과 실천 방안도 알아볼 수 있습니다.
+          </p>
+          <p class="text-neutral-700 text-base md:text-lg leading-relaxed">
+            아이들에게는 미래의 바다를 상상하며 새로운 꿈을 키우는 기회가 되고, 어른들에게는 아름다운 완도의 바다를 다음 세대에 온전히 물려주기 위해 우리가 어떤 노력을 해야 할지 생각해 보는 뜻깊은 공간입니다.
+          </p>
+        </section>
+
+        <!-- SECTION 05. 장도 청해진 유적지 연계 코스 & 에필로그 -->
+        <section class="space-y-6 pt-4">
+          <div class="flex items-center gap-3">
+            <span class="w-8 h-8 rounded-full bg-amber-600 text-white flex items-center justify-center font-bold text-sm">05</span>
+            <div>
+              <span class="text-xs font-bold text-amber-800 tracking-widest uppercase">Jangdo Heritage & Family Course</span>
+              <h2 class="text-2xl md:text-3xl font-serif font-bold text-neutral-900">장보고기념관·장도 청해진 유적지와 함께 즐기는 완벽 코스</h2>
+            </div>
+          </div>
+
+          <!-- 사진 17(장도 전경) & 사진 18(건물 외관과 입간판) 2열 -->
+          <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+            <div class="space-y-1.5">
+              <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+                <img src="/images/marine-eco/marine-eco-17.webp" alt="함께 둘러보기 좋은 장도 청해진 유적지 전경" class="w-full h-72 md:h-80 object-cover" />
+              </div>
+              <p class="text-center text-xs text-neutral-500">전시관 바로 앞에서 이어지는 장도 청해진 유적지 전경</p>
+            </div>
+            <div class="space-y-1.5">
+              <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+                <img src="/images/marine-eco/marine-eco-18.webp" alt="완도 해양생태전시관 건물 외관과 안내 입간판" class="w-full h-72 md:h-80 object-cover" />
+              </div>
+              <p class="text-center text-xs text-neutral-500">완도 해양생태전시관 건물 외관과 입간판</p>
+            </div>
+          </div>
+
+          <p class="text-neutral-700 text-base md:text-lg leading-relaxed">
+            바닷속 생태계를 만나는 특별한 여행지 완도 해양생태전시관은 인근에 자리한 <strong>장보고기념관</strong>과 <strong>장도 청해진 유적지</strong>까지 함께 둘러볼 수 있어 자연과 역사, 문화를 한 번에 즐길 수 있는 알찬 완도여행 코스입니다.
+          </p>
+
+          <!-- 에필로그 요약 박스 -->
+          <div class="p-6 md:p-8 rounded-3xl bg-neutral-900 text-white space-y-4">
+            <h3 class="text-xl md:text-2xl font-serif font-bold text-teal-400">
+              아이에게는 바다의 꿈을, 어른에게는 천년 해양 역사의 감동을
+            </h3>
+            <p class="text-neutral-200 leading-relaxed">
+              아이들에게는 신비로운 바닷속 생태계를 탐구하고 해양환경의 소중함을 배우는 유익한 시간이 되고, 어른들에게는 해상왕 장보고의 발자취를 따라 완도의 찬란한 해양 역사를 되돌아보는 뜻깊은 여행이 될 것입니다.
+            </p>
+            <p class="text-white font-medium text-base md:text-lg">
+              이번 주말, 아이들과 함께 보고, 배우고, 체험하며 특별한 추억을 만들 수 있는 완도 해양생태전시관으로 가족여행을 떠나보시는 건 어떠신가요? ✨
+            </p>
+          </div>
+
+          <!-- 해시태그 -->
+          <div class="pt-6 border-t border-neutral-200">
+            <div class="flex flex-wrap gap-2 text-xs font-medium text-neutral-600">
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-teal-50 hover:text-teal-700 transition-colors">#남도예술정원</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-teal-50 hover:text-teal-700 transition-colors">#완도여행</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-teal-50 hover:text-teal-700 transition-colors">#완도가볼만한곳</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-teal-50 hover:text-teal-700 transition-colors">#완도아이랑가볼만한곳</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-teal-50 hover:text-teal-700 transition-colors">#완도해양생태전시관</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-teal-50 hover:text-teal-700 transition-colors">#해양생태전시관</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-teal-50 hover:text-teal-700 transition-colors">#완도실내가볼만한곳</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-teal-50 hover:text-teal-700 transition-colors">#완도실내여행</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-teal-50 hover:text-teal-700 transition-colors">#완도가족여행</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-teal-50 hover:text-teal-700 transition-colors">#완도아이와함께</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-teal-50 hover:text-teal-700 transition-colors">#완도여행코스</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-teal-50 hover:text-teal-700 transition-colors">#전남완도여행</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-teal-50 hover:text-teal-700 transition-colors">#전남가볼만한곳</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-teal-50 hover:text-teal-700 transition-colors">#전남아이랑가볼만한곳</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-teal-50 hover:text-teal-700 transition-colors">#전남가족여행</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-teal-50 hover:text-teal-700 transition-colors">#아이와가볼만한곳</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-teal-50 hover:text-teal-700 transition-colors">#아이와체험학습</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-teal-50 hover:text-teal-700 transition-colors">#해양생태체험</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-teal-50 hover:text-teal-700 transition-colors">#해양생태계</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-teal-50 hover:text-teal-700 transition-colors">#해양생물</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-teal-50 hover:text-teal-700 transition-colors">#청정바다완도</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-teal-50 hover:text-teal-700 transition-colors">#장보고기념관</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-teal-50 hover:text-teal-700 transition-colors">#장도청해진유적</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-teal-50 hover:text-teal-700 transition-colors">#청해진유적지</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-teal-50 hover:text-teal-700 transition-colors">#완도역사여행</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-teal-50 hover:text-teal-700 transition-colors">#완도관광</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-teal-50 hover:text-teal-700 transition-colors">#남도여행</span>
+            </div>
+          </div>
+        </section>
+      </div>
+    `
+  },
+  "w20-wando-sinji-myeongsasimni": {
+    "id": "w20-wando-sinji-myeongsasimni",
+    "regionId": "wando",
+    "title": "완도 가볼만한곳 신지 명사십리해수욕장 사계절 아름다운 힐링 여행지",
+    "description": "약 3.8km에 걸쳐 펼쳐진 은빛 백사장과 에메랄드빛 남해바다! 아시아 최초 9년 연속 블루플래그 국제 친환경 인증 해변인 완도 신지 명사십리해수욕장에서 낮과 밤, 이른 아침까지 즐기는 맨발 걷기 힐링 여행.",
+    "keywords": "완도여행, 완도가볼만한곳, 완도여행코스, 전남여행, 전남가볼만한곳, 전남여행지추천, 신지명사십리, 신지명사십리해수욕장, 명사십리해수욕장, 완도해수욕장, 완도바다, 완도바다여행, 완도힐링여행, 완도1박2일, 완도관광명소, 블루플래그, 블루플래그해변, 아시아최초블루플래그, 완도맨발걷기, 해변맨발걷기, 완도해변산책, 완도일출, 완도아침바다, 완도오션뷰, 완도카페, 남해바다, 국내여행추천, 가을바다여행, 남도여행, 국내힐링여행",
+    "date": "2026. 11. 18",
+    "author": "남도예술정원 공식 에디터",
+    "readTime": "5분",
+    "image": "/images/myeongsasimni/myeongsasimni-01.webp",
+    "content": `
+      <div class="max-w-4xl mx-auto space-y-12 text-neutral-800 leading-relaxed font-sans mt-4 px-2 md:px-0">
+        <!-- Hero Banner / 상단 타이틀 영역 -->
+        <div class="space-y-4">
+          <div class="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-sky-500/10 text-sky-800 text-xs font-bold uppercase tracking-wider">
+            🌊 남도 바다 & 맨발 걷기 힐링 명소 | 완도 신지면
+          </div>
+          <h1 class="text-3xl md:text-5xl font-serif font-bold text-neutral-900 leading-tight">
+            완도 가볼만한곳 신지 명사십리해수욕장<br/>
+            <span class="text-sky-700 font-sans">사계절 아름다운 힐링 여행지</span>
+          </h1>
+          <p class="text-base md:text-lg text-neutral-600 font-light leading-relaxed">
+            끝없이 펼쳐진 3.8km 은빛 백사장과 청정 에메랄드빛 바다, 낮과 밤 그리고 이른 아침까지 다채로운 매력을 선사하는 아시아 최초 블루플래그 인증 해변
+          </p>
+        </div>
+
+        <!-- [사진-명사십리_01_백사장 맨발 걷기] -->
+        <div class="rounded-3xl overflow-hidden shadow-xl border border-neutral-100 max-h-[620px]">
+          <img src="/images/myeongsasimni/myeongsasimni-01.webp" alt="완도 신지 명사십리해수욕장 백사장 맨발 걷기" class="w-full h-full object-cover" />
+        </div>
+
+        <!-- [도입부 / 프롤로그] -->
+        <div class="bg-[#f4f9fc] p-6 md:p-8 rounded-3xl border border-sky-100 shadow-sm space-y-4">
+          <p class="text-base md:text-lg font-medium text-neutral-800 leading-relaxed">
+            끝없이 펼쳐진 은빛 백사장과 잔잔하게 밀려오는 파도 소리, 발끝으로 전해지는 부드러운 모래의 감촉까지!
+          </p>
+          <p class="text-neutral-700 leading-relaxed">
+            복잡한 일상에서 잠시 벗어나 신발을 벗어 들고 맨발로 백사장을 걸어봅니다.<br/>
+            발걸음을 옮길 때마다 고운 모래가 발가락 사이로 스며들고, 시원한 바닷바람이 불어와 마음까지 상쾌해지는 기분입니다.
+          </p>
+          <p class="text-neutral-700 leading-relaxed font-medium text-sky-900">
+            오늘은 아름다운 남해바다를 바라보며 여유롭게 맨발 걷기를 즐길 수 있는 완도 가볼만한곳, <strong>신지 명사십리해수욕장</strong>으로 여러분을 안내하겠습니다.
+          </p>
+        </div>
+
+        <!-- SECTION 01. 3.8km 은빛 백사장과 사계절 맨발 걷기 -->
+        <section class="space-y-6">
+          <div class="flex items-center gap-3">
+            <span class="w-8 h-8 rounded-full bg-sky-700 text-white flex items-center justify-center font-bold text-sm">01</span>
+            <div>
+              <span class="text-xs font-bold text-sky-800 tracking-widest uppercase">Silver Sand Beach</span>
+              <h2 class="text-2xl md:text-3xl font-serif font-bold text-neutral-900">3.8km 은빛 백사장과 에메랄드빛 바다의 조화</h2>
+            </div>
+          </div>
+
+          <!-- [사진-명사십리_02_명사십리 조형물 낮] -->
+          <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[560px]">
+            <img src="/images/myeongsasimni/myeongsasimni-02.webp" alt="신지 명사십리 조형물 낮 전경" class="w-full h-full object-cover" />
+          </div>
+
+          <p class="text-neutral-700 text-base md:text-lg leading-relaxed">
+            신지 명사십리는 완도군 신지면에 자리한 대표적인 해수욕장으로, 약 3.8km에 걸쳐 길게 펼쳐진 은빛 백사장과 에메랄드빛 바다가 어우러진 아름다운 관광명소입니다.
+          </p>
+
+          <!-- [사진 명사십리_03_백사장과 해안선 전경] & [사진 4- 명사십리_04_백사장과 해송숲] -->
+          <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+            <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+              <img src="/images/myeongsasimni/myeongsasimni-03.webp" alt="명사십리 백사장과 해안선 전경" class="w-full h-72 md:h-80 object-cover" />
+            </div>
+            <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+              <img src="/images/myeongsasimni/myeongsasimni-04.webp" alt="명사십리 백사장과 해송숲" class="w-full h-72 md:h-80 object-cover" />
+            </div>
+          </div>
+
+          <p class="text-neutral-700 text-base md:text-lg leading-relaxed">
+            곱고 부드러운 모래가 특징인 명사십리는 여름철 해수욕뿐만 아니라 사계절 내내 바닷바람을 맞으며 산책을 즐기기 좋은 곳으로, 특히 신발을 벗고 맨발로 백사장을 걸으며 자연이 선사하는 여유와 힐링을 만끽할 수 있습니다.
+          </p>
+        </section>
+
+        <!-- SECTION 02. 아시아 최초 9년 연속 블루플래그 인증 & 스머프 포토존 -->
+        <section class="space-y-6 pt-4">
+          <div class="flex items-center gap-3">
+            <span class="w-8 h-8 rounded-full bg-blue-700 text-white flex items-center justify-center font-bold text-sm">02</span>
+            <div>
+              <span class="text-xs font-bold text-blue-800 tracking-widest uppercase">Blue Flag Certified Beach</span>
+              <h2 class="text-2xl md:text-3xl font-serif font-bold text-neutral-900">아시아 최초 ‘블루플래그’ 인증 청정 해변과 포토존</h2>
+            </div>
+          </div>
+
+          <!-- [사진 명사십리_05_블루플래그 조형물] -->
+          <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[560px]">
+            <img src="/images/myeongsasimni/myeongsasimni-05.webp" alt="신지 명사십리 블루플래그 조형물" class="w-full h-full object-cover" />
+          </div>
+
+          <div class="bg-gradient-to-br from-blue-50/80 to-sky-50/50 p-6 md:p-8 rounded-3xl border border-blue-100 space-y-3">
+            <p class="text-neutral-800 text-base md:text-lg leading-relaxed">
+              신지 명사십리해수욕장은 아름다운 자연경관뿐만 아니라 아시아 최초로 국제 친환경 인증인 <strong>‘블루플래그(Blue Flag)’</strong>를 획득한 해수욕장으로도 유명합니다.
+            </p>
+            <p class="text-neutral-700 leading-relaxed">
+              블루플래그는 국제환경교육재단(FEE)이 수질, 안전, 환경교육, 친환경 시설 등 엄격한 기준을 충족한 해수욕장에 부여하는 국제 인증인데요.
+            </p>
+          </div>
+
+          <!-- [사진 명사십리_06_모래조각 작품] -->
+          <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[560px]">
+            <img src="/images/myeongsasimni/myeongsasimni-06.webp" alt="신지 명사십리 모래조각 작품" class="w-full h-full object-cover" />
+          </div>
+
+          <p class="text-neutral-700 text-base md:text-lg leading-relaxed">
+            2026년까지 <strong>9년 연속 블루플래그 인증</strong>을 획득하며 세계적으로 청정하고 안전한 해변의 가치를 인정받으며 수많은 관광객들이 찾는 전남 명소 중 한곳이에요.
+          </p>
+
+          <!-- [사진-명사십리_07_스머프 조형물 포토존] -->
+          <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[560px]">
+            <img src="/images/myeongsasimni/myeongsasimni-07.webp" alt="블루플래그 마스코트 스머프 조형물 포토존" class="w-full h-full object-cover" />
+          </div>
+
+          <p class="text-neutral-700 text-base md:text-lg leading-relaxed">
+            해변 한쪽에 자리한 블루플래그 해변의 공식 마스코트인 개구쟁이 스머프는 신지 명사십리해수욕장을 찾는 관광객들에게 색다른 볼거리와 즐거움을 선사합니다.
+          </p>
+          <p class="text-neutral-700 text-base md:text-lg leading-relaxed">
+            푸른 바다를 배경으로 귀여운 스머프 캐릭터와 함께 기념사진을 남길 수 있어 아이들은 물론 어른들에게도 인기 있는 포토존으로, 완도여행의 특별한 추억을 남기기에도 안성맞춤입니다.
+          </p>
+        </section>
+
+        <!-- SECTION 03. 해송숲 산책로와 푸른 바다의 휴식 -->
+        <section class="space-y-6 pt-4">
+          <div class="flex items-center gap-3">
+            <span class="w-8 h-8 rounded-full bg-emerald-700 text-white flex items-center justify-center font-bold text-sm">03</span>
+            <div>
+              <span class="text-xs font-bold text-emerald-800 tracking-widest uppercase">Pine Forest & Ocean Wave</span>
+              <h2 class="text-2xl md:text-3xl font-serif font-bold text-neutral-900">솔향기 가득한 해송숲 산책로와 파도 소리</h2>
+            </div>
+          </div>
+
+          <!-- [사진 명사십리_08_해송숲 산책로] -->
+          <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[560px]">
+            <img src="/images/myeongsasimni/myeongsasimni-08.webp" alt="명사십리 해송숲 산책로" class="w-full h-full object-cover" />
+          </div>
+
+          <p class="text-neutral-700 text-base md:text-lg leading-relaxed">
+            푸른 소나무가 울창하게 우거진 해송숲을 따라 조성된 산책로는 시원한 바닷바람과 솔향기를 함께 느끼며 여유롭게 걷기 좋은 공간입니다.
+          </p>
+
+          <!-- [사진 명사십리_09_해송숲 야외 운동기구] -->
+          <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[560px]">
+            <img src="/images/myeongsasimni/myeongsasimni-09.webp" alt="해송숲 야외 운동기구와 휴식 공간" class="w-full h-full object-cover" />
+          </div>
+
+          <p class="text-neutral-700 text-base md:text-lg leading-relaxed">
+            한쪽에는 가볍게 몸을 풀 수 있는 야외 운동기구와 잠시 쉬어갈 수 있는 휴식 공간도 마련되어 있어, 파도 소리를 들으며 산책과 운동을 즐기고 자연 속에서 몸과 마음을 재충전하기에도 안성맞춤입니다.
+          </p>
+
+          <!-- [사진 명사십리_10_낮 바다 수평선과 파도] -->
+          <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[560px]">
+            <img src="/images/myeongsasimni/myeongsasimni-10.webp" alt="명사십리 낮 바다 수평선과 파도" class="w-full h-full object-cover" />
+          </div>
+
+          <p class="text-neutral-700 text-base md:text-lg leading-relaxed">
+            끝없이 펼쳐진 수평선을 바라보며 잔잔하게 밀려오는 파도 소리에 귀 기울이고, 부드러운 모래 위를 맨발로 걸으며 자연이 선사하는 여유로움을 만끽해 봅니다.
+          </p>
+
+          <!-- [사진 명사십리_11_백사장에 밀려오는 파도] -->
+          <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[560px]">
+            <img src="/images/myeongsasimni/myeongsasimni-11.webp" alt="백사장에 밀려오는 잔잔한 파도" class="w-full h-full object-cover" />
+          </div>
+
+          <p class="text-neutral-700 text-base md:text-lg leading-relaxed">
+            바쁘게 흘러가는 일상에서 잠시 벗어나 아무런 생각 없이 푸른 바다를 바라보는 것만으로도 마음이 편안해지고, 어느새 쌓여 있던 피로와 스트레스마저 파도에 실려 멀리 흘러가는 듯합니다.
+          </p>
+        </section>
+
+        <!-- SECTION 04. 밤바다의 낭만 야경 -->
+        <section class="space-y-6 pt-4">
+          <div class="flex items-center gap-3">
+            <span class="w-8 h-8 rounded-full bg-indigo-900 text-white flex items-center justify-center font-bold text-sm">04</span>
+            <div>
+              <span class="text-xs font-bold text-indigo-900 tracking-widest uppercase">Romantic Night View</span>
+              <h2 class="text-2xl md:text-3xl font-serif font-bold text-neutral-900">은은한 조명이 수놓는 완도의 낭만적인 밤바다</h2>
+            </div>
+          </div>
+
+          <!-- [사진 명사십리_12_야간 백사장 전경] -->
+          <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[560px]">
+            <img src="/images/myeongsasimni/myeongsasimni-12.webp" alt="명사십리 야간 백사장 전경" class="w-full h-full object-cover" />
+          </div>
+
+          <p class="text-neutral-700 text-base md:text-lg leading-relaxed font-medium">
+            완도 가볼만한곳 신지 명사십리는 밤이 되면 낮과는 또 다른 매력을 선사합니다.
+          </p>
+
+          <!-- [사진 명사십리_13_야간 해변 조명] & [사진-명사십리_14_명사십리 조형물 야간] -->
+          <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+            <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+              <img src="/images/myeongsasimni/myeongsasimni-13.webp" alt="명사십리 야간 해변 조명" class="w-full h-72 md:h-80 object-cover" />
+            </div>
+            <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+              <img src="/images/myeongsasimni/myeongsasimni-14.webp" alt="명사십리 조형물 야간 풍경" class="w-full h-72 md:h-80 object-cover" />
+            </div>
+          </div>
+
+          <p class="text-neutral-700 text-base md:text-lg leading-relaxed">
+            푸른 바다와 은빛 백사장이 아름다웠던 낮과 달리 어둠이 내려앉은 해변에는 은은한 조명이 하나둘 불을 밝히고, 잔잔하게 밀려오는 파도 소리와 함께 낭만적인 분위기가 펼쳐집니다.
+          </p>
+
+          <!-- [사진 -명사십리_15_모래조각 작품 야간] -->
+          <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[560px]">
+            <img src="/images/myeongsasimni/myeongsasimni-15.webp" alt="모래조각 작품 야간 조명" class="w-full h-full object-cover" />
+          </div>
+
+          <p class="text-neutral-700 text-base md:text-lg leading-relaxed">
+            시원한 밤바람을 맞으며 해변을 거닐다 보면 낮 동안의 활기찬 풍경과는 사뭇 다른 고요하고 평화로운 완도의 밤을 만끽할 수 있습니다.
+          </p>
+        </section>
+
+        <!-- SECTION 05. 이른 아침의 해변과 모닝커피 -->
+        <section class="space-y-6 pt-4">
+          <div class="flex items-center gap-3">
+            <span class="w-8 h-8 rounded-full bg-amber-600 text-white flex items-center justify-center font-bold text-sm">05</span>
+            <div>
+              <span class="text-xs font-bold text-amber-800 tracking-widest uppercase">Morning Sunlight & Coffee</span>
+              <h2 class="text-2xl md:text-3xl font-serif font-bold text-neutral-900">아침 햇살에 반짝이는 바다와 모닝커피의 여유</h2>
+            </div>
+          </div>
+
+          <!-- [사진 -명사십리_16_이른 아침 해송과 바다] -->
+          <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[560px]">
+            <img src="/images/myeongsasimni/myeongsasimni-16.webp" alt="이른 아침 해송과 바다 풍경" class="w-full h-full object-cover" />
+          </div>
+
+          <p class="text-neutral-700 text-base md:text-lg leading-relaxed">
+            신지 명사십리해수욕장 근처 숙소에서 하룻밤을 보내고 다시 찾은 다음 날 아침에는 전날과는 다른 풍경을 만날 수 있었어요.
+          </p>
+
+          <!-- [사진-명사십리_17_아침 백사장 파도 거품] -->
+          <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[560px]">
+            <img src="/images/myeongsasimni/myeongsasimni-17.webp" alt="아침 백사장 파도 거품과 햇살" class="w-full h-full object-cover" />
+          </div>
+
+          <p class="text-neutral-700 text-base md:text-lg leading-relaxed">
+            이른 아침의 고요함이 내려앉은 백사장에는 상쾌한 바닷바람과 잔잔하게 밀려오는 파도 소리만이 가득하고, 서서히 밝아오는 하늘과 떠오르는 아침 햇살에 반짝이는 은빛 모래와 푸른 바다가 어우러져 한 폭의 그림 같은 풍경을 선사해주었습니다.
+          </p>
+
+          <!-- [사진-명사십리_18_해변 인근 카페 외관] -->
+          <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[560px]">
+            <img src="/images/myeongsasimni/myeongsasimni-18.webp" alt="명사십리 해변 인근 카페 외관" class="w-full h-full object-cover" />
+          </div>
+
+          <p class="text-neutral-700 text-base md:text-lg leading-relaxed">
+            숙소에서 간단하게 아침 식사를 마친 뒤 근처 카페에서 주문한 모닝커피 한 잔과 함께 여유로운 하루를 시작했답니다.
+          </p>
+
+          <!-- 에필로그 요약 카드 -->
+          <div class="p-6 md:p-8 rounded-3xl bg-neutral-900 text-white space-y-4">
+            <h3 class="text-xl md:text-2xl font-serif font-bold text-sky-400">
+              낮과 밤, 그리고 아침까지 사계절 빛나는 힐링 해변
+            </h3>
+            <p class="text-neutral-200 leading-relaxed">
+              낮에는 눈부신 은빛 백사장과 푸른 바다를, 밤에는 낭만적인 해변의 정취를, 이른 아침에는 고요한 바다와 함께 여유로운 모닝커피까지!
+            </p>
+            <p class="text-white font-medium text-base md:text-lg">
+              사계절 언제 찾아도 아름다운 완도 가볼만한곳 신지 명사십리해수욕장에서 일상의 쉼표를 찍어보는 힐링여행, 어떠신가요? ✨
+            </p>
+          </div>
+
+          <!-- 해시태그 -->
+          <div class="pt-6 border-t border-neutral-200">
+            <div class="flex flex-wrap gap-2 text-xs font-medium text-neutral-600">
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-sky-50 hover:text-sky-700 transition-colors">#완도여행</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-sky-50 hover:text-sky-700 transition-colors">#완도가볼만한곳</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-sky-50 hover:text-sky-700 transition-colors">#완도여행코스</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-sky-50 hover:text-sky-700 transition-colors">#전남여행</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-sky-50 hover:text-sky-700 transition-colors">#전남가볼만한곳</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-sky-50 hover:text-sky-700 transition-colors">#전남여행지추천</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-sky-50 hover:text-sky-700 transition-colors">#신지명사십리</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-sky-50 hover:text-sky-700 transition-colors">#신지명사십리해수욕장</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-sky-50 hover:text-sky-700 transition-colors">#명사십리해수욕장</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-sky-50 hover:text-sky-700 transition-colors">#완도해수욕장</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-sky-50 hover:text-sky-700 transition-colors">#완도바다</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-sky-50 hover:text-sky-700 transition-colors">#완도바다여행</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-sky-50 hover:text-sky-700 transition-colors">#완도힐링여행</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-sky-50 hover:text-sky-700 transition-colors">#완도1박2일</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-sky-50 hover:text-sky-700 transition-colors">#완도관광명소</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-sky-50 hover:text-sky-700 transition-colors">#블루플래그</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-sky-50 hover:text-sky-700 transition-colors">#블루플래그해변</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-sky-50 hover:text-sky-700 transition-colors">#아시아최초블루플래그</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-sky-50 hover:text-sky-700 transition-colors">#완도맨발걷기</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-sky-50 hover:text-sky-700 transition-colors">#해변맨발걷기</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-sky-50 hover:text-sky-700 transition-colors">#완도해변산책</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-sky-50 hover:text-sky-700 transition-colors">#완도일출</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-sky-50 hover:text-sky-700 transition-colors">#완도아침바다</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-sky-50 hover:text-sky-700 transition-colors">#완도오션뷰</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-sky-50 hover:text-sky-700 transition-colors">#완도카페</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-sky-50 hover:text-sky-700 transition-colors">#남해바다</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-sky-50 hover:text-sky-700 transition-colors">#국내여행추천</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-sky-50 hover:text-sky-700 transition-colors">#가을바다여행</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-sky-50 hover:text-sky-700 transition-colors">#남도여행</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-sky-50 hover:text-sky-700 transition-colors">#국내힐링여행</span>
+            </div>
+          </div>
+        </section>
+      </div>
+    `
+  },
   "j13-jindo-uldol-hyusik": {
     "id": "j13-jindo-uldol-hyusik",
     "regionId": "jindo",

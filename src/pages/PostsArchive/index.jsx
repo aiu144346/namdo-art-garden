@@ -61,12 +61,16 @@ export default function PostsArchive() {
 
       // Priority ordering (Featured first)
       const isFeatured = [
+        'w22-wando-marine-healing-center',
+        'w21-wando-marine-ecology-museum',
+        'w20-wando-sinji-myeongsasimni',
         'j13-jindo-uldol-hyusik',
         'h30-haenam-moongarden',
         'h29-haenam-haechang-brewery',
         'm2-food-garden-tour',
         's20-shinan-stay-best8',
         'h28-haenam-walking-best4',
+        'w4-wando-arboretum',
         'm1-namdo-art-garden-intro'
       ].includes(id);
 

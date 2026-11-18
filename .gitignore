@@ -1,4 +1,4 @@
-# Logs
+﻿# Logs
 logs
 *.log
 npm-debug.log*
@@ -28,3 +28,11 @@ dist-ssr
 raw_photos/
 scratch/
 .temp_inspect/
+
+*.zip
+완도/
+진도타워*
+
+
+완도/
+진도타워*

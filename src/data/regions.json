@@ -1,5 +1,32 @@
 [
   {
+    "id": "w22-wando-marine-healing-center",
+    "regionId": "wando",
+    "title": "완도가볼만한곳 완도해양치유센터 바다가 선물하는 특별한 힐링여행 🌿",
+    "summary": "신지 명사십리해수욕장 앞! 청정 해수, 해조류, 천연 머드를 활용한 국내 최대 해양치유센터에서 맞춤형 테라피와 딸라소풀로 지친 몸과 마음을 재충전하세요.",
+    "image": "/images/healing-center/healing-center-03.webp",
+    "date": "2026-11-18",
+    "author": "남도예술정원 공식 에디터"
+  },
+  {
+    "id": "w21-wando-marine-ecology-museum",
+    "regionId": "wando",
+    "title": "완도 아이와 가볼만한곳 해양생태전시관 바닷속 생태계를 만나는 특별한 여행 🐠",
+    "summary": "날씨에 구애받지 않는 완도 실내 가족 여행지! 오감 체험실, 2층 트릭아트 포토존, 장도 청해진유적전시실, 5대양 해양실·생태실·미래실까지 바닷속 생태계와 역사를 한자리에서 만나보세요.",
+    "image": "/images/marine-eco/marine-eco-02.webp",
+    "date": "2026-11-18",
+    "author": "남도예술정원 공식 에디터"
+  },
+  {
+    "id": "w20-wando-sinji-myeongsasimni",
+    "regionId": "wando",
+    "title": "완도 가볼만한곳 신지 명사십리해수욕장 사계절 아름다운 힐링 여행지 🌊",
+    "summary": "약 3.8km 은빛 백사장과 아시아 최초 9년 연속 블루플래그 인증 해변! 낮과 밤, 이른 아침까지 즐기는 완도 신지 명사십리 맨발 걷기 힐링 여행.",
+    "image": "/images/myeongsasimni/myeongsasimni-01.webp",
+    "date": "2026-11-18",
+    "author": "남도예술정원 공식 에디터"
+  },
+  {
     "id": "m1-namdo-art-garden-intro",
     "regionId": "wando",
     "title": "[메인기사] 남도예술정원: 8개의 아름다운 정원 이야기 🌿✨",
