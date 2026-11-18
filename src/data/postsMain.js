@@ -1,4 +1,1499 @@
 export const postsMain = {
+  "w24-wando-urban-grilled-fish": {
+    "id": "w24-wando-urban-grilled-fish",
+    "regionId": "wando",
+    "title": "완도맛집 추천 \"완도어반\"\n완도타워 여행코스로 즐기는 화덕생선구이 전문점",
+    "description": "완도타워와 스카이워크 관람 후 들르기 좋은 화덕생선구이·전복요리 전문점 완도어반! 남도예술정원 공식 지역파트너 10% 할인 혜택과 겉바속촉 모둠 생선구이, 정갈한 미역국 한 상 후기.",
+    "keywords": "완도맛집, 완도맛집추천, 완도어반, 완도타워맛집, 완도타워, 완도여행, 완도여행코스, 완도가볼만한곳, 완도현지인맛집, 완도생선구이, 완도화덕생선구이, 화덕생선구이맛집, 완도전복요리, 완도가족여행, 완도아이랑가볼만한곳, 완도모노레일, 완도스카이워크, 완도여행추천, 전남맛집, 전남여행, 전남가볼만한곳, 남도맛집, 남도여행, 남도예술정원, 남도예술정원여행주간, 남도예술정원스탬프투어, 완도아내의정원, 완도바하정원, 완도특산품, 완도맛집투어",
+    "date": "2026. 11. 19",
+    "author": "남도예술정원 서포터즈 (김지태)",
+    "readTime": "5분",
+    "image": "/images/wando-urban/wando-urban-02.webp",
+    "content": `
+      <div class="max-w-4xl mx-auto space-y-8 text-neutral-800 leading-relaxed font-sans mt-4 px-2 md:px-0">
+        <!-- Hero Banner / 최적 줄바꿈 타이틀 영역 -->
+        <div class="space-y-4">
+          <div class="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-amber-500/10 text-amber-800 text-xs font-bold uppercase tracking-wider">
+            🐟 남도예술정원 지역 파트너 & 화덕생선구이 명소 | 완도
+          </div>
+          <h1 class="text-3xl md:text-5xl font-serif font-bold text-neutral-900 leading-tight">
+            완도맛집 추천<br/>
+            <span class="text-amber-700 font-sans block mt-1">“완도어반”</span>
+            <span class="text-xl md:text-2xl text-neutral-600 font-light font-sans block mt-2">완도타워 여행코스로 즐기는 화덕생선구이 전문점</span>
+          </h1>
+          <p class="text-base md:text-lg text-neutral-600 font-light leading-relaxed">
+            완도타워 모노레일 승강장 바로 옆! 뜨거운 화덕에서 구워낸 겉바속촉 모둠 생선구이와 남도예술정원 여행주간 10% 할인 혜택까지
+          </p>
+        </div>
+
+        
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/wando-urban/wando-urban-01.webp" alt="완도어반 현장 사진 1" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <div class="bg-[#fdfaf5] border-amber-100 p-6 md:p-8 rounded-3xl border shadow-sm">
+          <p class="text-base md:text-lg font-medium text-neutral-800 leading-relaxed">전남 완도여행을 계획하고 계신다면 아름다운 다도해의 풍경을 한눈에 담을 수 있는 완도타워와 함께 맛있는 남도의 한 끼도 빼놓을 수 없겠죠?</p>
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">이번 완도여행에서는 11월 6일부터 20일까지 진행되는 남도예술정원 여행주간을 맞아 지역파트너 매장에서 할인 혜택까지 누리며 더욱 알찬 여행을 즐겼습니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/wando-urban/wando-urban-02.webp" alt="완도어반 현장 사진 2" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">그중에서도 완도타워를 둘러본 뒤 찾아간 완도어반은 화덕에서 노릇노릇하게 구워낸 생선구이를 맛볼 수 있는 전문점으로, 든든한 한 끼 식사를 즐기기에 좋은 곳이었어요.</p>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">아름다운 바다 풍경과 맛있는 음식, 여기에 남도예술정원 여행주간의 특별한 할인 혜택까지 더해져 더욱 만족스러웠던 완도어반 방문 후기를 소개합니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/wando-urban/wando-urban-03.webp" alt="완도어반 현장 사진 3" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">완도여행의 필수 코스인 완도타워는 푸른 바다 위로 크고 작은 섬들이 그림처럼 펼쳐지는 다도해의 아름다운 풍경을 한눈에 감상할 수 있는 대표적인 관광명소입니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/wando-urban/wando-urban-04.webp" alt="완도어반 현장 사진 4" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">최근에는 다도해의 탁 트인 바다를 바라보며 짜릿한 스릴을 즐길 수 있는 스카이워크까지 조성되어 아이들과 함께하는 가족여행에서도 빼놓을 수 없는 완도 가볼만한곳으로 사랑받고 있습니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/wando-urban/wando-urban-05.webp" alt="완도어반 현장 사진 5" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">모노레일을 타고 완도타워에 올라 아름다운 풍경을 감상한 뒤 내려오면, 모노레일 승강장 바로 옆에 오늘 소개해 드릴 화덕생선구이·전복요리 전문점 완도어반이 자리하고 있어 여행 동선에 맞춰 맛있는 식사까지 즐기기 좋습니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/wando-urban/wando-urban-06.webp" alt="완도어반 현장 사진 6" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">낭만 가득한 완도여행 중 현지인들도 즐겨 찾는 완도맛집 '완도어반'에 도착하면 매장 입구에서 남도예술정원 여행주간을 알리는 배너를 만날 수 있습니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/wando-urban/wando-urban-07.webp" alt="완도어반 현장 사진 7" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">완도에는 아름다운 자연과 정원의 매력을 느낄 수 있는 '아내의 정원'과 '바하정원' 등 2곳의 남도예술정원이 자리하고 있습니다.</p>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">11월 6일부터 20일까지 진행되는 남도예술정원 여행주간에는 아름다운 민간정원을 둘러보며 스탬프 투어에 참여한 뒤, 공식 지역파트너 매장인 완도어반을 방문하면 10% 할인 혜택까지 받을 수 있습니다.</p>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">완도여행에서 정원 산책의 여유로움과 남도의 맛있는 음식까지 함께 즐길 수 있는 좋은 기회이니 꼭 참고해 보세요.</p>
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+          <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+            <img src="/images/wando-urban/wando-urban-08.webp" alt="완도어반 현장 사진 8" class="w-full h-72 md:h-80 object-cover" loading="lazy" />
+          </div>
+          <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+            <img src="/images/wando-urban/wando-urban-09.webp" alt="완도어반 현장 사진 9" class="w-full h-72 md:h-80 object-cover" loading="lazy" />
+          </div>
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">완도어반 매장 안으로 들어서면 널찍하고 쾌적한 공간이 먼저 눈길을 사로잡습니다.</p>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">깔끔하고 세련된 인테리어에 테이블마다 여유로운 간격을 두고 배치되어 있어 편안한 분위기에서 식사를 즐길 수 있습니다.</p>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">특히 넓은 실내 공간 덕분에 여러 명이 함께하는 단체 식사에도 부담이 없어 완도타워를 둘러본 뒤 맛있는 한 끼를 즐기기에 안성맞춤입니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/wando-urban/wando-urban-10.webp" alt="완도어반 현장 사진 10" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">주방 한쪽에는 완도어반의 특별한 맛을 완성하는 커다란 화덕이 자리하고 있습니다.</p>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">뜨거운 열기로 생선을 노릇노릇하게 구워내 겉은 바삭하고 속은 촉촉한 생선구이 특유의 풍미를 살려주며, 일반적인 생선구이와는 또 다른 깊고 고소한 맛을 기대하게 만듭니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/wando-urban/wando-urban-11.webp" alt="완도어반 현장 사진 11" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">부족한 밑반찬은 편하게 리필할 수 있도록 셀프바도 마련되어 있습니다.</p>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">다양한 반찬들이 깔끔하게 정돈되어 있어 취향에 따라 필요한 만큼 자유롭게 가져다 먹을 수 있으며, 직원분께 따로 요청하지 않아도 되어 더욱 편리하게 식사를 즐길 수 있습니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/wando-urban/wando-urban-12.webp" alt="완도어반 현장 사진 12" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">둘이 방문하면 어떤 메뉴를 주문할지 고민할 필요 없이 다양한 생선을 한 번에 맛볼 수 있는 모둠 생선구이를 추천합니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/wando-urban/wando-urban-13.webp" alt="완도어반 현장 사진 13" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">화덕에서 노릇노릇하게 구워낸 여러 종류의 생선을 골고루 즐길 수 있어 취향이 다른 두 사람도 만족스럽게 식사할 수 있으며, 생선마다 서로 다른 식감과 고소한 풍미를 비교하며 맛보는 재미까지 느낄 수 있습니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/wando-urban/wando-urban-14.webp" alt="완도어반 현장 사진 14" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">화덕에서 노릇노릇하게 구워져 나온 생선구이는 위생장갑을 끼고 손으로 간단하게 손질하면 뼈와 살코기가 쉽게 분리됩니다.</p>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">겉은 바삭하면서도 속살은 촉촉하고 부드러워 손질하는 동안에도 고소한 향이 입맛을 자극합니다.</p>
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+          <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+            <img src="/images/wando-urban/wando-urban-15.webp" alt="완도어반 현장 사진 15" class="w-full h-72 md:h-80 object-cover" loading="lazy" />
+          </div>
+          <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+            <img src="/images/wando-urban/wando-urban-16.webp" alt="완도어반 현장 사진 16" class="w-full h-72 md:h-80 object-cover" loading="lazy" />
+          </div>
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">큼직하게 발라낸 하얀 살코기를 따끈한 밥 위에 올려 한입 먹으면 담백하면서도 깊은 감칠맛이 입안 가득 퍼져 밥 한 공기가 금세 사라질 것 같습니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/wando-urban/wando-urban-17.webp" alt="완도어반 현장 사진 17" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">정식 메뉴에 포함된 미역국 역시 깊고 진한 국물 맛이 일품입니다.</p>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">부드럽게 익은 미역의 은은한 바다 향과 구수한 국물이 어우러져 한 숟가락 떠먹을 때마다 속이 편안해지는 느낌입니다.</p>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">짭조름하고 고소한 화덕생선구이와도 잘 어울려 따끈한 밥과 함께 든든한 한 끼 식사를 완성해 줍니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/wando-urban/wando-urban-18.webp" alt="완도어반 현장 사진 18" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">남도 밥상의 진수를 맛볼 수 있는 짭조름한 젓갈 한 점을 따끈한 흰쌀밥 위에 올려 먹으면 입안 가득 깊은 감칠맛이 퍼지며 절로 밥 한 숟가락을 더 뜨게 만듭니다.</p>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">화려한 반찬이 아니어도 남도 특유의 깊은 손맛을 느낄 수 있는 별미로, 젓갈 하나만으로도 밥 한 공기를 뚝딱 비울 수 있을 만큼 입맛을 사로잡습니다.</p>
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+          <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+            <img src="/images/wando-urban/wando-urban-19.webp" alt="완도어반 현장 사진 19" class="w-full h-72 md:h-80 object-cover" loading="lazy" />
+          </div>
+          <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+            <img src="/images/wando-urban/wando-urban-20.webp" alt="완도어반 현장 사진 20" class="w-full h-72 md:h-80 object-cover" loading="lazy" />
+          </div>
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">완도타워와 함께 여행코스로 방문하기 안성맞춤인 화덕생선구이 전문점 완도어반에서는 여행객들을 위해 완도의 매력이 담긴 다양한 지역 특산품도 만나볼 수 있습니다.</p>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">맛있는 식사와 함께 완도의 특산품을 구경하고, 소중한 사람들에게 전할 여행 선물까지 준비할 수 있답니다.</p>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">남도예술정원 여행주간의 할인 혜택까지 누리며 남도의 맛과 멋을 함께 즐기는 특별한 여행을 떠나보시는 건 어떠신가요?</p>
+
+        <!-- 해시태그 -->
+        <div class="pt-8 border-t border-neutral-200">
+          <div class="flex flex-wrap gap-2 text-xs font-medium text-neutral-600">
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-amber-50 hover:text-amber-700 transition-colors">#완도맛집</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-amber-50 hover:text-amber-700 transition-colors">#완도맛집추천</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-amber-50 hover:text-amber-700 transition-colors">#완도어반</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-amber-50 hover:text-amber-700 transition-colors">#완도타워맛집</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-amber-50 hover:text-amber-700 transition-colors">#완도타워</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-amber-50 hover:text-amber-700 transition-colors">#완도여행</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-amber-50 hover:text-amber-700 transition-colors">#완도여행코스</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-amber-50 hover:text-amber-700 transition-colors">#완도가볼만한곳</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-amber-50 hover:text-amber-700 transition-colors">#완도현지인맛집</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-amber-50 hover:text-amber-700 transition-colors">#완도생선구이</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-amber-50 hover:text-amber-700 transition-colors">#완도화덕생선구이</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-amber-50 hover:text-amber-700 transition-colors">#화덕생선구이맛집</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-amber-50 hover:text-amber-700 transition-colors">#완도전복요리</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-amber-50 hover:text-amber-700 transition-colors">#완도가족여행</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-amber-50 hover:text-amber-700 transition-colors">#완도아이랑가볼만한곳</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-amber-50 hover:text-amber-700 transition-colors">#완도모노레일</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-amber-50 hover:text-amber-700 transition-colors">#완도스카이워크</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-amber-50 hover:text-amber-700 transition-colors">#완도여행추천</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-amber-50 hover:text-amber-700 transition-colors">#전남맛집</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-amber-50 hover:text-amber-700 transition-colors">#전남여행</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-amber-50 hover:text-amber-700 transition-colors">#전남가볼만한곳</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-amber-50 hover:text-amber-700 transition-colors">#남도맛집</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-amber-50 hover:text-amber-700 transition-colors">#남도여행</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-amber-50 hover:text-amber-700 transition-colors">#남도예술정원</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-amber-50 hover:text-amber-700 transition-colors">#남도예술정원여행주간</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-amber-50 hover:text-amber-700 transition-colors">#남도예술정원스탬프투어</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-amber-50 hover:text-amber-700 transition-colors">#완도아내의정원</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-amber-50 hover:text-amber-700 transition-colors">#완도바하정원</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-amber-50 hover:text-amber-700 transition-colors">#완도특산품</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-amber-50 hover:text-amber-700 transition-colors">#완도맛집투어</span>
+          </div>
+        </div>
+      </div>
+    `
+  },
+  "w25-wando-dalsweet-cafe": {
+    "id": "w25-wando-dalsweet-cafe",
+    "regionId": "wando",
+    "title": "완도여행 필수코스, 전복빵과 비파 사이다로 유명한 \"달스윗 카페\"\n남도예술정원 여행주간 10% 할인 혜택!",
+    "description": "전복 한 마리가 통째로 들어간 장보고빵(전복빵)과 상큼한 비파 사이다, 솔티드 버터크림라떼까지! 남도예술정원 여행주간 스탬프 투어 10% 할인 혜택을 누릴 수 있는 완도 달스윗 카페 본점 & 완도타워점 방문기.",
+    "keywords": "완도여행, 완도가볼만한곳, 완도카페, 완도카페추천, 완도핫플, 완도핫플레이스, 달스윗, 완도달스윗, 달스윗카페, 달스윗본점, 완도전복빵, 장보고빵, 비파사이다, 솔티드버터크림라떼, 완도디저트, 완도디저트맛집, 완도맛집, 완도여행코스, 완도여행필수코스, 완도타워, 다도해일출공원, 남도예술정원, 남도예술정원여행주간, 남도예술정원스탬프투어, 완도스탬프투어, 전남여행, 전남가볼만한곳, 완도여행추천",
+    "date": "2026. 11. 19",
+    "author": "남도예술정원 서포터즈 (김지태)",
+    "readTime": "5분",
+    "image": "/images/dalsweet/dalsweet-01.webp",
+    "content": `
+      <div class="max-w-4xl mx-auto space-y-8 text-neutral-800 leading-relaxed font-sans mt-4 px-2 md:px-0">
+        <!-- Hero Banner / 최적 줄바꿈 타이틀 영역 -->
+        <div class="space-y-4">
+          <div class="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-amber-500/10 text-amber-800 text-xs font-bold uppercase tracking-wider">
+            🥐 완도 핫플레이스 & 전복빵 시그니처 카페 | 완도읍·완도타워
+          </div>
+          <h1 class="text-3xl md:text-5xl font-serif font-bold text-neutral-900 leading-tight">
+            완도여행 필수코스, 전복빵과 비파 사이다로 유명한<br/>
+            <span class="text-amber-700 font-sans block mt-1">“달스윗 카페”</span>
+            <span class="text-xl md:text-2xl text-neutral-600 font-light font-sans block mt-2">남도예술정원 여행주간 10% 할인 혜택!</span>
+          </h1>
+          <p class="text-base md:text-lg text-neutral-600 font-light leading-relaxed">
+            과거 국립수산물관리원을 리모델링한 감성 본점부터 다도해가 펼쳐지는 완도타워점까지, 장보고빵(전복빵)과 비파 사이다로 완성하는 완도 미식 여행
+          </p>
+        </div>
+
+        
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/dalsweet/dalsweet-01.webp" alt="달스윗 카페 현장 사진 1" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <div class="bg-[#fdfaf5] border-amber-100 p-6 md:p-8 rounded-3xl border shadow-sm">
+          <p class="text-base md:text-lg font-medium text-neutral-800 leading-relaxed">남도예술정원 여행주간을 맞아 다녀온 완도여행에서 필수 코스로 손꼽히는 달스윗 카페를 다시 찾았습니다.</p>
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">지난번 방문했던 완도타워점에서의 좋은 기억이 남아 이번에는 본점을 방문했는데요.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/dalsweet/dalsweet-02.webp" alt="달스윗 카페 현장 사진 2" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">편안한 분위기의 카페에서 점심 식사 후 여유롭게 즐긴 달콤한 커피 한 잔은 오래도록 기억에 남을 힐링 장소를 여러분께 소개합니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/dalsweet/dalsweet-03.webp" alt="달스윗 카페 현장 사진 3" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">카페 달스윗에 방문하기 전 점심 식사로 선택한 완도해물탕!</p>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">완도 바다를 한 냄비에 담아 끓여 낸 듯 싱싱한 해산물이 푸짐하게 들어 있어 보기만 해도 군침이 돌았습니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/dalsweet/dalsweet-04.webp" alt="달스윗 카페 현장 사진 4" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">다양한 해산물에서 우러난 깊은 감칠맛에 칼칼하고 시원한 국물까지 더해져 입맛을 제대로 사로잡습니다. 완도여행에서 신선한 해산물로 든든한 한 끼를 즐기고 싶다면 추천하고 싶은 메뉴입니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/dalsweet/dalsweet-05.webp" alt="달스윗 카페 현장 사진 5" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">완도읍 중심가에 위치해 있어 완도군청에서도 가까우며, 완도항에서도 도보로 이동할 수 있는 거리입니다.</p>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">완도타워와 다도해일출공원 등 완도의 대표 관광명소를 둘러본 뒤 잠시 들러 향긋한 커피와 달콤한 디저트를 즐기기에도 좋은 곳입니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/dalsweet/dalsweet-06.webp" alt="달스윗 카페 현장 사진 6" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">특히 과거 국립수산물관리원으로 사용되던 건물을 리모델링한 공간으로, 오래된 건물의 정취와 카페 특유의 아늑한 분위기를 함께 느낄 수 있답니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/dalsweet/dalsweet-07.webp" alt="달스윗 카페 현장 사진 7" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">완도 달스윗 카페 내부는 따뜻하고 아늑한 분위기로 꾸며져 있어 문을 열고 들어서는 순간부터 편안함이 느껴집니다.</p>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">은은한 조명과 차분한 색감의 인테리어, 정갈하게 배치된 테이블과 의자가 조화를 이루며 마치 익숙한 공간에 머무는 듯한 포근함을 전해줍니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/dalsweet/dalsweet-08.webp" alt="달스윗 카페 현장 사진 8" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">바쁜 여행 일정에서 잠시 벗어나 향긋한 커피 한 잔과 함께 여유로운 시간을 보내기에도 안성맞춤인 공간입니다.</p>
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+          <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+            <img src="/images/dalsweet/dalsweet-09.webp" alt="달스윗 카페 현장 사진 9" class="w-full h-72 md:h-80 object-cover" loading="lazy" />
+          </div>
+          <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+            <img src="/images/dalsweet/dalsweet-10.webp" alt="달스윗 카페 현장 사진 10" class="w-full h-72 md:h-80 object-cover" loading="lazy" />
+          </div>
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">카운터 한쪽에는 남도예술정원을 소개하는 홍보물이 비치되어 있는데요.</p>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">지금 남도예술정원에 가입하면 특별한 한정판 굿즈도 받아볼 수 있으니 서둘러 가입하시고, 남도의 아름다운 민간정원과 함께 다양한 여행 혜택도 누려보시길 바랍니다.</p>
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+          <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+            <img src="/images/dalsweet/dalsweet-11.webp" alt="달스윗 카페 현장 사진 11" class="w-full h-72 md:h-80 object-cover" loading="lazy" />
+          </div>
+          <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+            <img src="/images/dalsweet/dalsweet-12.webp" alt="달스윗 카페 현장 사진 12" class="w-full h-72 md:h-80 object-cover" loading="lazy" />
+          </div>
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">완도 핫플레이스 달스윗 카페에서는 일반적인 커피전문점에서 만날 수 있는 다양한 커피와 음료 외에도 완도의 로컬 과일인 비파를 활용한 비파 사이다를 맛볼 수 있습니다.</p>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">완도에서만 느낄 수 있는 특별한 맛을 즐길 수 있어 여행객들에게도 인기가 좋은 이색 음료이니 방문 전 참고하시면 좋을 것 같아요.</p>
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+          <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+            <img src="/images/dalsweet/dalsweet-13.webp" alt="달스윗 카페 현장 사진 13" class="w-full h-72 md:h-80 object-cover" loading="lazy" />
+          </div>
+          <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+            <img src="/images/dalsweet/dalsweet-14.webp" alt="달스윗 카페 현장 사진 14" class="w-full h-72 md:h-80 object-cover" loading="lazy" />
+          </div>
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">매장 한쪽에는 달스윗의 시그니처 메뉴인 장보고빵(전복빵)과 완도를 상징하는 전복을 모티브로 한 다양한 굿즈도 진열되어 있습니다.</p>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">완도만의 지역색이 담긴 아기자기한 상품들을 구경하는 재미도 쏠쏠하며, 완도여행의 특별한 추억을 간직할 기념품으로도 손색이 없습니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/dalsweet/dalsweet-15.webp" alt="달스윗 카페 현장 사진 15" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">남도예술정원 여행주간 스탬프 투어로 10%를 할인 받고 달스윗에서만 맛볼 수 있는 비파 사이다와 진한 커피와 달콤한 버터크림의 조합이 매력적인 솔티드 버터크림라떼를 주문했습니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/dalsweet/dalsweet-16.webp" alt="달스윗 카페 현장 사진 16" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">커피의 쌉싸름함을 짭조름하면서도 달콤한 풍미로 감싼 솔티드 버터크림라떼는 부드럽고 고소한 맛이 어우러져 한 모금 마실 때마다 깊은 여운을 남기며, 톡톡 터지는 청량한 탄산에 비파 특유의 은은한 달콤함이 더해진 비파 사이다는 완도여행에서 꼭 한번 드셔보시길 추천합니다.</p>
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+          <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+            <img src="/images/dalsweet/dalsweet-17.webp" alt="달스윗 카페 현장 사진 17" class="w-full h-72 md:h-80 object-cover" loading="lazy" />
+          </div>
+          <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+            <img src="/images/dalsweet/dalsweet-18.webp" alt="달스윗 카페 현장 사진 18" class="w-full h-72 md:h-80 object-cover" loading="lazy" />
+          </div>
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">완도여행에서 한 번쯤 가볼 만한 달스윗 카페 건물 뒤편에는 아담한 야외 테라스도 마련되어 있습니다.</p>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">도심 속 작은 힐링 공간처럼 꾸며진 테라스는 바쁜 일상에서 잠시 벗어나 신선한 바람을 맞으며 여유롭게 커피 한 잔을 즐기기 좋은 곳으로, 여행 중 소소한 휴식과 함께 편안한 시간을 보내기에도 안성맞춤입니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/dalsweet/dalsweet-19.webp" alt="달스윗 카페 현장 사진 19" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">카페 달스윗과 함께 둘러볼 완도여행지를 찾는다면 완도타워를 추천드려요. 완도타워는 완도 앞바다와 크고 작은 섬들이 어우러진 다도해의 아름다운 풍경을 한눈에 감상할 수 있는 대표적인 관광명소입니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/dalsweet/dalsweet-20.webp" alt="달스윗 카페 현장 사진 20" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">특히 전망대에서 내려다보이는 다도해일출공원은 푸른 바다와 싱그러운 자연이 어우러져 산책을 즐기며 여유로운 시간을 보내기 좋은 곳입니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/dalsweet/dalsweet-21.webp" alt="달스윗 카페 현장 사진 21" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">또한, 완도타워 전망대에도 달스윗 카페가 자리하고 있으니 아름다운 다도해를 바라보며 향긋한 커피와 완도가 아니면 맛볼 수 없는 장보고빵 (전복빵)도 함께 즐겨보세요.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/dalsweet/dalsweet-22.webp" alt="달스윗 카페 현장 사진 22" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">완도여행의 특별한 추억을 남기고 싶다면 남도예술정원 스탬프 투어에도 참여해 보세요. 아름다운 민간정원을 둘러보고 달스윗 카페에서 달콤한 커피 한 잔과 함께 여행주간 할인 혜택까지 누리며, 스탬프 투어 카드에 남도의 소중한 추억을 하나씩 채워보시는 건 어떠신가요?</p>
+
+        <!-- 해시태그 -->
+        <div class="pt-8 border-t border-neutral-200">
+          <div class="flex flex-wrap gap-2 text-xs font-medium text-neutral-600">
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-amber-50 hover:text-amber-700 transition-colors">#완도여행</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-amber-50 hover:text-amber-700 transition-colors">#완도가볼만한곳</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-amber-50 hover:text-amber-700 transition-colors">#완도카페</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-amber-50 hover:text-amber-700 transition-colors">#완도카페추천</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-amber-50 hover:text-amber-700 transition-colors">#완도핫플</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-amber-50 hover:text-amber-700 transition-colors">#완도핫플레이스</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-amber-50 hover:text-amber-700 transition-colors">#달스윗</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-amber-50 hover:text-amber-700 transition-colors">#완도달스윗</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-amber-50 hover:text-amber-700 transition-colors">#달스윗카페</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-amber-50 hover:text-amber-700 transition-colors">#달스윗본점</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-amber-50 hover:text-amber-700 transition-colors">#완도전복빵</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-amber-50 hover:text-amber-700 transition-colors">#장보고빵</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-amber-50 hover:text-amber-700 transition-colors">#비파사이다</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-amber-50 hover:text-amber-700 transition-colors">#솔티드버터크림라떼</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-amber-50 hover:text-amber-700 transition-colors">#완도디저트</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-amber-50 hover:text-amber-700 transition-colors">#완도디저트맛집</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-amber-50 hover:text-amber-700 transition-colors">#완도맛집</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-amber-50 hover:text-amber-700 transition-colors">#완도여행코스</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-amber-50 hover:text-amber-700 transition-colors">#완도여행필수코스</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-amber-50 hover:text-amber-700 transition-colors">#완도타워</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-amber-50 hover:text-amber-700 transition-colors">#다도해일출공원</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-amber-50 hover:text-amber-700 transition-colors">#남도예술정원</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-amber-50 hover:text-amber-700 transition-colors">#남도예술정원여행주간</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-amber-50 hover:text-amber-700 transition-colors">#남도예술정원스탬프투어</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-amber-50 hover:text-amber-700 transition-colors">#완도스탬프투어</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-amber-50 hover:text-amber-700 transition-colors">#전남여행</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-amber-50 hover:text-amber-700 transition-colors">#전남가볼만한곳</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-amber-50 hover:text-amber-700 transition-colors">#완도여행추천</span>
+          </div>
+        </div>
+      </div>
+    `
+  },
+  "w26-wando-mannam-plaza": {
+    "id": "w26-wando-mannam-plaza",
+    "regionId": "wando",
+    "title": "남도예술정원 완도 아내의 정원 지역파트너 \"만남의 광장\"\n현지인이 추천하는 로컬 닭코스 맛집",
+    "description": "완도 아내의 정원 정원주님이 직접 추천한 현지인 로컬 맛집 만남의 광장! 신선한 닭육회, 담백한 닭구이, 매콤달콤 닭주물럭과 진한 닭백숙·녹두죽까지 풀코스로 즐기는 완도 보양 미식 여행.",
+    "keywords": "남도예술정원, 남도예술정원여행주간, 완도아내의정원, 아내의정원, 완도만남의광장, 만남의광장, 남도예술정원지역파트너, 완도여행, 완도가볼만한곳, 완도맛집, 완도현지인맛집, 완도로컬맛집, 완도숨은맛집, 완도노포맛집, 완도닭코스요리, 완도닭요리, 완도닭주물럭, 완도닭백숙, 완도보양식, 완도가족여행, 완도여행코스, 전남여행, 전남가볼만한곳, 전남맛집, 남도맛집, 남도미식여행, 남도여행, 완도힐링여행, 완도정원여행, 국내여행추천",
+    "date": "2026. 11. 19",
+    "author": "남도예술정원 서포터즈 (김지태)",
+    "readTime": "5분",
+    "image": "/images/mannam-plaza/mannam-plaza-01.webp",
+    "content": `
+      <div class="max-w-4xl mx-auto space-y-8 text-neutral-800 leading-relaxed font-sans mt-4 px-2 md:px-0">
+        <!-- Hero Banner / 최적 줄바꿈 타이틀 영역 -->
+        <div class="space-y-4">
+          <div class="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-emerald-500/10 text-emerald-800 text-xs font-bold uppercase tracking-wider">
+            🍲 완도 아내의 정원 정원주 추천 로컬 맛집 | 완도
+          </div>
+          <h1 class="text-3xl md:text-5xl font-serif font-bold text-neutral-900 leading-tight">
+            남도예술정원 완도 아내의 정원 지역파트너<br/>
+            <span class="text-emerald-700 font-sans block mt-1">“만남의 광장”</span>
+            <span class="text-xl md:text-2xl text-neutral-600 font-light font-sans block mt-2">현지인이 추천하는 남도 로컬 닭코스 맛집</span>
+          </h1>
+          <p class="text-base md:text-lg text-neutral-600 font-light leading-relaxed">
+            사랑이 꽃피는 민간정원 아내의 정원에서 차로 1분! 닭육회부터 닭구이, 닭주물럭, 닭백숙, 녹두 닭죽까지 남도의 넉넉한 인심이 담긴 로컬 노포 미식회
+          </p>
+        </div>
+
+        
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/mannam-plaza/mannam-plaza-01.webp" alt="만남의 광장 현장 사진 1" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <div class="bg-[#f4faf6] border-emerald-100 p-6 md:p-8 rounded-3xl border shadow-sm">
+          <p class="text-base md:text-lg font-medium text-neutral-800 leading-relaxed">완도여행의 즐거움은 아름다운 자연경관을 감상하는 것뿐만 아니라 지역 주민들이 즐겨 찾는 숨은 맛집을 발견하는 데에도 있습니다.</p>
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">이번 남도예술정원 여행주간을 맞아 아름다운 정원에서 자연이 선사하는 여유로움을 만끽한 뒤, 완도 현지인이 추천하는 로컬 맛집을 찾아가 보았습니다.</p>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">완도 아내의 정원 지역파트너 매장으로 참여하고 있는 만남의 광장은 여행객은 물론 지역 주민들에게도 사랑받는 곳인데요.</p>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">완도에서 즐기는 특별한 미식 여행, 정겨운 분위기 속에서 남도의 맛과 넉넉한 인심을 느낄 수 있었던 만남의 광장을 소개합니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/mannam-plaza/mannam-plaza-02.webp" alt="만남의 광장 현장 사진 2" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">남도예술정원 완도 아내의 정원은 아름다운 자연 속에서 정원을 가꾸는 정성과 예술적 감성을 함께 느낄 수 있는 특별한 공간입니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/mannam-plaza/mannam-plaza-03.webp" alt="만남의 광장 현장 사진 3" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">계절마다 달라지는 꽃과 나무, 자연과 조화를 이루는 정원 풍경을 감상하며 바쁜 일상에서 벗어나 여유로운 시간을 보낼 수 있는 완도 가볼만한곳입니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/mannam-plaza/mannam-plaza-04.webp" alt="만남의 광장 현장 사진 4" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">사장님이 사랑하는 아내를 위해 모든 공간을 직접 손으로 가꾸고 조성한 정원에는 계절마다 아름다움을 뽐내는 다양한 꽃과 나무뿐만 아니라 염소, 거위, 닭, 조랑말 등 귀여운 동물들도 함께 살고 있습니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/mannam-plaza/mannam-plaza-05.webp" alt="만남의 광장 현장 사진 5" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">정원 곳곳에 담긴 정성과 따뜻한 사랑을 느낄 수 있으며, 아이들과 함께 동물들을 구경하고 자연을 가까이에서 체험할 수 있어 가족 여행객들에게도 추천하고 싶은 특별한 힐링 공간입니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/mannam-plaza/mannam-plaza-06.webp" alt="만남의 광장 현장 사진 6" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">아내의 정원에서 차량으로 약 1분, 도보로 10분이면 도착하는 '만남의 광장'은 아내의 정원 정원주님께서 직접 추천해 주신 현지인 로컬 맛집입니다.</p>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">아름다운 정원을 둘러본 뒤 든든한 한 끼 식사를 즐기기 좋은 곳으로, 관광객들에게 널리 알려진 유명 맛집보다 현지인이 직접 추천해 준 곳이라 더욱 기대가 되었어요.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/mannam-plaza/mannam-plaza-07.webp" alt="만남의 광장 현장 사진 7" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">만남의 광장 내부는 오랜 세월의 흔적이 고스란히 묻어나는 정겨운 노포 분위기가 인상적이었어요.</p>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">화려하거나 세련된 스타일은 아니지만, 세월이 느껴지는 소박한 공간과 편안한 분위기에서 오랫동안 지역 주민들의 사랑을 받아온 로컬 맛집 특유의 매력을 느낄 수 있었습니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/mannam-plaza/mannam-plaza-08.webp" alt="만남의 광장 현장 사진 8" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">미리 예약해 두었던 닭코스 요리는 방문 시간에 맞춰 정갈하게 준비되어 있었는데요.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/mannam-plaza/mannam-plaza-09.webp" alt="만남의 광장 현장 사진 9" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">푸짐하게 차려진 남도식 밥상에서는 주인장의 넉넉한 인심과 정성이 느껴져 본격적인 식사를 시작하기 전부터 기대감이 높아졌습니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/mannam-plaza/mannam-plaza-10.webp" alt="만남의 광장 현장 사진 10" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">뜨겁게 달궈진 철판 위에 맛깔스럽게 양념된 닭주물럭은 보기만 해도 군침이 돌 만큼 먹음직스러웠어요.</p>
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+          <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+            <img src="/images/mannam-plaza/mannam-plaza-11.webp" alt="만남의 광장 현장 사진 11" class="w-full h-72 md:h-80 object-cover" loading="lazy" />
+          </div>
+          <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+            <img src="/images/mannam-plaza/mannam-plaza-12.webp" alt="만남의 광장 현장 사진 12" class="w-full h-72 md:h-80 object-cover" loading="lazy" />
+          </div>
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">철판 위에서 닭주물럭이 맛있게 익어가는 동안 먼저 맛본 닭육회는 신선한 닭고기 특유의 쫄깃하면서도 부드러운 식감과 고소한 풍미가 인상적입니다.</p>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">신선한 재료를 사용해야 하는 닭육회를 맛보니 일반적인 닭요리에서는 느낄 수 없었던 색다른 식감과 고소한 풍미가 매력적이었어요. 평소 쉽게 접하기 어려운 특별한 음식이라 더욱 기억에 남는 별미였습니다.</p>
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+          <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+            <img src="/images/mannam-plaza/mannam-plaza-13.webp" alt="만남의 광장 현장 사진 13" class="w-full h-72 md:h-80 object-cover" loading="lazy" />
+          </div>
+          <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+            <img src="/images/mannam-plaza/mannam-plaza-14.webp" alt="만남의 광장 현장 사진 14" class="w-full h-72 md:h-80 object-cover" loading="lazy" />
+          </div>
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">이어 맛본 닭구이는 노릇노릇하게 구워진 겉면의 고소함과 씹을수록 입안 가득 퍼지는 담백한 육즙이 일품이었습니다.</p>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">자극적이지 않은 맛 덕분에 닭고기 본연의 풍미를 제대로 느낄 수 있어 매콤달콤한 닭주물럭과는 또 다른 매력을 즐길 수 있었어요.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/mannam-plaza/mannam-plaza-15.webp" alt="만남의 광장 현장 사진 15" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">매콤달콤한 양념이 닭고기 속까지 골고루 배어들어 입안 가득 감칠맛이 퍼지고, 야들야들하면서도 쫄깃한 식감이 어우러져 자꾸만 젓가락이 가는 별미였습니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/mannam-plaza/mannam-plaza-16.webp" alt="만남의 광장 현장 사진 16" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">신선한 쌈채소에 닭주물럭 한 점을 올려 푸짐하게 쌈을 싸 먹으면 아삭아삭한 채소의 식감과 매콤달콤한 양념이 어우러져 더욱 풍성한 맛을 즐길 수 있어요.</p>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">쌈채소의 싱그러움이 매콤한 맛을 부드럽게 잡아주어 먹어도 먹어도 질리지 않고 정말 맛있었습니다.</p>
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+          <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+            <img src="/images/mannam-plaza/mannam-plaza-17.webp" alt="만남의 광장 현장 사진 17" class="w-full h-72 md:h-80 object-cover" loading="lazy" />
+          </div>
+          <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+            <img src="/images/mannam-plaza/mannam-plaza-18.webp" alt="만남의 광장 현장 사진 18" class="w-full h-72 md:h-80 object-cover" loading="lazy" />
+          </div>
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">어릴 적 시골 할머니 댁에서 먹어봤을 법한 소박하면서도 정겨운 손맛이 느껴지는 밑반찬과 함께 제공된 닭백숙이에요.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/mannam-plaza/mannam-plaza-19.webp" alt="만남의 광장 현장 사진 19" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">푹 삶아낸 닭고기의 야들야들하고 부드러운 식감이 일품이었어요. 담백하면서도 깊은 맛이 우러난 따뜻한 국물은 속까지 든든하게 채워주었고, 정성 가득한 시골 밥상을 대접받는 듯한 푸근함까지 느낄 수 있었습니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/mannam-plaza/mannam-plaza-20.webp" alt="만남의 광장 현장 사진 20" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">닭코스 요리의 마지막을 장식하는 닭죽 역시 찹쌀과 녹두를 듬뿍 넣어 푹 끓여낸 덕분에 구수한 풍미가 일품이었어요. 찹쌀의 찰진 식감과 녹두 특유의 담백하고 고소한 맛이 어우러져 입안 가득 깊은 감칠맛이 퍼졌습니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/mannam-plaza/mannam-plaza-21.webp" alt="만남의 광장 현장 사진 21" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">여기에 직접 담근 남도식 김치 한 점을 올려 먹으면 아삭한 식감과 매콤하면서도 깊은 김치의 감칠맛이 구수한 닭죽과 어우러져 더욱 맛깔스러웠어요.</p>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">이미 배가 든든했지만 따뜻한 닭죽 한 그릇까지 깨끗하게 비우고 나니 제대로 된 남도 보양식을 즐긴 기분이었습니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/mannam-plaza/mannam-plaza-22.webp" alt="만남의 광장 현장 사진 22" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">후식으로 제공된 시원하고 달콤한 배 한 입으로 식사를 마무리하니, 현지인이 추천해 준 로컬 맛집에서의 든든한 한 끼는 오래도록 기억될 만큼 만족스러웠어요.</p>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">화려한 음식은 아니지만 정겨운 분위기와 넉넉한 인심, 남도 특유의 깊은 손맛까지 느낄 수 있어 완도여행에서 만난 특별한 미식의 추억으로 남았습니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/mannam-plaza/mannam-plaza-23.webp" alt="만남의 광장 현장 사진 23" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">만약 만남의 광장에서 든든하게 식사를 즐긴 후 아내의 정원을 방문하신다면, 남편이 사랑하는 아내를 위해 직접 가꾸고 조성한 세상에 하나뿐인 특별한 정원을 둘러보세요.</p>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">아름다운 꽃과 나무, 귀여운 동물들을 구경하고 향긋한 차 한 잔과 달콤한 디저트를 즐기며 여유로운 시간을 보내는 것도 좋을 것 같아요.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/mannam-plaza/mannam-plaza-24.webp" alt="만남의 광장 현장 사진 24" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">남도예술정원 여행주간을 맞아 완도여행을 계획하고 계신다면, 현지인이 추천하는 로컬 맛집 '만남의 광장'에서 남도의 깊은 손맛을 느끼고, 사랑이 가득한 '아내의 정원'에서 특별한 힐링의 시간까지 즐겨보시는 건 어떠신가요?</p>
+
+        <!-- 해시태그 -->
+        <div class="pt-8 border-t border-neutral-200">
+          <div class="flex flex-wrap gap-2 text-xs font-medium text-neutral-600">
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#남도예술정원</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#남도예술정원여행주간</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#완도아내의정원</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#아내의정원</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#완도만남의광장</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#만남의광장</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#남도예술정원지역파트너</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#완도여행</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#완도가볼만한곳</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#완도맛집</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#완도현지인맛집</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#완도로컬맛집</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#완도숨은맛집</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#완도노포맛집</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#완도닭코스요리</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#완도닭요리</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#완도닭주물럭</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#완도닭백숙</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#완도보양식</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#완도가족여행</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#완도여행코스</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#전남여행</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#전남가볼만한곳</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#전남맛집</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#남도맛집</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#남도미식여행</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#남도여행</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#완도힐링여행</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#완도정원여행</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#국내여행추천</span>
+          </div>
+        </div>
+      </div>
+    `
+  },
+  "w27-wando-gugyedeung-urbancoffee": {
+    "id": "w27-wando-gugyedeung-urbancoffee",
+    "regionId": "wando",
+    "title": "완도 가볼만한곳 다도해해상국립공원 \"정도리 구계등\"\n남도예술정원 지역파트너 완도어반·어반커피 여행 후기",
+    "description": "다도해해상국립공원 정도리 구계등 갯돌해변의 고요한 산책과 남도예술정원 공식 지역파트너 완도어반 화덕생선구이, 그리고 2층 어반커피의 여유로운 티타임까지 한 번에 즐기는 완도 알짜 여행 코스.",
+    "keywords": "남도예술정원, 남도예술정원여행주간, 남도예술정원지역파트너, 완도여행, 완도가볼만한곳, 완도여행코스, 완도관광, 전남여행, 전남가볼만한곳, 다도해해상국립공원, 정도리구계등, 완도구계등, 구계등, 완도몽돌해변, 완도해변, 완도힐링여행, 완도현지인맛집, 완도맛집, 완도어반, 완도생선구이, 완도화덕생선구이, 완도밥집, 어반커피, 완도카페, 완도카페추천, 완도디저트카페, 완도카페투어, 남도맛집, 남도여행, 완도데이트코스",
+    "date": "2026. 11. 19",
+    "author": "남도예술정원 서포터즈 (김지태)",
+    "readTime": "5분",
+    "image": "/images/urban-coffee/urban-coffee-01.webp",
+    "content": `
+      <div class="max-w-4xl mx-auto space-y-8 text-neutral-800 leading-relaxed font-sans mt-4 px-2 md:px-0">
+        <!-- Hero Banner / 최적 줄바꿈 타이틀 영역 -->
+        <div class="space-y-4">
+          <div class="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-sky-500/10 text-sky-800 text-xs font-bold uppercase tracking-wider">
+            🌊 다도해해상국립공원 & 지역파트너 카페 투어 | 완도 정도리·완도읍
+          </div>
+          <h1 class="text-3xl md:text-5xl font-serif font-bold text-neutral-900 leading-tight">
+            완도 가볼만한곳 다도해해상국립공원 구계등과<br/>
+            <span class="text-sky-700 font-sans block mt-1">“완도어반 · 어반커피”</span>
+            <span class="text-xl md:text-2xl text-neutral-600 font-light font-sans block mt-2">남도예술정원 지역파트너와 함께하는 바다 & 미식 여행 후기</span>
+          </h1>
+          <p class="text-base md:text-lg text-neutral-600 font-light leading-relaxed">
+            갯돌이 파도에 속삭이는 정도리 구계등 해변 산책부터 화덕생선구이 맛집 완도어반, 루프탑 야외 테라스가 매력적인 어반커피까지 이어지는 힐링 코스
+          </p>
+        </div>
+
+        
+        <div class="flex items-center gap-3 pt-6">
+          <span class="w-8 h-8 rounded-full bg-sky-700 text-white flex items-center justify-center font-bold text-sm">01</span>
+          <h2 class="text-2xl md:text-3xl font-serif font-bold text-neutral-900">바다의 낭만과 남도의 맛을 함께 즐기는 완도여행</h2>
+        </div>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/urban-coffee/urban-coffee-01.webp" alt="완도어반 · 어반커피 현장 사진 1" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">푸른 바다와 아름다운 섬들이 어우러진 전남 완도는 언제 방문해도 새로운 매력을 발견할 수 있는 여행지입니다.</p>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">이번에는 남도예술정원 여행주간을 맞아 다도해해상국립공원에 속한 정도리 구계등을 찾아 여유롭게 바다 산책을 즐기고, 지역파트너 매장인 완도어반과 어반커피에서 맛있는 음식과 향긋한 커피를 즐기는 시간을 가졌습니다.</p>
+        <div class="flex items-center gap-3 pt-6">
+          <span class="w-8 h-8 rounded-full bg-sky-700 text-white flex items-center justify-center font-bold text-sm">02</span>
+          <h2 class="text-2xl md:text-3xl font-serif font-bold text-neutral-900">다도해해상국립공원 정도리 구계등</h2>
+        </div>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/urban-coffee/urban-coffee-02.webp" alt="완도어반 · 어반커피 현장 사진 2" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">완도 다도해해상국립공원 탐방안내소가 자리한 정도리 구계등은 흔히 볼 수 있는 모래사장이 아닌 둥글고 매끄러운 갯돌이 해안을 가득 메우고 있어 더욱 특별한 곳입니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/urban-coffee/urban-coffee-03.webp" alt="완도어반 · 어반커피 현장 사진 3" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">해변에 도착하면 눈앞으로 펼쳐지는 푸른 다도해와 해안선을 따라 이어진 갯돌이 먼저 시선을 사로잡습니다.</p>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">북적이는 관광지의 활기보다는 자연이 들려주는 잔잔한 소리와 고요한 풍경이 어우러진 곳으로, 바닷바람을 맞으며 천천히 걸음을 옮기고 조용히 사색에 잠기기 좋은 완도의 숨은 힐링 명소입니다.</p>
+        <div class="flex items-center gap-3 pt-6">
+          <span class="w-8 h-8 rounded-full bg-sky-700 text-white flex items-center justify-center font-bold text-sm">03</span>
+          <h2 class="text-2xl md:text-3xl font-serif font-bold text-neutral-900">남도의 맛을 즐기는 완도어반</h2>
+        </div>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/urban-coffee/urban-coffee-04.webp" alt="완도어반 · 어반커피 현장 사진 4" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">정도리 구계등에서 잠시 여유로운 시간을 보낸 뒤 방문한 현지인 맛집 완도어반에서는 뜨거운 화덕에서 노릇노릇하게 구워낸 생선구이와 정갈한 남도식 밑반찬으로 차려진 푸짐한 한 상을 즐겼습니다.</p>
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+          <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+            <img src="/images/urban-coffee/urban-coffee-05.webp" alt="완도어반 · 어반커피 현장 사진 5" class="w-full h-72 md:h-80 object-cover" loading="lazy" />
+          </div>
+          <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+            <img src="/images/urban-coffee/urban-coffee-06.webp" alt="완도어반 · 어반커피 현장 사진 6" class="w-full h-72 md:h-80 object-cover" loading="lazy" />
+          </div>
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">아름다운 다도해의 풍경을 감상하며 힐링한 뒤 완도의 신선한 해산물로 든든하게 배를 채우니 여행의 즐거움이 더욱 특별하게 느껴졌습니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/urban-coffee/urban-coffee-07.webp" alt="완도어반 · 어반커피 현장 사진 7" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">완도어반에서 맛있는 식사를 마친 뒤에는 영수증 리뷰 이벤트에 참여하면 어반커피에서 아메리카노와 아이스티 한 잔씩을 무료로 제공받았습니다.</p>
+        <div class="flex items-center gap-3 pt-6">
+          <span class="w-8 h-8 rounded-full bg-sky-700 text-white flex items-center justify-center font-bold text-sm">04</span>
+          <h2 class="text-2xl md:text-3xl font-serif font-bold text-neutral-900">식사 후 여유로운 커피 한 잔, 어반커피</h2>
+        </div>
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+          <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+            <img src="/images/urban-coffee/urban-coffee-08.webp" alt="완도어반 · 어반커피 현장 사진 8" class="w-full h-72 md:h-80 object-cover" loading="lazy" />
+          </div>
+          <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+            <img src="/images/urban-coffee/urban-coffee-09.webp" alt="완도어반 · 어반커피 현장 사진 9" class="w-full h-72 md:h-80 object-cover" loading="lazy" />
+          </div>
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">같은 건물 2층에 자리한 어반커피 역시 남도예술정원 공식 지역파트너 매장으로, 든든한 식사 후 향긋한 커피와 시원한 음료를 즐기며 잠시 쉬어가기 좋은 공간입니다.</p>
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+          <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+            <img src="/images/urban-coffee/urban-coffee-10.webp" alt="완도어반 · 어반커피 현장 사진 10" class="w-full h-72 md:h-80 object-cover" loading="lazy" />
+          </div>
+          <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+            <img src="/images/urban-coffee/urban-coffee-11.webp" alt="완도어반 · 어반커피 현장 사진 11" class="w-full h-72 md:h-80 object-cover" loading="lazy" />
+          </div>
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">매장 내부는 넓고 쾌적한 공간에 깔끔하고 세련된 인테리어가 어우러져 편안한 분위기를 자아냅니다.</p>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">여유롭게 배치된 테이블과 감각적인 소품들이 아늑함을 더해주며, 완도여행 중 맛있는 식사를 마친 뒤 향긋한 커피 한 잔과 함께 여행의 피로를 풀고 느긋하게 쉬어가기 좋은 공간입니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/urban-coffee/urban-coffee-12.webp" alt="완도어반 · 어반커피 현장 사진 12" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">아메리카노와 카페라떼 등 기본적인 커피 메뉴는 물론, 다양한 주스와 스무디까지 준비되어 있어 취향에 따라 음료를 선택할 수 있습니다.</p>
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+          <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+            <img src="/images/urban-coffee/urban-coffee-13.webp" alt="완도어반 · 어반커피 현장 사진 13" class="w-full h-72 md:h-80 object-cover" loading="lazy" />
+          </div>
+          <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+            <img src="/images/urban-coffee/urban-coffee-14.webp" alt="완도어반 · 어반커피 현장 사진 14" class="w-full h-72 md:h-80 object-cover" loading="lazy" />
+          </div>
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">여기에 달콤한 조각 케이크와 다쿠아즈 등 커피와 함께 즐기기 좋은 디저트 메뉴도 다양하게 마련되어 있어 완도여행 중 가볍게 디저트를 즐기며 여유로운 시간을 보내기에도 안성맞춤입니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/urban-coffee/urban-coffee-15.webp" alt="완도어반 · 어반커피 현장 사진 15" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">포근한 곰인형이 반겨주는 아늑한 좌석에 자리를 잡고, 완도어반 영수증 리뷰 이벤트를 통해 무료로 제공받은 시원한 아이스티와 남도예술정원 지역파트너 할인 혜택을 적용받아 주문한 아메리카노를 즐겼습니다.</p>
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+          <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+            <img src="/images/urban-coffee/urban-coffee-16.webp" alt="완도어반 · 어반커피 현장 사진 16" class="w-full h-72 md:h-80 object-cover" loading="lazy" />
+          </div>
+          <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+            <img src="/images/urban-coffee/urban-coffee-17.webp" alt="완도어반 · 어반커피 현장 사진 17" class="w-full h-72 md:h-80 object-cover" loading="lazy" />
+          </div>
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">달콤하고 상큼한 아이스티와 깔끔하면서도 쌉싸름한 풍미가 매력적인 아메리카노를 한 모금씩 마시며, 완도여행의 여유를 만끽하는 기분 좋은 시간이었습니다.</p>
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+          <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+            <img src="/images/urban-coffee/urban-coffee-18.webp" alt="완도어반 · 어반커피 현장 사진 18" class="w-full h-72 md:h-80 object-cover" loading="lazy" />
+          </div>
+          <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+            <img src="/images/urban-coffee/urban-coffee-19.webp" alt="완도어반 · 어반커피 현장 사진 19" class="w-full h-72 md:h-80 object-cover" loading="lazy" />
+          </div>
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">완도 현지인 맛집 완도어반과 함께 운영되며 남도예술정원 공식 지역파트너로 참여하고 있는 어반커피의 야외 테라스는 탁 트인 공간에서 시원한 바닷바람을 맞으며 여유로운 시간을 보내기 좋은 곳입니다.</p>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">실내와는 또 다른 개방감이 느껴지는 테라스에 앉아 향긋한 커피 한 잔과 함께 완도의 일상을 바라보며 잠시 쉬어가면, 바쁘게 이어진 여행 일정 속에서도 소소한 힐링의 순간을 만끽할 수 있습니다.</p>
+        <div class="flex items-center gap-3 pt-6">
+          <span class="w-8 h-8 rounded-full bg-sky-700 text-white flex items-center justify-center font-bold text-sm">05</span>
+          <h2 class="text-2xl md:text-3xl font-serif font-bold text-neutral-900">남도예술정원 여행주간과 함께하는 완도여행</h2>
+        </div>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/urban-coffee/urban-coffee-20.webp" alt="완도어반 · 어반커피 현장 사진 20" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">오늘은 완도가볼만한곳 다도해해상국립공원 정도리 구계등과 남도예술정원 지역파트너 완도어반·어반커피 여행 후기를 정리했습니다.</p>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">푸른 다도해를 바라보며 갯돌해변을 따라 여유롭게 산책하고, 화덕에서 구워낸 생선구이로 든든한 남도 밥상을 즐긴 뒤 향긋한 커피 한 잔으로 마무리하는 특별한 여행코스!</p>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">이번 가을에는 남도예술정원 여행주간을 맞아 아름다운 자연과 남도의 맛, 지역파트너 할인 혜택까지 함께 누리는 완도 힐링여행을 떠나보시는 건 어떠신가요?</p>
+
+        <!-- 해시태그 -->
+        <div class="pt-8 border-t border-neutral-200">
+          <div class="flex flex-wrap gap-2 text-xs font-medium text-neutral-600">
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-sky-50 hover:text-sky-700 transition-colors">#남도예술정원</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-sky-50 hover:text-sky-700 transition-colors">#남도예술정원여행주간</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-sky-50 hover:text-sky-700 transition-colors">#남도예술정원지역파트너</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-sky-50 hover:text-sky-700 transition-colors">#완도여행</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-sky-50 hover:text-sky-700 transition-colors">#완도가볼만한곳</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-sky-50 hover:text-sky-700 transition-colors">#완도여행코스</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-sky-50 hover:text-sky-700 transition-colors">#완도관광</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-sky-50 hover:text-sky-700 transition-colors">#전남여행</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-sky-50 hover:text-sky-700 transition-colors">#전남가볼만한곳</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-sky-50 hover:text-sky-700 transition-colors">#다도해해상국립공원</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-sky-50 hover:text-sky-700 transition-colors">#정도리구계등</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-sky-50 hover:text-sky-700 transition-colors">#완도구계등</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-sky-50 hover:text-sky-700 transition-colors">#구계등</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-sky-50 hover:text-sky-700 transition-colors">#완도몽돌해변</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-sky-50 hover:text-sky-700 transition-colors">#완도해변</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-sky-50 hover:text-sky-700 transition-colors">#완도힐링여행</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-sky-50 hover:text-sky-700 transition-colors">#완도현지인맛집</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-sky-50 hover:text-sky-700 transition-colors">#완도맛집</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-sky-50 hover:text-sky-700 transition-colors">#완도어반</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-sky-50 hover:text-sky-700 transition-colors">#완도생선구이</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-sky-50 hover:text-sky-700 transition-colors">#완도화덕생선구이</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-sky-50 hover:text-sky-700 transition-colors">#완도밥집</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-sky-50 hover:text-sky-700 transition-colors">#어반커피</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-sky-50 hover:text-sky-700 transition-colors">#완도카페</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-sky-50 hover:text-sky-700 transition-colors">#완도카페추천</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-sky-50 hover:text-sky-700 transition-colors">#완도디저트카페</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-sky-50 hover:text-sky-700 transition-colors">#완도카페투어</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-sky-50 hover:text-sky-700 transition-colors">#남도맛집</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-sky-50 hover:text-sky-700 transition-colors">#남도여행</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-sky-50 hover:text-sky-700 transition-colors">#완도데이트코스</span>
+          </div>
+        </div>
+      </div>
+    `
+  },
+  "h31-haenam-4est-jazz-concert": {
+    "id": "h31-haenam-4est-jazz-concert",
+    "regionId": "haenam",
+    "title": "남도예술정원 여행주간 \"해남 포레스트 수목원\"\n귀촌 재즈기타리스트와 함께 가을 정원에서 즐기는 재즈 공연",
+    "description": "전남 해남 포레스트(4est) 수목원에서 펼쳐진 남도예술정원 여행주간 특별 예술무대! 해남으로 귀촌한 재즈 기타리스트와 음악 친구들이 선사하는 가을 정원 속 야외 재즈 콘서트 현장 스케치.",
+    "keywords": "남도예술정원, 남도예술정원여행주간, 해남여행, 해남가볼만한곳, 해남여행추천, 해남포레스트수목원, 포레스트수목원, 4rest수목원, 해남수목원, 해남민간정원, 전남민간정원, 전남가볼만한곳, 전남여행, 전남여행추천, 해남데이트코스, 해남가을여행, 가을여행추천, 가을정원, 수목원산책, 정원여행, 정원투어, 재즈공연, 재즈기타리스트, 야외음악회, 가을음악회, 문화예술여행, 힐링여행, 남도여행, 남도예술정원스탬프투어, 국내여행추천",
+    "date": "2026. 11. 19",
+    "author": "남도예술정원 서포터즈 (김지태)",
+    "readTime": "5분",
+    "image": "/images/travel-week-4est/travel-week-4est-01.webp",
+    "content": `
+      <div class="max-w-4xl mx-auto space-y-8 text-neutral-800 leading-relaxed font-sans mt-4 px-2 md:px-0">
+        <!-- Hero Banner / 최적 줄바꿈 타이틀 영역 -->
+        <div class="space-y-4">
+          <div class="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-emerald-500/10 text-emerald-800 text-xs font-bold uppercase tracking-wider">
+            🎸 남도예술정원 여행주간 예술무대 | 해남 포레스트(4est) 수목원
+          </div>
+          <h1 class="text-3xl md:text-5xl font-serif font-bold text-neutral-900 leading-tight">
+            남도예술정원 여행주간<br/>
+            <span class="text-emerald-700 font-sans block mt-1">“해남 포레스트 수목원”</span>
+            <span class="text-xl md:text-2xl text-neutral-600 font-light font-sans block mt-2">귀촌 재즈기타리스트와 함께하는 가을 정원 재즈 공연</span>
+          </h1>
+          <p class="text-base md:text-lg text-neutral-600 font-light leading-relaxed">
+            6만 평 두륜산 숲을 물들인 가을빛 단풍 아래, 돗자리에 누워 감미로운 재즈 기타 선율에 귀 기울이는 로맨틱한 야외 정원 음악회
+          </p>
+        </div>
+
+        
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/travel-week-4est/travel-week-4est-01.webp" alt="해남 포레스트 수목원 현장 사진 1" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <div class="bg-[#f4faf6] border-emerald-100 p-6 md:p-8 rounded-3xl border shadow-sm">
+          <p class="text-base md:text-lg font-medium text-neutral-800 leading-relaxed">가을의 끝자락, 아름다운 정원에서 감미로운 재즈 선율을 감상할 수 있다면 얼마나 낭만적일까요?</p>
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">남도의 아름다운 민간정원을 여행하며 자연과 문화예술을 함께 즐길 수 있는 남도예술정원 여행주간을 맞아 이번에는 전남 해남에 자리한 포레스트 수목원을 찾았습니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/travel-week-4est/travel-week-4est-02.webp" alt="해남 포레스트 수목원 현장 사진 2" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">이번 여행은 '해남으로 귀촌한 재즈 기타리스트의 공연'을 관람하기 위해서였는데요.</p>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">화려한 조명과 웅장한 무대 대신, 수목원의 평화로운 분위기 속에서 기타 선율을 가까이 감상할 수 있다는 점이 더욱 매력적으로 다가왔습니다.</p>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">바쁜 일상에서 잠시 벗어나 가을의 정취를 만끽하고, 해남으로 귀촌한 음악가가 들려주는 재즈 음악과 함께 여유로운 시간을 보냈던 특별한 정원 여행 이야기를 소개합니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/travel-week-4est/travel-week-4est-03.webp" alt="해남 포레스트 수목원 현장 사진 3" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">전남 해남군 현산면 두륜산 자락에 자리한 포레스트 수목원은 약 6만 평의 넓은 숲에 1,700여 종의 다양한 식물이 자라고 있는 전남 제4호 사립수목원입니다.</p>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">특히 8,000여 그루의 수국이 피어나는 여름철 수국 명소로 유명하며, 봄에는 목향장미, 가을에는 형형색색의 가을꽃이 수목원을 아름답게 물들입니다.</p>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">사계절 자연의 변화를 느낄 수 있는 산책로와 곳곳에 자리한 조형물, 아기자기한 포토존까지 갖추고 있어 가족이나 연인과 함께 여유로운 시간을 보내기 좋은 해남의 대표적인 자연 힐링 여행지입니다.</p>
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+          <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+            <img src="/images/travel-week-4est/travel-week-4est-04.webp" alt="해남 포레스트 수목원 현장 사진 4" class="w-full h-72 md:h-80 object-cover" loading="lazy" />
+          </div>
+          <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+            <img src="/images/travel-week-4est/travel-week-4est-05.webp" alt="해남 포레스트 수목원 현장 사진 5" class="w-full h-72 md:h-80 object-cover" loading="lazy" />
+          </div>
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">계단을 따라 올라가면 포레스트 수목원 입구에 도착하게 됩니다. 입구에는 방문객들이 편리하게 입장권을 구입할 수 있도록 무인 발매기가 설치되어 있어요.</p>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">입장료는 일반 성인 기준 6,000원으로, 매표 후 아름다운 자연이 펼쳐지는 수목원으로 들어갈 수 있으니 해남 여행을 계획하고 계신다면 참고하시기 바랍니다.</p>
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+          <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+            <img src="/images/travel-week-4est/travel-week-4est-06.webp" alt="해남 포레스트 수목원 현장 사진 6" class="w-full h-72 md:h-80 object-cover" loading="lazy" />
+          </div>
+          <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+            <img src="/images/travel-week-4est/travel-week-4est-07.webp" alt="해남 포레스트 수목원 현장 사진 7" class="w-full h-72 md:h-80 object-cover" loading="lazy" />
+          </div>
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">남도예술정원 스탬프 투어에 참여하실 분들은 수목원에 마련된 스탬프함에서 남도예술정원 전용 도장을 잘 확인하신 후 스탬프 투어 카드에 찍어주세요.</p>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">다른 스탬프와 혼동하지 않도록 주의하시고, 아름다운 민간정원을 여행하며 하나씩 스탬프를 모으는 소소한 재미도 함께 즐겨보시기 바랍니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/travel-week-4est/travel-week-4est-08.webp" alt="해남 포레스트 수목원 현장 사진 8" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">해남 포레스트 수목원 입구 한쪽에는 관람 전후로 편안하게 차와 음료를 마시며 깊어가는 가을의 정취를 만끽할 수 있는 카페도 마련되어 있습니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/travel-week-4est/travel-week-4est-09.webp" alt="해남 포레스트 수목원 현장 사진 9" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">특히 카페 안쪽 테라스로 나가면 가을빛으로 물든 주변 풍경이 한눈에 펼쳐져 따스한 햇살과 선선한 바람을 맞으며 잠시 쉬어가기에도 좋습니다.</p>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">향긋한 커피 한 잔과 함께 자연이 선사하는 여유로움을 느끼며 완연한 가을을 제대로 즐길 수 있으니 포레스트 수목원을 방문하신다면 테라스에도 꼭 한번 들러보세요.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/travel-week-4est/travel-week-4est-10.webp" alt="해남 포레스트 수목원 현장 사진 10" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">해남 민간정원 포레스트 수목원은 가는 길마다 형형색색으로 물든 나무와 계절마다 피어나는 다양한 꽃들이 어우러져 아름다운 풍경을 선사합니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/travel-week-4est/travel-week-4est-11.webp" alt="해남 포레스트 수목원 현장 사진 11" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">발걸음을 옮길 때마다 조금씩 달라지는 가을 풍경에 자연스럽게 걸음을 멈추게 되고, 바스락거리는 낙엽을 밟으며 선선한 가을바람을 느끼다 보면 복잡한 일상에서 벗어나 자연 속에서 온전한 휴식을 즐기는 기분이 듭니다.</p>
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+          <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+            <img src="/images/travel-week-4est/travel-week-4est-12.webp" alt="해남 포레스트 수목원 현장 사진 12" class="w-full h-72 md:h-80 object-cover" loading="lazy" />
+          </div>
+          <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+            <img src="/images/travel-week-4est/travel-week-4est-13.webp" alt="해남 포레스트 수목원 현장 사진 13" class="w-full h-72 md:h-80 object-cover" loading="lazy" />
+          </div>
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">가벼운 발걸음을 옮기다 보면 곳곳에 자리한 아기자기한 조형물들과 자연이 어우러진 남도예술정원의 아름다운 풍경을 만날 수 있습니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/travel-week-4est/travel-week-4est-14.webp" alt="해남 포레스트 수목원 현장 사진 14" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">정성껏 가꿔진 정원 곳곳에는 소소한 볼거리와 사진 찍기 좋은 포토존도 마련되어 있어, 가을의 추억을 사진으로 남기며 여유롭게 산책하기에도 좋습니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/travel-week-4est/travel-week-4est-15.webp" alt="해남 포레스트 수목원 현장 사진 15" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">아름다운 남도예술정원을 걷다 보니 가을 정취와 어우러진 감미로운 음악 소리가 어디선가 들려옵니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/travel-week-4est/travel-week-4est-16.webp" alt="해남 포레스트 수목원 현장 사진 16" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">은은하게 울려 퍼지는 기타 선율을 따라 발걸음을 옮기니, 자연 속에 마련된 작은 공연장에서 해남으로 귀촌한 재즈 기타리스트의 특별한 공연이 펼쳐지고 있었습니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/travel-week-4est/travel-week-4est-17.webp" alt="해남 포레스트 수목원 현장 사진 17" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">가까이 다가가니 공연장을 찾은 관객들이 1인용 돗자리에 편안하게 누워 눈을 감고 감미로운 재즈 선율에 흠뻑 빠져 있는 모습이 무척 인상적이었습니다.</p>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">마치 유럽의 어느 작은 정원에서 열리는 야외 음악회를 찾은 듯 이국적이면서도 낭만적인 분위기가 느껴졌어요.</p>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">정해진 좌석에 앉아 관람하는 일반적인 공연과 달리, 자연 속에서 저마다 편안한 자세로 음악을 감상하는 모습만으로도 남도예술정원 여행주간만의 특별한 매력을 느낄 수 있었습니다.</p>
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+          <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+            <img src="/images/travel-week-4est/travel-week-4est-18.webp" alt="해남 포레스트 수목원 현장 사진 18" class="w-full h-72 md:h-80 object-cover" loading="lazy" />
+          </div>
+          <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+            <img src="/images/travel-week-4est/travel-week-4est-19.webp" alt="해남 포레스트 수목원 현장 사진 19" class="w-full h-72 md:h-80 object-cover" loading="lazy" />
+          </div>
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">해남으로 귀촌한 재즈 기타리스트와 그의 음악 친구들이 함께 선보이는 공연은 감미로운 기타 선율과 아름다운 하모니가 어우러져 깊어가는 가을의 정취를 한층 더 풍성하게 만들어 주었습니다.</p>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">화려한 무대나 특별한 연출 없이도 자연과 음악이 하나 되는 순간, 아름다운 정원에서 만나는 재즈 선율은 평범한 수목원 산책을 더욱 낭만적이고 특별한 여행으로 만들어 주었습니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/travel-week-4est/travel-week-4est-20.webp" alt="해남 포레스트 수목원 현장 사진 20" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">남도예술정원 여행주간이 아니었다면 아름다운 자연 속에서 펼쳐지는 이런 멋진 재즈 공연을 경험해 볼 수 있었을까요?</p>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">깊어가는 가을, 형형색색으로 물든 정원을 거닐며 감미로운 재즈 선율까지 감상할 수 있었던 시간은 오래도록 기억에 남을 특별한 추억이 되었습니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/travel-week-4est/travel-week-4est-21.webp" alt="해남 포레스트 수목원 현장 사진 21" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">계절마다 서로 다른 매력을 선사하는 전남 해남군 포레스트(4rest) 수목원의 사계절을 모두 경험해 보고 싶은 마음에 다음에도 꼭 다시 방문해야겠습니다.</p>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">여러분도 바쁜 일상에서 잠시 벗어나 아름다운 자연과 문화예술이 어우러진 남도예술정원에서 특별한 힐링 여행을 즐겨보시는 건 어떠신가요?</p>
+
+        <!-- 해시태그 -->
+        <div class="pt-8 border-t border-neutral-200">
+          <div class="flex flex-wrap gap-2 text-xs font-medium text-neutral-600">
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#남도예술정원</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#남도예술정원여행주간</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#해남여행</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#해남가볼만한곳</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#해남여행추천</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#해남포레스트수목원</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#포레스트수목원</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#4rest수목원</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#해남수목원</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#해남민간정원</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#전남민간정원</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#전남가볼만한곳</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#전남여행</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#전남여행추천</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#해남데이트코스</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#해남가을여행</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#가을여행추천</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#가을정원</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#수목원산책</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#정원여행</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#정원투어</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#재즈공연</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#재즈기타리스트</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#야외음악회</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#가을음악회</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#문화예술여행</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#힐링여행</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#남도여행</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#남도예술정원스탬프투어</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#국내여행추천</span>
+          </div>
+        </div>
+      </div>
+    `
+  },
+  "h32-haenam-moongarden-exhibition": {
+    "id": "h32-haenam-moongarden-exhibition",
+    "regionId": "haenam",
+    "title": "남도예술정원 여행주간, 해남 민간정원 1호 \"문가든\"\n자연과 동심이 어우러진 최순임 작가 초대전",
+    "description": "남도예술정원 여행주간을 맞아 해남 민간정원 1호 문가든에서 열린 최순임 작가 초대전 〈보이는 것 모두 꽃, 생각하는 것 모두 달〉. 정원과 카페가 하나의 야외 미술관이 된 따뜻한 가을 예술 여행.",
+    "keywords": "남도예술정원, 남도예술정원여행주간, 해남문가든, 문가든, 해남민간정원, 해남민간정원1호, 최순임작가, 최순임작가초대전, 보이는것모두꽃생각하는것모두달, 해남가볼만한곳, 해남여행, 해남여행코스, 해남카페, 해남정원카페, 해남전시회, 해남미술전시, 전남가볼만한곳, 전남여행, 전남정원여행, 남도여행, 정원여행, 가을여행, 가을나들이, 문화예술여행, 정원속미술관, 갤러리카페, 힐링여행, 국내여행추천",
+    "date": "2026. 11. 19",
+    "author": "남도예술정원 서포터즈 (김지태)",
+    "readTime": "5분",
+    "image": "/images/travel-week-moongarden-art/travel-week-moongarden-art-01.webp",
+    "content": `
+      <div class="max-w-4xl mx-auto space-y-8 text-neutral-800 leading-relaxed font-sans mt-4 px-2 md:px-0">
+        <!-- Hero Banner / 최적 줄바꿈 타이틀 영역 -->
+        <div class="space-y-4">
+          <div class="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-teal-500/10 text-teal-800 text-xs font-bold uppercase tracking-wider">
+            🎨 남도예술정원 여행주간 특별 초대전 | 해남 민간정원 1호 문가든
+          </div>
+          <h1 class="text-3xl md:text-5xl font-serif font-bold text-neutral-900 leading-tight">
+            남도예술정원 여행주간<br/>
+            <span class="text-teal-700 font-sans block mt-1">해남 민간정원 1호 “문가든”</span>
+            <span class="text-xl md:text-2xl text-neutral-600 font-light font-sans block mt-2">정원 속 작은 미술관에서 만난 최순임 작가 초대전</span>
+          </h1>
+          <p class="text-base md:text-lg text-neutral-600 font-light leading-relaxed">
+            〈보이는 것 모두 꽃, 생각하는 것 모두 달〉 — 아늑한 카페와 초록빛 앞마당 곳곳에 피어난 동화 같은 소녀와 고양이 조각·회화 전시
+          </p>
+        </div>
+
+        
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/travel-week-moongarden-art/travel-week-moongarden-art-01.webp" alt="해남 민간정원 1호 문가든 현장 사진 1" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <div class="bg-[#f3faf9] border-teal-100 p-6 md:p-8 rounded-3xl border shadow-sm">
+          <p class="text-base md:text-lg font-medium text-neutral-800 leading-relaxed">가을이 깊어가는 11월, 아름다운 자연과 예술이 어우러지는 남도예술정원 여행주간을 맞아 전남 해남으로 특별한 정원 여행을 다녀왔습니다.</p>
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">이번에 방문한 곳은 해남 민간정원 1호로 지정된 문가든으로, 사계절 아름다운 자연을 만날 수 있는 정원이자 향긋한 차 한 잔의 여유를 즐길 수 있는 정원 카페입니다.</p>
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+          <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+            <img src="/images/travel-week-moongarden-art/travel-week-moongarden-art-02.webp" alt="해남 민간정원 1호 문가든 현장 사진 2" class="w-full h-72 md:h-80 object-cover" loading="lazy" />
+          </div>
+          <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+            <img src="/images/travel-week-moongarden-art/travel-week-moongarden-art-03.webp" alt="해남 민간정원 1호 문가든 현장 사진 3" class="w-full h-72 md:h-80 object-cover" loading="lazy" />
+          </div>
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">특히 남도예술정원 여행주간을 맞아 문가든에서는 최순임 작가 초대전이 열리고 있었는데요.</p>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">카페 내부와 앞뜰 곳곳에 전시된 작품들은 정원의 자연스러운 풍경과 어우러져 마치 작은 야외 미술관을 찾은 듯한 특별한 경험을 선사했습니다.</p>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">평범한 카페 방문을 넘어 자연 속에서 예술을 감상하며 가을의 낭만을 만끽할 수 있었던 시간!</p>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">오늘은 해남 가볼만한곳 문가든에서 만난 최순임 작가 초대전과 함께 카페 안팎에서 펼쳐진 아름다운 예술의 순간들을 소개해 드리겠습니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/travel-week-moongarden-art/travel-week-moongarden-art-04.webp" alt="해남 민간정원 1호 문가든 현장 사진 4" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">해남 문가든은 해남군 민간정원 1호로 지정된 아름다운 정원으로, 정성스럽게 가꾼 꽃과 나무가 사계절 각기 다른 풍경을 선사하는 특별한 공간입니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/travel-week-moongarden-art/travel-week-moongarden-art-05.webp" alt="해남 민간정원 1호 문가든 현장 사진 5" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">자연 속에서 여유롭게 산책을 즐길 수 있을 뿐만 아니라, 정원과 어우러진 카페에서 향긋한 차 한 잔의 여유를 즐기고 다양한 문화예술 작품까지 감상할 수 있어 해남여행 중 잠시 쉬어가기 좋은 곳입니다.</p>
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+          <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+            <img src="/images/travel-week-moongarden-art/travel-week-moongarden-art-06.webp" alt="해남 민간정원 1호 문가든 현장 사진 6" class="w-full h-72 md:h-80 object-cover" loading="lazy" />
+          </div>
+          <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+            <img src="/images/travel-week-moongarden-art/travel-week-moongarden-art-07.webp" alt="해남 민간정원 1호 문가든 현장 사진 7" class="w-full h-72 md:h-80 object-cover" loading="lazy" />
+          </div>
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">11월 15일부터 남도예술정원 여행주간이 끝나는 11월 20일까지 진행되는 최순임 작가 초대전 〈보이는 것 모두 꽃, 생각하는 것 모두 달〉은 자연과 예술이 어우러진 특별한 전시로, 해남 문가든의 아늑한 카페 내부와 아름다운 앞뜰을 전시 공간으로 활용해 정원을 찾은 여행객들에게 색다른 볼거리와 예술적 감동을 선사합니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/travel-week-moongarden-art/travel-week-moongarden-art-08.webp" alt="해남 민간정원 1호 문가든 현장 사진 8" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">카페에 들어서면 곳곳에 최순임 작가의 작품들이 전시되어 있는 모습을 마주하는데요. 따뜻하고 아늑한 분위기의 카페 공간에 예술 작품들이 자연스럽게 어우러져 마치 작은 갤러리에 들어선 듯한 기분이 듭니다.</p>
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+          <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+            <img src="/images/travel-week-moongarden-art/travel-week-moongarden-art-09.webp" alt="해남 민간정원 1호 문가든 현장 사진 9" class="w-full h-72 md:h-80 object-cover" loading="lazy" />
+          </div>
+          <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+            <img src="/images/travel-week-moongarden-art/travel-week-moongarden-art-10.webp" alt="해남 민간정원 1호 문가든 현장 사진 10" class="w-full h-72 md:h-80 object-cover" loading="lazy" />
+          </div>
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">회화와 조각을 함께하는 최순임 작가의 작품은 호기심 가득한 소녀와 다채로운 표정의 고양이 등 동화적 상상력이 담긴 그림과 조각으로 눈길을 사로잡습니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/travel-week-moongarden-art/travel-week-moongarden-art-11.webp" alt="해남 민간정원 1호 문가든 현장 사진 11" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+          <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+            <img src="/images/travel-week-moongarden-art/travel-week-moongarden-art-12.webp" alt="해남 민간정원 1호 문가든 현장 사진 12" class="w-full h-72 md:h-80 object-cover" loading="lazy" />
+          </div>
+          <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+            <img src="/images/travel-week-moongarden-art/travel-week-moongarden-art-13.webp" alt="해남 민간정원 1호 문가든 현장 사진 13" class="w-full h-72 md:h-80 object-cover" loading="lazy" />
+          </div>
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">개성 넘치는 캐릭터와 따뜻한 감성이 어우러진 작품들이 더해지니 남도예술정원 문가든은 마치 동화 속 작은 미술관에 들어온 듯한 특별한 공간으로 느껴졌습니다.</p>
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+          <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+            <img src="/images/travel-week-moongarden-art/travel-week-moongarden-art-14.webp" alt="해남 민간정원 1호 문가든 현장 사진 14" class="w-full h-72 md:h-80 object-cover" loading="lazy" />
+          </div>
+          <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+            <img src="/images/travel-week-moongarden-art/travel-week-moongarden-art-15.webp" alt="해남 민간정원 1호 문가든 현장 사진 15" class="w-full h-72 md:h-80 object-cover" loading="lazy" />
+          </div>
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">눈길이 닿는 곳마다 기분이 좋아지는 그림과 조형물들이 더해지니, 깊어가는 가을날 아름다운 자연을 찾아 이곳을 방문하신 분들께는 예상치 못한 또 하나의 특별한 선물이지 않을까요?</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/travel-week-moongarden-art/travel-week-moongarden-art-16.webp" alt="해남 민간정원 1호 문가든 현장 사진 16" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">창가 자리에 앉아 다정하게 차를 마시는 중년 부부의 뒷모습에서는 함께 걸어온 인생의 여정과 오랜 세월 서로에게 쌓아온 깊은 사랑과 따뜻한 정이 느껴져, 바라보는 것만으로도 마음이 포근해지는 또 하나의 작품처럼 느껴졌어요.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/travel-week-moongarden-art/travel-week-moongarden-art-17.webp" alt="해남 민간정원 1호 문가든 현장 사진 17" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">카페 앞마당에는 11년을 함께하다 무지개다리를 건넌 유기묘에 대한 애틋한 사랑과 그리움을 담은 고양이 조형물들이 자리하고 있습니다.</p>
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+          <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+            <img src="/images/travel-week-moongarden-art/travel-week-moongarden-art-18.webp" alt="해남 민간정원 1호 문가든 현장 사진 18" class="w-full h-72 md:h-80 object-cover" loading="lazy" />
+          </div>
+          <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+            <img src="/images/travel-week-moongarden-art/travel-week-moongarden-art-19.webp" alt="해남 민간정원 1호 문가든 현장 사진 19" class="w-full h-72 md:h-80 object-cover" loading="lazy" />
+          </div>
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">마치 실제 고양이들이 정원 곳곳을 자유롭게 뛰어놀고 있는 듯한 생동감 넘치는 모습으로, 작품 하나하나에 담긴 최순임 작가의 따뜻한 마음이 전해져 보는 이들의 입가에 절로 미소가 번집니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/travel-week-moongarden-art/travel-week-moongarden-art-20.webp" alt="해남 민간정원 1호 문가든 현장 사진 20" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">평화로운 정원을 산책하고 동심의 세계로 안내해 주는 최순임 작가 초대전까지 관람하며 마음까지 따뜻해지는 특별한 시간을 보낼 수 있었던 해남 문가든! 깊어가는 가을에 방문하기 좋은 전남광주 해남 문가든!!</p>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">아름다운 자연과 예술이 어우러진 남도예술정원에서 일상의 분주함을 잠시 내려놓고 여유로운 힐링 여행을 즐겨보시는 건 어떠신가요?</p>
+
+        <!-- 해시태그 -->
+        <div class="pt-8 border-t border-neutral-200">
+          <div class="flex flex-wrap gap-2 text-xs font-medium text-neutral-600">
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-teal-50 hover:text-teal-700 transition-colors">#남도예술정원</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-teal-50 hover:text-teal-700 transition-colors">#남도예술정원여행주간</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-teal-50 hover:text-teal-700 transition-colors">#해남문가든</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-teal-50 hover:text-teal-700 transition-colors">#문가든</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-teal-50 hover:text-teal-700 transition-colors">#해남민간정원</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-teal-50 hover:text-teal-700 transition-colors">#해남민간정원1호</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-teal-50 hover:text-teal-700 transition-colors">#최순임작가</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-teal-50 hover:text-teal-700 transition-colors">#최순임작가초대전</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-teal-50 hover:text-teal-700 transition-colors">#보이는것모두꽃생각하는것모두달</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-teal-50 hover:text-teal-700 transition-colors">#해남가볼만한곳</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-teal-50 hover:text-teal-700 transition-colors">#해남여행</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-teal-50 hover:text-teal-700 transition-colors">#해남여행코스</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-teal-50 hover:text-teal-700 transition-colors">#해남카페</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-teal-50 hover:text-teal-700 transition-colors">#해남정원카페</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-teal-50 hover:text-teal-700 transition-colors">#해남전시회</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-teal-50 hover:text-teal-700 transition-colors">#해남미술전시</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-teal-50 hover:text-teal-700 transition-colors">#전남가볼만한곳</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-teal-50 hover:text-teal-700 transition-colors">#전남여행</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-teal-50 hover:text-teal-700 transition-colors">#전남정원여행</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-teal-50 hover:text-teal-700 transition-colors">#남도여행</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-teal-50 hover:text-teal-700 transition-colors">#정원여행</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-teal-50 hover:text-teal-700 transition-colors">#가을여행</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-teal-50 hover:text-teal-700 transition-colors">#가을나들이</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-teal-50 hover:text-teal-700 transition-colors">#문화예술여행</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-teal-50 hover:text-teal-700 transition-colors">#정원속미술관</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-teal-50 hover:text-teal-700 transition-colors">#갤러리카페</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-teal-50 hover:text-teal-700 transition-colors">#힐링여행</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-teal-50 hover:text-teal-700 transition-colors">#국내여행추천</span>
+          </div>
+        </div>
+      </div>
+    `
+  },
+  "h33-haenam-moongarden-frame-craft": {
+    "id": "h33-haenam-moongarden-frame-craft",
+    "regionId": "haenam",
+    "title": "해남 가볼만한곳 \"문가든\" 남도예술정원 여행주간\n‘나만의 정원 액자 만들기’ 특별 체험 후기",
+    "description": "해남 민간정원 1호 문가든의 그린 타임 갤러리에서 진행된 남도예술정원 여행주간 특화 체험 ‘나만의 정원 액자 만들기’! 정원에서 직접 채집한 가을꽃과 파스텔로 나만의 작은 정원을 담아내는 힐링 체험기.",
+    "keywords": "남도예술정원, 남도예술정원여행주간, 남도예술정원스탬프투어, 해남문가든, 문가든, 해남민간정원1호, 해남민간정원, 나만의정원액자만들기, 정원액자만들기, 해남체험프로그램, 해남가볼만한곳, 해남여행, 해남여행코스, 해남가족여행, 해남가족나들이, 해남데이트코스, 해남카페, 해남정원카페, 해남가을여행, 전남가볼만한곳, 전남여행, 전남가족여행, 전남체험여행, 전남정원여행, 남도여행, 정원여행, 가을나들이, 가을여행추천, 자연속힐링, 힐링여행, 이색체험, 원데이클래스, 핸드메이드체험, 국내여행추천",
+    "date": "2026. 11. 19",
+    "author": "남도예술정원 서포터즈 (김지태)",
+    "readTime": "5분",
+    "image": "/images/travel-week-moongarden-craft/travel-week-moongarden-craft-01.webp",
+    "content": `
+      <div class="max-w-4xl mx-auto space-y-8 text-neutral-800 leading-relaxed font-sans mt-4 px-2 md:px-0">
+        <!-- Hero Banner / 최적 줄바꿈 타이틀 영역 -->
+        <div class="space-y-4">
+          <div class="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-emerald-500/10 text-emerald-800 text-xs font-bold uppercase tracking-wider">
+            🖼️ 남도예술정원 여행주간 크리에이터 특화체험 | 해남 문가든
+          </div>
+          <h1 class="text-3xl md:text-5xl font-serif font-bold text-neutral-900 leading-tight">
+            해남 가볼만한곳 “문가든”<br/>
+            <span class="text-emerald-700 font-sans block mt-1">‘나만의 정원 액자 만들기’</span>
+            <span class="text-xl md:text-2xl text-neutral-600 font-light font-sans block mt-2">남도예술정원 여행주간 크리에이터 특화 체험 후기</span>
+          </h1>
+          <p class="text-base md:text-lg text-neutral-600 font-light leading-relaxed">
+            숲속 아지트 같은 그린 타임 갤러리에서 파스텔과 문가든의 가을 들꽃, 세라믹 소품으로 세상에 하나뿐인 정원 액자를 완성하는 감성 클래스
+          </p>
+        </div>
+
+        
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/travel-week-moongarden-craft/travel-week-moongarden-craft-01.webp" alt="‘나만의 정원 액자 만들기’ 현장 사진 1" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <div class="bg-[#f4faf6] border-emerald-100 p-6 md:p-8 rounded-3xl border shadow-sm">
+          <p class="text-base md:text-lg font-medium text-neutral-800 leading-relaxed">온 세상이 알록달록 물든 가을의 끝자락에 자연을 감상하며 나만의 특별한 추억까지 만들 수 있다면 얼마나 좋을까요?</p>
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">이번 남도예술정원 여행주간을 맞아 문가든에서는 자연을 가까이에서 느끼며 특별한 추억을 만들 수 있는 ‘나만의 정원 액자 만들기’ 체험 프로그램이 진행되었습니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/travel-week-moongarden-craft/travel-week-moongarden-craft-02.webp" alt="‘나만의 정원 액자 만들기’ 현장 사진 2" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">아름다운 정원을 천천히 거닐며 깊어가는 가을의 정취를 만끽하고, 자연에서 얻은 영감을 나만의 작은 작품으로 표현하는 시간!</p>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">오늘은 해남 가볼만한곳 문가든의 아름다운 정원 풍경과 함께 직접 참여했던 나만의 정원 액자 만들기 체험 후기를 소개해 드리겠습니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/travel-week-moongarden-craft/travel-week-moongarden-craft-03.webp" alt="‘나만의 정원 액자 만들기’ 현장 사진 3" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">남도예술정원 여행주간과 함께 2026년 가을, 가족, 친구, 연인들과 함께 방문하기 좋은 해남 민간정원 1호 문가든!</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/travel-week-moongarden-craft/travel-week-moongarden-craft-04.webp" alt="‘나만의 정원 액자 만들기’ 현장 사진 4" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">해남뿐만 아니라 전남 서남권에서도 아름다운 정원으로 이름난 곳으로, 정성스럽게 가꾼 다양한 꽃과 나무들이 계절마다 색다른 풍경을 선사하며 자연 속에서 여유로운 산책과 힐링을 즐길 수 있는 특별한 공간입니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/travel-week-moongarden-craft/travel-week-moongarden-craft-05.webp" alt="‘나만의 정원 액자 만들기’ 현장 사진 5" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">남도예술정원은 전남 해남, 완도, 진도, 신안에 자리한 아름다운 정원들을 중심으로 자연과 문화예술, 지역의 맛과 멋을 함께 즐길 수 있도록 마련된 특별한 여행 프로그램입니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/travel-week-moongarden-craft/travel-week-moongarden-craft-06.webp" alt="‘나만의 정원 액자 만들기’ 현장 사진 6" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">특히 2026년 11월 6일부터 11월 20일까지 진행되는 남도예술정원 여행주간에는 각 정원마다 특색 있는 전시와 공연, 정원주와 함께하는 가이드 투어, 다양한 체험 프로그램이 펼쳐져 평소와는 다른 특별한 정원 여행을 즐길 수 있습니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/travel-week-moongarden-craft/travel-week-moongarden-craft-07.webp" alt="‘나만의 정원 액자 만들기’ 현장 사진 7" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">무엇보다 여행의 재미를 더해주는 남도예술정원 스탬프 투어도 놓칠 수 없는데요.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/travel-week-moongarden-craft/travel-week-moongarden-craft-08.webp" alt="‘나만의 정원 액자 만들기’ 현장 사진 8" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">아름다운 정원을 방문하며 여행의 발자취를 스탬프로 남기고, 주변 관광명소와 지역 맛집, 카페까지 함께 둘러볼 수 있도록 구성되어 있습니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/travel-week-moongarden-craft/travel-week-moongarden-craft-09.webp" alt="‘나만의 정원 액자 만들기’ 현장 사진 9" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">남도예술정원 스탬프 투어에 참여하면 스탬프 개수에 따라 사은품이 증정됩니다.</p>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">또한 여행주간에는 지역파트너로 참여하는 식당과 카페 등에서 할인 혜택도 제공되니, 정원 산책과 함께 남도의 맛있는 음식까지 즐기는 알찬 여행을 계획해 보셔도 좋겠습니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/travel-week-moongarden-craft/travel-week-moongarden-craft-10.webp" alt="‘나만의 정원 액자 만들기’ 현장 사진 10" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">지역 크리에이터와 남도예술정원이 협력해 마련한 특화 체험 프로그램인 ‘나만의 정원 액자 만들기’는 숲속의 작은 아지트처럼 문가든 한쪽에 아늑하게 자리한 그린 타임 갤러리에서 진행되었습니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/travel-week-moongarden-craft/travel-week-moongarden-craft-11.webp" alt="‘나만의 정원 액자 만들기’ 현장 사진 11" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">이곳은 단체 모임이나 소규모 행사, 스몰 웨딩 등 특별한 날을 위한 공간으로도 활용할 수 있는 곳인데요. 아름다운 정원 풍경과 어우러진 아늑한 분위기 덕분에 소중한 사람들과 특별한 추억을 만들기에도 안성맞춤입니다.</p>
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+          <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+            <img src="/images/travel-week-moongarden-craft/travel-week-moongarden-craft-12.webp" alt="‘나만의 정원 액자 만들기’ 현장 사진 12" class="w-full h-72 md:h-80 object-cover" loading="lazy" />
+          </div>
+          <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+            <img src="/images/travel-week-moongarden-craft/travel-week-moongarden-craft-13.webp" alt="‘나만의 정원 액자 만들기’ 현장 사진 13" class="w-full h-72 md:h-80 object-cover" loading="lazy" />
+          </div>
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">한쪽에서는 아기자기한 핸드메이드 소품도 판매하고 있어 작품 하나하나를 구경하며 마음에 드는 소품을 찾아보는 소소한 재미까지 느낄 수 있었습니다.</p>
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+          <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+            <img src="/images/travel-week-moongarden-craft/travel-week-moongarden-craft-14.webp" alt="‘나만의 정원 액자 만들기’ 현장 사진 14" class="w-full h-72 md:h-80 object-cover" loading="lazy" />
+          </div>
+          <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+            <img src="/images/travel-week-moongarden-craft/travel-week-moongarden-craft-15.webp" alt="‘나만의 정원 액자 만들기’ 현장 사진 15" class="w-full h-72 md:h-80 object-cover" loading="lazy" />
+          </div>
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">사장님의 친절한 안내와 설명으로 정원 풍경을 파스텔로 직접 그리고, 꽃과 세라믹 소품으로 아기자기하게 꾸미는 ‘나만의 정원 액자 만들기’ 체험이 시작되었습니다.</p>
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+          <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+            <img src="/images/travel-week-moongarden-craft/travel-week-moongarden-craft-16.webp" alt="‘나만의 정원 액자 만들기’ 현장 사진 16" class="w-full h-72 md:h-80 object-cover" loading="lazy" />
+          </div>
+          <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+            <img src="/images/travel-week-moongarden-craft/travel-week-moongarden-craft-17.webp" alt="‘나만의 정원 액자 만들기’ 현장 사진 17" class="w-full h-72 md:h-80 object-cover" loading="lazy" />
+          </div>
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">문가든 정원에서 자라는 가을꽃을 직접 채집해 액자를 꾸미는 데 활용하니, 아름다운 정원의 풍경을 작은 액자 속에 그대로 담아내는 듯한 특별한 기분이 들었습니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/travel-week-moongarden-craft/travel-week-moongarden-craft-18.webp" alt="‘나만의 정원 액자 만들기’ 현장 사진 18" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">평소 그림에 자신이 없는 분들도 어렵지 않게 따라 할 수 있도록 하나하나 설명해 주셔서 부담 없이 참여할 수 있었으며, 각자의 개성과 감성을 담아 세상에 하나뿐인 작은 정원을 완성해 가는 과정이 무척 흥미로웠습니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/travel-week-moongarden-craft/travel-week-moongarden-craft-19.webp" alt="‘나만의 정원 액자 만들기’ 현장 사진 19" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">완성된 작품은 저마다의 개성과 감성이 고스란히 담겨 있어 하나같이 특별했으며, 남도예술정원의 아름다운 풍경과 추억을 오롯이 나만의 작품으로 간직할 수 있는 세상에 하나뿐인 기념품이 되었습니다.</p>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">단순한 만들기 체험을 넘어 가을날 문가든에서 보낸 소중한 시간을 오래도록 기억할 수 있다는 점에서 더욱 의미 있게 느껴졌습니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/travel-week-moongarden-craft/travel-week-moongarden-craft-20.webp" alt="‘나만의 정원 액자 만들기’ 현장 사진 20" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">체험 프로그램이 끝난 뒤에는 해남 민간정원 1호인 문가든을 유유자적하며 거닐었어요.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/travel-week-moongarden-craft/travel-week-moongarden-craft-21.webp" alt="‘나만의 정원 액자 만들기’ 현장 사진 21" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">정원 곳곳에는 잠시 쉬어갈 수 있는 아늑한 휴식 공간도 마련되어 있어 가족 나들이로 방문하기에도 좋은 곳입니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/travel-week-moongarden-craft/travel-week-moongarden-craft-22.webp" alt="‘나만의 정원 액자 만들기’ 현장 사진 22" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">그림 같은 풍경을 감상하며 따스한 가을 햇살 아래 여유롭게 산책도 즐기고, 아쉬움 속에 저물어가는 가을의 정취를 만끽하며 소중한 사람들과 행복한 추억을 만들어 보시면 좋을 것 같습니다.</p>
+        <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
+          <img src="/images/travel-week-moongarden-craft/travel-week-moongarden-craft-23.webp" alt="‘나만의 정원 액자 만들기’ 현장 사진 23" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">아름다운 정원과 그곳을 정성껏 가꾸는 사장님 내외분의 따뜻한 마음, 그리고 잔잔하게 흐르는 음악에 향긋한 커피와 차 한 잔의 여유까지 더해진 해남 문가든! 바쁜 일상에서 잠시 벗어나 자연 속에서 몸과 마음을 쉬어가고, 특별한 체험으로 소중한 추억까지 만들 수 있는 곳입니다.</p>
+        <p class="text-neutral-700 text-base md:text-lg leading-relaxed">깊어가는 가을, 가족이나 연인과 함께 아름다운 남도예술정원에서 오래도록 기억에 남을 특별한 하루를 보내보시는 건 어떠신가요?</p>
+
+        <!-- 해시태그 -->
+        <div class="pt-8 border-t border-neutral-200">
+          <div class="flex flex-wrap gap-2 text-xs font-medium text-neutral-600">
+            <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#남도예술정원</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#남도예술정원여행주간</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#남도예술정원스탬프투어</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#해남문가든</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#문가든</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#해남민간정원1호</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#해남민간정원</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#나만의정원액자만들기</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#정원액자만들기</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#해남체험프로그램</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#해남가볼만한곳</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#해남여행</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#해남여행코스</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#해남가족여행</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#해남가족나들이</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#해남데이트코스</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#해남카페</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#해남정원카페</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#해남가을여행</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#전남가볼만한곳</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#전남여행</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#전남가족여행</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#전남체험여행</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#전남정원여행</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#남도여행</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#정원여행</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#가을나들이</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#가을여행추천</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#자연속힐링</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#힐링여행</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#이색체험</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#원데이클래스</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#핸드메이드체험</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#국내여행추천</span>
+          </div>
+        </div>
+      </div>
+    `
+  },
+  "w23-wando-danginri-forest": {
+    "id": "w23-wando-danginri-forest",
+    "regionId": "wando",
+    "title": "완도 카페 추천 \"당인리포레스트\"\n남도예술정원 여행주간, 완도수목원과 함께 떠나는 정원여행",
+    "description": "2026년 10월 이달의 정원으로 선정된 완도수목원과 차로 10분 거리! 푸른 다도해 오션뷰와 싱그러운 식물 인테리어, 진한 카페라떼와 쪽파베이글이 매력적인 남도예술정원 공식 파트너 '당인리포레스트' 카페 가이드.",
+    "keywords": "완도여행, 완도가볼만한곳, 완도카페, 완도카페추천, 당인리포레스트, 완도당인리포레스트, 완도정원카페, 완도오션뷰카페, 완도수목원, 완도수목원근처카페, 남도예술정원, 남도예술정원여행주간, 남도예술정원스탬프투어, 남도예술정원지역파트너, 이달의정원, 완도아내의정원, 바하정원, 전남여행, 전남가볼만한곳, 전남카페추천, 완도데이트코스, 완도여행코스, 완도힐링여행, 완도디저트카페, 완도베이글맛집, 완도커피맛집, 정원여행, 남도정원여행, 국내가을여행, 주말나들이",
+    "date": "2026. 11. 19",
+    "author": "남도예술정원 서포터즈 (김지태)",
+    "readTime": "5분",
+    "image": "/images/danginri/danginri-01.webp",
+    "content": `
+      <div class="max-w-4xl mx-auto space-y-12 text-neutral-800 leading-relaxed font-sans mt-4 px-2 md:px-0">
+        <!-- Hero Banner / 상단 타이틀 영역 -->
+        <div class="space-y-4">
+          <div class="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-emerald-500/10 text-emerald-800 text-xs font-bold uppercase tracking-wider">
+            ☕ 남도예술정원 지역 파트너 & 오션뷰 정원카페 | 완도
+          </div>
+          <h1 class="text-3xl md:text-5xl font-serif font-bold text-neutral-900 leading-tight">
+            완도 카페 추천<br/>
+            <span class="text-emerald-700 font-sans">"당인리포레스트"</span><br/>
+            <span class="text-xl md:text-2xl text-neutral-600 font-light font-sans block mt-2">남도예술정원 여행주간, 완도수목원과 함께 떠나는 정원여행</span>
+          </h1>
+          <p class="text-base md:text-lg text-neutral-600 font-light leading-relaxed">
+            사계절 푸른 완도수목원에서 만나는 난대림의 감동, 그리고 싱그러운 정원과 바다가 마주하는 당인리포레스트에서의 달콤한 휴식
+          </p>
+        </div>
+
+        <!-- [사진 1] 대표 히어로: 당인리포레스트 입구 -->
+        <div class="space-y-2">
+          <div class="rounded-3xl overflow-hidden shadow-xl border border-neutral-100 max-h-[600px]">
+            <img src="/images/danginri/danginri-01.webp" alt="완도 카페 당인리포레스트 입구 전경" class="w-full h-full object-cover" />
+          </div>
+          <p class="text-center text-xs md:text-sm text-neutral-500 font-medium">(▲ 푸른 나무와 꽃들이 방문객을 반갑게 맞이하는 당인리포레스트 입구)</p>
+        </div>
+
+        <!-- [도입부 / 프롤로그] -->
+        <div class="bg-[#f5faf6] p-6 md:p-8 rounded-3xl border border-emerald-100 shadow-sm space-y-4">
+          <p class="text-base md:text-lg font-medium text-neutral-800 leading-relaxed">
+            바쁜 일상에서 잠시 벗어나 자연 속에서 여유로운 시간을 보내고 싶을 때면 아름다운 꽃과 나무가 가득한 정원이 생각납니다.
+          </p>
+          <p class="text-neutral-700 leading-relaxed">
+            이번 완도여행에서는 남도예술정원 여행주간을 맞아 초록빛 자연이 반겨주는 완도수목원과 함께 특별한 매력을 지닌 정원카페 <strong>'당인리포레스트'</strong>를 찾았습니다.<br/>
+            오늘은 완도 가볼만한곳으로 추천하는 완도수목원과 연계해 방문하기 좋은 완도 카페 당인리포레스트에서 만난 아름다운 정원의 풍경과 여유로운 시간을 소개해 드리겠습니다.
+          </p>
+        </div>
+
+        <!-- SECTION 01. 10월 이달의 정원: 완도수목원 탐방 -->
+        <section class="space-y-6">
+          <div class="flex items-center gap-3">
+            <span class="w-8 h-8 rounded-full bg-emerald-700 text-white flex items-center justify-center font-bold text-sm">01</span>
+            <div>
+              <span class="text-xs font-bold text-emerald-800 tracking-widest uppercase">Garden of the Month</span>
+              <h2 class="text-2xl md:text-3xl font-serif font-bold text-neutral-900">남도예술정원 이달의 정원: 사계절 푸른 완도수목원</h2>
+            </div>
+          </div>
+
+          <!-- [사진 2] 완도수목원 입구 -->
+          <div class="space-y-2">
+            <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[560px]">
+              <img src="/images/danginri/danginri-02.webp" alt="완도수목원 입구 전경" class="w-full h-full object-cover" />
+            </div>
+            <p class="text-center text-xs md:text-sm text-neutral-500">(▲ 국내 최대 난대림 자생지이자 2026년 10월 남도예술정원 이달의 정원으로 선정된 완도수목원)</p>
+          </div>
+
+          <p class="text-neutral-700 text-base md:text-lg leading-relaxed">
+            2026년 10월, 남도예술정원 이달의 정원으로 선정된 <strong>완도수목원</strong>은 사계절 푸르름을 간직한 국내 최대 규모의 난대림 자생지로, 울창한 숲과 다양한 식물들이 어우러져 자연의 아름다움을 온전히 느낄 수 있는 완도 가볼만한 곳이에요.
+          </p>
+
+          <!-- [사진 3] + [사진 4] 완도수목원 전경 & 온실 2열 그리드 -->
+          <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+            <div class="space-y-1.5">
+              <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+                <img src="/images/danginri/danginri-03.webp" alt="완도수목원 숲길 전경" class="w-full h-72 md:h-80 object-cover" />
+              </div>
+              <p class="text-center text-xs text-neutral-500">맑은 공기와 푸른 상록수가 우거진 완도수목원 산책로</p>
+            </div>
+            <div class="space-y-1.5">
+              <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+                <img src="/images/danginri/danginri-04.webp" alt="완도수목원 아열대 온실" class="w-full h-72 md:h-80 object-cover" />
+              </div>
+              <p class="text-center text-xs text-neutral-500">이국적인 식물과 다양한 볼거리를 선사하는 아열대온실</p>
+            </div>
+          </div>
+
+          <p class="text-neutral-700 text-base md:text-lg leading-relaxed">
+            봄과 여름에는 따스한 햇살 아래 싱그럽게 자라나는 다양한 식물과 형형색색의 꽃들을 감상할 수 있으며, 추운 동절기에도 아열대온실과 산림박물관, 산림전시관 등 다양한 실내 전시공간에서 자연의 소중함을 배우고 즐길 수 있어 사계절 언제 방문해도 자연의 아름다움과 여유를 만끽할 수 있는 완도 대표 생태관광 명소이자 가족과 함께 떠나기 좋은 힐링 여행지입니다.
+          </p>
+        </section>
+
+        <!-- SECTION 02. 자연과 커피가 만나는 정원카페 '당인리포레스트' -->
+        <section class="space-y-6 pt-4">
+          <div class="flex items-center gap-3">
+            <span class="w-8 h-8 rounded-full bg-teal-700 text-white flex items-center justify-center font-bold text-sm">02</span>
+            <div>
+              <span class="text-xs font-bold text-teal-800 tracking-widest uppercase">Garden Cafe Danginri Forest</span>
+              <h2 class="text-2xl md:text-3xl font-serif font-bold text-neutral-900">수목원에서 10분, 초록빛 정원과 오션뷰의 만남</h2>
+            </div>
+          </div>
+
+          <!-- [사진 5] 주차장 조망 와이드 + [사진 6] & [사진 7] 2열 그리드 -->
+          <div class="space-y-4">
+            <div class="space-y-1.5">
+              <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[560px]">
+                <img src="/images/danginri/danginri-05.webp" alt="당인리포레스트 주차장에서 바라본 정원과 바다 전경" class="w-full h-full object-cover" />
+              </div>
+              <p class="text-center text-xs text-neutral-500">당인리포레스트 진입로에서 내려다보는 아름다운 야외 정원과 바다 풍경</p>
+            </div>
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+              <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+                <img src="/images/danginri/danginri-06.webp" alt="당인리포레스트 야외 테라스 정원" class="w-full h-72 md:h-80 object-cover" />
+              </div>
+              <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+                <img src="/images/danginri/danginri-07.webp" alt="당인리포레스트 정원 산책로" class="w-full h-72 md:h-80 object-cover" />
+              </div>
+            </div>
+          </div>
+
+          <p class="text-neutral-700 text-base md:text-lg leading-relaxed">
+            완도수목원에서 차량으로 약 10분 거리에 자리한 <strong>당인리포레스트</strong>는 싱그러운 나무와 꽃들이 어우러진 아름다운 정원에서 향긋한 커피 한잔과 함께 여유로운 시간을 보낼 수 있는 정원카페입니다.
+          </p>
+
+          <!-- [사진 8] 매장 내부 전경 와이드 -->
+          <div class="space-y-2 pt-2">
+            <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[560px]">
+              <img src="/images/danginri/danginri-08.webp" alt="당인리포레스트 매장 내부 전경" class="w-full h-full object-cover" />
+            </div>
+            <p class="text-center text-xs md:text-sm text-neutral-500">(▲ 야외 정원을 실내로 옮겨 놓은 듯 싱그러운 플랜테리어로 꾸며진 매장 내부)</p>
+          </div>
+
+          <p class="text-neutral-700 text-base md:text-lg leading-relaxed">
+            매장 내부도 마치 야외 정원을 그대로 옮겨 놓은 듯 싱그러운 식물들로 꾸며져 있어요.
+          </p>
+
+          <!-- [사진 9] & [사진 10] 실내 테이블 및 인테리어 2열 그리드 -->
+          <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+            <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+              <img src="/images/danginri/danginri-09.webp" alt="감각적인 소품과 테이블 공간" class="w-full h-72 md:h-80 object-cover" />
+            </div>
+            <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+              <img src="/images/danginri/danginri-10.webp" alt="아늑하고 따뜻한 실내 좌석" class="w-full h-72 md:h-80 object-cover" />
+            </div>
+          </div>
+
+          <p class="text-neutral-700 text-base md:text-lg leading-relaxed">
+            각 공간마다 다양한 형태로 구성된 테이블과 의자가 조화롭게 배치되어 있으며, 곳곳에 자리한 초록빛 식물과 감각적인 인테리어 소품들이 어우러져 아늑하면서도 편안한 분위기를 자아냅니다.
+          </p>
+
+          <!-- [사진 11] & [사진 12] 실내 좌석과 감성 공간 2열 그리드 -->
+          <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+            <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+              <img src="/images/danginri/danginri-11.webp" alt="창가 감성 테이블 좌석" class="w-full h-72 md:h-80 object-cover" />
+            </div>
+            <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+              <img src="/images/danginri/danginri-12.webp" alt="식물과 어우러진 쉼터 공간" class="w-full h-72 md:h-80 object-cover" />
+            </div>
+          </div>
+
+          <!-- [사진 13] 통창 뷰 와이드 -->
+          <div class="space-y-2 pt-2">
+            <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[560px]">
+              <img src="/images/danginri/danginri-13.webp" alt="당인리포레스트 통창 너머 풍경" class="w-full h-full object-cover" />
+            </div>
+            <p class="text-center text-xs md:text-sm text-neutral-500">(▲ 어느 자리에 앉아도 자연 속 작은 정원에 머무는 듯한 감성적인 힐링 뷰)</p>
+          </div>
+
+          <p class="text-neutral-700 text-base md:text-lg leading-relaxed">
+            어느 자리에 앉아도 자연 속 작은 정원에 머무는 듯한 기분을 느낄 수 있으며, 완도여행 중 달콤한 디저트와 향긋한 커피 한잔을 곁들이며 잠시 쉬어가기 좋은 아늑하고 감성적인 힐링 공간입니다.
+          </p>
+        </section>
+
+        <!-- SECTION 03. 시그니처 메뉴: 고소한 카페라떼 & 쪽파베이글 -->
+        <section class="space-y-6 pt-4">
+          <div class="flex items-center gap-3">
+            <span class="w-8 h-8 rounded-full bg-amber-700 text-white flex items-center justify-center font-bold text-sm">03</span>
+            <div>
+              <span class="text-xs font-bold text-amber-800 tracking-widest uppercase">Signature Coffee & Bakery</span>
+              <h2 class="text-2xl md:text-3xl font-serif font-bold text-neutral-900">통창 오션뷰와 함께 즐기는 카페라떼 & 쪽파베이글</h2>
+            </div>
+          </div>
+
+          <!-- [사진 14] & [사진 15] 메뉴 주문 및 통창 오션뷰 2열 그리드 -->
+          <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+            <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+              <img src="/images/danginri/danginri-14.webp" alt="카페라떼와 쪽파베이글 세팅" class="w-full h-72 md:h-80 object-cover" />
+            </div>
+            <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
+              <img src="/images/danginri/danginri-15.webp" alt="통창 너머 바다 풍경과 디저트" class="w-full h-72 md:h-80 object-cover" />
+            </div>
+          </div>
+
+          <p class="text-neutral-700 text-base md:text-lg leading-relaxed">
+            향긋한 에스프레소에 고소한 우유가 더해져 부드럽고 진한 풍미를 느낄 수 있는 카페라떼와 사장님께서 추천해 주신 쪽파베이글을 주문했습니다.
+          </p>
+          <p class="text-neutral-700 text-base md:text-lg leading-relaxed">
+            통창 너머로 펼쳐지는 아름다운 바다 풍경과 싱그러운 정원이 어우러져 한 폭의 그림 같은 풍경을 선사합니다. 맛있는 디저트와 커피를 즐기며 잠시 바다를 바라보는 것만으로도 완도여행의 여유와 낭만을 만끽할 수 있었습니다.
+          </p>
+
+          <!-- [사진 16] 카페라떼 단독 와이드 -->
+          <div class="space-y-2 pt-2">
+            <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[560px]">
+              <img src="/images/danginri/danginri-16.webp" alt="부드러운 우유 거품의 진한 카페라떼" class="w-full h-full object-cover" />
+            </div>
+            <p class="text-center text-xs md:text-sm text-neutral-500">(▲ 은은한 커피 향과 고소한 우유의 부드러움이 살아있는 카페라떼)</p>
+          </div>
+
+          <p class="text-neutral-700 text-base md:text-lg leading-relaxed">
+            진한 에스프레소의 깊은 풍미에 고소하고 부드러운 우유가 어우러진 카페라떼는 한 모금 마실 때마다 입안 가득 은은한 커피 향이 퍼지며 기분 좋은 여운을 남깁니다.
+          </p>
+
+          <!-- [사진 17] 쪽파베이글 단독 와이드 -->
+          <div class="space-y-2 pt-2">
+            <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[560px]">
+              <img src="/images/danginri/danginri-17.webp" alt="알싸한 쪽파와 크림치즈가 어우러진 쪽파베이글" class="w-full h-full object-cover" />
+            </div>
+            <p class="text-center text-xs md:text-sm text-neutral-500">(▲ 사장님 추천 시그니처 디저트, 쫄깃하고 향긋한 쪽파베이글)</p>
+          </div>
+
+          <p class="text-neutral-700 text-base md:text-lg leading-relaxed">
+            사장님께서 추천해 주신 <strong>쪽파베이글</strong>은 쫄깃한 베이글에 알싸하면서도 향긋한 쪽파의 풍미와 부드럽고 고소한 크림치즈가 어우러져 색다른 맛을 선사합니다.
+          </p>
+          <p class="text-neutral-700 text-base md:text-lg leading-relaxed">
+            씹을수록 느껴지는 베이글의 담백함과 크림치즈의 부드러운 맛이 조화를 이루며, 달콤한 디저트와는 또 다른 매력을 느낄 수 있었어요. 특히 고소한 카페라떼와 짭조름한 쪽파베이글의 조합은 기대 이상으로 잘 어울려 완도여행 중 즐기는 여유로운 티타임을 더욱 특별하게 만들어 주었습니다.
+          </p>
+        </section>
+
+        <!-- SECTION 04. 남도예술정원 여행주간 & 스탬프 투어 혜택 -->
+        <section class="space-y-6 pt-4">
+          <div class="flex items-center gap-3">
+            <span class="w-8 h-8 rounded-full bg-emerald-700 text-white flex items-center justify-center font-bold text-sm">04</span>
+            <div>
+              <span class="text-xs font-bold text-emerald-800 tracking-widest uppercase">Partner Benefits & Stamp Tour</span>
+              <h2 class="text-2xl md:text-3xl font-serif font-bold text-neutral-900">남도예술정원 공식 파트너 할인 혜택과 정원 연계 코스</h2>
+            </div>
+          </div>
+
+          <!-- [사진 18] 에필로그 마무리 전경 -->
+          <div class="space-y-2">
+            <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[560px]">
+              <img src="/images/danginri/danginri-18.webp" alt="당인리포레스트 정원 테라스 전경" class="w-full h-full object-cover" />
+            </div>
+            <p class="text-center text-xs md:text-sm text-neutral-500">(▲ 다도해 바다와 숲이 건네는 진정한 쉼을 만날 수 있는 당인리포레스트)</p>
+          </div>
+
+          <div class="bg-gradient-to-br from-emerald-50/80 to-teal-50/50 p-6 md:p-8 rounded-3xl border border-emerald-100 space-y-3">
+            <h3 class="text-lg font-serif font-bold text-emerald-950 flex items-center gap-2">
+              <span>🎁</span> 남도예술정원 여행주간 파트너 혜택
+            </h3>
+            <p class="text-sm text-neutral-700 leading-relaxed">
+              완도 당인리포레스트는 <strong>남도예술정원 공식 지역파트너 매장</strong>으로, 11월 6일부터 11월 20일까지 진행되는 남도예술정원 여행주간에 방문하시면 특별한 할인 혜택도 누릴 수 있습니다.
+            </p>
+            <p class="text-sm text-neutral-700 leading-relaxed">
+              완도수목원과 함께 인근의 민간정원인 <strong>'아내의 정원'</strong> 또는 <strong>'바하정원'</strong>을 찾아 아름다운 자연을 감상하며 스탬프 투어에도 참여해 보세요!
+            </p>
+          </div>
+
+          <!-- 에필로그 요약 박스 -->
+          <div class="p-6 md:p-8 rounded-3xl bg-neutral-900 text-white space-y-4">
+            <h3 class="text-xl md:text-2xl font-serif font-bold text-emerald-400">
+              숲의 푸르름과 바다의 여유가 머무는 완도 힐링 정원여행
+            </h3>
+            <p class="text-neutral-200 leading-relaxed">
+              완도수목원과 함께 아내의 정원 또는 바하 정원을 찾아 아름다운 자연을 감상하며 스탬프 투어에도 참여하고, 푸른 바다가 한눈에 펼쳐지는 오션뷰 카페 당인리포레스트에서 향긋한 커피와 달콤한 디저트를 즐기며 일상의 피로를 내려놓는 여유로운 힐링 시간을 가져보시는 건 어떠신가요? ✨
+            </p>
+          </div>
+
+          <!-- 해시태그 -->
+          <div class="pt-6 border-t border-neutral-200">
+            <div class="flex flex-wrap gap-2 text-xs font-medium text-neutral-600">
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#완도여행</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#완도가볼만한곳</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#완도카페</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#완도카페추천</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#당인리포레스트</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#완도당인리포레스트</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#완도정원카페</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#완도오션뷰카페</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#완도수목원</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#완도수목원근처카페</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#남도예술정원</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#남도예술정원여행주간</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#남도예술정원스탬프투어</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#남도예술정원지역파트너</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#이달의정원</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#완도아내의정원</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#바하정원</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#전남여행</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#전남가볼만한곳</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#전남카페추천</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#완도데이트코스</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#완도여행코스</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#완도힐링여행</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#완도디저트카페</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#완도베이글맛집</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#완도커피맛집</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#정원여행</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#남도정원여행</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#국내가을여행</span>
+              <span class="bg-surface px-3.5 py-1.5 rounded-full border border-neutral-100 hover:bg-emerald-50 hover:text-emerald-700 transition-colors">#주말나들이</span>
+            </div>
+          </div>
+        </section>
+      </div>
+    `
+  },
   "w22-wando-marine-healing-center": {
     "id": "w22-wando-marine-healing-center",
     "regionId": "wando",

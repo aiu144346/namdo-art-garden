@@ -61,6 +61,14 @@ export default function PostsArchive() {
 
       // Priority ordering (Featured first)
       const isFeatured = [
+        'w24-wando-urban-grilled-fish',
+        'w25-wando-dalsweet-cafe',
+        'w26-wando-mannam-plaza',
+        'w27-wando-gugyedeung-urbancoffee',
+        'h31-haenam-4est-jazz-concert',
+        'h32-haenam-moongarden-exhibition',
+        'h33-haenam-moongarden-frame-craft',
+        'w23-wando-danginri-forest',
         'w22-wando-marine-healing-center',
         'w21-wando-marine-ecology-museum',
         'w20-wando-sinji-myeongsasimni',

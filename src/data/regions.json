@@ -1,5 +1,77 @@
 [
   {
+    "id": "w24-wando-urban-grilled-fish",
+    "regionId": "wando",
+    "title": "완도맛집 추천 \"완도어반\" — 완도타워 여행코스로 즐기는 화덕생선구이 전문점",
+    "summary": "완도타워와 스카이워크 관람 후 들르기 좋은 화덕생선구이·전복요리 전문점 완도어반! 남도예술정원 공식 지역파트너 10% 할인 혜택과 겉바속촉 모둠 생선구이, 정갈한 미역국 한 상 후기.",
+    "image": "/images/wando-urban/wando-urban-02.webp",
+    "date": "2026-11-19",
+    "author": "남도예술정원 서포터즈"
+  },
+  {
+    "id": "w25-wando-dalsweet-cafe",
+    "regionId": "wando",
+    "title": "완도여행 필수코스, 전복빵과 비파 사이다로 유명한 \"달스윗 카페\" — 남도예술정원 여행주간 10% 할인 혜택!",
+    "summary": "전복 한 마리가 통째로 들어간 장보고빵(전복빵)과 상큼한 비파 사이다, 솔티드 버터크림라떼까지! 남도예술정원 여행주간 스탬프 투어 10% 할인 혜택을 누릴 수 있는 완도 달스윗 카페 본점 & 완도타워점 방문기.",
+    "image": "/images/dalsweet/dalsweet-01.webp",
+    "date": "2026-11-19",
+    "author": "남도예술정원 서포터즈"
+  },
+  {
+    "id": "w26-wando-mannam-plaza",
+    "regionId": "wando",
+    "title": "남도예술정원 완도 아내의 정원 지역파트너 \"만남의 광장\" — 현지인이 추천하는 로컬 닭코스 맛집",
+    "summary": "완도 아내의 정원 정원주님이 직접 추천한 현지인 로컬 맛집 만남의 광장! 신선한 닭육회, 담백한 닭구이, 매콤달콤 닭주물럭과 진한 닭백숙·녹두죽까지 풀코스로 즐기는 완도 보양 미식 여행.",
+    "image": "/images/mannam-plaza/mannam-plaza-01.webp",
+    "date": "2026-11-19",
+    "author": "남도예술정원 서포터즈"
+  },
+  {
+    "id": "w27-wando-gugyedeung-urbancoffee",
+    "regionId": "wando",
+    "title": "완도 가볼만한곳 다도해해상국립공원 \"정도리 구계등\" — 남도예술정원 지역파트너 완도어반·어반커피 여행 후기",
+    "summary": "다도해해상국립공원 정도리 구계등 갯돌해변의 고요한 산책과 남도예술정원 공식 지역파트너 완도어반 화덕생선구이, 그리고 2층 어반커피의 여유로운 티타임까지 한 번에 즐기는 완도 알짜 여행 코스.",
+    "image": "/images/urban-coffee/urban-coffee-01.webp",
+    "date": "2026-11-19",
+    "author": "남도예술정원 서포터즈"
+  },
+  {
+    "id": "h31-haenam-4est-jazz-concert",
+    "regionId": "haenam",
+    "title": "남도예술정원 여행주간 \"해남 포레스트 수목원\" — 귀촌 재즈기타리스트와 함께 가을 정원에서 즐기는 재즈 공연",
+    "summary": "전남 해남 포레스트(4est) 수목원에서 펼쳐진 남도예술정원 여행주간 특별 예술무대! 해남으로 귀촌한 재즈 기타리스트와 음악 친구들이 선사하는 가을 정원 속 야외 재즈 콘서트 현장 스케치.",
+    "image": "/images/travel-week-4est/travel-week-4est-01.webp",
+    "date": "2026-11-19",
+    "author": "남도예술정원 서포터즈"
+  },
+  {
+    "id": "h32-haenam-moongarden-exhibition",
+    "regionId": "haenam",
+    "title": "남도예술정원 여행주간, 해남 민간정원 1호 \"문가든\" — 자연과 동심이 어우러진 최순임 작가 초대전",
+    "summary": "남도예술정원 여행주간을 맞아 해남 민간정원 1호 문가든에서 열린 최순임 작가 초대전 〈보이는 것 모두 꽃, 생각하는 것 모두 달〉. 정원과 카페가 하나의 야외 미술관이 된 따뜻한 가을 예술 여행.",
+    "image": "/images/travel-week-moongarden-art/travel-week-moongarden-art-01.webp",
+    "date": "2026-11-19",
+    "author": "남도예술정원 서포터즈"
+  },
+  {
+    "id": "h33-haenam-moongarden-frame-craft",
+    "regionId": "haenam",
+    "title": "해남 가볼만한곳 \"문가든\" 남도예술정원 여행주간 — ‘나만의 정원 액자 만들기’ 특별 체험 후기",
+    "summary": "해남 민간정원 1호 문가든의 그린 타임 갤러리에서 진행된 남도예술정원 여행주간 특화 체험 ‘나만의 정원 액자 만들기’! 정원에서 직접 채집한 가을꽃과 파스텔로 나만의 작은 정원을 담아내는 힐링 체험기.",
+    "image": "/images/travel-week-moongarden-craft/travel-week-moongarden-craft-01.webp",
+    "date": "2026-11-19",
+    "author": "남도예술정원 서포터즈"
+  },
+  {
+    "id": "w23-wando-danginri-forest",
+    "regionId": "wando",
+    "title": "완도 카페 추천 \"당인리포레스트\" — 완도수목원과 함께 떠나는 정원여행 ☕🌿",
+    "summary": "10월 이달의 정원 완도수목원 인근! 다도해 오션뷰와 싱그러운 정원, 진한 카페라떼와 쪽파베이글이 매력적인 남도예술정원 공식 파트너 카페.",
+    "image": "/images/danginri/danginri-01.webp",
+    "date": "2026-11-19",
+    "author": "남도예술정원 서포터즈"
+  },
+  {
     "id": "w22-wando-marine-healing-center",
     "regionId": "wando",
     "title": "완도가볼만한곳 완도해양치유센터 바다가 선물하는 특별한 힐링여행 🌿",
@@ -669,7 +741,6 @@
     "image": "/images/gohado-main.webp",
     "date": "2026-03-16"
   },
-
   {
     "id": "s4-pinecloud",
     "regionId": "shinan",
