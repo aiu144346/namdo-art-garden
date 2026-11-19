@@ -1,7 +1,7 @@
 import React, { useMemo, useState } from 'react';
 import { useParams, Link } from 'react-router-dom';
 import { motion, AnimatePresence } from 'framer-motion';
-import { ArrowLeft, ArrowRight, Clock, Share2, Check, Link as LinkIcon, ChevronRight } from 'lucide-react';
+import { ArrowLeft, ArrowRight, Clock, Share2, Check, Link as LinkIcon, ChevronRight, Heart, Sparkles, ChevronDown, Trees } from 'lucide-react';
 import SEO from '../../components/SEO';
 import POST_DATA from '../../data/postsData';
 import { getCustomPosts, getCustomNotices } from '../../utils/adminStorage';
@@ -30,7 +30,6 @@ function parseEditorialTitle(rawTitle = '') {
     tag = prefixMatch[1].trim();
     text = prefixMatch[2].trim();
   } else {
-    // If entire title is wrapped in [ ... ], unwrap it
     const fullBracketMatch = text.match(/^\[([^\]]+)\]$/);
     if (fullBracketMatch) {
       text = fullBracketMatch[1].trim();
@@ -70,10 +69,22 @@ export default function PostDetail() {
   const customPost = customPosts.find(p => p.id === id) || customNotices.find(n => n.id === id);
   const post = POST_DATA[id] || customPost;
   const [copied, setCopied] = useState(false);
+  const [liked, setLiked] = useState(false);
+  const [summaryExpanded, setSummaryExpanded] = useState(false);
   const [activeImage, setActiveImage] = useState(null);
   const galleryData = useMemo(() => getGalleryByPostId(id), [id]);
 
+  // Deterministic base like count per article ID
+  const baseLikes = useMemo(() => {
+    const str = id || 'namdo';
+    let sum = 0;
+    for (let i = 0; i < str.length; i++) sum += str.charCodeAt(i);
+    return 18 + (sum % 45);
+  }, [id]);
+
   React.useEffect(() => {
+    setLiked(false);
+    setSummaryExpanded(false);
     if (window.location.hash === '#gallery') {
       setTimeout(() => {
         const el = document.getElementById('gallery');
@@ -151,12 +162,10 @@ export default function PostDetail() {
     return mapping[regionPrefix] || '/gardens';
   }, [id]);
 
-  // Parse title lines cleanly for Korean editorial display
   const titleParts = useMemo(() => {
     return parseEditorialTitle(post?.title || '');
   }, [post]);
 
-  // Check if post.content already embeds its own hero banner or already includes post.image
   const shouldShowTopCoverImage = useMemo(() => {
     if (!post?.image || !post?.content) return false;
     if (post.content.includes('<!-- Hero')) return false;
@@ -208,10 +217,10 @@ export default function PostDetail() {
       {/* ─────────────────────────────────────────────────────────────
           대한민국 구석구석(visitkorea.or.kr) 스타일 클린 에디토리얼 헤더
       ───────────────────────────────────────────────────────────── */}
-      <header className="bg-white border-b border-neutral-200/80 pt-10 pb-10 md:pt-14 md:pb-12 px-6">
+      <header className="bg-white border-b border-neutral-200/80 pt-6 pb-5 md:pt-14 md:pb-10 px-4 sm:px-6">
         <div className="max-w-4xl mx-auto">
           {/* Top Breadcrumb (> 여행기사) */}
-          <div className="flex items-center justify-between mb-6">
+          <div className="flex items-center justify-between mb-4 md:mb-6">
             <div className="flex items-center gap-2">
               <Link
                 to="/posts"
@@ -223,7 +232,7 @@ export default function PostDetail() {
               {titleParts.tag && (
                 <>
                   <span className="text-neutral-300">·</span>
-                  <span className="px-2.5 py-0.5 rounded-full bg-primary/10 text-primary text-xs font-bold tracking-[-0.02em]">
+                  <span className="px-2.5 py-0.5 rounded-full bg-primary/10 text-primary text-[11px] md:text-xs font-bold tracking-[-0.02em]">
                     {titleParts.tag}
                   </span>
                 </>
@@ -231,19 +240,19 @@ export default function PostDetail() {
             </div>
             <Link
               to="/"
-              className="inline-flex items-center gap-1.5 text-xs font-semibold text-neutral-400 hover:text-neutral-800 transition-colors"
+              className="inline-flex items-center gap-1 text-xs font-semibold text-neutral-400 hover:text-neutral-800 transition-colors"
             >
               <ArrowLeft className="w-3.5 h-3.5" />
               <span>홈으로</span>
             </Link>
           </div>
 
-          {/* Centered Main Title & Subtitle (VisitKorea Benchmark Scale) */}
-          <div className="text-center space-y-2.5 max-w-4xl mx-auto">
-            <h1 className="kr-editorial-title text-xl sm:text-2xl md:text-[30px] lg:text-[32px] text-[#1a1a1a]">
+          {/* Centered Main Title & Subtitle (VisitKorea Benchmark Scale: 21px mobile / 32px desktop) */}
+          <div className="text-center space-y-2 max-w-4xl mx-auto">
+            <h1 className="kr-editorial-title text-[21px] sm:text-2xl md:text-[30px] lg:text-[32px] text-[#1a1a1a]">
               <span className="block">{titleParts.main}</span>
               {titleParts.sub && (
-                <span className="block text-base sm:text-xl md:text-[22px] font-bold text-primary mt-2 tracking-[-0.035em] leading-[1.42]">
+                <span className="block text-[15.5px] sm:text-xl md:text-[22px] font-bold text-primary mt-1.5 md:mt-2 tracking-[-0.035em] leading-[1.42]">
                   {titleParts.sub}
                 </span>
               )}
@@ -251,36 +260,107 @@ export default function PostDetail() {
           </div>
 
           {/* Centered Metadata Bar (지역 | 수정일 : YYYY. MM. DD.) */}
-          <div className="mt-5 flex flex-wrap items-center justify-center gap-x-3 gap-y-1 text-xs sm:text-sm text-neutral-500 tracking-[-0.02em]">
-            <span className="font-medium text-neutral-600">{regionDisplayName}</span>
+          <div className="mt-3.5 md:mt-5 flex flex-wrap items-center justify-center gap-x-2.5 gap-y-1 text-xs md:text-sm text-neutral-500 tracking-[-0.02em]">
+            <span className="font-medium text-neutral-700">{regionDisplayName}</span>
             {post.date && (
               <>
                 <span className="text-neutral-300">|</span>
                 <span>수정일 : {post.date}</span>
               </>
             )}
-            {post.readTime && (
-              <>
-                <span className="text-neutral-300 hidden sm:inline">|</span>
-                <span className="hidden sm:inline-flex items-center gap-1 text-neutral-500">
-                  <Clock className="w-3.5 h-3.5 text-neutral-400" />
-                  읽는 데 {post.readTime}
-                </span>
-              </>
-            )}
+          </div>
+
+          {/* VisitKorea-style Top Action Bar (Like / Reading Time / Garden Link / Quick Share) */}
+          <div className="mt-5 pt-3.5 border-t border-neutral-100 flex items-center justify-between text-xs text-neutral-600">
+            <div className="flex items-center gap-4">
+              <button
+                type="button"
+                onClick={() => setLiked(!liked)}
+                className={`inline-flex items-center gap-1.5 font-semibold transition-colors ${
+                  liked ? 'text-rose-600' : 'text-neutral-600 hover:text-neutral-900'
+                }`}
+              >
+                <Heart className={`w-4 h-4 ${liked ? 'fill-rose-500 text-rose-500' : ''}`} />
+                <span>공감 {baseLikes + (liked ? 1 : 0)}</span>
+              </button>
+              <span className="inline-flex items-center gap-1 text-neutral-500">
+                <Clock className="w-3.5 h-3.5 text-neutral-400" />
+                <span>{post.readTime || '5분'}</span>
+              </span>
+            </div>
+
+            <div className="flex items-center gap-3">
+              <Link
+                to={gardenLink}
+                className="inline-flex items-center gap-1 text-neutral-600 hover:text-primary font-semibold transition-colors"
+              >
+                <Trees className="w-3.5 h-3.5 text-primary" />
+                <span>연계 정원</span>
+              </Link>
+              <span className="text-neutral-200">|</span>
+              <button
+                type="button"
+                onClick={() => handleShare('copy')}
+                className="inline-flex items-center gap-1 text-neutral-600 hover:text-primary font-semibold transition-colors"
+              >
+                {copied ? <Check className="w-3.5 h-3.5 text-green-600" /> : <Share2 className="w-3.5 h-3.5" />}
+                <span>{copied ? '링크 복사됨' : '공유하기'}</span>
+              </button>
+            </div>
           </div>
         </div>
       </header>
 
-      {/* Article Content & Sidebar */}
-      <section className="py-10 md:py-14 px-6 md:px-12 lg:px-20 bg-[#fcfcf9]">
-        <div className="max-w-6xl mx-auto flex flex-col md:flex-row gap-12">
+      {/* Article Content & Sidebar (Single Clean Column on Mobile with 16px Edge Padding) */}
+      <section className="py-5 md:py-14 px-0 md:px-12 lg:px-20 bg-white md:bg-[#fcfcf9]">
+        <div className="max-w-6xl mx-auto flex flex-col md:flex-row gap-10 lg:gap-12">
           
-          {/* Main Content Area */}
-          <div className="w-full md:w-3/4 bg-white rounded-3xl border border-neutral-200/70 shadow-sm p-6 sm:p-10 md:p-12">
+          {/* Main Content Area (358px full reading width on 390px mobile) */}
+          <div className="w-full md:w-3/4 bg-white px-4 sm:px-8 md:p-12 md:rounded-3xl md:border md:border-neutral-200/70 md:shadow-sm">
+            
+            {/* VisitKorea Benchmark: "AI 에디터가 빠르게 읽어주는 핵심 요약!" Box */}
+            {post.description && (
+              <div className="mb-7 md:mb-10">
+                <div className="flex items-center justify-between mb-2">
+                  <div className="inline-flex items-center gap-2 text-xs md:text-sm font-extrabold text-neutral-900 tracking-[-0.03em]">
+                    <span className="w-6 h-6 rounded-full bg-primary text-white flex items-center justify-center shadow-sm">
+                      <Sparkles className="w-3.5 h-3.5" />
+                    </span>
+                    <span>AI 에디터가 빠르게 읽어주는 핵심 요약!</span>
+                  </div>
+                  <span className="text-[10px] font-mono uppercase tracking-wider text-primary font-bold bg-primary/10 px-2 py-0.5 rounded-full">
+                    3초 요약
+                  </span>
+                </div>
+
+                <div className="bg-[#f3faf6] border border-emerald-200/70 rounded-2xl p-4 md:p-5 text-[13.5px] md:text-[14.5px] text-neutral-700 leading-[1.6] tracking-[-0.02em]">
+                  <p className={summaryExpanded ? '' : 'line-clamp-2 sm:line-clamp-none'}>
+                    {post.description}
+                  </p>
+                  {summaryExpanded && post.keywords && (
+                    <div className="mt-3 pt-2.5 border-t border-emerald-200/60 flex flex-wrap gap-1.5 text-xs text-emerald-800 font-medium">
+                      {post.keywords.split(', ').slice(0, 6).map(kw => (
+                        <span key={kw} className="bg-white/80 px-2.5 py-0.5 rounded-full border border-emerald-200/60">
+                          #{kw}
+                        </span>
+                      ))}
+                    </div>
+                  )}
+                  <button
+                    type="button"
+                    onClick={() => setSummaryExpanded(!summaryExpanded)}
+                    className="mt-2 inline-flex items-center gap-1 text-xs font-bold text-primary hover:underline"
+                  >
+                    <span>{summaryExpanded ? '핵심 키워드 접기' : '핵심 키워드 더보기'}</span>
+                    <ChevronDown className={`w-3.5 h-3.5 transition-transform ${summaryExpanded ? 'rotate-180' : ''}`} />
+                  </button>
+                </div>
+              </div>
+            )}
+
             {/* Show cover image at top only when post.content does not already embed it */}
             {shouldShowTopCoverImage && (
-              <div className="rounded-2xl overflow-hidden shadow-md border border-neutral-100 mb-10 max-h-[520px]">
+              <div className="rounded-2xl overflow-hidden shadow-md border border-neutral-100 mb-8 max-h-[520px]">
                 <img
                   src={post.image}
                   alt={titleParts.main}
@@ -290,7 +370,7 @@ export default function PostDetail() {
             )}
 
             <div 
-              className="prose prose-lg max-w-none text-neutral-800"
+              className="prose prose-neutral md:prose-lg max-w-none text-neutral-800"
               onClick={handleImageClick}
               dangerouslySetInnerHTML={{ __html: post.content }}
             />
@@ -301,35 +381,35 @@ export default function PostDetail() {
             <PostSharing />
 
             {/* Mobile Sidebar Content */}
-            <div className="mt-16 block md:hidden space-y-10 border-t border-neutral-100 pt-10">
-              <div className="space-y-4">
+            <div className="mt-12 block md:hidden space-y-8 border-t border-neutral-100 pt-8">
+              <div className="space-y-3">
                 <p className="text-sm font-bold text-neutral-900 px-1">포스트 공유하기</p>
                 <div className="flex items-center gap-3">
                   <button 
                     onClick={() => handleShare('naver')}
                     title="네이버 블로그 공유"
-                    className="w-10 h-10 rounded-full bg-[#03C75A] flex items-center justify-center text-white hover:opacity-90 transition-all hover:scale-110 shadow-sm"
+                    className="w-10 h-10 rounded-full bg-[#03C75A] flex items-center justify-center text-white hover:opacity-90 transition-all shadow-sm"
                   >
                     <span className="font-bold text-sm">N</span>
                   </button>
                   <button 
                     onClick={() => handleShare('kakao')}
                     title="카카오스토리 공유"
-                    className="w-10 h-10 rounded-full bg-[#FEE500] flex items-center justify-center text-[#3C1E1E] hover:opacity-90 transition-all hover:scale-110 shadow-sm"
+                    className="w-10 h-10 rounded-full bg-[#FEE500] flex items-center justify-center text-[#3C1E1E] hover:opacity-90 transition-all shadow-sm"
                   >
                     <Share2 className="w-5 h-5 fill-current" />
                   </button>
                   <button 
                     onClick={() => handleShare('facebook')}
                     title="페이스북 공유"
-                    className="w-10 h-10 rounded-full bg-[#1877F2] flex items-center justify-center text-white hover:opacity-90 transition-all hover:scale-110 shadow-sm"
+                    className="w-10 h-10 rounded-full bg-[#1877F2] flex items-center justify-center text-white hover:opacity-90 transition-all shadow-sm"
                   >
                     <svg className="w-5 h-5 fill-current" viewBox="0 0 24 24"><path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"/></svg>
                   </button>
                   <button 
                     onClick={() => handleShare('copy')}
                     title="링크 복사"
-                    className={`w-10 h-10 rounded-full flex items-center justify-center transition-all hover:scale-110 shadow-sm ${
+                    className={`w-10 h-10 rounded-full flex items-center justify-center transition-all shadow-sm ${
                       copied ? 'bg-green-500 text-white' : 'bg-neutral-800 text-white hover:bg-neutral-700'
                     }`}
                   >
@@ -337,36 +417,32 @@ export default function PostDetail() {
                   </button>
                 </div>
                 {copied && (
-                  <motion.p 
-                    initial={{ opacity: 0, y: -5 }}
-                    animate={{ opacity: 1, y: 0 }}
-                    className="text-xs text-green-600 font-medium px-1"
-                  >
+                  <p className="text-xs text-green-600 font-medium px-1">
                     링크가 복사되었습니다!
-                  </motion.p>
+                  </p>
                 )}
               </div>
               
-              <div className="bg-surface/50 p-6 rounded-2xl border border-neutral-100 shadow-sm relative overflow-hidden group">
+              <div className="bg-surface/50 p-5 rounded-2xl border border-neutral-100 shadow-sm relative overflow-hidden group">
                 <div className="absolute top-0 left-0 w-1.5 h-full bg-primary" />
                 <h3 className="font-sans font-bold text-neutral-900 mb-2 tracking-[-0.03em]">AI 에디터 큐레이션</h3>
                 <p 
-                  className="text-sm text-neutral-600 font-light mb-6 leading-relaxed"
+                  className="text-xs text-neutral-600 font-light mb-5 leading-relaxed"
                   dangerouslySetInnerHTML={{ 
                     __html: post.aiRecommendation || '현재 읽고 계신 콘텐츠를 좋아하신다면, 남도예술정원의 갤러리를 사랑하실 확률이 <strong class="font-semibold text-primary">96%</strong>입니다.' 
                   }}
                 />
                 
-                <div className="space-y-4 mb-6">
+                <div className="space-y-3.5 mb-5">
                   {recommendedPosts.map((rec) => (
                     <Link key={rec.id} to={`/posts/${rec.id}`} className="block group/item">
-                      <div className="flex items-center gap-4">
-                        <div className="w-20 h-20 rounded-xl overflow-hidden flex-shrink-0 border border-neutral-100 shadow-sm">
+                      <div className="flex items-center gap-3.5">
+                        <div className="w-16 h-16 rounded-xl overflow-hidden flex-shrink-0 border border-neutral-100 shadow-sm">
                           <img src={rec.image} alt="" className="w-full h-full object-cover group-hover/item:scale-110 transition-transform duration-500" />
                         </div>
                         <div className="flex-1 min-w-0">
-                          <p className="text-[10px] font-bold text-primary mb-1 uppercase tracking-widest">AI Curation</p>
-                          <p className="text-sm text-neutral-800 font-bold tracking-[-0.025em] leading-snug line-clamp-2 group-hover/item:text-primary transition-colors">
+                          <p className="text-[10px] font-bold text-primary mb-0.5 uppercase tracking-widest">AI Curation</p>
+                          <p className="text-[13.5px] text-neutral-800 font-bold tracking-[-0.025em] leading-snug line-clamp-2 group-hover/item:text-primary transition-colors">
                             {rec.title.replace(/\n/g, ' ')}
                           </p>
                         </div>
@@ -375,25 +451,25 @@ export default function PostDetail() {
                   ))}
                 </div>
 
-                <Link to={gardenLink} className="w-full inline-flex items-center justify-center gap-2 text-[11px] font-bold text-white bg-neutral-900 px-4 py-4 rounded-xl uppercase tracking-[0.2em] hover:bg-primary transition-colors shadow-lg">
+                <Link to={gardenLink} className="w-full inline-flex items-center justify-center gap-2 text-xs font-bold text-white bg-neutral-900 px-4 py-3.5 rounded-xl uppercase tracking-[0.15em] hover:bg-primary transition-colors shadow-md">
                   8대 정원 알아보기 <ArrowRight className="w-3.5 h-3.5" />
                 </Link>
               </div>
             </div>
 
             {post.keywords && (
-              <div className="mt-12 pt-8 border-t border-neutral-200">
-                <div className="flex flex-wrap items-center gap-2">
-                  <span className="text-xs font-bold mr-2 text-neutral-900 uppercase tracking-wider">Tags:</span>
+              <div className="mt-10 pt-6 border-t border-neutral-200">
+                <div className="flex flex-wrap items-center gap-1.5">
+                  <span className="text-xs font-bold mr-1.5 text-neutral-900 uppercase tracking-wider">Tags:</span>
                   {post.keywords.split(', ').map(kw => (
-                    <span key={kw} className="bg-neutral-100 text-neutral-600 px-3 py-1 rounded-full text-xs font-medium">#{kw}</span>
+                    <span key={kw} className="bg-neutral-100 text-neutral-600 px-2.5 py-1 rounded-full text-xs font-medium">#{kw}</span>
                   ))}
                 </div>
               </div>
             )}
           </div>
 
-          {/* Sticky Sidebar */}
+          {/* Sticky Sidebar (Desktop) */}
           <div className="w-full md:w-1/4 hidden md:block">
             <div className="sticky top-32 space-y-8">
               <div className="bg-white p-6 rounded-2xl border border-neutral-200/70 shadow-sm space-y-6">

@@ -63,6 +63,73 @@
     letter-spacing: -0.02em;
     line-height: 1.75;
   }
+
+  .prose a {
+    word-break: break-all;
+    overflow-wrap: anywhere;
+  }
+
+  /* 스마트폰(모바일 < 768px) 본문 가독성 최적화 (대한민국 구석구석 모바일 벤치마크) */
+  @media (max-width: 767px) {
+    .prose {
+      font-size: 15.5px !important;
+      line-height: 1.75 !important;
+    }
+
+    .prose p,
+    .prose li {
+      font-size: 15.5px !important;
+      line-height: 1.75 !important;
+      letter-spacing: -0.02em !important;
+      margin-top: 0.75em !important;
+      margin-bottom: 0.75em !important;
+    }
+
+    .prose h1 {
+      font-size: 21px !important;
+      line-height: 1.38 !important;
+    }
+
+    .prose h2 {
+      font-size: 19.5px !important;
+      line-height: 1.4 !important;
+      margin-top: 1.4em !important;
+      margin-bottom: 0.6em !important;
+    }
+
+    .prose h3 {
+      font-size: 17.5px !important;
+      line-height: 1.42 !important;
+      margin-top: 1.2em !important;
+      margin-bottom: 0.5em !important;
+    }
+
+    /* 본문 내부 요약/정보 박스의 중첩 패딩 축소로 유효 글자 폭(358px) 확보 */
+    .prose .p-6,
+    .prose .p-8,
+    .prose .p-10,
+    .prose .p-12 {
+      padding: 1.125rem !important;
+      border-radius: 1.25rem !important;
+    }
+
+    .prose .px-2 {
+      padding-left: 0 !important;
+      padding-right: 0 !important;
+    }
+
+    .prose img {
+      border-radius: 1rem !important;
+      margin-top: 1rem !important;
+      margin-bottom: 1rem !important;
+    }
+
+    .prose table th,
+    .prose table td {
+      padding: 0.625rem 0.75rem !important;
+      font-size: 13.5px !important;
+    }
+  }
 }
 
 @layer utilities {

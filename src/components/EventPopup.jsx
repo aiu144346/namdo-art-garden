@@ -55,7 +55,7 @@ export default function EventPopup() {
           exit={{ opacity: 0, y: 24, scale: 0.95 }}
           transition={{ type: "spring", stiffness: 360, damping: 28 }}
           aria-label="남도예술정원 여행주간 안내"
-          className="fixed bottom-4 right-4 sm:bottom-6 sm:right-6 z-[95] w-[calc(100vw-2rem)] max-w-[350px] bg-white/95 backdrop-blur-xl rounded-3xl shadow-[0_20px_50px_rgba(0,0,0,0.32)] border border-neutral-200/80 overflow-hidden"
+          className="fixed bottom-16 right-4 sm:bottom-6 sm:right-6 z-[95] w-[calc(100vw-2rem)] max-w-[340px] sm:max-w-[350px] bg-white/95 backdrop-blur-xl rounded-3xl shadow-[0_20px_50px_rgba(0,0,0,0.32)] border border-neutral-200/80 overflow-hidden"
         >
           {/* Top Close Button */}
           <button

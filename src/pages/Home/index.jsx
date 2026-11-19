@@ -149,14 +149,14 @@ function TiltCard({ garden, idx }) {
         rotateY,
         transformStyle: "preserve-3d",
       }}
-      className="group flex flex-col h-full perspective-1000"
+      className="group flex flex-col h-full perspective-1000 w-[76vw] max-w-[280px] flex-shrink-0 snap-center sm:w-auto sm:max-w-none bg-neutral-50/70 sm:bg-transparent p-3.5 sm:p-0 rounded-3xl sm:rounded-none border border-neutral-200/60 sm:border-0"
     >
       <a
         href={garden.video}
         target="_blank"
         rel="noopener noreferrer"
         style={{ transform: "translateZ(40px)" }}
-        className="relative overflow-hidden rounded-[2rem] shadow-lg hover:shadow-2xl aspect-[3/4] mb-6 group block bg-neutral-100"
+        className="relative overflow-hidden rounded-2xl sm:rounded-[2rem] shadow-md sm:shadow-lg hover:shadow-2xl aspect-[4/3] sm:aspect-[3/4] mb-4 sm:mb-6 group block bg-neutral-100"
       >
         <img
           src={garden.img}
@@ -382,8 +382,14 @@ export default function Home() {
             </motion.p>
           </div>
 
-          {/* 8 Gardens Grid (Using Clean High-Res Garden Photos) */}
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-x-8 gap-y-14">
+          {/* Mobile Swipe Hint */}
+          <div className="sm:hidden flex items-center justify-between text-xs text-neutral-400 font-medium mb-3 px-1">
+            <span>좌우로 밀어 8대 정원 둘러보기</span>
+            <span className="font-mono text-[11px] text-primary font-bold">01 — 08 &rarr;</span>
+          </div>
+
+          {/* 8 Gardens Grid (Horizontal Swipe Carousel on Mobile, 4-col Grid on Desktop) */}
+          <div className="flex overflow-x-auto snap-x snap-mandatory no-scrollbar gap-4 -mx-4 px-4 pb-4 sm:grid sm:grid-cols-2 lg:grid-cols-4 sm:gap-x-8 sm:gap-y-14 sm:mx-0 sm:px-0 sm:pb-0 sm:overflow-visible">
             {[
               { id: 'moon', name: '문가든', region: '해남', en: 'Moon Garden', img: '/images/gardens/moon/garden-moon-01.webp', quote: '달빛이 머무는 조용한 치유의 정원', video: 'https://www.youtube.com/watch?v=OchvsecQrpg', postId: 'h26-haenam-moongarden-guide' },
               { id: 'baha', name: '바하가든', region: '완도', en: 'Baha Garden', img: '/images/gardens/baha/garden-baha-01.webp', quote: '소유보다 존재의 의미를 찾는 바람의 언덕', video: 'https://www.youtube.com/watch?v=v-NpCjFLGfk', postId: 'w14-wando-baha-garden' },
@@ -601,20 +607,24 @@ export default function Home() {
         </div>
       </section>
 
-      {/* Explore Regions (Corrected Typo & High-Contrast Labels) */}
-      <section id="regions" className="py-24 bg-surface/30 px-6">
+      {/* Explore Regions (Horizontal Swipe on Mobile, 5-Col on Desktop) */}
+      <section id="regions" className="py-16 md:py-24 bg-surface/30 px-4 sm:px-6">
         <div className="max-w-7xl mx-auto">
-          <div className="text-center mb-16 max-w-3xl mx-auto">
-            <span className="text-primary font-bold tracking-[0.3em] uppercase text-xs mb-3 block">5 Cultural Districts</span>
-            <h2 className="text-4xl md:text-6xl font-serif text-neutral-900 font-bold mb-5">Explore the Regions</h2>
-            <p className="text-neutral-600 text-base md:text-lg font-light leading-relaxed">
+          <div className="text-center mb-10 md:mb-16 max-w-3xl mx-auto">
+            <span className="text-primary font-bold tracking-[0.3em] uppercase text-xs mb-2.5 block">5 Cultural Districts</span>
+            <h2 className="text-3xl sm:text-4xl md:text-6xl font-serif text-neutral-900 font-bold mb-4">Explore the Regions</h2>
+            <p className="text-neutral-600 text-sm sm:text-base md:text-lg font-light leading-relaxed">
               각박한 일상에서 벗어나, 아름다운 바다와 숲이 어우러진 다도해의 보석 같은 5개 권역을 탐험해보세요.
             </p>
           </div>
 
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-5 gap-4">
+          <div className="flex overflow-x-auto snap-x snap-mandatory no-scrollbar gap-3.5 -mx-4 px-4 pb-3 sm:grid sm:grid-cols-2 lg:grid-cols-5 sm:gap-4 sm:mx-0 sm:px-0 sm:pb-0 sm:overflow-visible">
             {REGIONS.map((region) => (
-              <Link key={region.id} to={region.link} className="group block relative h-[420px] rounded-3xl overflow-hidden shadow-sm hover:shadow-2xl transition-all bg-neutral-900">
+              <Link
+                key={region.id}
+                to={region.link}
+                className="group block relative w-[68vw] max-w-[240px] flex-shrink-0 snap-center h-[290px] sm:w-auto sm:max-w-none sm:h-[420px] rounded-3xl overflow-hidden shadow-sm hover:shadow-2xl transition-all bg-neutral-900"
+              >
                 <div className="absolute inset-0 bg-neutral-900/25 group-hover:bg-neutral-900/40 transition-colors duration-500 z-10" />
                 <img
                   src={region.image}
@@ -640,28 +650,28 @@ export default function Home() {
         </div>
       </section>
 
-      {/* AI Editor's Curation Section */}
-      <section id="editor-picks" className="py-24 px-6 bg-white">
+      {/* AI Editor's Curation Section (2-Col Compact Grid on Mobile, 4-Col on Desktop) */}
+      <section id="editor-picks" className="py-16 md:py-24 px-4 sm:px-6 bg-white">
         <div className="max-w-7xl mx-auto">
-          <div className="flex flex-col md:flex-row justify-between md:items-end mb-14 gap-6 border-b pb-8 border-neutral-200">
+          <div className="flex flex-col md:flex-row justify-between md:items-end mb-10 md:mb-14 gap-4 border-b pb-6 md:pb-8 border-neutral-200">
             <div>
-              <span className="text-primary font-bold tracking-[0.3em] uppercase text-xs mb-3 block">
+              <span className="text-primary font-bold tracking-[0.3em] uppercase text-xs mb-2 block">
                 AI Editor's Curation
               </span>
-              <h2 className="text-3xl sm:text-4xl md:text-5xl font-serif font-bold text-neutral-900 mb-3">
+              <h2 className="text-2xl sm:text-4xl md:text-5xl font-serif font-bold text-neutral-900 mb-2">
                 남도예술정원 AI 에디터 큐레이션
               </h2>
-              <p className="text-neutral-500 text-base md:text-lg font-light">
+              <p className="text-neutral-500 text-sm sm:text-base md:text-lg font-light">
                 전남의 숨은 미식, 감성 숙소, 트레킹 코스를 AI 에디터가 엄선하여 제안합니다.
               </p>
             </div>
-            <Link to="/posts" className="inline-flex items-center gap-1.5 text-primary font-bold tracking-tight hover:underline group flex-shrink-0">
+            <Link to="/posts" className="inline-flex items-center gap-1 text-xs sm:text-sm md:text-base text-primary font-bold tracking-tight hover:underline group flex-shrink-0">
               <span>AI 에디터 큐레이션 전체보기</span>
-              <ChevronRight className="w-5 h-5 transition-transform group-hover:translate-x-1" />
+              <ChevronRight className="w-4 h-4 sm:w-5 sm:h-5 transition-transform group-hover:translate-x-1" />
             </Link>
           </div>
 
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8">
+          <div className="grid grid-cols-2 lg:grid-cols-4 gap-x-3.5 gap-y-6 sm:gap-8">
             {[
               { id: 'w20-wando-sinji-myeongsasimni', title: '완도 가볼만한곳 신지 명사십리해수욕장 사계절 아름다운 힐링 여행지', cat: '해변 힐링', icon: Waves, img: '/images/myeongsasimni/myeongsasimni-01.webp' },
               { id: 'w21-wando-marine-ecology-museum', title: '완도 아이와 가볼만한곳 해양생태전시관 바닷속 생태계를 만나는 특별한 여행', cat: '생태 체험', icon: Sparkles, img: '/images/marine-eco/marine-eco-02.webp' },
@@ -673,19 +683,19 @@ export default function Home() {
               { id: 's20-shinan-stay-best8', title: 'AI 에디터가 큐레이션한 신안권 숙소 심층 리뷰 BEST 8', cat: '감성 숙소', icon: Heart, img: '/images/post-stay-chunhwadang.webp' }
             ].map((post) => (
               <Link key={post.id} to={`/posts/${post.id}`} className="group flex flex-col">
-                <div className="relative aspect-[4/5] overflow-hidden rounded-3xl mb-5 shadow-md border border-neutral-100 bg-neutral-100">
+                <div className="relative aspect-[4/3] sm:aspect-[4/5] overflow-hidden rounded-2xl sm:rounded-3xl mb-2.5 sm:mb-5 shadow-sm sm:shadow-md border border-neutral-100 bg-neutral-100">
                   <img
                     src={post.img}
                     alt={post.title}
                     loading="lazy"
                     className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700"
                   />
-                  <div className="absolute top-4 left-4 bg-white/95 backdrop-blur-sm px-3.5 py-1.5 rounded-full text-xs font-bold text-neutral-900 flex items-center gap-1.5 shadow-sm">
-                    <post.icon className="w-3.5 h-3.5 text-primary" />
+                  <div className="absolute top-2.5 left-2.5 sm:top-4 sm:left-4 bg-white/95 backdrop-blur-sm px-2.5 py-1 sm:px-3.5 sm:py-1.5 rounded-full text-[10px] sm:text-xs font-bold text-neutral-900 flex items-center gap-1 sm:gap-1.5 shadow-sm">
+                    <post.icon className="w-3 h-3 sm:w-3.5 sm:h-3.5 text-primary" />
                     <span>{post.cat}</span>
                   </div>
                 </div>
-                <h3 className="text-base md:text-lg font-sans font-bold tracking-[-0.03em] text-neutral-900 group-hover:text-primary transition-colors leading-[1.42] line-clamp-2 break-keep">
+                <h3 className="text-[14px] sm:text-base md:text-lg font-sans font-bold tracking-[-0.03em] text-neutral-900 group-hover:text-primary transition-colors leading-[1.38] sm:leading-[1.42] line-clamp-2 break-keep px-0.5">
                   {post.title}
                 </h3>
               </Link>

@@ -6,6 +6,7 @@ import { HelmetProvider } from 'react-helmet-async';
 // Layout & Eager Home Page
 import Header from './components/layout/Header';
 import Footer from './components/layout/Footer';
+import MobileBottomNav from './components/layout/MobileBottomNav';
 import PageTransition from './components/layout/PageTransition';
 import Home from './pages/Home';
 import { getAdminConfig } from './utils/adminStorage';
@@ -76,7 +77,7 @@ export default function App() {
     <HelmetProvider>
       <Router>
         <ScrollToTop />
-        <div className="min-h-screen flex flex-col bg-background text-neutral-900 font-sans selection:bg-primary selection:text-white">
+        <div className="min-h-screen flex flex-col bg-background text-neutral-900 font-sans selection:bg-primary selection:text-white pb-14 md:pb-0">
           <Header />
           
           <main className="flex-grow">
@@ -84,6 +85,7 @@ export default function App() {
           </main>
 
           <Footer />
+          <MobileBottomNav />
         </div>
       </Router>
     </HelmetProvider>
