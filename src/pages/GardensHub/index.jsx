@@ -98,7 +98,7 @@ export default function GardensHub() {
       {/* ─────────────────────────────────────────────────────────────
           2. 권역 필터 탭 (Filter Tabs)
       ───────────────────────────────────────────────────────────── */}
-      <section className="bg-white border-b border-neutral-200/80 sticky top-0 z-30 shadow-sm backdrop-blur-lg bg-white/95">
+      <section className="bg-white/95 border-b border-neutral-200/80 sticky top-16 md:top-24 z-30 shadow-sm backdrop-blur-lg">
         <div className="max-w-7xl mx-auto px-6 md:px-12 py-4 flex items-center justify-between gap-4">
           <div className="flex items-center gap-2 overflow-x-auto no-scrollbar py-1">
             {regions.map((reg) => (
@@ -116,7 +116,7 @@ export default function GardensHub() {
             ))}
           </div>
 
-          <span className="text-xs text-neutral-400 font-mono hidden sm:inline">
+          <span className="text-xs text-neutral-400 font-mono hidden sm:inline whitespace-nowrap">
             총 {filteredGardens.length}개의 정원 탐색
           </span>
         </div>
@@ -126,37 +126,37 @@ export default function GardensHub() {
           3. 8대 정원 그리드 (8 Gardens Grid)
       ───────────────────────────────────────────────────────────── */}
       <section className="py-16 md:py-24 px-6 md:px-12 max-w-7xl mx-auto">
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8">
           <AnimatePresence mode="popLayout">
             {filteredGardens.map((garden, idx) => (
               <motion.div
                 key={garden.id}
                 layout
-                initial={{ opacity: 0, y: 30 }}
+                initial={{ opacity: 0, y: 20 }}
                 animate={{ opacity: 1, y: 0 }}
                 exit={{ opacity: 0, scale: 0.95 }}
-                transition={{ duration: 0.5, delay: idx * 0.05 }}
+                transition={{ duration: 0.4, delay: idx * 0.04 }}
                 className="group bg-white rounded-[2rem] overflow-hidden border border-neutral-200/80 shadow-sm hover:shadow-2xl transition-all duration-500 flex flex-col justify-between"
               >
                 {/* 상단 이미지 카드 */}
                 <Link
                   to={`/gardens/${garden.id}`}
-                  className="relative aspect-[4/3] overflow-hidden bg-neutral-200 block"
+                  className="relative aspect-[4/3] overflow-hidden bg-neutral-900 block"
                 >
                   <img
-                    src={garden.heroImages?.[0] || '/images/main-intro-10.webp'}
+                    src={garden.heroImages?.[0] || '/images/gardens/moon/garden-moon-01.webp'}
                     alt={garden.name}
-                    loading="lazy"
-                    className="w-full h-full object-cover transition-transform duration-1000 group-hover:scale-108"
+                    loading="eager"
+                    className="w-full h-full object-cover transition-transform duration-1000 group-hover:scale-105"
                   />
-                  <div className="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-black/20 opacity-60 group-hover:opacity-40 transition-opacity" />
+                  <div className="absolute inset-0 bg-gradient-to-t from-black/75 via-black/15 to-black/25 opacity-80 group-hover:opacity-60 transition-opacity" />
 
                   {/* 넘버링 & 지역 */}
                   <div className="absolute top-4 left-4 flex items-center gap-2">
-                    <span className="bg-black/60 backdrop-blur-md text-white font-mono text-[11px] font-bold px-2.5 py-1 rounded-full uppercase tracking-wider">
+                    <span className="bg-black/65 backdrop-blur-md text-white font-mono text-[11px] font-bold px-2.5 py-1 rounded-full uppercase tracking-wider">
                       No.{garden.number}
                     </span>
-                    <span className="bg-primary/90 text-white text-[11px] font-bold px-2.5 py-1 rounded-full">
+                    <span className="bg-primary text-white text-[11px] font-bold px-2.5 py-1 rounded-full">
                       {garden.region}
                     </span>
                   </div>
@@ -164,15 +164,15 @@ export default function GardensHub() {
                   {/* 사진 갤러리 배지 */}
                   {garden.gallery?.items?.length > 0 && (
                     <div className="absolute top-4 right-4">
-                      <span className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-black/60 backdrop-blur-md text-white text-[10px] font-bold tracking-wider border border-white/20 shadow-lg">
-                        <Camera className="w-3 h-3 text-primary" /> {garden.gallery.items.length} Photos
+                      <span className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-black/65 backdrop-blur-md text-white text-[10px] font-bold tracking-wider border border-white/20 shadow-lg">
+                        <Camera className="w-3 h-3 text-primary-light" /> {garden.gallery.items.length} Photos
                       </span>
                     </div>
                   )}
 
                   {/* 공식 타이틀 */}
                   <div className="absolute bottom-3 left-4 right-4">
-                    <span className="text-white/80 text-[11px] font-light">
+                    <span className="text-white/90 text-[11px] font-medium drop-shadow">
                       {garden.officialTitle}
                     </span>
                   </div>
@@ -180,23 +180,23 @@ export default function GardensHub() {
 
                 {/* 콘텐츠 영역 */}
                 <div className="p-6 flex-1 flex flex-col justify-between space-y-4">
-                  <div className="space-y-2">
-                    <div className="flex items-center justify-between">
-                      <h3 className="text-2xl font-serif font-bold text-neutral-900 group-hover:text-primary transition-colors">
+                  <div className="space-y-2.5">
+                    <div>
+                      <span className="block text-[10px] text-primary font-bold uppercase tracking-widest mb-1">
+                        {garden.enName}
+                      </span>
+                      <h3 className="text-xl xl:text-2xl font-serif font-bold text-neutral-900 group-hover:text-primary transition-colors leading-snug">
                         <Link to={`/gardens/${garden.id}`}>
                           {garden.name}
                         </Link>
                       </h3>
-                      <span className="text-[10px] text-neutral-400 font-bold uppercase tracking-wider">
-                        {garden.enName}
-                      </span>
                     </div>
 
                     <p className="text-neutral-500 text-xs font-light italic leading-relaxed">
                       "{garden.slogan}"
                     </p>
 
-                    <p className="text-neutral-600 text-xs font-light line-clamp-2 leading-relaxed pt-1">
+                    <p className="text-neutral-600 text-xs font-light line-clamp-2 leading-relaxed pt-0.5">
                       {garden.summary}
                     </p>
                   </div>
@@ -208,7 +208,7 @@ export default function GardensHub() {
                       className="text-xs font-bold text-primary uppercase tracking-widest flex items-center gap-1.5 group/btn"
                     >
                       <span>Showcase</span>
-                      <ArrowRight className="w-3 h-3 group-hover/btn:translate-x-1 transition-transform" />
+                      <ArrowRight className="w-3.5 h-3.5 group-hover/btn:translate-x-1 transition-transform" />
                     </Link>
 
                     {garden.gallery?.items?.length > 0 ? (

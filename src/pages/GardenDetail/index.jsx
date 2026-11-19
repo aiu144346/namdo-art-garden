@@ -205,7 +205,7 @@ export default function GardenDetail() {
       {/* ─────────────────────────────────────────────────────────────
           2. 퀵 가이드 바 (Quick Highlights Bar)
       ───────────────────────────────────────────────────────────── */}
-      <section className="bg-white border-b border-neutral-200/80 sticky top-0 z-30 shadow-sm backdrop-blur-lg bg-white/95">
+      <section className="bg-white/95 border-b border-neutral-200/80 sticky top-16 md:top-24 z-30 shadow-sm backdrop-blur-lg">
         <div className="max-w-7xl mx-auto px-6 md:px-12 py-4 flex flex-wrap items-center justify-between gap-4 text-xs font-medium text-neutral-600">
           <div className="flex items-center gap-6 overflow-x-auto no-scrollbar py-1">
             <span className="flex items-center gap-2 text-neutral-900 font-bold whitespace-nowrap">

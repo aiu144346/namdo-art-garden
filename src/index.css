@@ -15,12 +15,70 @@
     background-color: hsl(var(--background));
     color: #1a1a1a;
     letter-spacing: -0.02em;
+    word-break: keep-all;
+    overflow-wrap: break-word;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    word-break: keep-all;
+    overflow-wrap: break-word;
+  }
+
+  /* 대한민국 구석구석(visitkorea) 스타일 한글 타이틀 타이포그래피 시스템 */
+  .kr-editorial-title {
+    font-family: "Pretendard", "Inter", "Noto Sans KR", sans-serif;
+    font-weight: 800;
+    letter-spacing: -0.04em;
+    line-height: 1.38;
+    word-break: keep-all;
+    text-wrap: balance;
+  }
+
+  .kr-editorial-subtitle {
+    font-family: "Pretendard", "Inter", "Noto Sans KR", sans-serif;
+    font-weight: 500;
+    letter-spacing: -0.025em;
+    line-height: 1.55;
+    word-break: keep-all;
+    text-wrap: balance;
+  }
+
+  /* 본문(.prose) 내 모든 헤딩을 고딕(Pretendard) 기반 고시인성 타이포로 통일 */
+  .prose h1,
+  .prose h2,
+  .prose h3,
+  .prose h4 {
+    font-family: "Pretendard", "Inter", "Noto Sans KR", sans-serif !important;
+    letter-spacing: -0.035em !important;
+    line-height: 1.4 !important;
+    word-break: keep-all !important;
+    text-wrap: balance;
+  }
+
+  .prose p,
+  .prose li {
+    word-break: keep-all;
+    letter-spacing: -0.02em;
+    line-height: 1.75;
   }
 }
 
 @layer utilities {
   .animate-slow-zoom {
     animation: slow-zoom 20s ease-in-out infinite alternate;
+  }
+
+  .no-scrollbar::-webkit-scrollbar,
+  .scrollbar-hide::-webkit-scrollbar {
+    display: none;
+  }
+
+  .no-scrollbar,
+  .scrollbar-hide {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
   }
 }
 

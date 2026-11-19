@@ -30,7 +30,7 @@ const PROGRAMS = [
         tag: '그랜드 투어',
         date: '11/18 ~ 11/19 (1박 2일)',
         title: '남도예술정원 그랜드 투어',
-        content: '남도예술정원 7곳을 1박 2일 동안 모두 경험할 수 있는 프리미엄 완전 정복 투어입니다.'
+        content: '남도예술정원 8대 명품 정원을 1박 2일 동안 깊이 있게 경험할 수 있는 프리미엄 완전 정복 투어입니다.'
       },
       {
         tag: '가이드 스토리 투어',
@@ -161,7 +161,7 @@ const PROGRAMS = [
     imageFull: '/images/about/5.png',
     badgeColor: 'bg-amber-50 text-amber-700 border-amber-200',
     icon: Award,
-    desc: '남도 정원 관광의 미래를 논의하는 학술 비전세미나부터 7개 정원 방문 스탬프 투어, 지역 상생 할인 그랜드 세일까지 풍성한 혜택이 이어집니다.',
+    desc: '남도 정원 관광의 미래를 논의하는 학술 비전세미나부터 8대 정원 방문 스탬프 투어, 지역 상생 할인 그랜드 세일까지 풍성한 혜택이 이어집니다.',
     items: [
       {
         tag: '비전세미나',
@@ -172,8 +172,8 @@ const PROGRAMS = [
       {
         tag: '스탬프 투어',
         date: '11/6 ~ 11/20 (상시)',
-        title: '남도예술정원 7곳 스탬프 랠리',
-        content: '7개 민간정원 중 3곳 이상 방문하여 스탬프를 날인하고 인증하면 여행주간 공식 기념 굿즈 세트를 증정합니다.'
+        title: '남도예술정원 8대 정원 스탬프 랠리',
+        content: '8대 민간정원 중 3곳 이상 방문하여 스탬프를 날인하고 인증하면 여행주간 공식 기념 굿즈 세트를 증정합니다.'
       },
       {
         tag: '그랜드 세일',
@@ -314,7 +314,7 @@ export default function AboutUs() {
                 2026 제1회 남도예술정원 여행주간
               </h2>
               <p className="text-sm text-neutral-500 font-light leading-relaxed">
-                바다와 숲, 다도해의 바람이 머무는 전남 서남해안 4개 시·군의 7개 명품 민간정원과 지역 파트너 공간이 하나로 이어집니다.
+                바다와 숲, 다도해의 바람이 머무는 전남 서남해안 4개 시·군의 8대 명품 민간정원과 지역 파트너 공간이 하나로 이어집니다.
               </p>
             </div>
 
@@ -328,7 +328,7 @@ export default function AboutUs() {
               <div className="p-4 rounded-2xl bg-neutral-50 border border-neutral-100 space-y-1">
                 <span className="text-neutral-400 font-bold uppercase tracking-wider block">장소</span>
                 <p className="text-sm font-semibold text-neutral-800">해남 · 완도 · 진도 · 신안</p>
-                <p className="text-[11px] text-neutral-500">7대 남도예술정원 및 지역파트너 공간</p>
+                <p className="text-[11px] text-neutral-500">8대 남도예술정원 및 지역파트너 공간</p>
               </div>
 
               <div className="p-4 rounded-2xl bg-neutral-50 border border-neutral-100 space-y-1 sm:col-span-2">
@@ -341,7 +341,7 @@ export default function AboutUs() {
 
             {/* Organizations Grid */}
             <div className="p-5 rounded-2xl bg-neutral-900 text-white space-y-3">
-              <div className="text-[11px] font-bold text-primary uppercase tracking-wider">주최 및 협력 체계</div>
+              <div className="text-[11px] font-bold text-primary-light uppercase tracking-wider">주최 및 협력 체계</div>
               <div className="grid grid-cols-1 sm:grid-cols-3 gap-3 text-xs">
                 <div>
                   <span className="text-neutral-400 block text-[10px]">주최 / 주관</span>
@@ -351,7 +351,7 @@ export default function AboutUs() {
                 </div>
                 <div>
                   <span className="text-neutral-400 block text-[10px]">운영</span>
-                  <span className="font-semibold text-white">남도예술정원 7곳</span><br/>
+                  <span className="font-semibold text-white">남도예술정원 8대 정원</span><br/>
                   <span className="font-semibold text-white">2권역사업단</span>
                   <span className="text-neutral-400 text-[11px]"> ((주)쥬스컴퍼니)</span>
                 </div>
@@ -541,7 +541,7 @@ export default function AboutUs() {
               </h2>
 
               <p className="text-sm sm:text-base text-neutral-300 font-light leading-relaxed break-keep">
-                7대 명품 정원의 상세 위치, 추천 동선, 4대 핵심 프로그램 전체 시간표와 스탬프 투어 참여 방법이 담긴 <strong>공식 리플릿 PDF</strong>를 스마트폰이나 PC에 바로 저장하세요.
+                8대 명품 정원의 상세 위치, 추천 동선, 4대 핵심 프로그램 전체 시간표와 스탬프 투어 참여 방법이 담긴 <strong>공식 리플릿 PDF</strong>를 스마트폰이나 PC에 바로 저장하세요.
               </p>
 
               {/* Action Buttons */}
@@ -624,7 +624,7 @@ export default function AboutUs() {
           <span className="text-primary font-sans">2026 남도예술정원 여행주간에서 만나요.</span>
         </h3>
         <p className="text-sm md:text-base text-neutral-500 font-light max-w-xl mx-auto">
-          남도 2권역의 7대 민간정원은 일상에 지친 여러분에게 가장 따뜻하고 푸르른 위로를 건넬 준비가 되어 있습니다.
+          남도 2권역의 8대 민간정원은 일상에 지친 여러분에게 가장 따뜻하고 푸르른 위로를 건넬 준비가 되어 있습니다.
         </p>
 
         <div className="pt-4 flex flex-wrap items-center justify-center gap-4">
@@ -632,7 +632,7 @@ export default function AboutUs() {
             to="/gardens"
             className="px-6 py-3.5 rounded-full bg-neutral-900 hover:bg-neutral-800 text-white font-bold text-sm transition-transform hover:scale-105"
           >
-            7대 명품 정원 전체보기
+            8대 명품 정원 전체보기
           </Link>
           <Link
             to="/"

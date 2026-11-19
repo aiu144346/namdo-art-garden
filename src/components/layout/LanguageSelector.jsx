@@ -4,10 +4,10 @@ import { motion, AnimatePresence } from 'framer-motion';
 import { Globe, ChevronDown, Check, Loader2 } from 'lucide-react';
 
 const LANGUAGES = [
-  { code: 'ko', label: '한국어', short: 'KR', flag: '🇰🇷' },
-  { code: 'en', label: 'English', short: 'EN', flag: '🇺🇸' },
-  { code: 'zh-CN', label: '中文', short: 'ZH', flag: '🇨🇳' },
-  { code: 'ja', label: '日本語', short: 'JA', flag: '🇯🇵' }
+  { code: 'ko', label: '한국어', short: 'KR', badge: '한' },
+  { code: 'en', label: 'English', short: 'EN', badge: 'EN' },
+  { code: 'zh-CN', label: '中文', short: 'ZH', badge: '中' },
+  { code: 'ja', label: '日本語', short: 'JA', badge: '日' }
 ];
 
 export default function LanguageSelector() {
@@ -156,12 +156,12 @@ export default function LanguageSelector() {
         <button
           onClick={() => setIsOpen(!isOpen)}
           aria-label="언어 선택 (Language)"
-          className="flex items-center gap-1.5 md:gap-2 px-3 py-1.5 md:px-3.5 md:py-2 rounded-full bg-white/80 hover:bg-white text-neutral-800 hover:text-primary border border-neutral-200/80 hover:border-primary/40 shadow-sm hover:shadow transition-all text-xs md:text-sm font-medium tracking-tight backdrop-blur-sm"
+          className="flex items-center gap-1.5 px-3 py-1.5 md:px-3.5 md:py-2 rounded-full bg-white/90 hover:bg-white text-neutral-800 hover:text-primary border border-neutral-200/80 hover:border-primary/40 shadow-sm hover:shadow transition-all text-xs md:text-sm font-medium tracking-tight backdrop-blur-sm whitespace-nowrap"
         >
           {isTranslating ? (
             <Loader2 className="w-3.5 h-3.5 animate-spin text-primary" />
           ) : (
-            <span className="text-sm md:text-base leading-none">{activeLangObj.flag}</span>
+            <Globe className="w-3.5 h-3.5 text-primary" />
           )}
           <span className="font-bold text-xs uppercase tracking-wider">{activeLangObj.short}</span>
           <ChevronDown 
@@ -197,7 +197,9 @@ export default function LanguageSelector() {
                       }`}
                     >
                       <span className="flex items-center gap-2.5">
-                        <span className="text-base leading-none">{lang.flag}</span>
+                        <span className="w-5 h-5 rounded-full bg-neutral-100 text-neutral-600 text-[10px] font-bold flex items-center justify-center">
+                          {lang.short}
+                        </span>
                         <span>{lang.label}</span>
                       </span>
                       {isSelected && <Check className="w-4 h-4 text-primary" />}

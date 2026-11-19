@@ -7,7 +7,7 @@ import { getCustomPosts } from '../../utils/adminStorage';
 import SEO from '../../components/SEO';
 
 const REGION_TABS = [
-  { id: 'all', label: '전체 리포트' },
+  { id: 'all', label: '전체 큐레이션' },
   { id: 'main', label: '기획·미식투어' },
   { id: 'haenam', label: '해남권' },
   { id: 'wando', label: '완도권' },
@@ -144,22 +144,22 @@ export default function PostsArchive() {
   return (
     <div className="w-full bg-[#fcfcf9] min-h-screen pt-8 pb-32">
       <SEO 
-        title="AI 리서처 리포트 전체 아카이브 | 남도예술정원"
-        description="전남의 숨은 미식, 감성 숙소, 트레킹 코스, 정원 명소를 AI 리서처가 엄선하여 제안하는 리포트 전체 아카이브입니다."
+        title="AI 에디터 큐레이션 전체 아카이브 | 남도예술정원"
+        description="전남의 숨은 미식, 감성 숙소, 트레킹 코스, 8대 정원 명소를 AI 에디터가 엄선하여 제안하는 큐레이션 전체 아카이브입니다."
       />
 
       {/* Hero Header */}
       <section className="max-w-7xl mx-auto px-6 pt-12 pb-16">
         <div className="max-w-3xl">
           <div className="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-primary/10 text-primary text-xs font-bold uppercase tracking-wider mb-4">
-            <Sparkles className="w-3.5 h-3.5" /> AI Researcher Reports Archive
+            <Sparkles className="w-3.5 h-3.5" /> AI Editor's Curation Archive
           </div>
           <h1 className="text-4xl md:text-6xl font-serif font-bold text-neutral-900 tracking-tight leading-tight mb-6">
             남도예술정원<br />
-            <span className="text-primary font-sans">AI 리서처 리포트 전체보기</span>
+            <span className="text-primary font-sans">AI 에디터 큐레이션 전체보기</span>
           </h1>
           <p className="text-lg md:text-xl text-neutral-600 font-light leading-relaxed">
-            해남, 완도, 진도, 신안, 목포까지 남도 5개 권역의 아름다운 정원과 현지 미식, 감성 숙소, 트레킹 코스에 대해 누적 발행된 총 <strong>{allPosts.length}편</strong>의 심층 리포트를 한자리에서 탐색해보세요.
+            해남, 완도, 진도, 신안, 목포까지 남도 5개 권역의 8대 명품 정원과 현지 미식, 감성 숙소, 트레킹 코스에 대해 누적 발행된 총 <strong>{allPosts.length}편</strong>의 큐레이션 아티클을 한자리에서 탐색해보세요.
           </p>
         </div>
 
@@ -172,7 +172,7 @@ export default function PostsArchive() {
               type="text"
               value={searchQuery}
               onChange={(e) => setSearchQuery(e.target.value)}
-              placeholder="정원 이름, 맛집, 숙소, 키워드로 리포트 검색 (예: 문가든, 해창주조장, 닭코스, 황칠차...)"
+              placeholder="정원 이름, 맛집, 숙소, 키워드로 큐레이션 검색 (예: 문가든, 해창주조장, 닭코스, 황칠차...)"
               className="w-full pl-12 pr-4 py-3.5 rounded-2xl bg-neutral-50 border border-neutral-200 focus:bg-white focus:outline-none focus:border-primary text-sm md:text-base text-neutral-800 transition-colors"
             />
             {searchQuery && (
@@ -231,7 +231,7 @@ export default function PostsArchive() {
       <section className="max-w-7xl mx-auto px-6">
         <div className="flex justify-between items-center mb-8 pb-4 border-b border-neutral-200">
           <p className="text-sm font-medium text-neutral-500">
-            총 <strong className="text-neutral-900 font-bold">{filteredPosts.length}</strong>개의 리서처 리포트가 있습니다
+            총 <strong className="text-neutral-900 font-bold">{filteredPosts.length}</strong>편의 AI 에디터 큐레이션이 있습니다
           </p>
           {(selectedRegion !== 'all' || selectedCategory !== 'all' || searchQuery) && (
             <button
@@ -303,7 +303,7 @@ export default function PostsArchive() {
                         </>
                       )}
                     </div>
-                    <h2 className="text-lg font-serif font-bold text-neutral-900 group-hover:text-primary transition-colors leading-snug line-clamp-2">
+                    <h2 className="text-base md:text-[17px] font-sans font-bold tracking-[-0.03em] text-neutral-900 group-hover:text-primary transition-colors leading-[1.42] line-clamp-2 break-keep">
                       {post.cleanTitle}
                     </h2>
                     {post.description && (

@@ -11,6 +11,7 @@ export default {
         surface: '#F5F5DC',    // Beige
         primary: {
           DEFAULT: '#228B22',  // Forest Green
+          light: '#4ADE80',    // High-contrast light green for dark surfaces
           foreground: '#FFFFFF',
           dark: '#1b6e1b',     // Hover state
         },

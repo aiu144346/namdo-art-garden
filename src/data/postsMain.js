@@ -11,17 +11,17 @@ export const postsMain = {
     "image": "/images/jindo-wetland/jindo-wetland-12.webp",
     "content": `
       <div class="max-w-4xl mx-auto space-y-8 text-neutral-800 leading-relaxed font-sans mt-4 px-2 md:px-0">
-        <!-- Hero Banner / 최적 줄바꿈 타이틀 영역 -->
-        <div class="space-y-4">
-          <div class="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-teal-500/10 text-teal-800 text-xs font-bold uppercase tracking-wider">
+        <!-- Hero Banner / 대한민국 구석구석 스타일 고시인성 타이틀 영역 -->
+        <div class="text-center space-y-3 pb-6 border-b border-neutral-100">
+          <div class="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-teal-500/10 text-teal-800 text-xs font-bold uppercase tracking-wider tracking-[-0.02em]">
             🌊 진도 해안 드라이브 & 국가 생태습지 명소 | 진도 고군면·군내면
           </div>
-          <h1 class="text-3xl md:text-5xl font-serif font-bold text-neutral-900 leading-tight">
-            진도 드라이브길에서 만난 보석 같은 자연!<br/>
-            <span class="text-teal-700 font-sans block mt-1">“진도갯벌습지보호지역”</span>
-            <span class="text-xl md:text-2xl text-neutral-600 font-light font-sans block mt-2">해안 나무데크 산책로와 주황빛 코스모스 언덕, 진도휴식 정원까지 이어지는 하루 코스</span>
-          </h1>
-          <p class="text-base md:text-lg text-neutral-600 font-light leading-relaxed">
+          <h2 class="font-sans font-extrabold text-neutral-900 tracking-[-0.04em] leading-[1.38] break-keep [text-wrap:balance] pt-1">
+            <span class="block text-base sm:text-lg md:text-[20px] font-bold text-neutral-700 tracking-[-0.03em] mb-1.5">진도 드라이브길에서 만난 보석 같은 자연!</span>
+            <span class="text-teal-700 font-sans block text-2xl sm:text-3xl md:text-[32px] font-extrabold tracking-[-0.04em] leading-[1.35]">“진도갯벌습지보호지역”</span>
+            <span class="text-sm sm:text-base md:text-[17px] text-neutral-600 font-medium font-sans block mt-2.5 tracking-[-0.025em] leading-[1.5]">해안 나무데크 산책로와 주황빛 코스모스 언덕, 진도휴식 정원까지 이어지는 하루 코스</span>
+          </h2>
+          <p class="text-sm md:text-[15px] text-neutral-500 font-normal leading-relaxed max-w-2xl mx-auto break-keep [text-wrap:balance]">
             시원하게 뻗은 진도 해안도로 옆 청정 갯벌과 바다 위 나무데크길, 그리고 언덕 위 황홀한 주황빛 코스모스 꽃밭에서 만나는 남도의 여유
           </p>
         </div>
@@ -31,7 +31,7 @@ export const postsMain = {
           <p class="text-base md:text-lg font-medium text-neutral-800 leading-relaxed">진도 해안 도로를 기분 좋게 달리다 우연히 발길을 멈추게 된 '진도갯벌습지보호지역'은 탁 트인 바다와 생명력 넘치는 갯벌, 그리고 아름다운 코스모스가 어우러진 숨은 자연 쉼터입니다. 본 원고는 거대한 청정 갯벌의 생태적 가치와 나무데크 길을 따라 이어지는 언덕 위 주황빛 꽃밭의 장관을 담아내는 것에서 시작하여, 호적한 휴식을 선사하는 진도휴식 정원, 그리고 지역 곳곳의 정겨운 음식점·카페·숙박·문화공간까지 하나로 잇는 남도예술정원 여행길을 소개합니다. 바다 바람을 맞으며 거니는 해안 산책의 여유와 정원에서의 고즈넉한 휴식이 어우러진 알찬 당일치기 및 1박 2일 추천 코스까지 함께 확인하시며 진도의 진짜 매력을 발견해 보시기 바랍니다.</p>
         </div>
         <div class="bg-gradient-to-br from-teal-50/90 to-cyan-50/40 border-teal-200/80 p-6 md:p-8 rounded-3xl border shadow-sm">
-          <h3 class="text-lg md:text-xl font-serif font-bold text-teal-950 mb-3 flex items-center gap-2">📌  장소 안내 및 방문 정보</h3><p class="text-sm md:text-base text-neutral-700 leading-relaxed mb-3">진도갯벌습지보호지역은 연안 습지의 생물 다양성을 보존하고 멸종위기 야생생물과 다채로운 갯벌 생물의 서식지를 보호하기 위해 지정된 국가 보호구역입니다. 갯벌이 지닌 육상 오염물질 정화 기능과 자연 재해 완화 기능, 그리고 풍부한 수산 자원의 모태가 되는 생태적 가치를 몸소 느끼며 한적한 해안 산책을 즐길 수 있습니다.</p><ul class="text-sm text-neutral-700 space-y-2 pl-4 list-disc"><li>이용시간: 연중무휴 상시 개방 (자연 습지 구역이므로 주간 방문을 권장하며, 물때 시간표를 확인하고 오시면 더욱 좋습니다.)</li><li>입장료: 무료 (누구나 자유롭게 방문하여 데크길 산책과 생태 관람을 즐기실 수 있습니다.)</li><li>자차 이용 방법: 진도 해안 도로(군내면 및 고군면 일대 해안길)를 따라 드라이브하는 도중 갯벌습지보호지역 안내 표지판을 따라 진입하시면 됩니다.</li><li>주차장: 갓길 및 도로 인근에 잠시 차를 세울 수 있는 갓길 주차 공간과 정비된 소형 주차 구역이 마련되어 있어 드라이브 도중 편안하게 주차 가능합니다.</li></ul>
+          <h3 class="text-lg md:text-xl font-sans font-bold tracking-[-0.035em] text-teal-950 mb-3 flex items-center gap-2">📌  장소 안내 및 방문 정보</h3><p class="text-sm md:text-base text-neutral-700 leading-relaxed mb-3">진도갯벌습지보호지역은 연안 습지의 생물 다양성을 보존하고 멸종위기 야생생물과 다채로운 갯벌 생물의 서식지를 보호하기 위해 지정된 국가 보호구역입니다. 갯벌이 지닌 육상 오염물질 정화 기능과 자연 재해 완화 기능, 그리고 풍부한 수산 자원의 모태가 되는 생태적 가치를 몸소 느끼며 한적한 해안 산책을 즐길 수 있습니다.</p><ul class="text-sm text-neutral-700 space-y-2 pl-4 list-disc"><li>이용시간: 연중무휴 상시 개방 (자연 습지 구역이므로 주간 방문을 권장하며, 물때 시간표를 확인하고 오시면 더욱 좋습니다.)</li><li>입장료: 무료 (누구나 자유롭게 방문하여 데크길 산책과 생태 관람을 즐기실 수 있습니다.)</li><li>자차 이용 방법: 진도 해안 도로(군내면 및 고군면 일대 해안길)를 따라 드라이브하는 도중 갯벌습지보호지역 안내 표지판을 따라 진입하시면 됩니다.</li><li>주차장: 갓길 및 도로 인근에 잠시 차를 세울 수 있는 갓길 주차 공간과 정비된 소형 주차 구역이 마련되어 있어 드라이브 도중 편안하게 주차 가능합니다.</li></ul>
         </div>
         <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
           <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
@@ -137,17 +137,17 @@ export const postsMain = {
     "image": "/images/jindo-byeokpajin/jindo-byeokpajin-13.webp",
     "content": `
       <div class="max-w-4xl mx-auto space-y-8 text-neutral-800 leading-relaxed font-sans mt-4 px-2 md:px-0">
-        <!-- Hero Banner / 최적 줄바꿈 타이틀 영역 -->
-        <div class="space-y-4">
-          <div class="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-sky-500/10 text-sky-800 text-xs font-bold uppercase tracking-wider">
+        <!-- Hero Banner / 대한민국 구석구석 스타일 고시인성 타이틀 영역 -->
+        <div class="text-center space-y-3 pb-6 border-b border-neutral-100">
+          <div class="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-sky-500/10 text-sky-800 text-xs font-bold uppercase tracking-wider tracking-[-0.02em]">
             ⚔️ 명량대첩 호국 성지 & 다도해 조망 명소 | 진도 고군면 벽파진
           </div>
-          <h1 class="text-3xl md:text-5xl font-serif font-bold text-neutral-900 leading-tight">
-            진도의 바다를 품은 호국의 성지<br/>
-            <span class="text-sky-700 font-sans block mt-1">“이충무공 벽파진전첩비”</span>
-            <span class="text-xl md:text-2xl text-neutral-600 font-light font-sans block mt-2">벽파정부터 민간정원 ‘진도휴식’까지 이어지는 역사와 힐링의 여정</span>
-          </h1>
-          <p class="text-base md:text-lg text-neutral-600 font-light leading-relaxed">
+          <h2 class="font-sans font-extrabold text-neutral-900 tracking-[-0.04em] leading-[1.38] break-keep [text-wrap:balance] pt-1">
+            <span class="block text-base sm:text-lg md:text-[20px] font-bold text-neutral-700 tracking-[-0.03em] mb-1.5">진도의 바다를 품은 호국의 성지</span>
+            <span class="text-sky-700 font-sans block text-2xl sm:text-3xl md:text-[32px] font-extrabold tracking-[-0.04em] leading-[1.35]">“이충무공 벽파진전첩비”</span>
+            <span class="text-sm sm:text-base md:text-[17px] text-neutral-600 font-medium font-sans block mt-2.5 tracking-[-0.025em] leading-[1.5]">벽파정부터 민간정원 ‘진도휴식’까지 이어지는 역사와 힐링의 여정</span>
+          </h2>
+          <p class="text-sm md:text-[15px] text-neutral-500 font-normal leading-relaxed max-w-2xl mx-auto break-keep [text-wrap:balance]">
             충무공 이순신 장군이 명량대첩을 앞두고 16일간 수군을 재건했던 역사의 바다, 벽파진전첩비와 벽파정에서 만나는 숭고한 울림
           </p>
         </div>
@@ -157,7 +157,7 @@ export const postsMain = {
           <p class="text-base md:text-lg font-medium text-neutral-800 leading-relaxed">진도 동쪽 끝 해안 언덕 위에 당당히 서 있는 벽파진전첩비는 충무공 이순신 장군이 명량대첩을 앞두고 16일간 머물며 조선 수군을 재건하고 전열을 가다듬었던 역사적 현장입니다. 거센 바람과 탁 트인 다도해 풍경을 배경으로 지어진 벽파진전첩비와 고풍스러운 벽파정 정자를 거닐며 숭고한 호국 정신을 가슴 깊이 새겨본 뒤, 푸르른 자연의 품인 진도휴식 정원과 지역 곳곳의 명소들로 이어지는 완성도 높은 여행길을 소개합니다.</p>
         </div>
         <div class="bg-gradient-to-br from-sky-50/90 to-blue-50/40 border-sky-200/80 p-6 md:p-8 rounded-3xl border shadow-sm">
-          <h3 class="text-lg md:text-xl font-serif font-bold text-sky-950 mb-3 flex items-center gap-2">📌  장소 안내 및 방문 정보</h3><p class="text-sm md:text-base text-neutral-700 leading-relaxed mb-3">벽파진전첩비는 1597년 이순신 장군이 진도 벽파진에 진을 치고 명량해협을 지켜내기 위해 전열을 정비했던 위대한 역사를 기념하기 위해 1956년 조성된 사적지입니다. 노산 이은상 선생이 글을 짓고 소전 손재형 선생이 글씨를 쓴 거대한 전첩비가 진도 바다를 굽어보며 거룩하게 세워져 있어, 남도의 대표적인 역사 교육장이자 명품 조망 지점으로 꼽힙니다.</p><ul class="text-sm text-neutral-700 space-y-2 pl-4 list-disc"><li>이용시간: 연중무휴 상시 개방 (언덕 위 암반 지대이므로 안전을 위해 주간 방문을 권장합니다.)</li><li>입장료: 무료 (누구나 편안하게 들러 둘러보실 수 있습니다.)</li><li>자차 이용 방법: 네비게이션에 '벽파진전첩비' 또는 '벽파진'을 검색하신 후 진도군 고군면 벽파리 해안길을 따라 이동하시면 됩니다.</li><li>주차장: 벽파진 입구 광장 및 전첩비 하단에 차를 대실 수 있는 주차 공간이 잘 마련되어 있어 편안하게 주차 가능합니다.</li></ul>
+          <h3 class="text-lg md:text-xl font-sans font-bold tracking-[-0.035em] text-sky-950 mb-3 flex items-center gap-2">📌  장소 안내 및 방문 정보</h3><p class="text-sm md:text-base text-neutral-700 leading-relaxed mb-3">벽파진전첩비는 1597년 이순신 장군이 진도 벽파진에 진을 치고 명량해협을 지켜내기 위해 전열을 정비했던 위대한 역사를 기념하기 위해 1956년 조성된 사적지입니다. 노산 이은상 선생이 글을 짓고 소전 손재형 선생이 글씨를 쓴 거대한 전첩비가 진도 바다를 굽어보며 거룩하게 세워져 있어, 남도의 대표적인 역사 교육장이자 명품 조망 지점으로 꼽힙니다.</p><ul class="text-sm text-neutral-700 space-y-2 pl-4 list-disc"><li>이용시간: 연중무휴 상시 개방 (언덕 위 암반 지대이므로 안전을 위해 주간 방문을 권장합니다.)</li><li>입장료: 무료 (누구나 편안하게 들러 둘러보실 수 있습니다.)</li><li>자차 이용 방법: 네비게이션에 '벽파진전첩비' 또는 '벽파진'을 검색하신 후 진도군 고군면 벽파리 해안길을 따라 이동하시면 됩니다.</li><li>주차장: 벽파진 입구 광장 및 전첩비 하단에 차를 대실 수 있는 주차 공간이 잘 마련되어 있어 편안하게 주차 가능합니다.</li></ul>
         </div>
         <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
           <img src="/images/jindo-byeokpajin/jindo-byeokpajin-01.webp" alt="이충무공 벽파진전첩비 사진 1" class="w-full h-full object-cover" loading="lazy" />
@@ -237,21 +237,21 @@ export const postsMain = {
         </div>
         <p class="text-neutral-700 text-base md:text-lg leading-relaxed">또 다른 벽파진전첩비 입구에 세워져 있는 한자가 선명히 적힌 안내 비석의 정면 모습입니다. 역사적 사적지로서의 품격과 예스러운 멋을 그대로 고수하고 있는 정문 포인트입니다. 벽파진 탐방을 깔끔하게 마무리하고 다음 여정으로 발길을 돌리기에 적합한 입구입니다.</p>
         <div class="pt-6 border-t border-neutral-100">
-          <h2 class="text-xl md:text-2xl font-serif font-bold text-neutral-900 flex items-center gap-2.5">
+          <h2 class="text-xl md:text-2xl font-sans font-bold tracking-[-0.035em] text-neutral-900 flex items-center gap-2.5">
             <span class="w-2 h-6 rounded-full bg-sky-700 inline-block"></span>
             추천! 일정별 진도 여행 코스 안내
           </h2>
         </div>
         <p class="text-neutral-700 text-base md:text-lg leading-relaxed">벽파진전첩비를 비롯한 진도의 핵심 관광지 10곳과 진도휴식 정원을 유기적으로 엮어 만든 코스입니다. 식사와 카페 휴식은 특정 매장 대신 진도 가계곤드레밥, 신선한 회, 울금 요리, 바지락 무침 등 <strong>진도 지역 대표 음식</strong>과 <strong>해안가 감성 카페</strong>로 구성하여 남도의 맛과 멋을 자유롭게 즐기실 수 있도록 안내합니다.</p>
         <div class="pt-6 border-t border-neutral-100">
-          <h2 class="text-xl md:text-2xl font-serif font-bold text-neutral-900 flex items-center gap-2.5">
+          <h2 class="text-xl md:text-2xl font-sans font-bold tracking-[-0.035em] text-neutral-900 flex items-center gap-2.5">
             <span class="w-2 h-6 rounded-full bg-sky-700 inline-block"></span>
             추천 당일치기 코스 (역사 탐방 &amp; 정원 힐링 여정)
           </h2>
         </div>
         <ul class="bg-neutral-50/90 p-6 rounded-2xl border border-neutral-200/70 space-y-2.5 text-sm md:text-base text-neutral-700 list-disc pl-8"><li><strong>오전</strong>: 우수영관광지 ➔ 울돌목스카이워크 ➔ 이충무공승전공원 ➔ 진도타워 (울돌목 해협 관람)</li><li><strong>점심</strong>: 진도읍 또는 해안가 주변 지역 대표 음식 맛집 (진도 울금 백반 또는 신선한 수산물 정식)</li><li><strong>오후</strong>: 벽파진전첩비 (역사 산책) ➔ 진도휴식 정원 (민간정원 산책 및 힐링)</li><li><strong>늦은 오후</strong>: 진도 해안가 감성 카페 (바다 조망 차 한 잔) ➔ 진도 갯벌 습지보호구역 ➔ 귀가</li></ul>
         <div class="pt-6 border-t border-neutral-100">
-          <h2 class="text-xl md:text-2xl font-serif font-bold text-neutral-900 flex items-center gap-2.5">
+          <h2 class="text-xl md:text-2xl font-sans font-bold tracking-[-0.035em] text-neutral-900 flex items-center gap-2.5">
             <span class="w-2 h-6 rounded-full bg-sky-700 inline-block"></span>
             추천 1박 2일 코스 (진도 명소 구석구석 완주 코스)
           </h2>
@@ -301,17 +301,17 @@ export const postsMain = {
     "image": "/images/jindo-yongjangseong/jindo-yongjangseong-01.webp",
     "content": `
       <div class="max-w-4xl mx-auto space-y-8 text-neutral-800 leading-relaxed font-sans mt-4 px-2 md:px-0">
-        <!-- Hero Banner / 최적 줄바꿈 타이틀 영역 -->
-        <div class="space-y-4">
-          <div class="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-amber-500/10 text-amber-800 text-xs font-bold uppercase tracking-wider">
+        <!-- Hero Banner / 대한민국 구석구석 스타일 고시인성 타이틀 영역 -->
+        <div class="text-center space-y-3 pb-6 border-b border-neutral-100">
+          <div class="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-amber-500/10 text-amber-800 text-xs font-bold uppercase tracking-wider tracking-[-0.02em]">
             🏯 고려 삼별초 대몽항쟁 사적 제126호 | 진도 군내면 용장성
           </div>
-          <h1 class="text-3xl md:text-5xl font-serif font-bold text-neutral-900 leading-tight">
-            고려 삼별초의 붉은 기상이 숨 쉬는 곳<br/>
-            <span class="text-amber-700 font-sans block mt-1">“진도 용장성 & 정충사”</span>
-            <span class="text-xl md:text-2xl text-neutral-600 font-light font-sans block mt-2">배중손 장군의 호국 성지에서 진도휴식 정원까지, 역사와 자연을 잇는 감성 코스</span>
-          </h1>
-          <p class="text-base md:text-lg text-neutral-600 font-light leading-relaxed">
+          <h2 class="font-sans font-extrabold text-neutral-900 tracking-[-0.04em] leading-[1.38] break-keep [text-wrap:balance] pt-1">
+            <span class="block text-base sm:text-lg md:text-[20px] font-bold text-neutral-700 tracking-[-0.03em] mb-1.5">고려 삼별초의 붉은 기상이 숨 쉬는 곳</span>
+            <span class="text-amber-700 font-sans block text-2xl sm:text-3xl md:text-[32px] font-extrabold tracking-[-0.04em] leading-[1.35]">“진도 용장성 & 정충사”</span>
+            <span class="text-sm sm:text-base md:text-[17px] text-neutral-600 font-medium font-sans block mt-2.5 tracking-[-0.025em] leading-[1.5]">배중손 장군의 호국 성지에서 진도휴식 정원까지, 역사와 자연을 잇는 감성 코스</span>
+          </h2>
+          <p class="text-sm md:text-[15px] text-neutral-500 font-normal leading-relaxed max-w-2xl mx-auto break-keep [text-wrap:balance]">
             몽골의 침략에 맞서 자주독립의 의지를 불태웠던 삼별초의 해상 왕국 수도, 계단식 궁궐 석축과 숭의문을 따라 걷는 천년의 시간
           </p>
         </div>
@@ -321,7 +321,7 @@ export const postsMain = {
           <p class="text-base md:text-lg font-medium text-neutral-800 leading-relaxed">고려시대 몽골의 침략에 맞서 고려의 자존심을 끝까지 지키고자 했던 삼별초의 대몽항쟁 거점, 진도 용장성을 찾아 그 웅장한 역사적 숨결을 가슴 깊이 새겨봅니다. 거친 바윗돌 축대 위에 남아 있는 용장성의 흔적과 배중손 장군의 충절을 기리는 정충사를 거닐며 역사적 묵직함을 느낀 뒤, 초록빛 자연의 품에서 안식을 선사하는 진도휴식 정원, 그리고 지역 소상공인과 함께 만들어가는 남도예술정원 지역파트너 매장으로 하루를 마무리 해보세요</p>
         </div>
         <div class="bg-gradient-to-br from-amber-50/90 to-orange-50/40 border-amber-200/80 p-6 md:p-8 rounded-3xl border shadow-sm">
-          <h3 class="text-lg md:text-xl font-serif font-bold text-amber-950 mb-3 flex items-center gap-2">📌  장소 안내 및 역사 탐방 정보</h3><p class="text-sm md:text-base text-neutral-700 leading-relaxed mb-3">진도 용장성은 고려 원종 11년(1270년) 삼별초가 개경 환도에 반대하며 배중손 장군을 중심으로 승화후 온을 왕으로 옹립하고 몽골과의 항쟁을 이어가기 위해 도읍을 옮겨 쌓은 역사적인 성곽입니다. 용장산성을 중심으로 계단식 궁궐 터가 능선을 따라 우뚝 들어서 있어 당시 고려의 굳은 의지와 호국 정신을 고스란히 느낄 수 있습니다.</p><ul class="text-sm text-neutral-700 space-y-2 pl-4 list-disc"><li><strong>이용시간</strong>: 09:00 ~ 18:00 (연중무휴 상시 개방되어 있으나 야외 유적지 특성상 주간 방문을 권장합니다.)</li><li><strong>입장료</strong>: <strong>무료</strong>(누구나 자유롭게 방문하여 역사 탐방과 주변 산책을 즐기실 수 있습니다.)</li><li><strong>자차 이용 방법</strong>: 네비게이션에 '<strong>진도 용장성</strong>' 또는 '<strong>용장성 전시관</strong>'(전라남도 진도군 군내면 용장산성길 92)을 검색하여 진입하시면 됩니다.</li><li><strong>주차장</strong>: 용장성 전시관 및 입구 광장에 넓은 무료 주차 공간이 잘 마련되어 있어 편안하게 주차하실 수 있습니다.</li></ul>
+          <h3 class="text-lg md:text-xl font-sans font-bold tracking-[-0.035em] text-amber-950 mb-3 flex items-center gap-2">📌  장소 안내 및 역사 탐방 정보</h3><p class="text-sm md:text-base text-neutral-700 leading-relaxed mb-3">진도 용장성은 고려 원종 11년(1270년) 삼별초가 개경 환도에 반대하며 배중손 장군을 중심으로 승화후 온을 왕으로 옹립하고 몽골과의 항쟁을 이어가기 위해 도읍을 옮겨 쌓은 역사적인 성곽입니다. 용장산성을 중심으로 계단식 궁궐 터가 능선을 따라 우뚝 들어서 있어 당시 고려의 굳은 의지와 호국 정신을 고스란히 느낄 수 있습니다.</p><ul class="text-sm text-neutral-700 space-y-2 pl-4 list-disc"><li><strong>이용시간</strong>: 09:00 ~ 18:00 (연중무휴 상시 개방되어 있으나 야외 유적지 특성상 주간 방문을 권장합니다.)</li><li><strong>입장료</strong>: <strong>무료</strong>(누구나 자유롭게 방문하여 역사 탐방과 주변 산책을 즐기실 수 있습니다.)</li><li><strong>자차 이용 방법</strong>: 네비게이션에 '<strong>진도 용장성</strong>' 또는 '<strong>용장성 전시관</strong>'(전라남도 진도군 군내면 용장산성길 92)을 검색하여 진입하시면 됩니다.</li><li><strong>주차장</strong>: 용장성 전시관 및 입구 광장에 넓은 무료 주차 공간이 잘 마련되어 있어 편안하게 주차하실 수 있습니다.</li></ul>
         </div>
         <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
           <img src="/images/jindo-yongjangseong/jindo-yongjangseong-01.webp" alt="진도 용장성 & 정충사 사진 1" class="w-full h-full object-cover" loading="lazy" />
@@ -369,7 +369,7 @@ export const postsMain = {
         <p class="text-neutral-700 text-base md:text-lg leading-relaxed">용장성 바로 앞에 설치되어 주요 탐방 방향과 거리를 친절하게 알려주는 이정표의 모습입니다. 둘레길 코스와 주요 유적지로 향하는 갈림길마다 알기 쉽게 안내되어 있어 이동이 매우 편합니다. 처음 방문하는 여행자도 길을 잃지 않고 마음에 드는 코스를 선택해 산책을 이어갈 수 있도록 돕습니다.</p>
         <p class="text-neutral-700 text-base md:text-lg leading-relaxed">용장성에서 고려 삼별초의 웅장한 기상과 역사의 여운을 가슴 깊이 간직하신 후에는, 차분한 자연의 품인 정원으로 발길을 이어보시기를 적극 추천합니다.</p>
         <div class="pt-6 border-t border-neutral-100">
-          <h2 class="text-xl md:text-2xl font-serif font-bold text-neutral-900 flex items-center gap-2.5">
+          <h2 class="text-xl md:text-2xl font-sans font-bold tracking-[-0.035em] text-neutral-900 flex items-center gap-2.5">
             <span class="w-2 h-6 rounded-full bg-amber-700 inline-block"></span>
             진도휴식
           </h2>
@@ -416,17 +416,17 @@ export const postsMain = {
     "image": "/images/jindo-dog-park/jindo-dog-park-09.webp",
     "content": `
       <div class="max-w-4xl mx-auto space-y-8 text-neutral-800 leading-relaxed font-sans mt-4 px-2 md:px-0">
-        <!-- Hero Banner / 최적 줄바꿈 타이틀 영역 -->
-        <div class="space-y-4">
-          <div class="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-amber-500/10 text-amber-800 text-xs font-bold uppercase tracking-wider">
+        <!-- Hero Banner / 대한민국 구석구석 스타일 고시인성 타이틀 영역 -->
+        <div class="text-center space-y-3 pb-6 border-b border-neutral-100">
+          <div class="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-amber-500/10 text-amber-800 text-xs font-bold uppercase tracking-wider tracking-[-0.02em]">
             🐕 천연기념물 제53호 생태 체험 & 가족 나들이 명소 | 진도읍
           </div>
-          <h1 class="text-3xl md:text-5xl font-serif font-bold text-neutral-900 leading-tight">
-            진도개의 사랑스러움과 정원의 아늑함이 만나는 곳!<br/>
-            <span class="text-amber-700 font-sans block mt-1">“진도개 테마파크”</span>
-            <span class="text-xl md:text-2xl text-neutral-600 font-light font-sans block mt-2">천연기념물 제53호 진도개 교감 체험부터 진도휴식 정원까지 이어지는 감성 여행</span>
-          </h1>
-          <p class="text-base md:text-lg text-neutral-600 font-light leading-relaxed">
+          <h2 class="font-sans font-extrabold text-neutral-900 tracking-[-0.04em] leading-[1.38] break-keep [text-wrap:balance] pt-1">
+            <span class="block text-base sm:text-lg md:text-[20px] font-bold text-neutral-700 tracking-[-0.03em] mb-1.5">진도개의 사랑스러움과 정원의 아늑함이 만나는 곳!</span>
+            <span class="text-amber-700 font-sans block text-2xl sm:text-3xl md:text-[32px] font-extrabold tracking-[-0.04em] leading-[1.35]">“진도개 테마파크”</span>
+            <span class="text-sm sm:text-base md:text-[17px] text-neutral-600 font-medium font-sans block mt-2.5 tracking-[-0.025em] leading-[1.5]">천연기념물 제53호 진도개 교감 체험부터 진도휴식 정원까지 이어지는 감성 여행</span>
+          </h2>
+          <p class="text-sm md:text-[15px] text-neutral-500 font-normal leading-relaxed max-w-2xl mx-auto break-keep [text-wrap:balance]">
             순하고 영특한 아기 백구들과의 다정한 교감, 신나는 사계절 인조잔디 썰매장과 미니 동물농장까지 온 가족이 행복한 무료 생태 테마공원
           </p>
         </div>
@@ -436,7 +436,7 @@ export const postsMain = {
           <p class="text-base md:text-lg font-medium text-neutral-800 leading-relaxed">대한민국 천연기념물 제53호인 진도개의 귀여움과 뛰어난 지능을 온몸으로 체감할 수 있는 <strong>진도개 테마파크</strong>를 시작으로, 차분한 자연의 품에서 안식을 선사하는 <strong>진도휴식 정원</strong>, 그리고 진도 마을 구석구석을 채우고 있는 감성 카페와 정겨운 맛집까지 하나의 매력적인 여행길로 연결해 소개합니다. 귀여운 강아지들과의 교감 및 다채로운 놀이 시설에서 느껴지는 즐거움 뒤에 찾아오는 민간정원의 포근한 위로, 그리고 남도예술정원 지역 파트너 매장에서 누리는 특별한 혜택이 어우러져 단순한 관광을 넘어 진도라는 지역의 진정한 매력을 깊이 있게 경험할 수 있는 알찬 코스를 확인해보세요</p>
         </div>
         <div class="bg-gradient-to-br from-amber-50/90 to-orange-50/40 border-amber-200/80 p-6 md:p-8 rounded-3xl border shadow-sm">
-          <h3 class="text-lg md:text-xl font-serif font-bold text-amber-950 mb-3 flex items-center gap-2">📌  장소 안내 및 기본 정보</h3><p class="text-sm md:text-base text-neutral-700 leading-relaxed mb-3">진도개 테마파크는 진도의 상징이자 자랑인 진도개를 체계적으로 보호 및 육성하고 방문객들에게 진도개의 우수성을 널리 알리기 위해 조성된 생태 체험형 공원입니다. 넓은 잔디 광장과 썰매장, 어린이 놀이터, 동물 농장, 그리고 진도개 홍보관 등이 알차게 갖춰져 있어 남녀노소 누구나 즐거운 시간을 보낼 수 있습니다.</p><ul class="text-sm text-neutral-700 space-y-2 pl-4 list-disc"><li><strong>이용시간</strong>: 09:00 ~ 18:00 (연중무휴 상시 개방되나 내부 홍보관 및 체험 시설 운영 시간은 다소 변동될 수 있습니다.)</li><li><strong>입장료</strong>: <strong>무료</strong>(누구나 부담 없이 들러 테마파크 산책과 야외 놀이 시설을 자유롭게 이용할 수 있습니다.)</li><li><strong>자차 이용 방법</strong>: 네비게이션에 '<strong>진도개 테마파크</strong>' 또는 '<strong>진도개 홍보관</strong>'(전라남도 진도군 진도읍 성방길 30)을 검색하여 오시면 편리하게 도착하실 수 있습니다.</li><li><strong>주차장</strong>: 입구 및 테마파크 전용 주차 공간이 넓고 정갈하게 마련되어 있어 자차 이용 시에도 여유롭게 주차할 수 있습니다.</li></ul>
+          <h3 class="text-lg md:text-xl font-sans font-bold tracking-[-0.035em] text-amber-950 mb-3 flex items-center gap-2">📌  장소 안내 및 기본 정보</h3><p class="text-sm md:text-base text-neutral-700 leading-relaxed mb-3">진도개 테마파크는 진도의 상징이자 자랑인 진도개를 체계적으로 보호 및 육성하고 방문객들에게 진도개의 우수성을 널리 알리기 위해 조성된 생태 체험형 공원입니다. 넓은 잔디 광장과 썰매장, 어린이 놀이터, 동물 농장, 그리고 진도개 홍보관 등이 알차게 갖춰져 있어 남녀노소 누구나 즐거운 시간을 보낼 수 있습니다.</p><ul class="text-sm text-neutral-700 space-y-2 pl-4 list-disc"><li><strong>이용시간</strong>: 09:00 ~ 18:00 (연중무휴 상시 개방되나 내부 홍보관 및 체험 시설 운영 시간은 다소 변동될 수 있습니다.)</li><li><strong>입장료</strong>: <strong>무료</strong>(누구나 부담 없이 들러 테마파크 산책과 야외 놀이 시설을 자유롭게 이용할 수 있습니다.)</li><li><strong>자차 이용 방법</strong>: 네비게이션에 '<strong>진도개 테마파크</strong>' 또는 '<strong>진도개 홍보관</strong>'(전라남도 진도군 진도읍 성방길 30)을 검색하여 오시면 편리하게 도착하실 수 있습니다.</li><li><strong>주차장</strong>: 입구 및 테마파크 전용 주차 공간이 넓고 정갈하게 마련되어 있어 자차 이용 시에도 여유롭게 주차할 수 있습니다.</li></ul>
         </div>
         <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
           <img src="/images/jindo-dog-park/jindo-dog-park-01.webp" alt="진도개 테마파크 사진 1" class="w-full h-full object-cover" loading="lazy" />
@@ -544,17 +544,17 @@ export const postsMain = {
     "image": "/images/jindo-yongjangsa/jindo-yongjangsa-11.webp",
     "content": `
       <div class="max-w-4xl mx-auto space-y-8 text-neutral-800 leading-relaxed font-sans mt-4 px-2 md:px-0">
-        <!-- Hero Banner / 최적 줄바꿈 타이틀 영역 -->
-        <div class="space-y-4">
-          <div class="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-emerald-500/10 text-emerald-800 text-xs font-bold uppercase tracking-wider">
+        <!-- Hero Banner / 대한민국 구석구석 스타일 고시인성 타이틀 영역 -->
+        <div class="text-center space-y-3 pb-6 border-b border-neutral-100">
+          <div class="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-emerald-500/10 text-emerald-800 text-xs font-bold uppercase tracking-wider tracking-[-0.02em]">
             ☸️ 보물 석불좌상 & 서해랑길 진도 7코스 | 진도 고군면 용장사
           </div>
-          <h1 class="text-3xl md:text-5xl font-serif font-bold text-neutral-900 leading-tight">
-            역사와 자연이 호흡하는 진도 고군면의 숨은 힐링 명소<br/>
-            <span class="text-emerald-700 font-sans block mt-1">“진도 용장사 & 보물 석불좌상”</span>
-            <span class="text-xl md:text-2xl text-neutral-600 font-light font-sans block mt-2">삼별초 항몽 투쟁의 산성 터부터 서해랑길 진도 7코스까지 호국 역사 탐방기</span>
-          </h1>
-          <p class="text-base md:text-lg text-neutral-600 font-light leading-relaxed">
+          <h2 class="font-sans font-extrabold text-neutral-900 tracking-[-0.04em] leading-[1.38] break-keep [text-wrap:balance] pt-1">
+            <span class="block text-base sm:text-lg md:text-[20px] font-bold text-neutral-700 tracking-[-0.03em] mb-1.5">역사와 자연이 호흡하는 진도 고군면의 숨은 힐링 명소</span>
+            <span class="text-emerald-700 font-sans block text-2xl sm:text-3xl md:text-[32px] font-extrabold tracking-[-0.04em] leading-[1.35]">“진도 용장사 & 보물 석불좌상”</span>
+            <span class="text-sm sm:text-base md:text-[17px] text-neutral-600 font-medium font-sans block mt-2.5 tracking-[-0.025em] leading-[1.5]">삼별초 항몽 투쟁의 산성 터부터 서해랑길 진도 7코스까지 호국 역사 탐방기</span>
+          </h2>
+          <p class="text-sm md:text-[15px] text-neutral-500 font-normal leading-relaxed max-w-2xl mx-auto break-keep [text-wrap:balance]">
             옛 용장산성의 고즈넉한 돌담 계단을 올라 마주하는 보물 석조여래좌상의 온화한 미소와 분홍빛 꽃나무가 어우러진 산사 산책
           </p>
         </div>
@@ -631,7 +631,7 @@ export const postsMain = {
         </div>
         <p class="text-neutral-700 text-base md:text-lg leading-relaxed">갈림길목에 세워진 종합 이정표는 용장성, 용장사, 화장실, 음수대의 방향을 한글과 영문, 한자로 정갈하게 명시하고 있습니다. 주변 환경과 조화롭게 어우러진 목재 이정표 덕분에 관람객들은 넓은 성터 안에서도 자신의 동선을 손쉽게 계획할 수 있습니다.</p>
         <div class="pt-6 border-t border-neutral-100">
-          <h2 class="text-xl md:text-2xl font-serif font-bold text-neutral-900 flex items-center gap-2.5">
+          <h2 class="text-xl md:text-2xl font-sans font-bold tracking-[-0.035em] text-neutral-900 flex items-center gap-2.5">
             <span class="w-2 h-6 rounded-full bg-emerald-700 inline-block"></span>
             함께 가기 좋은 주변 자연 관광지 코스
           </h2>
@@ -642,7 +642,7 @@ export const postsMain = {
         <p class="text-neutral-700 text-base md:text-lg leading-relaxed"><strong>1박 2일 힐링 자연 코스</strong></p>
         <ul class="bg-neutral-50/90 p-6 rounded-2xl border border-neutral-200/70 space-y-2.5 text-sm md:text-base text-neutral-700 list-disc pl-8"><li><strong>1일 차</strong>: 진도대교 도착 ➔ <strong>용장성 &amp; 용장사</strong>역사 탐방 ➔ <strong>운림산방 및 진도 쌍계사</strong>숲길 산책 ➔ <strong>진도 세방낙조 전망대</strong>(대한민국 최고 일몰 감상)</li><li><strong>2일 차</strong>: <strong>진도 갯벌습지보호지역 / 신비의 바다갈라짐 체험장진도 남도진성진도 타워</strong>관람 후 귀가</li></ul>
         <div class="pt-6 border-t border-neutral-100">
-          <h2 class="text-xl md:text-2xl font-serif font-bold text-neutral-900 flex items-center gap-2.5">
+          <h2 class="text-xl md:text-2xl font-sans font-bold tracking-[-0.035em] text-neutral-900 flex items-center gap-2.5">
             <span class="w-2 h-6 rounded-full bg-emerald-700 inline-block"></span>
             마치며
           </h2>
@@ -685,17 +685,17 @@ export const postsMain = {
     "image": "/images/namdo-garden-bus/namdo-garden-bus-31.webp",
     "content": `
       <div class="max-w-4xl mx-auto space-y-8 text-neutral-800 leading-relaxed font-sans mt-4 px-2 md:px-0">
-        <!-- Hero Banner / 최적 줄바꿈 타이틀 영역 -->
-        <div class="space-y-4">
-          <div class="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-emerald-500/10 text-emerald-800 text-xs font-bold uppercase tracking-wider">
+        <!-- Hero Banner / 대한민국 구석구석 스타일 고시인성 타이틀 영역 -->
+        <div class="text-center space-y-3 pb-6 border-b border-neutral-100">
+          <div class="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-emerald-500/10 text-emerald-800 text-xs font-bold uppercase tracking-wider tracking-[-0.02em]">
             🚌 남도한바퀴 명품 정원 인문학 버스투어 | 완도·해남·진도 권역
           </div>
-          <h1 class="text-3xl md:text-5xl font-serif font-bold text-neutral-900 leading-tight">
-            운전 스트레스 제로! 뚜벅이도 완벽하게 즐기는 전남 명품 정원<br/>
-            <span class="text-emerald-700 font-sans block mt-1">“남도한바퀴 인문 정원 여행”</span>
-            <span class="text-xl md:text-2xl text-neutral-600 font-light font-sans block mt-2">정도리 구계등 · 바하정원 · 월송한우촌 · 4est수목원 · 산이정원 원데이 버스투어</span>
-          </h1>
-          <p class="text-base md:text-lg text-neutral-600 font-light leading-relaxed">
+          <h2 class="font-sans font-extrabold text-neutral-900 tracking-[-0.04em] leading-[1.38] break-keep [text-wrap:balance] pt-1">
+            <span class="block text-base sm:text-lg md:text-[20px] font-bold text-neutral-700 tracking-[-0.03em] mb-1.5">운전 스트레스 제로! 뚜벅이도 완벽하게 즐기는 전남 명품 정원</span>
+            <span class="text-emerald-700 font-sans block text-2xl sm:text-3xl md:text-[32px] font-extrabold tracking-[-0.04em] leading-[1.35]">“남도한바퀴 인문 정원 여행”</span>
+            <span class="text-sm sm:text-base md:text-[17px] text-neutral-600 font-medium font-sans block mt-2.5 tracking-[-0.025em] leading-[1.5]">정도리 구계등 · 바하정원 · 월송한우촌 · 4est수목원 · 산이정원 원데이 버스투어</span>
+          </h2>
+          <p class="text-sm md:text-[15px] text-neutral-500 font-normal leading-relaxed max-w-2xl mx-auto break-keep [text-wrap:balance]">
             광주송정역과 유스퀘어에서 출발해 정원주의 철학이 깃든 남도 대표 민간정원 3곳과 다도해 몽돌해변, 한우 불고기 전골 미식까지 하루에 만끽하는 정원 인문학 기행
           </p>
         </div>
@@ -708,7 +708,7 @@ export const postsMain = {
           <p class="text-base md:text-lg font-medium text-neutral-800 leading-relaxed">남도한바퀴 버스투어로 완도 바하정원과 정도리 구계등, 해남 4est수목원과 산이정원까지 한 번에 돌아보는 특별한 정원 인문학 여행을 다녀왔습니다. 광주송정역이나 유스퀘어에서 전용 버스에 올라타기만 하면 운전 걱정 없이 남도의 아름다운 민간정원과 수목원, 먹거리와 계절 축제까지 여유 있게 즐길 수 있는 최고의 남도 힐링 프로그램입니다. 정원주가 들려주는 깊이 있는 정원 이야기와 향토 맛집의 별미, 그리고 파도 소리가 울려 퍼지는 몽돌해변 산책까지 결합된 이번 투어의 생생한 현장 기록과 함께 주변 자연 관광지 연계 코스까지 확인해보세요!</p>
         </div>
         <div class="bg-gradient-to-br from-emerald-50/90 to-teal-50/40 border-emerald-200/80 p-6 md:p-8 rounded-3xl border shadow-sm">
-          <h3 class="text-lg md:text-xl font-serif font-bold text-emerald-950 mb-3 flex items-center gap-2">📌  남도한바퀴 정원 투어 기본 안내 및 이용 정보</h3><ul class="text-sm text-neutral-700 space-y-2 pl-4 list-disc"><li><strong>출발지 및 승차 장소</strong>: 광주유스퀘어터미널(전남 광주 서구 무진대로 904) 및 광주송정역(전남 광주 광산구 송정동)</li><li><strong>투어 코스</strong>: 광주 출발 ➔ 완도 정도리 구계등 &amp; 바하정원 ➔ 해남 월송한우촌(점심식사) ➔ 해남 4est수목원(포레스트수목원) ➔ 해남 산이정원 ➔ 광주 도착</li><li><strong>이용시간 및 총 소요시간</strong>: 08:00 광주 출발 ~ 18:30 광주 도착 (약 10시간 30분 소요)</li><li><strong>이용 요금 및 포함 사항</strong>: 남도한바퀴 버스 탑승료 (일반적으로 1~2만 원 대의 저렴한 금액으로 운영되며 관광지 입장료 및 식사비는 개별 부담)</li><li><strong>자차 이용 시 참고사항</strong>: 각 정원 방문 시 완도 구계등 주차장(완도읍 정도리 91), 포레스트수목원 주차장(해남군 현산면 봉동길 232-118), 산이정원 주차장(해남군 산이면 구성리 664)에 대형 주차공간이 마련되어 있습니다.</li></ul>
+          <h3 class="text-lg md:text-xl font-sans font-bold tracking-[-0.035em] text-emerald-950 mb-3 flex items-center gap-2">📌  남도한바퀴 정원 투어 기본 안내 및 이용 정보</h3><ul class="text-sm text-neutral-700 space-y-2 pl-4 list-disc"><li><strong>출발지 및 승차 장소</strong>: 광주유스퀘어터미널(전남 광주 서구 무진대로 904) 및 광주송정역(전남 광주 광산구 송정동)</li><li><strong>투어 코스</strong>: 광주 출발 ➔ 완도 정도리 구계등 &amp; 바하정원 ➔ 해남 월송한우촌(점심식사) ➔ 해남 4est수목원(포레스트수목원) ➔ 해남 산이정원 ➔ 광주 도착</li><li><strong>이용시간 및 총 소요시간</strong>: 08:00 광주 출발 ~ 18:30 광주 도착 (약 10시간 30분 소요)</li><li><strong>이용 요금 및 포함 사항</strong>: 남도한바퀴 버스 탑승료 (일반적으로 1~2만 원 대의 저렴한 금액으로 운영되며 관광지 입장료 및 식사비는 개별 부담)</li><li><strong>자차 이용 시 참고사항</strong>: 각 정원 방문 시 완도 구계등 주차장(완도읍 정도리 91), 포레스트수목원 주차장(해남군 현산면 봉동길 232-118), 산이정원 주차장(해남군 산이면 구성리 664)에 대형 주차공간이 마련되어 있습니다.</li></ul>
         </div>
         <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
           <img src="/images/namdo-garden-bus/namdo-garden-bus-02.webp" alt="남도한바퀴 인문 정원 여행 사진 2" class="w-full h-full object-cover" loading="lazy" />
@@ -899,17 +899,17 @@ export const postsMain = {
     "image": "/images/jindo-supum/jindo-supum-13.webp",
     "content": `
       <div class="max-w-4xl mx-auto space-y-8 text-neutral-800 leading-relaxed font-sans mt-4 px-2 md:px-0">
-        <!-- Hero Banner / 최적 줄바꿈 타이틀 영역 -->
-        <div class="space-y-4">
-          <div class="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-sky-500/10 text-sky-800 text-xs font-bold uppercase tracking-wider">
+        <!-- Hero Banner / 대한민국 구석구석 스타일 고시인성 타이틀 영역 -->
+        <div class="text-center space-y-3 pb-6 border-b border-neutral-100">
+          <div class="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-sky-500/10 text-sky-800 text-xs font-bold uppercase tracking-wider tracking-[-0.02em]">
             🐟 남도예술정원 공식 지역파트너 & 백반기행 맛집 | 진도읍 수품어장
           </div>
-          <h1 class="text-3xl md:text-5xl font-serif font-bold text-neutral-900 leading-tight">
-            3대째 어부 집안의 자연산 바다 한 상, 백반기행 진도 맛집<br/>
-            <span class="text-sky-700 font-sans block mt-1">“진도읍 수품어장”</span>
-            <span class="text-xl md:text-2xl text-neutral-600 font-light font-sans block mt-2">남도예술정원 지역파트너 전 메뉴 10% 할인 혜택과 연계 카페·관광지 완벽 코스</span>
-          </h1>
-          <p class="text-base md:text-lg text-neutral-600 font-light leading-relaxed">
+          <h2 class="font-sans font-extrabold text-neutral-900 tracking-[-0.04em] leading-[1.38] break-keep [text-wrap:balance] pt-1">
+            <span class="block text-base sm:text-lg md:text-[20px] font-bold text-neutral-700 tracking-[-0.03em] mb-1.5">3대째 어부 집안의 자연산 바다 한 상, 백반기행 진도 맛집</span>
+            <span class="text-sky-700 font-sans block text-2xl sm:text-3xl md:text-[32px] font-extrabold tracking-[-0.04em] leading-[1.35]">“진도읍 수품어장”</span>
+            <span class="text-sm sm:text-base md:text-[17px] text-neutral-600 font-medium font-sans block mt-2.5 tracking-[-0.025em] leading-[1.5]">남도예술정원 지역파트너 전 메뉴 10% 할인 혜택과 연계 카페·관광지 완벽 코스</span>
+          </h2>
+          <p class="text-sm md:text-[15px] text-neutral-500 font-normal leading-relaxed max-w-2xl mx-auto break-keep [text-wrap:balance]">
             수품항에서 매일 직접 조업한 싱싱한 자연산 회덮밥과 살얼음 수품물회, 생선구이백반, 전복장·간장게장 밑반찬까지 푸짐하게 차려지는 진도의 맛
           </p>
         </div>
@@ -975,7 +975,7 @@ export const postsMain = {
         </div>
         <p class="text-neutral-700 text-base md:text-lg leading-relaxed">옆 테이블에서는 노릇하게 구워진 커다란 생선이 접시 가득 담긴 또 다른 이곳의 대표 메뉴인 <strong>생선구이백반</strong>을 앞에 두고 즐거운 식사가 이어지고 있습니다. 갓 지은 흰쌀밥과 구수한 국물, 다채로운 나물 반찬이 어우러져 남녀노소 누구나 좋아할 따뜻한 한 끼 분위기를 보여줍니다.</p>
         <div class="pt-6 border-t border-neutral-100">
-          <h2 class="text-xl md:text-2xl font-serif font-bold text-neutral-900 flex items-center gap-2.5">
+          <h2 class="text-xl md:text-2xl font-sans font-bold tracking-[-0.035em] text-neutral-900 flex items-center gap-2.5">
             <span class="w-2 h-6 rounded-full bg-sky-700 inline-block"></span>
             ☕ 함께 들르기 좋은 진도 '남도예술정원 지역파트너' 카페 소개
           </h2>
@@ -983,7 +983,7 @@ export const postsMain = {
         <p class="text-neutral-700 text-base md:text-lg leading-relaxed">수품어장에서 든든하고 맛있는 식사를 마친 뒤에는, 마찬가지로 <strong>각 매장별 지정 메뉴 10% 할인 혜택</strong>을 제공하는 진도 내 남도예술정원 지역파트너 카페에 들러 여유로운 티타임을 즐겨보세요!</p>
         <ul class="bg-neutral-50/90 p-6 rounded-2xl border border-neutral-200/70 space-y-2.5 text-sm md:text-base text-neutral-700 list-disc pl-8"><li><strong>꿈의세계카페</strong>(진도군 군내면 명량대첩로 37) : 할인대상 메뉴 <strong>수제유자차, 수제생강차</strong></li><li><strong>도캐도캐</strong>(진도읍 서문1길) : 할인대상 메뉴 <strong>진돗개빵(9구/3구), 진도대파빵</strong></li><li><strong>망고보이</strong>(진도읍 교동3길 46) : 할인대상 메뉴 <strong>전 메뉴</strong></li><li><strong>모도상회</strong>(진도군 의신면 초평길 54) : 할인대상 메뉴 <strong>전 메뉴</strong></li></ul>
         <div class="pt-6 border-t border-neutral-100">
-          <h2 class="text-xl md:text-2xl font-serif font-bold text-neutral-900 flex items-center gap-2.5">
+          <h2 class="text-xl md:text-2xl font-sans font-bold tracking-[-0.035em] text-neutral-900 flex items-center gap-2.5">
             <span class="w-2 h-6 rounded-full bg-sky-700 inline-block"></span>
             수품어장과 함께 가기 좋은 진도 주변 자연 관광지 추천
           </h2>
@@ -994,7 +994,7 @@ export const postsMain = {
         <p class="text-neutral-700 text-base md:text-lg leading-relaxed"><strong>진도의 자연과 문화를 깊이 만끽하는 1박 2일 힐링 코스</strong></p>
         <ul class="bg-neutral-50/90 p-6 rounded-2xl border border-neutral-200/70 space-y-2.5 text-sm md:text-base text-neutral-700 list-disc pl-8"><li><strong>1일 차</strong>: 진도대교 &amp; 울돌목 스카이워크 ➔ <strong>꿈의세계카페진도읍 수품어장 저녁 식사</strong>➔ 숙소 체크인</li><li><strong>2일 차</strong>: <strong>신비의 바닷길 체험관 &amp; 가계해변 산책모도상회 카페 휴식운림산방 &amp; 첨찰산 숲길진도개테마파크</strong>관람 후 귀가</li></ul>
         <div class="pt-6 border-t border-neutral-100">
-          <h2 class="text-xl md:text-2xl font-serif font-bold text-neutral-900 flex items-center gap-2.5">
+          <h2 class="text-xl md:text-2xl font-sans font-bold tracking-[-0.035em] text-neutral-900 flex items-center gap-2.5">
             <span class="w-2 h-6 rounded-full bg-sky-700 inline-block"></span>
             마치며
           </h2>
@@ -1039,17 +1039,17 @@ export const postsMain = {
     "image": "/images/wando-urban/wando-urban-02.webp",
     "content": `
       <div class="max-w-4xl mx-auto space-y-8 text-neutral-800 leading-relaxed font-sans mt-4 px-2 md:px-0">
-        <!-- Hero Banner / 최적 줄바꿈 타이틀 영역 -->
-        <div class="space-y-4">
-          <div class="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-amber-500/10 text-amber-800 text-xs font-bold uppercase tracking-wider">
+        <!-- Hero Banner / 대한민국 구석구석 스타일 고시인성 타이틀 영역 -->
+        <div class="text-center space-y-3 pb-6 border-b border-neutral-100">
+          <div class="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-amber-500/10 text-amber-800 text-xs font-bold uppercase tracking-wider tracking-[-0.02em]">
             🐟 남도예술정원 지역 파트너 & 화덕생선구이 명소 | 완도
           </div>
-          <h1 class="text-3xl md:text-5xl font-serif font-bold text-neutral-900 leading-tight">
-            완도맛집 추천<br/>
-            <span class="text-amber-700 font-sans block mt-1">“완도어반”</span>
-            <span class="text-xl md:text-2xl text-neutral-600 font-light font-sans block mt-2">완도타워 여행코스로 즐기는 화덕생선구이 전문점</span>
-          </h1>
-          <p class="text-base md:text-lg text-neutral-600 font-light leading-relaxed">
+          <h2 class="font-sans font-extrabold text-neutral-900 tracking-[-0.04em] leading-[1.38] break-keep [text-wrap:balance] pt-1">
+            <span class="block text-base sm:text-lg md:text-[20px] font-bold text-neutral-700 tracking-[-0.03em] mb-1.5">완도맛집 추천</span>
+            <span class="text-amber-700 font-sans block text-2xl sm:text-3xl md:text-[32px] font-extrabold tracking-[-0.04em] leading-[1.35]">“완도어반”</span>
+            <span class="text-sm sm:text-base md:text-[17px] text-neutral-600 font-medium font-sans block mt-2.5 tracking-[-0.025em] leading-[1.5]">완도타워 여행코스로 즐기는 화덕생선구이 전문점</span>
+          </h2>
+          <p class="text-sm md:text-[15px] text-neutral-500 font-normal leading-relaxed max-w-2xl mx-auto break-keep [text-wrap:balance]">
             완도타워 모노레일 승강장 바로 옆! 뜨거운 화덕에서 구워낸 겉바속촉 모둠 생선구이와 남도예술정원 여행주간 10% 할인 혜택까지
           </p>
         </div>
@@ -1205,17 +1205,17 @@ export const postsMain = {
     "image": "/images/dalsweet/dalsweet-01.webp",
     "content": `
       <div class="max-w-4xl mx-auto space-y-8 text-neutral-800 leading-relaxed font-sans mt-4 px-2 md:px-0">
-        <!-- Hero Banner / 최적 줄바꿈 타이틀 영역 -->
-        <div class="space-y-4">
-          <div class="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-amber-500/10 text-amber-800 text-xs font-bold uppercase tracking-wider">
+        <!-- Hero Banner / 대한민국 구석구석 스타일 고시인성 타이틀 영역 -->
+        <div class="text-center space-y-3 pb-6 border-b border-neutral-100">
+          <div class="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-amber-500/10 text-amber-800 text-xs font-bold uppercase tracking-wider tracking-[-0.02em]">
             🥐 완도 핫플레이스 & 전복빵 시그니처 카페 | 완도읍·완도타워
           </div>
-          <h1 class="text-3xl md:text-5xl font-serif font-bold text-neutral-900 leading-tight">
-            완도여행 필수코스, 전복빵과 비파 사이다로 유명한<br/>
-            <span class="text-amber-700 font-sans block mt-1">“달스윗 카페”</span>
-            <span class="text-xl md:text-2xl text-neutral-600 font-light font-sans block mt-2">남도예술정원 여행주간 10% 할인 혜택!</span>
-          </h1>
-          <p class="text-base md:text-lg text-neutral-600 font-light leading-relaxed">
+          <h2 class="font-sans font-extrabold text-neutral-900 tracking-[-0.04em] leading-[1.38] break-keep [text-wrap:balance] pt-1">
+            <span class="block text-base sm:text-lg md:text-[20px] font-bold text-neutral-700 tracking-[-0.03em] mb-1.5">완도여행 필수코스, 전복빵과 비파 사이다로 유명한</span>
+            <span class="text-amber-700 font-sans block text-2xl sm:text-3xl md:text-[32px] font-extrabold tracking-[-0.04em] leading-[1.35]">“달스윗 카페”</span>
+            <span class="text-sm sm:text-base md:text-[17px] text-neutral-600 font-medium font-sans block mt-2.5 tracking-[-0.025em] leading-[1.5]">남도예술정원 여행주간 10% 할인 혜택!</span>
+          </h2>
+          <p class="text-sm md:text-[15px] text-neutral-500 font-normal leading-relaxed max-w-2xl mx-auto break-keep [text-wrap:balance]">
             과거 국립수산물관리원을 리모델링한 감성 본점부터 다도해가 펼쳐지는 완도타워점까지, 장보고빵(전복빵)과 비파 사이다로 완성하는 완도 미식 여행
           </p>
         </div>
@@ -1372,17 +1372,17 @@ export const postsMain = {
     "image": "/images/mannam-plaza/mannam-plaza-01.webp",
     "content": `
       <div class="max-w-4xl mx-auto space-y-8 text-neutral-800 leading-relaxed font-sans mt-4 px-2 md:px-0">
-        <!-- Hero Banner / 최적 줄바꿈 타이틀 영역 -->
-        <div class="space-y-4">
-          <div class="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-emerald-500/10 text-emerald-800 text-xs font-bold uppercase tracking-wider">
+        <!-- Hero Banner / 대한민국 구석구석 스타일 고시인성 타이틀 영역 -->
+        <div class="text-center space-y-3 pb-6 border-b border-neutral-100">
+          <div class="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-emerald-500/10 text-emerald-800 text-xs font-bold uppercase tracking-wider tracking-[-0.02em]">
             🍲 완도 아내의 정원 정원주 추천 로컬 맛집 | 완도
           </div>
-          <h1 class="text-3xl md:text-5xl font-serif font-bold text-neutral-900 leading-tight">
-            남도예술정원 완도 아내의 정원 지역파트너<br/>
-            <span class="text-emerald-700 font-sans block mt-1">“만남의 광장”</span>
-            <span class="text-xl md:text-2xl text-neutral-600 font-light font-sans block mt-2">현지인이 추천하는 남도 로컬 닭코스 맛집</span>
-          </h1>
-          <p class="text-base md:text-lg text-neutral-600 font-light leading-relaxed">
+          <h2 class="font-sans font-extrabold text-neutral-900 tracking-[-0.04em] leading-[1.38] break-keep [text-wrap:balance] pt-1">
+            <span class="block text-base sm:text-lg md:text-[20px] font-bold text-neutral-700 tracking-[-0.03em] mb-1.5">남도예술정원 완도 아내의 정원 지역파트너</span>
+            <span class="text-emerald-700 font-sans block text-2xl sm:text-3xl md:text-[32px] font-extrabold tracking-[-0.04em] leading-[1.35]">“만남의 광장”</span>
+            <span class="text-sm sm:text-base md:text-[17px] text-neutral-600 font-medium font-sans block mt-2.5 tracking-[-0.025em] leading-[1.5]">현지인이 추천하는 남도 로컬 닭코스 맛집</span>
+          </h2>
+          <p class="text-sm md:text-[15px] text-neutral-500 font-normal leading-relaxed max-w-2xl mx-auto break-keep [text-wrap:balance]">
             사랑이 꽃피는 민간정원 아내의 정원에서 차로 1분! 닭육회부터 닭구이, 닭주물럭, 닭백숙, 녹두 닭죽까지 남도의 넉넉한 인심이 담긴 로컬 노포 미식회
           </p>
         </div>
@@ -1551,17 +1551,17 @@ export const postsMain = {
     "image": "/images/urban-coffee/urban-coffee-01.webp",
     "content": `
       <div class="max-w-4xl mx-auto space-y-8 text-neutral-800 leading-relaxed font-sans mt-4 px-2 md:px-0">
-        <!-- Hero Banner / 최적 줄바꿈 타이틀 영역 -->
-        <div class="space-y-4">
-          <div class="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-sky-500/10 text-sky-800 text-xs font-bold uppercase tracking-wider">
+        <!-- Hero Banner / 대한민국 구석구석 스타일 고시인성 타이틀 영역 -->
+        <div class="text-center space-y-3 pb-6 border-b border-neutral-100">
+          <div class="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-sky-500/10 text-sky-800 text-xs font-bold uppercase tracking-wider tracking-[-0.02em]">
             🌊 다도해해상국립공원 & 지역파트너 카페 투어 | 완도 정도리·완도읍
           </div>
-          <h1 class="text-3xl md:text-5xl font-serif font-bold text-neutral-900 leading-tight">
-            완도 가볼만한곳 다도해해상국립공원 구계등과<br/>
-            <span class="text-sky-700 font-sans block mt-1">“완도어반 · 어반커피”</span>
-            <span class="text-xl md:text-2xl text-neutral-600 font-light font-sans block mt-2">남도예술정원 지역파트너와 함께하는 바다 & 미식 여행 후기</span>
-          </h1>
-          <p class="text-base md:text-lg text-neutral-600 font-light leading-relaxed">
+          <h2 class="font-sans font-extrabold text-neutral-900 tracking-[-0.04em] leading-[1.38] break-keep [text-wrap:balance] pt-1">
+            <span class="block text-base sm:text-lg md:text-[20px] font-bold text-neutral-700 tracking-[-0.03em] mb-1.5">완도 가볼만한곳 다도해해상국립공원 구계등과</span>
+            <span class="text-sky-700 font-sans block text-2xl sm:text-3xl md:text-[32px] font-extrabold tracking-[-0.04em] leading-[1.35]">“완도어반 · 어반커피”</span>
+            <span class="text-sm sm:text-base md:text-[17px] text-neutral-600 font-medium font-sans block mt-2.5 tracking-[-0.025em] leading-[1.5]">남도예술정원 지역파트너와 함께하는 바다 & 미식 여행 후기</span>
+          </h2>
+          <p class="text-sm md:text-[15px] text-neutral-500 font-normal leading-relaxed max-w-2xl mx-auto break-keep [text-wrap:balance]">
             갯돌이 파도에 속삭이는 정도리 구계등 해변 산책부터 화덕생선구이 맛집 완도어반, 루프탑 야외 테라스가 매력적인 어반커피까지 이어지는 힐링 코스
           </p>
         </div>
@@ -1569,7 +1569,7 @@ export const postsMain = {
         
         <div class="flex items-center gap-3 pt-6">
           <span class="w-8 h-8 rounded-full bg-sky-700 text-white flex items-center justify-center font-bold text-sm">01</span>
-          <h2 class="text-2xl md:text-3xl font-serif font-bold text-neutral-900">바다의 낭만과 남도의 맛을 함께 즐기는 완도여행</h2>
+          <h2 class="text-2xl md:text-3xl font-sans font-bold tracking-[-0.035em] text-neutral-900">바다의 낭만과 남도의 맛을 함께 즐기는 완도여행</h2>
         </div>
         <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
           <img src="/images/urban-coffee/urban-coffee-01.webp" alt="완도어반 · 어반커피 현장 사진 1" class="w-full h-full object-cover" loading="lazy" />
@@ -1578,7 +1578,7 @@ export const postsMain = {
         <p class="text-neutral-700 text-base md:text-lg leading-relaxed">이번에는 남도예술정원 여행주간을 맞아 다도해해상국립공원에 속한 정도리 구계등을 찾아 여유롭게 바다 산책을 즐기고, 지역파트너 매장인 완도어반과 어반커피에서 맛있는 음식과 향긋한 커피를 즐기는 시간을 가졌습니다.</p>
         <div class="flex items-center gap-3 pt-6">
           <span class="w-8 h-8 rounded-full bg-sky-700 text-white flex items-center justify-center font-bold text-sm">02</span>
-          <h2 class="text-2xl md:text-3xl font-serif font-bold text-neutral-900">다도해해상국립공원 정도리 구계등</h2>
+          <h2 class="text-2xl md:text-3xl font-sans font-bold tracking-[-0.035em] text-neutral-900">다도해해상국립공원 정도리 구계등</h2>
         </div>
         <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
           <img src="/images/urban-coffee/urban-coffee-02.webp" alt="완도어반 · 어반커피 현장 사진 2" class="w-full h-full object-cover" loading="lazy" />
@@ -1591,7 +1591,7 @@ export const postsMain = {
         <p class="text-neutral-700 text-base md:text-lg leading-relaxed">북적이는 관광지의 활기보다는 자연이 들려주는 잔잔한 소리와 고요한 풍경이 어우러진 곳으로, 바닷바람을 맞으며 천천히 걸음을 옮기고 조용히 사색에 잠기기 좋은 완도의 숨은 힐링 명소입니다.</p>
         <div class="flex items-center gap-3 pt-6">
           <span class="w-8 h-8 rounded-full bg-sky-700 text-white flex items-center justify-center font-bold text-sm">03</span>
-          <h2 class="text-2xl md:text-3xl font-serif font-bold text-neutral-900">남도의 맛을 즐기는 완도어반</h2>
+          <h2 class="text-2xl md:text-3xl font-sans font-bold tracking-[-0.035em] text-neutral-900">남도의 맛을 즐기는 완도어반</h2>
         </div>
         <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
           <img src="/images/urban-coffee/urban-coffee-04.webp" alt="완도어반 · 어반커피 현장 사진 4" class="w-full h-full object-cover" loading="lazy" />
@@ -1612,7 +1612,7 @@ export const postsMain = {
         <p class="text-neutral-700 text-base md:text-lg leading-relaxed">완도어반에서 맛있는 식사를 마친 뒤에는 영수증 리뷰 이벤트에 참여하면 어반커피에서 아메리카노와 아이스티 한 잔씩을 무료로 제공받았습니다.</p>
         <div class="flex items-center gap-3 pt-6">
           <span class="w-8 h-8 rounded-full bg-sky-700 text-white flex items-center justify-center font-bold text-sm">04</span>
-          <h2 class="text-2xl md:text-3xl font-serif font-bold text-neutral-900">식사 후 여유로운 커피 한 잔, 어반커피</h2>
+          <h2 class="text-2xl md:text-3xl font-sans font-bold tracking-[-0.035em] text-neutral-900">식사 후 여유로운 커피 한 잔, 어반커피</h2>
         </div>
         <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
           <div class="rounded-2xl overflow-hidden shadow-md border border-neutral-100">
@@ -1671,7 +1671,7 @@ export const postsMain = {
         <p class="text-neutral-700 text-base md:text-lg leading-relaxed">실내와는 또 다른 개방감이 느껴지는 테라스에 앉아 향긋한 커피 한 잔과 함께 완도의 일상을 바라보며 잠시 쉬어가면, 바쁘게 이어진 여행 일정 속에서도 소소한 힐링의 순간을 만끽할 수 있습니다.</p>
         <div class="flex items-center gap-3 pt-6">
           <span class="w-8 h-8 rounded-full bg-sky-700 text-white flex items-center justify-center font-bold text-sm">05</span>
-          <h2 class="text-2xl md:text-3xl font-serif font-bold text-neutral-900">남도예술정원 여행주간과 함께하는 완도여행</h2>
+          <h2 class="text-2xl md:text-3xl font-sans font-bold tracking-[-0.035em] text-neutral-900">남도예술정원 여행주간과 함께하는 완도여행</h2>
         </div>
         <div class="rounded-3xl overflow-hidden shadow-lg border border-neutral-100 max-h-[580px]">
           <img src="/images/urban-coffee/urban-coffee-20.webp" alt="완도어반 · 어반커피 현장 사진 20" class="w-full h-full object-cover" loading="lazy" />
@@ -1730,17 +1730,17 @@ export const postsMain = {
     "image": "/images/travel-week-4est/travel-week-4est-01.webp",
     "content": `
       <div class="max-w-4xl mx-auto space-y-8 text-neutral-800 leading-relaxed font-sans mt-4 px-2 md:px-0">
-        <!-- Hero Banner / 최적 줄바꿈 타이틀 영역 -->
-        <div class="space-y-4">
-          <div class="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-emerald-500/10 text-emerald-800 text-xs font-bold uppercase tracking-wider">
+        <!-- Hero Banner / 대한민국 구석구석 스타일 고시인성 타이틀 영역 -->
+        <div class="text-center space-y-3 pb-6 border-b border-neutral-100">
+          <div class="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-emerald-500/10 text-emerald-800 text-xs font-bold uppercase tracking-wider tracking-[-0.02em]">
             🎸 남도예술정원 여행주간 예술무대 | 해남 포레스트(4est) 수목원
           </div>
-          <h1 class="text-3xl md:text-5xl font-serif font-bold text-neutral-900 leading-tight">
-            남도예술정원 여행주간<br/>
-            <span class="text-emerald-700 font-sans block mt-1">“해남 포레스트 수목원”</span>
-            <span class="text-xl md:text-2xl text-neutral-600 font-light font-sans block mt-2">귀촌 재즈기타리스트와 함께하는 가을 정원 재즈 공연</span>
-          </h1>
-          <p class="text-base md:text-lg text-neutral-600 font-light leading-relaxed">
+          <h2 class="font-sans font-extrabold text-neutral-900 tracking-[-0.04em] leading-[1.38] break-keep [text-wrap:balance] pt-1">
+            <span class="block text-base sm:text-lg md:text-[20px] font-bold text-neutral-700 tracking-[-0.03em] mb-1.5">남도예술정원 여행주간</span>
+            <span class="text-emerald-700 font-sans block text-2xl sm:text-3xl md:text-[32px] font-extrabold tracking-[-0.04em] leading-[1.35]">“해남 포레스트 수목원”</span>
+            <span class="text-sm sm:text-base md:text-[17px] text-neutral-600 font-medium font-sans block mt-2.5 tracking-[-0.025em] leading-[1.5]">귀촌 재즈기타리스트와 함께하는 가을 정원 재즈 공연</span>
+          </h2>
+          <p class="text-sm md:text-[15px] text-neutral-500 font-normal leading-relaxed max-w-2xl mx-auto break-keep [text-wrap:balance]">
             6만 평 두륜산 숲을 물들인 가을빛 단풍 아래, 돗자리에 누워 감미로운 재즈 기타 선율에 귀 기울이는 로맨틱한 야외 정원 음악회
           </p>
         </div>
@@ -1900,17 +1900,17 @@ export const postsMain = {
     "image": "/images/travel-week-moongarden-art/travel-week-moongarden-art-01.webp",
     "content": `
       <div class="max-w-4xl mx-auto space-y-8 text-neutral-800 leading-relaxed font-sans mt-4 px-2 md:px-0">
-        <!-- Hero Banner / 최적 줄바꿈 타이틀 영역 -->
-        <div class="space-y-4">
-          <div class="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-teal-500/10 text-teal-800 text-xs font-bold uppercase tracking-wider">
+        <!-- Hero Banner / 대한민국 구석구석 스타일 고시인성 타이틀 영역 -->
+        <div class="text-center space-y-3 pb-6 border-b border-neutral-100">
+          <div class="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-teal-500/10 text-teal-800 text-xs font-bold uppercase tracking-wider tracking-[-0.02em]">
             🎨 남도예술정원 여행주간 특별 초대전 | 해남 민간정원 1호 문가든
           </div>
-          <h1 class="text-3xl md:text-5xl font-serif font-bold text-neutral-900 leading-tight">
-            남도예술정원 여행주간<br/>
-            <span class="text-teal-700 font-sans block mt-1">해남 민간정원 1호 “문가든”</span>
-            <span class="text-xl md:text-2xl text-neutral-600 font-light font-sans block mt-2">정원 속 작은 미술관에서 만난 최순임 작가 초대전</span>
-          </h1>
-          <p class="text-base md:text-lg text-neutral-600 font-light leading-relaxed">
+          <h2 class="font-sans font-extrabold text-neutral-900 tracking-[-0.04em] leading-[1.38] break-keep [text-wrap:balance] pt-1">
+            <span class="block text-base sm:text-lg md:text-[20px] font-bold text-neutral-700 tracking-[-0.03em] mb-1.5">남도예술정원 여행주간</span>
+            <span class="text-teal-700 font-sans block text-2xl sm:text-3xl md:text-[32px] font-extrabold tracking-[-0.04em] leading-[1.35]">해남 민간정원 1호 “문가든”</span>
+            <span class="text-sm sm:text-base md:text-[17px] text-neutral-600 font-medium font-sans block mt-2.5 tracking-[-0.025em] leading-[1.5]">정원 속 작은 미술관에서 만난 최순임 작가 초대전</span>
+          </h2>
+          <p class="text-sm md:text-[15px] text-neutral-500 font-normal leading-relaxed max-w-2xl mx-auto break-keep [text-wrap:balance]">
             〈보이는 것 모두 꽃, 생각하는 것 모두 달〉 — 아늑한 카페와 초록빛 앞마당 곳곳에 피어난 동화 같은 소녀와 고양이 조각·회화 전시
           </p>
         </div>
@@ -2057,17 +2057,17 @@ export const postsMain = {
     "image": "/images/travel-week-moongarden-craft/travel-week-moongarden-craft-01.webp",
     "content": `
       <div class="max-w-4xl mx-auto space-y-8 text-neutral-800 leading-relaxed font-sans mt-4 px-2 md:px-0">
-        <!-- Hero Banner / 최적 줄바꿈 타이틀 영역 -->
-        <div class="space-y-4">
-          <div class="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-emerald-500/10 text-emerald-800 text-xs font-bold uppercase tracking-wider">
+        <!-- Hero Banner / 대한민국 구석구석 스타일 고시인성 타이틀 영역 -->
+        <div class="text-center space-y-3 pb-6 border-b border-neutral-100">
+          <div class="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-emerald-500/10 text-emerald-800 text-xs font-bold uppercase tracking-wider tracking-[-0.02em]">
             🖼️ 남도예술정원 여행주간 크리에이터 특화체험 | 해남 문가든
           </div>
-          <h1 class="text-3xl md:text-5xl font-serif font-bold text-neutral-900 leading-tight">
-            해남 가볼만한곳 “문가든”<br/>
-            <span class="text-emerald-700 font-sans block mt-1">‘나만의 정원 액자 만들기’</span>
-            <span class="text-xl md:text-2xl text-neutral-600 font-light font-sans block mt-2">남도예술정원 여행주간 크리에이터 특화 체험 후기</span>
-          </h1>
-          <p class="text-base md:text-lg text-neutral-600 font-light leading-relaxed">
+          <h2 class="font-sans font-extrabold text-neutral-900 tracking-[-0.04em] leading-[1.38] break-keep [text-wrap:balance] pt-1">
+            <span class="block text-base sm:text-lg md:text-[20px] font-bold text-neutral-700 tracking-[-0.03em] mb-1.5">해남 가볼만한곳 “문가든”</span>
+            <span class="text-emerald-700 font-sans block text-2xl sm:text-3xl md:text-[32px] font-extrabold tracking-[-0.04em] leading-[1.35]">‘나만의 정원 액자 만들기’</span>
+            <span class="text-sm sm:text-base md:text-[17px] text-neutral-600 font-medium font-sans block mt-2.5 tracking-[-0.025em] leading-[1.5]">남도예술정원 여행주간 크리에이터 특화 체험 후기</span>
+          </h2>
+          <p class="text-sm md:text-[15px] text-neutral-500 font-normal leading-relaxed max-w-2xl mx-auto break-keep [text-wrap:balance]">
             숲속 아지트 같은 그린 타임 갤러리에서 파스텔과 문가든의 가을 들꽃, 세라믹 소품으로 세상에 하나뿐인 정원 액자를 완성하는 감성 클래스
           </p>
         </div>
@@ -2231,15 +2231,15 @@ export const postsMain = {
     "content": `
       <div class="max-w-4xl mx-auto space-y-12 text-neutral-800 leading-relaxed font-sans mt-4 px-2 md:px-0">
         <!-- Hero Banner / 상단 타이틀 영역 -->
-        <div class="space-y-4">
+        <div class="text-center space-y-3 pb-6 border-b border-neutral-100">
           <div class="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-emerald-500/10 text-emerald-800 text-xs font-bold uppercase tracking-wider">
             ☕ 남도예술정원 지역 파트너 & 오션뷰 정원카페 | 완도
           </div>
-          <h1 class="text-3xl md:text-5xl font-serif font-bold text-neutral-900 leading-tight">
-            완도 카페 추천<br/>
-            <span class="text-emerald-700 font-sans">"당인리포레스트"</span><br/>
-            <span class="text-xl md:text-2xl text-neutral-600 font-light font-sans block mt-2">남도예술정원 여행주간, 완도수목원과 함께 떠나는 정원여행</span>
-          </h1>
+          <h2 class="text-2xl sm:text-3xl md:text-[30px] font-sans font-extrabold text-neutral-900 tracking-[-0.04em] leading-[1.38] break-keep [text-wrap:balance]">
+            <span class="block text-lg sm:text-xl md:text-[22px] font-bold text-neutral-700 tracking-[-0.03em] mb-1">완도 카페 추천</span>
+            <span class="text-emerald-700 font-sans block font-extrabold tracking-[-0.04em]">"당인리포레스트"</span><br/>
+            <span class="text-sm sm:text-base md:text-[17px] text-neutral-600 font-medium font-sans block mt-2.5 tracking-[-0.025em] leading-[1.5]">남도예술정원 여행주간, 완도수목원과 함께 떠나는 정원여행</span>
+          </h2>
           <p class="text-base md:text-lg text-neutral-600 font-light leading-relaxed">
             사계절 푸른 완도수목원에서 만나는 난대림의 감동, 그리고 싱그러운 정원과 바다가 마주하는 당인리포레스트에서의 달콤한 휴식
           </p>
@@ -2270,7 +2270,7 @@ export const postsMain = {
             <span class="w-8 h-8 rounded-full bg-emerald-700 text-white flex items-center justify-center font-bold text-sm">01</span>
             <div>
               <span class="text-xs font-bold text-emerald-800 tracking-widest uppercase">Garden of the Month</span>
-              <h2 class="text-2xl md:text-3xl font-serif font-bold text-neutral-900">남도예술정원 이달의 정원: 사계절 푸른 완도수목원</h2>
+              <h2 class="text-2xl md:text-3xl font-sans font-bold tracking-[-0.035em] text-neutral-900">남도예술정원 이달의 정원: 사계절 푸른 완도수목원</h2>
             </div>
           </div>
 
@@ -2313,7 +2313,7 @@ export const postsMain = {
             <span class="w-8 h-8 rounded-full bg-teal-700 text-white flex items-center justify-center font-bold text-sm">02</span>
             <div>
               <span class="text-xs font-bold text-teal-800 tracking-widest uppercase">Garden Cafe Danginri Forest</span>
-              <h2 class="text-2xl md:text-3xl font-serif font-bold text-neutral-900">수목원에서 10분, 초록빛 정원과 오션뷰의 만남</h2>
+              <h2 class="text-2xl md:text-3xl font-sans font-bold tracking-[-0.035em] text-neutral-900">수목원에서 10분, 초록빛 정원과 오션뷰의 만남</h2>
             </div>
           </div>
 
@@ -2394,7 +2394,7 @@ export const postsMain = {
             <span class="w-8 h-8 rounded-full bg-amber-700 text-white flex items-center justify-center font-bold text-sm">03</span>
             <div>
               <span class="text-xs font-bold text-amber-800 tracking-widest uppercase">Signature Coffee & Bakery</span>
-              <h2 class="text-2xl md:text-3xl font-serif font-bold text-neutral-900">통창 오션뷰와 함께 즐기는 카페라떼 & 쪽파베이글</h2>
+              <h2 class="text-2xl md:text-3xl font-sans font-bold tracking-[-0.035em] text-neutral-900">통창 오션뷰와 함께 즐기는 카페라떼 & 쪽파베이글</h2>
             </div>
           </div>
 
@@ -2449,7 +2449,7 @@ export const postsMain = {
             <span class="w-8 h-8 rounded-full bg-emerald-700 text-white flex items-center justify-center font-bold text-sm">04</span>
             <div>
               <span class="text-xs font-bold text-emerald-800 tracking-widest uppercase">Partner Benefits & Stamp Tour</span>
-              <h2 class="text-2xl md:text-3xl font-serif font-bold text-neutral-900">남도예술정원 공식 파트너 할인 혜택과 정원 연계 코스</h2>
+              <h2 class="text-2xl md:text-3xl font-sans font-bold tracking-[-0.035em] text-neutral-900">남도예술정원 공식 파트너 할인 혜택과 정원 연계 코스</h2>
             </div>
           </div>
 
@@ -2462,7 +2462,7 @@ export const postsMain = {
           </div>
 
           <div class="bg-gradient-to-br from-emerald-50/80 to-teal-50/50 p-6 md:p-8 rounded-3xl border border-emerald-100 space-y-3">
-            <h3 class="text-lg font-serif font-bold text-emerald-950 flex items-center gap-2">
+            <h3 class="text-lg font-sans font-bold tracking-[-0.035em] text-emerald-950 flex items-center gap-2">
               <span>🎁</span> 남도예술정원 여행주간 파트너 혜택
             </h3>
             <p class="text-sm text-neutral-700 leading-relaxed">
@@ -2475,7 +2475,7 @@ export const postsMain = {
 
           <!-- 에필로그 요약 박스 -->
           <div class="p-6 md:p-8 rounded-3xl bg-neutral-900 text-white space-y-4">
-            <h3 class="text-xl md:text-2xl font-serif font-bold text-emerald-400">
+            <h3 class="text-xl md:text-2xl font-sans font-bold tracking-[-0.035em] text-emerald-400">
               숲의 푸르름과 바다의 여유가 머무는 완도 힐링 정원여행
             </h3>
             <p class="text-neutral-200 leading-relaxed">
@@ -2535,14 +2535,14 @@ export const postsMain = {
     "content": `
       <div class="max-w-4xl mx-auto space-y-12 text-neutral-800 leading-relaxed font-sans mt-4 px-2 md:px-0">
         <!-- Hero Banner / 상단 타이틀 영역 -->
-        <div class="space-y-4">
+        <div class="text-center space-y-3 pb-6 border-b border-neutral-100">
           <div class="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-blue-500/10 text-blue-800 text-xs font-bold uppercase tracking-wider">
             🌿 완도 웰니스 & 해양치유 명소 | 신지 명사십리
           </div>
-          <h1 class="text-3xl md:text-5xl font-serif font-bold text-neutral-900 leading-tight">
-            완도가볼만한곳 완도해양치유센터<br/>
-            <span class="text-blue-700 font-sans">바다가 선물하는 특별한 힐링여행</span>
-          </h1>
+          <h2 class="text-2xl sm:text-3xl md:text-[30px] font-sans font-extrabold text-neutral-900 tracking-[-0.04em] leading-[1.38] break-keep [text-wrap:balance]">
+            <span class="block text-lg sm:text-xl md:text-[22px] font-bold text-neutral-700 tracking-[-0.03em] mb-1">완도가볼만한곳 완도해양치유센터</span>
+            <span class="text-blue-700 font-sans block font-extrabold tracking-[-0.04em]">바다가 선물하는 특별한 힐링여행</span>
+          </h2>
           <p class="text-base md:text-lg text-neutral-600 font-light leading-relaxed">
             청정 해수와 해조류, 천연 머드를 활용한 웰니스 테라피로 지친 몸과 마음에 활력을 불어넣는 건강한 쉼의 공간
           </p>
@@ -2576,7 +2576,7 @@ export const postsMain = {
             <span class="w-8 h-8 rounded-full bg-blue-700 text-white flex items-center justify-center font-bold text-sm">01</span>
             <div>
               <span class="text-xs font-bold text-blue-800 tracking-widest uppercase">Location & Reservation</span>
-              <h2 class="text-2xl md:text-3xl font-serif font-bold text-neutral-900">신지 명사십리 해변과 맞닿은 힐링의 요람</h2>
+              <h2 class="text-2xl md:text-3xl font-sans font-bold tracking-[-0.035em] text-neutral-900">신지 명사십리 해변과 맞닿은 힐링의 요람</h2>
             </div>
           </div>
 
@@ -2620,7 +2620,7 @@ export const postsMain = {
           </div>
 
           <div class="bg-gradient-to-br from-blue-50/80 to-sky-50/50 p-6 md:p-8 rounded-3xl border border-blue-100 space-y-3">
-            <h3 class="text-lg font-serif font-bold text-blue-950 flex items-center gap-2">
+            <h3 class="text-lg font-sans font-bold tracking-[-0.035em] text-blue-950 flex items-center gap-2">
               <span>📌</span> 이용 꿀팁: 사전 예약제 & 맞춤형 프로그램 선택
             </h3>
             <p class="text-sm text-neutral-700 leading-relaxed">
@@ -2638,7 +2638,7 @@ export const postsMain = {
             <span class="w-8 h-8 rounded-full bg-cyan-700 text-white flex items-center justify-center font-bold text-sm">02</span>
             <div>
               <span class="text-xs font-bold text-cyan-800 tracking-widest uppercase">Health Check & Ocean Lounge</span>
-              <h2 class="text-2xl md:text-3xl font-serif font-bold text-neutral-900">나를 알아가는 첫걸음: 개인별 건강 측정과 오션뷰 쉼터</h2>
+              <h2 class="text-2xl md:text-3xl font-sans font-bold tracking-[-0.035em] text-neutral-900">나를 알아가는 첫걸음: 개인별 건강 측정과 오션뷰 쉼터</h2>
             </div>
           </div>
 
@@ -2673,7 +2673,7 @@ export const postsMain = {
             <span class="w-8 h-8 rounded-full bg-emerald-700 text-white flex items-center justify-center font-bold text-sm">03</span>
             <div>
               <span class="text-xs font-bold text-emerald-800 tracking-widest uppercase">Tea & Aroma Therapy</span>
-              <h2 class="text-2xl md:text-3xl font-serif font-bold text-neutral-900">은은한 차향과 스마트 케어, 천연 아로마의 온기</h2>
+              <h2 class="text-2xl md:text-3xl font-sans font-bold tracking-[-0.035em] text-neutral-900">은은한 차향과 스마트 케어, 천연 아로마의 온기</h2>
             </div>
           </div>
 
@@ -2720,7 +2720,7 @@ export const postsMain = {
             <span class="w-8 h-8 rounded-full bg-teal-800 text-white flex items-center justify-center font-bold text-sm">04</span>
             <div>
               <span class="text-xs font-bold text-teal-900 tracking-widest uppercase">Seaweed & Mud Spa Therapy</span>
-              <h2 class="text-2xl md:text-3xl font-serif font-bold text-neutral-900">청정 완도 바다의 선물: 해조류 스파와 머드 테라피</h2>
+              <h2 class="text-2xl md:text-3xl font-sans font-bold tracking-[-0.035em] text-neutral-900">청정 완도 바다의 선물: 해조류 스파와 머드 테라피</h2>
             </div>
           </div>
 
@@ -2769,7 +2769,7 @@ export const postsMain = {
             <span class="w-8 h-8 rounded-full bg-indigo-700 text-white flex items-center justify-center font-bold text-sm">05</span>
             <div>
               <span class="text-xs font-bold text-indigo-900 tracking-widest uppercase">Thalasso Pool & Rooftop Lounge</span>
-              <h2 class="text-2xl md:text-3xl font-serif font-bold text-neutral-900">따뜻한 해수풀 ‘딸라소풀’과 시원한 옥상 힐링</h2>
+              <h2 class="text-2xl md:text-3xl font-sans font-bold tracking-[-0.035em] text-neutral-900">따뜻한 해수풀 ‘딸라소풀’과 시원한 옥상 힐링</h2>
             </div>
           </div>
 
@@ -2812,7 +2812,7 @@ export const postsMain = {
             <span class="w-8 h-8 rounded-full bg-amber-600 text-white flex items-center justify-center font-bold text-sm">06</span>
             <div>
               <span class="text-xs font-bold text-amber-800 tracking-widest uppercase">Dining & Local Goods</span>
-              <h2 class="text-2xl md:text-3xl font-serif font-bold text-neutral-900">로컬 미식과 특산물 쇼핑까지 한번에</h2>
+              <h2 class="text-2xl md:text-3xl font-sans font-bold tracking-[-0.035em] text-neutral-900">로컬 미식과 특산물 쇼핑까지 한번에</h2>
             </div>
           </div>
 
@@ -2845,7 +2845,7 @@ export const postsMain = {
 
           <!-- 에필로그 요약 박스 -->
           <div class="p-6 md:p-8 rounded-3xl bg-neutral-900 text-white space-y-4">
-            <h3 class="text-xl md:text-2xl font-serif font-bold text-blue-400">
+            <h3 class="text-xl md:text-2xl font-sans font-bold tracking-[-0.035em] text-blue-400">
               바다가 건네는 가장 건강하고 다정한 위로
             </h3>
             <p class="text-neutral-200 leading-relaxed">
@@ -2906,14 +2906,14 @@ export const postsMain = {
     "content": `
       <div class="max-w-4xl mx-auto space-y-12 text-neutral-800 leading-relaxed font-sans mt-4 px-2 md:px-0">
         <!-- Hero Banner / 상단 타이틀 영역 -->
-        <div class="space-y-4">
+        <div class="text-center space-y-3 pb-6 border-b border-neutral-100">
           <div class="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-teal-500/10 text-teal-800 text-xs font-bold uppercase tracking-wider">
             🐠 완도 실내 가족여행 & 생태 체험 명소 | 완도 해양생태전시관
           </div>
-          <h1 class="text-3xl md:text-5xl font-serif font-bold text-neutral-900 leading-tight">
-            완도 아이와 가볼만한곳 해양생태전시관<br/>
-            <span class="text-teal-700 font-sans">바닷속 생태계를 만나는 특별한 여행</span>
-          </h1>
+          <h2 class="text-2xl sm:text-3xl md:text-[30px] font-sans font-extrabold text-neutral-900 tracking-[-0.04em] leading-[1.38] break-keep [text-wrap:balance]">
+            <span class="block text-lg sm:text-xl md:text-[22px] font-bold text-neutral-700 tracking-[-0.03em] mb-1">완도 아이와 가볼만한곳 해양생태전시관</span>
+            <span class="text-teal-700 font-sans block font-extrabold tracking-[-0.04em]">바닷속 생태계를 만나는 특별한 여행</span>
+          </h2>
           <p class="text-base md:text-lg text-neutral-600 font-light leading-relaxed">
             신비로운 바닷속 생태계 오감 체험부터 천년 해상왕 장보고의 청해진 역사까지, 온 가족이 함께 보고 배우고 즐기는 완도 대표 실내 여행지
           </p>
@@ -2947,7 +2947,7 @@ export const postsMain = {
             <span class="w-8 h-8 rounded-full bg-teal-700 text-white flex items-center justify-center font-bold text-sm">01</span>
             <div>
               <span class="text-xs font-bold text-teal-800 tracking-widest uppercase">Welcome & 1F Lobby</span>
-              <h2 class="text-2xl md:text-3xl font-serif font-bold text-neutral-900">물결이 소용돌이치는 듯한 1층 로비와 기획전시실</h2>
+              <h2 class="text-2xl md:text-3xl font-sans font-bold tracking-[-0.035em] text-neutral-900">물결이 소용돌이치는 듯한 1층 로비와 기획전시실</h2>
             </div>
           </div>
 
@@ -2997,7 +2997,7 @@ export const postsMain = {
             <span class="w-8 h-8 rounded-full bg-cyan-700 text-white flex items-center justify-center font-bold text-sm">02</span>
             <div>
               <span class="text-xs font-bold text-cyan-800 tracking-widest uppercase">Interactive Experience & Photo Zone</span>
-              <h2 class="text-2xl md:text-3xl font-serif font-bold text-neutral-900">보고 만지고 즐기는 오감 체험실과 2층 트릭아트 포토존</h2>
+              <h2 class="text-2xl md:text-3xl font-sans font-bold tracking-[-0.035em] text-neutral-900">보고 만지고 즐기는 오감 체험실과 2층 트릭아트 포토존</h2>
             </div>
           </div>
 
@@ -3059,7 +3059,7 @@ export const postsMain = {
             <span class="w-8 h-8 rounded-full bg-blue-800 text-white flex items-center justify-center font-bold text-sm">03</span>
             <div>
               <span class="text-xs font-bold text-blue-900 tracking-widest uppercase">Cheonghaejin History & 5 Oceans</span>
-              <h2 class="text-2xl md:text-3xl font-serif font-bold text-neutral-900">장도가 한눈에 보이는 청해진유적전시실과 5대양 해양실</h2>
+              <h2 class="text-2xl md:text-3xl font-sans font-bold tracking-[-0.035em] text-neutral-900">장도가 한눈에 보이는 청해진유적전시실과 5대양 해양실</h2>
             </div>
           </div>
 
@@ -3117,7 +3117,7 @@ export const postsMain = {
             <span class="w-8 h-8 rounded-full bg-emerald-700 text-white flex items-center justify-center font-bold text-sm">04</span>
             <div>
               <span class="text-xs font-bold text-emerald-800 tracking-widest uppercase">Marine Ecology & Future Vision</span>
-              <h2 class="text-2xl md:text-3xl font-serif font-bold text-neutral-900">완도 바다의 풍요로움을 담은 생태실과 꿈을 키우는 미래실</h2>
+              <h2 class="text-2xl md:text-3xl font-sans font-bold tracking-[-0.035em] text-neutral-900">완도 바다의 풍요로움을 담은 생태실과 꿈을 키우는 미래실</h2>
             </div>
           </div>
 
@@ -3191,7 +3191,7 @@ export const postsMain = {
             <span class="w-8 h-8 rounded-full bg-amber-600 text-white flex items-center justify-center font-bold text-sm">05</span>
             <div>
               <span class="text-xs font-bold text-amber-800 tracking-widest uppercase">Jangdo Heritage & Family Course</span>
-              <h2 class="text-2xl md:text-3xl font-serif font-bold text-neutral-900">장보고기념관·장도 청해진 유적지와 함께 즐기는 완벽 코스</h2>
+              <h2 class="text-2xl md:text-3xl font-sans font-bold tracking-[-0.035em] text-neutral-900">장보고기념관·장도 청해진 유적지와 함께 즐기는 완벽 코스</h2>
             </div>
           </div>
 
@@ -3217,7 +3217,7 @@ export const postsMain = {
 
           <!-- 에필로그 요약 박스 -->
           <div class="p-6 md:p-8 rounded-3xl bg-neutral-900 text-white space-y-4">
-            <h3 class="text-xl md:text-2xl font-serif font-bold text-teal-400">
+            <h3 class="text-xl md:text-2xl font-sans font-bold tracking-[-0.035em] text-teal-400">
               아이에게는 바다의 꿈을, 어른에게는 천년 해양 역사의 감동을
             </h3>
             <p class="text-neutral-200 leading-relaxed">
@@ -3277,14 +3277,14 @@ export const postsMain = {
     "content": `
       <div class="max-w-4xl mx-auto space-y-12 text-neutral-800 leading-relaxed font-sans mt-4 px-2 md:px-0">
         <!-- Hero Banner / 상단 타이틀 영역 -->
-        <div class="space-y-4">
+        <div class="text-center space-y-3 pb-6 border-b border-neutral-100">
           <div class="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-sky-500/10 text-sky-800 text-xs font-bold uppercase tracking-wider">
             🌊 남도 바다 & 맨발 걷기 힐링 명소 | 완도 신지면
           </div>
-          <h1 class="text-3xl md:text-5xl font-serif font-bold text-neutral-900 leading-tight">
-            완도 가볼만한곳 신지 명사십리해수욕장<br/>
-            <span class="text-sky-700 font-sans">사계절 아름다운 힐링 여행지</span>
-          </h1>
+          <h2 class="text-2xl sm:text-3xl md:text-[30px] font-sans font-extrabold text-neutral-900 tracking-[-0.04em] leading-[1.38] break-keep [text-wrap:balance]">
+            <span class="block text-lg sm:text-xl md:text-[22px] font-bold text-neutral-700 tracking-[-0.03em] mb-1">완도 가볼만한곳 신지 명사십리해수욕장</span>
+            <span class="text-sky-700 font-sans block font-extrabold tracking-[-0.04em]">사계절 아름다운 힐링 여행지</span>
+          </h2>
           <p class="text-base md:text-lg text-neutral-600 font-light leading-relaxed">
             끝없이 펼쳐진 3.8km 은빛 백사장과 청정 에메랄드빛 바다, 낮과 밤 그리고 이른 아침까지 다채로운 매력을 선사하는 아시아 최초 블루플래그 인증 해변
           </p>
@@ -3315,7 +3315,7 @@ export const postsMain = {
             <span class="w-8 h-8 rounded-full bg-sky-700 text-white flex items-center justify-center font-bold text-sm">01</span>
             <div>
               <span class="text-xs font-bold text-sky-800 tracking-widest uppercase">Silver Sand Beach</span>
-              <h2 class="text-2xl md:text-3xl font-serif font-bold text-neutral-900">3.8km 은빛 백사장과 에메랄드빛 바다의 조화</h2>
+              <h2 class="text-2xl md:text-3xl font-sans font-bold tracking-[-0.035em] text-neutral-900">3.8km 은빛 백사장과 에메랄드빛 바다의 조화</h2>
             </div>
           </div>
 
@@ -3349,7 +3349,7 @@ export const postsMain = {
             <span class="w-8 h-8 rounded-full bg-blue-700 text-white flex items-center justify-center font-bold text-sm">02</span>
             <div>
               <span class="text-xs font-bold text-blue-800 tracking-widest uppercase">Blue Flag Certified Beach</span>
-              <h2 class="text-2xl md:text-3xl font-serif font-bold text-neutral-900">아시아 최초 ‘블루플래그’ 인증 청정 해변과 포토존</h2>
+              <h2 class="text-2xl md:text-3xl font-sans font-bold tracking-[-0.035em] text-neutral-900">아시아 최초 ‘블루플래그’ 인증 청정 해변과 포토존</h2>
             </div>
           </div>
 
@@ -3395,7 +3395,7 @@ export const postsMain = {
             <span class="w-8 h-8 rounded-full bg-emerald-700 text-white flex items-center justify-center font-bold text-sm">03</span>
             <div>
               <span class="text-xs font-bold text-emerald-800 tracking-widest uppercase">Pine Forest & Ocean Wave</span>
-              <h2 class="text-2xl md:text-3xl font-serif font-bold text-neutral-900">솔향기 가득한 해송숲 산책로와 파도 소리</h2>
+              <h2 class="text-2xl md:text-3xl font-sans font-bold tracking-[-0.035em] text-neutral-900">솔향기 가득한 해송숲 산책로와 파도 소리</h2>
             </div>
           </div>
 
@@ -3442,7 +3442,7 @@ export const postsMain = {
             <span class="w-8 h-8 rounded-full bg-indigo-900 text-white flex items-center justify-center font-bold text-sm">04</span>
             <div>
               <span class="text-xs font-bold text-indigo-900 tracking-widest uppercase">Romantic Night View</span>
-              <h2 class="text-2xl md:text-3xl font-serif font-bold text-neutral-900">은은한 조명이 수놓는 완도의 낭만적인 밤바다</h2>
+              <h2 class="text-2xl md:text-3xl font-sans font-bold tracking-[-0.035em] text-neutral-900">은은한 조명이 수놓는 완도의 낭만적인 밤바다</h2>
             </div>
           </div>
 
@@ -3485,7 +3485,7 @@ export const postsMain = {
             <span class="w-8 h-8 rounded-full bg-amber-600 text-white flex items-center justify-center font-bold text-sm">05</span>
             <div>
               <span class="text-xs font-bold text-amber-800 tracking-widest uppercase">Morning Sunlight & Coffee</span>
-              <h2 class="text-2xl md:text-3xl font-serif font-bold text-neutral-900">아침 햇살에 반짝이는 바다와 모닝커피의 여유</h2>
+              <h2 class="text-2xl md:text-3xl font-sans font-bold tracking-[-0.035em] text-neutral-900">아침 햇살에 반짝이는 바다와 모닝커피의 여유</h2>
             </div>
           </div>
 
@@ -3518,7 +3518,7 @@ export const postsMain = {
 
           <!-- 에필로그 요약 카드 -->
           <div class="p-6 md:p-8 rounded-3xl bg-neutral-900 text-white space-y-4">
-            <h3 class="text-xl md:text-2xl font-serif font-bold text-sky-400">
+            <h3 class="text-xl md:text-2xl font-sans font-bold tracking-[-0.035em] text-sky-400">
               낮과 밤, 그리고 아침까지 사계절 빛나는 힐링 해변
             </h3>
             <p class="text-neutral-200 leading-relaxed">
@@ -3581,14 +3581,14 @@ export const postsMain = {
     "content": `
       <div class="max-w-4xl mx-auto space-y-12 text-neutral-800 leading-relaxed font-sans mt-4 px-2 md:px-0">
         <!-- Hero Banner / 상단 타이틀 영역 -->
-        <div class="space-y-4">
+        <div class="text-center space-y-3 pb-6 border-b border-neutral-100">
           <div class="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-cyan-500/10 text-cyan-800 text-xs font-bold uppercase tracking-wider">
             남도예술정원 트래블 가이드 Vol. 02
           </div>
-          <h1 class="text-3xl md:text-5xl font-serif font-bold text-neutral-900 leading-tight">
-            필사즉생의 기상에서 초록빛 안식까지,<br/>
-            <span class="text-cyan-700 font-sans">진도 감성 여행 완벽 가이드</span>
-          </h1>
+          <h2 class="text-2xl sm:text-3xl md:text-[30px] font-sans font-extrabold text-neutral-900 tracking-[-0.04em] leading-[1.38] break-keep [text-wrap:balance]">
+            <span class="block text-lg sm:text-xl md:text-[22px] font-bold text-neutral-700 tracking-[-0.03em] mb-1">필사즉생의 기상에서 초록빛 안식까지,</span>
+            <span class="text-cyan-700 font-sans block font-extrabold tracking-[-0.04em]">진도 감성 여행 완벽 가이드</span>
+          </h2>
           <p class="text-base md:text-lg text-neutral-600 font-light leading-relaxed">
             진도 이충무공 승전공원(해양에너지공원)부터 민간정원 '진도휴식', 그리고 마을 파트너 공간까지 이어지는 하루
           </p>
@@ -3615,13 +3615,13 @@ export const postsMain = {
             <span class="w-8 h-8 rounded-full bg-cyan-700 text-white flex items-center justify-center font-bold text-sm">01</span>
             <div>
               <span class="text-xs font-bold text-cyan-800 tracking-widest uppercase">Historic Sea Trail</span>
-              <h2 class="text-2xl md:text-3xl font-serif font-bold text-neutral-900">역사의 파도 위를 걷다: 진도 이충무공 승전공원 (해양에너지공원)</h2>
+              <h2 class="text-2xl md:text-3xl font-sans font-bold tracking-[-0.035em] text-neutral-900">역사의 파도 위를 걷다: 진도 이충무공 승전공원 (해양에너지공원)</h2>
             </div>
           </div>
 
           <!-- Quick Info Box -->
           <div class="bg-gradient-to-br from-cyan-50 to-blue-50/60 p-6 md:p-8 rounded-3xl border border-cyan-200/80 shadow-sm space-y-3">
-            <h3 class="text-lg font-serif font-bold text-cyan-950 flex items-center gap-2">
+            <h3 class="text-lg font-sans font-bold tracking-[-0.035em] text-cyan-950 flex items-center gap-2">
               <span>📌</span> 방문 전 확인하세요! (Quick Info)
             </h3>
             <ul class="text-sm text-neutral-700 space-y-2 pl-1">
@@ -3634,7 +3634,7 @@ export const postsMain = {
 
           <!-- Subsection 1 -->
           <div class="space-y-4 pt-2">
-            <h3 class="text-xl font-serif font-bold text-neutral-900">1. 은빛 팜파스그라스와 바다 바람이 반기는 도입부</h3>
+            <h3 class="text-xl font-sans font-bold tracking-[-0.035em] text-neutral-900">1. 은빛 팜파스그라스와 바다 바람이 반기는 도입부</h3>
             <p class="text-neutral-700 leading-relaxed">
               진도대교를 건너 공원 입구에 들어서면 친절하게 정비된 이정표와 함께 탁 트인 주차장이 여행자를 맞이합니다. 성수기에도 여유롭게 차를 댈 수 있는 쾌적한 공간입니다. 산책에 앞서 진도녹진관광지 전체 배치도를 살펴보며 오늘 걸어갈 길의 윤곽을 그려봅니다.
             </p>
@@ -3672,7 +3672,7 @@ export const postsMain = {
 
           <!-- Subsection 2 -->
           <div class="space-y-4 pt-6">
-            <h3 class="text-xl font-serif font-bold text-neutral-900">2. 압도적 위용, 이충무공 동상과 스카이워크</h3>
+            <h3 class="text-xl font-sans font-bold tracking-[-0.035em] text-neutral-900">2. 압도적 위용, 이충무공 동상과 스카이워크</h3>
             <p class="text-neutral-700 leading-relaxed">
               긴 철제 터널이 만들어내는 빛과 그림자의 교차를 지나면, '이충무공동상 30m'라는 반가운 이정표가 나타납니다. 발걸음을 옮겨 스카이워크에 오르면 시야가 단숨에 열리며 진도대교의 웅장한 자태와 명량해협이 한눈에 들어옵니다.
             </p>
@@ -3720,7 +3720,7 @@ export const postsMain = {
 
           <!-- Subsection 3 -->
           <div class="space-y-4 pt-6">
-            <h3 class="text-xl font-serif font-bold text-neutral-900">3. 거대한 배를 탄 듯, 해안 나무데크와 감성 포토존</h3>
+            <h3 class="text-xl font-sans font-bold tracking-[-0.035em] text-neutral-900">3. 거대한 배를 탄 듯, 해안 나무데크와 감성 포토존</h3>
             <p class="text-neutral-700 leading-relaxed">
               승전공원의 백미는 해안선을 따라 정교하게 이어진 나무데크 산책로입니다. 찰랑이는 물소리를 바로 옆에 두고 걷다 보면, 마치 거친 바다를 항해하는 거대한 목선에 오른 듯한 착각마저 듭니다. 데크길을 따라 이순신 장군의 일대기 중 주요 순간을 고풍스러운 화폭에 담은 '십경도 안내판'이 이어져, 장군의 삶과 신념을 하나씩 곱씹으며 걷기 좋습니다.
             </p>
@@ -3754,7 +3754,7 @@ export const postsMain = {
 
           <!-- Subsection 4 -->
           <div class="space-y-4 pt-6">
-            <h3 class="text-xl font-serif font-bold text-neutral-900">4. 손에 잡힐 듯 생생한 포효, 울돌목 물살 체험장</h3>
+            <h3 class="text-xl font-sans font-bold tracking-[-0.035em] text-neutral-900">4. 손에 잡힐 듯 생생한 포효, 울돌목 물살 체험장</h3>
             <p class="text-neutral-700 leading-relaxed">
               해안 데크길 끝자락, 실물 크기로 위용을 자랑하는 판옥선 전시 공간(현재 정비 중)을 지나면 공원의 하이라이트인 울돌목 물살 체험장에 닿습니다. 계단 벽면에 그려진 정겨운 강강술래 벽화를 따라 내려서면, 방송을 통해 수차례 소개되었던 명량해협의 맹렬한 물살이 바로 눈앞에서 소용돌이칩니다.
             </p>
@@ -3793,7 +3793,7 @@ export const postsMain = {
             <span class="w-8 h-8 rounded-full bg-emerald-700 text-white flex items-center justify-center font-bold text-sm">02</span>
             <div>
               <span class="text-xs font-bold text-emerald-800 tracking-widest uppercase">Healing Nature</span>
-              <h2 class="text-2xl md:text-3xl font-serif font-bold text-neutral-900">초록빛 고요 속으로: 민간정원 '진도휴식'</h2>
+              <h2 class="text-2xl md:text-3xl font-sans font-bold tracking-[-0.035em] text-neutral-900">초록빛 고요 속으로: 민간정원 '진도휴식'</h2>
             </div>
           </div>
 
@@ -3831,7 +3831,7 @@ export const postsMain = {
             <span class="w-8 h-8 rounded-full bg-cyan-700 text-white flex items-center justify-center font-bold text-sm">03</span>
             <div>
               <span class="text-xs font-bold text-cyan-800 tracking-widest uppercase">Custom Itinerary</span>
-              <h2 class="text-2xl md:text-3xl font-serif font-bold text-neutral-900">취향 따라 골라 떠나는 맞춤형 여행 코스</h2>
+              <h2 class="text-2xl md:text-3xl font-sans font-bold tracking-[-0.035em] text-neutral-900">취향 따라 골라 떠나는 맞춤형 여행 코스</h2>
             </div>
           </div>
 
@@ -3914,7 +3914,7 @@ export const postsMain = {
             <span class="w-8 h-8 rounded-full bg-cyan-700 text-white flex items-center justify-center font-bold text-sm">04</span>
             <div>
               <span class="text-xs font-bold text-cyan-800 tracking-widest uppercase">Partner Directory</span>
-              <h2 class="text-2xl md:text-3xl font-serif font-bold text-neutral-900">남도예술정원 지역 파트너 & 프로모션 안내</h2>
+              <h2 class="text-2xl md:text-3xl font-sans font-bold tracking-[-0.035em] text-neutral-900">남도예술정원 지역 파트너 & 프로모션 안내</h2>
             </div>
           </div>
 
@@ -3962,7 +3962,7 @@ export const postsMain = {
 
           <!-- Benefits Box -->
           <div class="bg-gradient-to-br from-amber-500/10 to-amber-500/5 p-6 md:p-8 rounded-3xl border border-amber-500/20 space-y-4 text-neutral-800">
-            <h3 class="text-xl font-serif font-bold text-amber-950 flex items-center gap-2">
+            <h3 class="text-xl font-sans font-bold tracking-[-0.035em] text-amber-950 flex items-center gap-2">
               <span>🎁</span> 남도예술정원 여행자를 위한 특별 혜택
             </h3>
             <p class="text-xs text-amber-900 font-bold">
@@ -4008,7 +4008,7 @@ export const postsMain = {
 
           <!-- Outro Callout -->
           <div class="p-6 md:p-8 rounded-3xl bg-neutral-900 text-white space-y-4">
-            <h3 class="text-2xl font-serif font-bold text-cyan-400">
+            <h3 class="text-2xl font-sans font-bold tracking-[-0.035em] text-cyan-400">
               성난 파도의 울림에서 시작해 다정한 정원의 품으로
             </h3>
             <p class="text-neutral-300 leading-relaxed">
@@ -4056,14 +4056,14 @@ export const postsMain = {
     "content": `
       <div class="max-w-4xl mx-auto space-y-10 text-neutral-800 leading-relaxed font-sans mt-4 px-2 md:px-0">
         <!-- Hero Section -->
-        <div class="space-y-4">
+        <div class="text-center space-y-3 pb-6 border-b border-neutral-100">
           <div class="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-emerald-500/10 text-emerald-800 text-xs font-bold uppercase tracking-wider">
             🌿 감성 힐링 & 피크닉 명소 | 해남 문가든
           </div>
-          <h1 class="text-3xl md:text-5xl font-serif font-bold text-neutral-900 leading-tight">
-            해남 필수 여행 코스!<br/>
-            <span class="text-emerald-700 font-sans">맛있는 피크닉 명소 ‘문가든’ 정원 데이트</span>
-          </h1>
+          <h2 class="text-2xl sm:text-3xl md:text-[30px] font-sans font-extrabold text-neutral-900 tracking-[-0.04em] leading-[1.38] break-keep [text-wrap:balance]">
+            <span class="block text-lg sm:text-xl md:text-[22px] font-bold text-neutral-700 tracking-[-0.03em] mb-1">해남 필수 여행 코스!</span>
+            <span class="text-emerald-700 font-sans block font-extrabold tracking-[-0.04em]">맛있는 피크닉 명소 ‘문가든’ 정원 데이트</span>
+          </h2>
           <p class="text-base md:text-lg text-neutral-600 font-light leading-relaxed">
             잔잔한 오류제 저수지 수변 풍경과 온 가족의 사랑이 담긴 동화 같은 숲길. 귀한 황칠차와 달콤한 바움쿠헨이 함께하는 해남 최고의 힐링 정원 데이트 코스!
           </p>
@@ -4093,7 +4093,7 @@ export const postsMain = {
             <span class="w-8 h-8 rounded-full bg-emerald-700 text-white flex items-center justify-center font-bold text-sm">01</span>
             <div>
               <span class="text-xs font-bold text-emerald-800 tracking-widest uppercase">Location & Entrance</span>
-              <h2 class="text-2xl md:text-3xl font-serif font-bold text-neutral-900">오류제 수변의 여유로운 주차 & 감성 포토존</h2>
+              <h2 class="text-2xl md:text-3xl font-sans font-bold tracking-[-0.035em] text-neutral-900">오류제 수변의 여유로운 주차 & 감성 포토존</h2>
             </div>
           </div>
 
@@ -4124,7 +4124,7 @@ export const postsMain = {
             <span class="w-8 h-8 rounded-full bg-emerald-700 text-white flex items-center justify-center font-bold text-sm">02</span>
             <div>
               <span class="text-xs font-bold text-emerald-800 tracking-widest uppercase">1F Cafe & Garden View</span>
-              <h2 class="text-2xl md:text-3xl font-serif font-bold text-neutral-900">전면 통유리창으로 즐기는 싱그러운 파노라마 뷰</h2>
+              <h2 class="text-2xl md:text-3xl font-sans font-bold tracking-[-0.035em] text-neutral-900">전면 통유리창으로 즐기는 싱그러운 파노라마 뷰</h2>
             </div>
           </div>
 
@@ -4155,7 +4155,7 @@ export const postsMain = {
             <span class="w-8 h-8 rounded-full bg-emerald-700 text-white flex items-center justify-center font-bold text-sm">03</span>
             <div>
               <span class="text-xs font-bold text-emerald-800 tracking-widest uppercase">2F Observatory & Rooftop</span>
-              <h2 class="text-2xl md:text-3xl font-serif font-bold text-neutral-900">오류제 저수지 망원경 조망과 탁 트인 루프탑</h2>
+              <h2 class="text-2xl md:text-3xl font-sans font-bold tracking-[-0.035em] text-neutral-900">오류제 저수지 망원경 조망과 탁 트인 루프탑</h2>
             </div>
           </div>
 
@@ -4185,7 +4185,7 @@ export const postsMain = {
             <span class="w-8 h-8 rounded-full bg-emerald-700 text-white flex items-center justify-center font-bold text-sm">04</span>
             <div>
               <span class="text-xs font-bold text-emerald-800 tracking-widest uppercase">Garden Master Story</span>
-              <h2 class="text-2xl md:text-3xl font-serif font-bold text-neutral-900">“저에게 이 정원은 로또나 다름없습니다”</h2>
+              <h2 class="text-2xl md:text-3xl font-sans font-bold tracking-[-0.035em] text-neutral-900">“저에게 이 정원은 로또나 다름없습니다”</h2>
             </div>
           </div>
 
@@ -4208,8 +4208,8 @@ export const postsMain = {
 
           <!-- Highlight Quote Box -->
           <div class="relative bg-gradient-to-br from-emerald-50 to-teal-50/50 p-8 rounded-3xl border border-emerald-200/80 shadow-sm space-y-4">
-            <div class="text-4xl text-emerald-400 font-serif leading-none">“</div>
-            <blockquote class="text-lg md:text-xl font-serif font-semibold text-emerald-950 leading-relaxed -mt-4 pl-4 border-l-2 border-emerald-500">
+            <div class="text-4xl text-emerald-400 font-sans tracking-[-0.03em] leading-none">“</div>
+            <blockquote class="text-lg md:text-xl font-sans tracking-[-0.03em] font-semibold text-emerald-950 leading-relaxed -mt-4 pl-4 border-l-2 border-emerald-500">
               저에게 이 정원은 ‘로또’나 다름없습니다!<br/>
               제가 가슴 뛰게 좋아하는 일을 매일 할 수 있다는 것만으로도 어마어마한 행운인데, 정성껏 가꾼 공간에서 찾아오시는 분들이 편안하게 쉬어가고 힘을 얻어 가시니 저에겐 그 어떤 복권 당첨보다 값진 행복이죠.
             </blockquote>
@@ -4242,7 +4242,7 @@ export const postsMain = {
             <span class="w-8 h-8 rounded-full bg-emerald-700 text-white flex items-center justify-center font-bold text-sm">05</span>
             <div>
               <span class="text-xs font-bold text-emerald-800 tracking-widest uppercase">Family Stories & Walking Trails</span>
-              <h2 class="text-2xl md:text-3xl font-serif font-bold text-neutral-900">가족의 이름이 붙은 길, 동화 같은 미로 산책로</h2>
+              <h2 class="text-2xl md:text-3xl font-sans font-bold tracking-[-0.035em] text-neutral-900">가족의 이름이 붙은 길, 동화 같은 미로 산책로</h2>
             </div>
           </div>
 
@@ -4288,7 +4288,7 @@ export const postsMain = {
             <span class="w-8 h-8 rounded-full bg-emerald-700 text-white flex items-center justify-center font-bold text-sm">06</span>
             <div>
               <span class="text-xs font-bold text-emerald-800 tracking-widest uppercase">Special Tea Time</span>
-              <h2 class="text-2xl md:text-3xl font-serif font-bold text-neutral-900">귀한 ‘황칠차’와 독일식 케이크 ‘바움쿠헨’의 만남</h2>
+              <h2 class="text-2xl md:text-3xl font-sans font-bold tracking-[-0.035em] text-neutral-900">귀한 ‘황칠차’와 독일식 케이크 ‘바움쿠헨’의 만남</h2>
             </div>
           </div>
 
@@ -4333,7 +4333,7 @@ export const postsMain = {
 
           <!-- Moon Garden Infobox / Tips -->
           <div class="bg-gradient-to-br from-[#f2f7f4] to-[#e7f1eb] p-6 md:p-8 rounded-3xl border border-emerald-200 shadow-md space-y-4">
-            <h3 class="text-xl font-serif font-bold text-emerald-950 flex items-center gap-2">
+            <h3 class="text-xl font-sans font-bold tracking-[-0.035em] text-emerald-950 flex items-center gap-2">
               <span>🍵</span> 문가든 힐링 데이트 완전 정복 가이드
             </h3>
             <div class="grid grid-cols-1 md:grid-cols-3 gap-4 text-sm text-neutral-700 pt-2">
@@ -4361,7 +4361,7 @@ export const postsMain = {
           </div>
 
           <div class="p-6 md:p-8 rounded-3xl bg-neutral-900 text-white space-y-4">
-            <h3 class="text-2xl font-serif font-bold text-emerald-400">
+            <h3 class="text-2xl font-sans font-bold tracking-[-0.035em] text-emerald-400">
               자연과 가족의 사랑이 머무는 곳, 문가든으로 떠나보세요
             </h3>
             <p class="text-neutral-300 leading-relaxed">
@@ -4408,14 +4408,14 @@ export const postsMain = {
     "content": `
       <div class="max-w-4xl mx-auto space-y-10 text-neutral-800 leading-relaxed font-sans mt-4 px-2 md:px-0">
         <!-- Hero Section -->
-        <div class="space-y-4">
+        <div class="text-center space-y-3 pb-6 border-b border-neutral-100">
           <div class="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-amber-500/10 text-amber-700 text-xs font-bold uppercase tracking-wider">
             🍶 전통주 & 명품 정원 탐방 | 해남
           </div>
-          <h1 class="text-3xl md:text-5xl font-serif font-bold text-neutral-900 leading-tight">
-            막걸리 매니아 방문 필수!<br/>
-            <span class="text-amber-700 font-sans">무료 시음 가능한 해남 해창주조장 정원</span>
-          </h1>
+          <h2 class="text-2xl sm:text-3xl md:text-[30px] font-sans font-extrabold text-neutral-900 tracking-[-0.04em] leading-[1.38] break-keep [text-wrap:balance]">
+            <span class="block text-lg sm:text-xl md:text-[22px] font-bold text-neutral-700 tracking-[-0.03em] mb-1">막걸리 매니아 방문 필수!</span>
+            <span class="text-amber-700 font-sans block font-extrabold tracking-[-0.04em]">무료 시음 가능한 해남 해창주조장 정원</span>
+          </h2>
           <p class="text-base md:text-lg text-neutral-600 font-light leading-relaxed">
             100년 가까운 세월을 품은 근대 역사 정원과 순수 유기농 찹쌀의 단맛! 술 익는 향기 솔솔 풍기는 해남의 독보적인 핫플레이스 해창주조장을 소개합니다.
           </p>
@@ -4444,7 +4444,7 @@ export const postsMain = {
             <span class="w-8 h-8 rounded-full bg-amber-600 text-white flex items-center justify-center font-bold text-sm">01</span>
             <div>
               <span class="text-xs font-bold text-amber-700 tracking-widest uppercase">Location & Parking</span>
-              <h2 class="text-2xl md:text-3xl font-serif font-bold text-neutral-900">편리한 주차와 여유로운 첫걸음</h2>
+              <h2 class="text-2xl md:text-3xl font-sans font-bold tracking-[-0.035em] text-neutral-900">편리한 주차와 여유로운 첫걸음</h2>
             </div>
           </div>
 
@@ -4479,7 +4479,7 @@ export const postsMain = {
             <span class="w-8 h-8 rounded-full bg-amber-600 text-white flex items-center justify-center font-bold text-sm">02</span>
             <div>
               <span class="text-xs font-bold text-amber-700 tracking-widest uppercase">Iconic Spot</span>
-              <h2 class="text-2xl md:text-3xl font-serif font-bold text-neutral-900">정겨운 장독대와 이색 롤스로이스 포토존</h2>
+              <h2 class="text-2xl md:text-3xl font-sans font-bold tracking-[-0.035em] text-neutral-900">정겨운 장독대와 이색 롤스로이스 포토존</h2>
             </div>
           </div>
 
@@ -4515,7 +4515,7 @@ export const postsMain = {
             <span class="w-8 h-8 rounded-full bg-amber-600 text-white flex items-center justify-center font-bold text-sm">03</span>
             <div>
               <span class="text-xs font-bold text-amber-700 tracking-widest uppercase">History & Heritage</span>
-              <h2 class="text-2xl md:text-3xl font-serif font-bold text-neutral-900">1927년부터 이어온 100년의 숨결과 근대 건축</h2>
+              <h2 class="text-2xl md:text-3xl font-sans font-bold tracking-[-0.035em] text-neutral-900">1927년부터 이어온 100년의 숨결과 근대 건축</h2>
             </div>
           </div>
 
@@ -4572,7 +4572,7 @@ export const postsMain = {
             <span class="w-8 h-8 rounded-full bg-amber-600 text-white flex items-center justify-center font-bold text-sm">04</span>
             <div>
               <span class="text-xs font-bold text-amber-700 tracking-widest uppercase">Brewing Philosophy</span>
-              <h2 class="text-2xl md:text-3xl font-serif font-bold text-neutral-900">인공 감미료 ZERO! 순수 유기농 찹쌀의 단맛</h2>
+              <h2 class="text-2xl md:text-3xl font-sans font-bold tracking-[-0.035em] text-neutral-900">인공 감미료 ZERO! 순수 유기농 찹쌀의 단맛</h2>
             </div>
           </div>
 
@@ -4630,7 +4630,7 @@ export const postsMain = {
             <span class="w-8 h-8 rounded-full bg-amber-600 text-white flex items-center justify-center font-bold text-sm">05</span>
             <div>
               <span class="text-xs font-bold text-amber-700 tracking-widest uppercase">Tasting Experience</span>
-              <h2 class="text-2xl md:text-3xl font-serif font-bold text-neutral-900">시그니처 12도 vs 9도 무료 비교 시음</h2>
+              <h2 class="text-2xl md:text-3xl font-sans font-bold tracking-[-0.035em] text-neutral-900">시그니처 12도 vs 9도 무료 비교 시음</h2>
             </div>
           </div>
 
@@ -4695,7 +4695,7 @@ export const postsMain = {
             <span class="w-8 h-8 rounded-full bg-amber-600 text-white flex items-center justify-center font-bold text-sm">06</span>
             <div>
               <span class="text-xs font-bold text-amber-700 tracking-widest uppercase">Garden Stroll</span>
-              <h2 class="text-2xl md:text-3xl font-serif font-bold text-neutral-900">세월 깃든 고목과 연못, 솔솔 풍기는 술 익는 향기</h2>
+              <h2 class="text-2xl md:text-3xl font-sans font-bold tracking-[-0.035em] text-neutral-900">세월 깃든 고목과 연못, 솔솔 풍기는 술 익는 향기</h2>
             </div>
           </div>
 
@@ -4731,7 +4731,7 @@ export const postsMain = {
             <span class="w-8 h-8 rounded-full bg-amber-600 text-white flex items-center justify-center font-bold text-sm">07</span>
             <div>
               <span class="text-xs font-bold text-amber-700 tracking-widest uppercase">Purchase & Delivery</span>
-              <h2 class="text-2xl md:text-3xl font-serif font-bold text-neutral-900">현장 병당 3,000원 할인 & 전국 택배 꿀팁</h2>
+              <h2 class="text-2xl md:text-3xl font-sans font-bold tracking-[-0.035em] text-neutral-900">현장 병당 3,000원 할인 & 전국 택배 꿀팁</h2>
             </div>
           </div>
 
@@ -4764,7 +4764,7 @@ export const postsMain = {
         <section class="space-y-6">
           <div class="flex items-center gap-3">
             <span class="w-8 h-8 rounded-full bg-neutral-900 text-white flex items-center justify-center font-bold text-sm">✦</span>
-            <h2 class="text-2xl md:text-3xl font-serif font-bold text-neutral-900">에필로그: 역사와 술, 정원이 함께하는 완벽한 힐링</h2>
+            <h2 class="text-2xl md:text-3xl font-sans font-bold tracking-[-0.035em] text-neutral-900">에필로그: 역사와 술, 정원이 함께하는 완벽한 힐링</h2>
           </div>
 
           <!-- [20] Photo -->
@@ -4816,14 +4816,14 @@ export const postsMain = {
     "content": `
       <div class="max-w-4xl mx-auto space-y-10 text-neutral-800 leading-relaxed font-sans mt-4 px-2 md:px-0">
         <!-- Hero Section -->
-        <div class="space-y-4">
+        <div class="text-center space-y-3 pb-6 border-b border-neutral-100">
           <div class="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-primary/10 text-primary text-xs font-bold uppercase tracking-wider">
             🍽️ 특별 기획 | 남도 맛있는 정원 투어
           </div>
-          <h1 class="text-3xl md:text-5xl font-serif font-bold text-neutral-900 leading-tight">
-            남도와 정원에 관심있는 사람 모여라!<br/>
-            <span class="text-primary font-sans">맛있는 정원투어 미식 여행</span>
-          </h1>
+          <h2 class="text-2xl sm:text-3xl md:text-[30px] font-sans font-extrabold text-neutral-900 tracking-[-0.04em] leading-[1.38] break-keep [text-wrap:balance]">
+            <span class="block text-lg sm:text-xl md:text-[22px] font-bold text-neutral-700 tracking-[-0.03em] mb-1">남도와 정원에 관심있는 사람 모여라!</span>
+            <span class="text-primary font-sans block font-extrabold tracking-[-0.04em]">맛있는 정원투어 미식 여행</span>
+          </h2>
           <p class="text-base md:text-lg text-neutral-600 font-light leading-relaxed">
             남도의 아름다운 정원과 지역의 깊은 손맛이 어우러진 특별한 하루! 목포역에서 출발해 완도, 해남, 진도까지 오감을 사로잡는 생생한 당일치기 미식 로드무비를 전해드립니다.
           </p>
@@ -4855,7 +4855,7 @@ export const postsMain = {
             <span class="w-8 h-8 rounded-full bg-primary text-white flex items-center justify-center font-bold text-sm">01</span>
             <div>
               <span class="text-xs font-bold text-primary tracking-widest uppercase">Wando Gourmet</span>
-              <h2 class="text-2xl md:text-3xl font-serif font-bold text-neutral-900">[완도] 만남의 광장: 감탄이 절로 나오는 닭코스 요리</h2>
+              <h2 class="text-2xl md:text-3xl font-sans font-bold tracking-[-0.035em] text-neutral-900">[완도] 만남의 광장: 감탄이 절로 나오는 닭코스 요리</h2>
             </div>
           </div>
 
@@ -4913,7 +4913,7 @@ export const postsMain = {
             <span class="w-8 h-8 rounded-full bg-primary text-white flex items-center justify-center font-bold text-sm">02</span>
             <div>
               <span class="text-xs font-bold text-primary tracking-widest uppercase">Wando Garden</span>
-              <h2 class="text-2xl md:text-3xl font-serif font-bold text-neutral-900">[완도] 아내의 정원: 사랑으로 빚어낸 유럽형 힐링 정원</h2>
+              <h2 class="text-2xl md:text-3xl font-sans font-bold tracking-[-0.035em] text-neutral-900">[완도] 아내의 정원: 사랑으로 빚어낸 유럽형 힐링 정원</h2>
             </div>
           </div>
 
@@ -4972,7 +4972,7 @@ export const postsMain = {
             <span class="w-8 h-8 rounded-full bg-primary text-white flex items-center justify-center font-bold text-sm">03</span>
             <div>
               <span class="text-xs font-bold text-primary tracking-widest uppercase">Haenam Brewery</span>
-              <h2 class="text-2xl md:text-3xl font-serif font-bold text-neutral-900">[해남] 해창주조장: 유기농 찹쌀이 주는 천연 단맛과 백년 정원</h2>
+              <h2 class="text-2xl md:text-3xl font-sans font-bold tracking-[-0.035em] text-neutral-900">[해남] 해창주조장: 유기농 찹쌀이 주는 천연 단맛과 백년 정원</h2>
             </div>
           </div>
 
@@ -5029,7 +5029,7 @@ export const postsMain = {
             <span class="w-8 h-8 rounded-full bg-primary text-white flex items-center justify-center font-bold text-sm">04</span>
             <div>
               <span class="text-xs font-bold text-primary tracking-widest uppercase">Haenam Garden</span>
-              <h2 class="text-2xl md:text-3xl font-serif font-bold text-neutral-900">[해남] 문가든: 가족 정원에서 맛본 황칠차와 바움쿠헨</h2>
+              <h2 class="text-2xl md:text-3xl font-sans font-bold tracking-[-0.035em] text-neutral-900">[해남] 문가든: 가족 정원에서 맛본 황칠차와 바움쿠헨</h2>
             </div>
           </div>
 
@@ -5087,7 +5087,7 @@ export const postsMain = {
             <span class="w-8 h-8 rounded-full bg-primary text-white flex items-center justify-center font-bold text-sm">05</span>
             <div>
               <span class="text-xs font-bold text-primary tracking-widest uppercase">Jindo Gourmet & Sunset</span>
-              <h2 class="text-2xl md:text-3xl font-serif font-bold text-neutral-900">[진도] 진도휴식: 붉은 노을 바다와 귀한 어란, 홍주의 향연</h2>
+              <h2 class="text-2xl md:text-3xl font-sans font-bold tracking-[-0.035em] text-neutral-900">[진도] 진도휴식: 붉은 노을 바다와 귀한 어란, 홍주의 향연</h2>
             </div>
           </div>
 
@@ -5143,7 +5143,7 @@ export const postsMain = {
         <section class="space-y-6">
           <div class="flex items-center gap-3">
             <span class="w-8 h-8 rounded-full bg-neutral-900 text-white flex items-center justify-center font-bold text-sm">✦</span>
-            <h2 class="text-2xl md:text-3xl font-serif font-bold text-neutral-900">에필로그: 하루 만에 만난 남도의 깊은 맛과 멋</h2>
+            <h2 class="text-2xl md:text-3xl font-sans font-bold tracking-[-0.035em] text-neutral-900">에필로그: 하루 만에 만난 남도의 깊은 맛과 멋</h2>
           </div>
 
           <!-- [22] Photo -->
@@ -5211,7 +5211,7 @@ export const postsMain = {
                 2026. 11. 06 — 11. 20
               </span>
             </div>
-            <h1 class="text-2xl md:text-4xl font-serif font-bold leading-tight md:leading-normal">
+            <h1 class="text-2xl md:text-4xl font-sans font-bold tracking-[-0.035em] leading-tight md:leading-normal">
               남도의 정원을 여행하는 2주<br />
               <span class="text-primary-foreground font-sans">남도예술정원 여행주간</span>
             </h1>
@@ -5377,7 +5377,7 @@ export const postsMain = {
             <span class="inline-block bg-primary text-white text-[10px] md:text-xs font-bold uppercase tracking-[0.2em] px-4 py-1.5 rounded-full">
               OFFICIAL NOTICE
             </span>
-            <h1 class="text-2xl md:text-4xl font-serif font-bold leading-tight md:leading-normal">
+            <h1 class="text-2xl md:text-4xl font-sans font-bold tracking-[-0.035em] leading-tight md:leading-normal">
               소도시 여행권역 육성사업 2권역<br />
               <span class="text-primary-foreground font-sans">남도예술정원 서포터즈 모집</span>
             </h1>
@@ -5622,7 +5622,7 @@ export const postsMain = {
             <span class="inline-block bg-primary text-white text-[10px] md:text-xs font-bold uppercase tracking-[0.2em] px-4 py-1.5 rounded-full">
               OFFICIAL NOTICE
             </span>
-            <h1 class="text-2xl md:text-4xl font-serif font-bold leading-tight md:leading-normal">
+            <h1 class="text-2xl md:text-4xl font-sans font-bold tracking-[-0.035em] leading-tight md:leading-normal">
               2026 소도시 여행권역 육성사업 (2권역)<br />
               <span class="text-primary-foreground font-sans">남도예술정원 관광콘텐츠 크리에이터 공모</span>
             </h1>
@@ -5981,7 +5981,7 @@ export const postsMain = {
         
         <div class="text-center space-y-8 mb-20">
           <span class="text-primary font-bold tracking-[0.3em] uppercase text-sm">Special Feature</span>
-          <h1 class="text-4xl md:text-6xl font-serif text-neutral-900 font-bold leading-tight">
+          <h1 class="text-4xl md:text-6xl font-sans tracking-[-0.03em] text-neutral-900 font-bold leading-tight">
             남도예술정원:<br />
             8개의 테마로 걷는<br />
             치유와 사유의 길
@@ -5995,7 +5995,7 @@ export const postsMain = {
           <div class="flex flex-col md:flex-row md:items-end justify-between gap-6 border-b pb-8 border-neutral-200">
             <div class="space-y-3">
               <span class="text-primary/60 font-medium tracking-widest uppercase text-xs">Garden No.01</span>
-              <h2 class="text-3xl md:text-5xl font-serif font-bold text-neutral-900">🌙 문가든 <span class="text-xl font-normal text-neutral-400 font-sans ml-3">(Moon Garden)</span></h2>
+              <h2 class="text-3xl md:text-5xl font-sans font-bold tracking-[-0.035em] text-neutral-900">🌙 문가든 <span class="text-xl font-normal text-neutral-400 font-sans ml-3">(Moon Garden)</span></h2>
               <p class="text-neutral-500 text-sm font-medium tracking-wide">📍 전남 해남군 계곡면</p>
             </div>
           </div>
@@ -6008,7 +6008,7 @@ export const postsMain = {
               </div>
             </div>
             <div class="absolute bottom-6 left-6 right-6 bg-white/95 backdrop-blur-sm p-5 rounded-xl border border-white/20 shadow-lg">
-              <p class="text-neutral-700 font-serif italic text-base md:text-lg text-center">"달빛이 머무는 곳, 문가든으로 오세요"</p>
+              <p class="text-neutral-700 font-sans tracking-[-0.03em] italic text-base md:text-lg text-center">"달빛이 머무는 곳, 문가든으로 오세요"</p>
             </div>
           </a>
 
@@ -6030,7 +6030,7 @@ export const postsMain = {
               </div>
             </div>
             <div class="bg-neutral-50 p-8 rounded-3xl space-y-6">
-              <h4 class="text-lg font-bold text-neutral-900 border-b pb-4 border-neutral-200 italic font-serif">'달의 정원'이 건네는 위로</h4>
+              <h4 class="text-lg font-bold text-neutral-900 border-b pb-4 border-neutral-200 italic font-sans tracking-[-0.03em]">'달의 정원'이 건네는 위로</h4>
               <p class="text-neutral-600 font-light leading-relaxed">Moon, 달을 닮은 이름처럼 문가든은 언제나 부드럽게 빛납니다. 지치고 무거운 마음을 안고 찾아온 이에게, 이 숲은 아무 말 없이 곁에 앉아 함께 밤을 보내 줍니다. 신비로운 달빛 아래, 당신의 이야기가 다시 피어오를 것입니다.</p>
               <div class="pt-4">
                 <a href="/posts/h26-haenam-moongarden-guide" class="inline-flex items-center gap-2 text-primary font-bold uppercase tracking-widest text-sm hover:underline group">
@@ -6045,7 +6045,7 @@ export const postsMain = {
           <div class="flex flex-col md:flex-row md:items-end justify-between gap-6 border-b pb-8 border-neutral-200">
             <div class="space-y-3">
               <span class="text-primary/60 font-medium tracking-widest uppercase text-xs">Garden No.02</span>
-              <h2 class="text-3xl md:text-5xl font-serif font-bold text-neutral-900">🌊 바하정원 <span class="text-xl font-normal text-neutral-400 font-sans ml-3">(Baha Garden)</span></h2>
+              <h2 class="text-3xl md:text-5xl font-sans font-bold tracking-[-0.035em] text-neutral-900">🌊 바하정원 <span class="text-xl font-normal text-neutral-400 font-sans ml-3">(Baha Garden)</span></h2>
               <p class="text-neutral-500 text-sm font-medium tracking-wide">📍 전남 완도군 군외면</p>
             </div>
           </div>
@@ -6058,7 +6058,7 @@ export const postsMain = {
               </div>
             </div>
             <div class="absolute bottom-6 left-6 right-6 bg-white/95 backdrop-blur-sm p-5 rounded-xl border border-white/20 shadow-lg">
-              <p class="text-neutral-700 font-serif italic text-base md:text-lg text-center">"바다와 하늘이 하나 되는 곳, 바람의 언덕에 서다"</p>
+              <p class="text-neutral-700 font-sans tracking-[-0.03em] italic text-base md:text-lg text-center">"바다와 하늘이 하나 되는 곳, 바람의 언덕에 서다"</p>
             </div>
           </a>
 
@@ -6095,7 +6095,7 @@ export const postsMain = {
           <div class="flex flex-col md:flex-row md:items-end justify-between gap-6 border-b pb-8 border-neutral-200">
             <div class="space-y-3">
               <span class="text-primary/60 font-medium tracking-widest uppercase text-xs">Garden No.03</span>
-              <h2 class="text-3xl md:text-5xl font-serif font-bold text-neutral-900">🌿 비원 <span class="text-xl font-normal text-neutral-400 font-sans ml-3">(Secret Garden)</span></h2>
+              <h2 class="text-3xl md:text-5xl font-sans font-bold tracking-[-0.035em] text-neutral-900">🌿 비원 <span class="text-xl font-normal text-neutral-400 font-sans ml-3">(Secret Garden)</span></h2>
               <p class="text-neutral-500 text-sm font-medium tracking-wide">📍 전남 해남군 삼산면</p>
             </div>
           </div>
@@ -6108,7 +6108,7 @@ export const postsMain = {
               </div>
             </div>
             <div class="absolute bottom-6 left-6 right-6 bg-white/95 backdrop-blur-sm p-5 rounded-xl border border-white/20 shadow-lg">
-              <p class="text-neutral-700 font-serif italic text-base md:text-lg text-center">"산비탈이 품은 비밀, 1만 평의 정원이 열립니다"</p>
+              <p class="text-neutral-700 font-sans tracking-[-0.03em] italic text-base md:text-lg text-center">"산비탈이 품은 비밀, 1만 평의 정원이 열립니다"</p>
             </div>
           </a>
 
@@ -6145,7 +6145,7 @@ export const postsMain = {
           <div class="flex flex-col md:flex-row md:items-end justify-between gap-6 border-b pb-8 border-neutral-200">
             <div class="space-y-3">
               <span class="text-primary/60 font-medium tracking-widest uppercase text-xs">Garden No.04</span>
-              <h2 class="text-3xl md:text-5xl font-serif font-bold text-neutral-900">🌱 산이정원 <span class="text-xl font-normal text-neutral-400 font-sans ml-3">(Sani Garden)</span></h2>
+              <h2 class="text-3xl md:text-5xl font-sans font-bold tracking-[-0.035em] text-neutral-900">🌱 산이정원 <span class="text-xl font-normal text-neutral-400 font-sans ml-3">(Sani Garden)</span></h2>
               <p class="text-neutral-500 text-sm font-medium tracking-wide">📍 전남 해남군 산이면</p>
             </div>
           </div>
@@ -6158,7 +6158,7 @@ export const postsMain = {
               </div>
             </div>
             <div class="absolute bottom-6 left-6 right-6 bg-white/95 backdrop-blur-sm p-5 rounded-xl border border-white/20 shadow-lg">
-              <p class="text-neutral-700 font-serif italic text-base md:text-lg text-center">"오늘 심은 씨앗이, 미래세대의 유산이 됩니다"</p>
+              <p class="text-neutral-700 font-sans tracking-[-0.03em] italic text-base md:text-lg text-center">"오늘 심은 씨앗이, 미래세대의 유산이 됩니다"</p>
             </div>
           </a>
 
@@ -6195,7 +6195,7 @@ export const postsMain = {
           <div class="flex flex-col md:flex-row md:items-end justify-between gap-6 border-b pb-8 border-neutral-200">
             <div class="space-y-3">
               <span class="text-primary/60 font-medium tracking-widest uppercase text-xs">Garden No.05</span>
-              <h2 class="text-3xl md:text-5xl font-serif font-bold text-neutral-900">💐 아내의 정원 <span class="text-xl font-normal text-neutral-400 font-sans ml-3">(The Wife's Garden)</span></h2>
+              <h2 class="text-3xl md:text-5xl font-sans font-bold tracking-[-0.035em] text-neutral-900">💐 아내의 정원 <span class="text-xl font-normal text-neutral-400 font-sans ml-3">(The Wife's Garden)</span></h2>
               <p class="text-neutral-500 text-sm font-medium tracking-wide">📍 전남 완도군 군외면</p>
             </div>
           </div>
@@ -6208,7 +6208,7 @@ export const postsMain = {
               </div>
             </div>
             <div class="absolute bottom-6 left-6 right-6 bg-white/95 backdrop-blur-sm p-5 rounded-xl border border-white/20 shadow-lg">
-              <p class="text-neutral-700 font-serif italic text-base md:text-lg text-center">"사랑이 심은 꽃들이, 1만 5천 평의 숲이 되었습니다"</p>
+              <p class="text-neutral-700 font-sans tracking-[-0.03em] italic text-base md:text-lg text-center">"사랑이 심은 꽃들이, 1만 5천 평의 숲이 되었습니다"</p>
             </div>
           </a>
 
@@ -6245,7 +6245,7 @@ export const postsMain = {
           <div class="flex flex-col md:flex-row md:items-end justify-between gap-6 border-b pb-8 border-neutral-200">
             <div class="space-y-3">
               <span class="text-primary/60 font-medium tracking-widest uppercase text-xs">Garden No.06</span>
-              <h2 class="text-3xl md:text-5xl font-serif font-bold text-neutral-900">🌊 진도휴식 <span class="text-xl font-normal text-neutral-400 font-sans ml-3">(Jindo Rest)</span></h2>
+              <h2 class="text-3xl md:text-5xl font-sans font-bold tracking-[-0.035em] text-neutral-900">🌊 진도휴식 <span class="text-xl font-normal text-neutral-400 font-sans ml-3">(Jindo Rest)</span></h2>
               <p class="text-neutral-500 text-sm font-medium tracking-wide">📍 전남 진도군 임회면</p>
             </div>
           </div>
@@ -6258,7 +6258,7 @@ export const postsMain = {
               </div>
             </div>
             <div class="absolute bottom-6 left-6 right-6 bg-white/95 backdrop-blur-sm p-5 rounded-xl border border-white/20 shadow-lg">
-              <p class="text-neutral-700 font-serif italic text-base md:text-lg text-center">"동백 숲이 품은 바다, 진도에서 진짜 쉼을 만납니다"</p>
+              <p class="text-neutral-700 font-sans tracking-[-0.03em] italic text-base md:text-lg text-center">"동백 숲이 품은 바다, 진도에서 진짜 쉼을 만납니다"</p>
             </div>
           </a>
 
@@ -6296,7 +6296,7 @@ export const postsMain = {
           <div class="flex flex-col md:flex-row md:items-end justify-between gap-6 border-b pb-8 border-neutral-200">
             <div class="space-y-3">
               <span class="text-primary/60 font-medium tracking-widest uppercase text-xs">Garden No.07</span>
-              <h2 class="text-3xl md:text-5xl font-serif font-bold text-neutral-900">🌲 파인클라우드 <span class="text-xl font-normal text-neutral-400 font-sans ml-3">(Pine Cloud)</span></h2>
+              <h2 class="text-3xl md:text-5xl font-sans font-bold tracking-[-0.035em] text-neutral-900">🌲 파인클라우드 <span class="text-xl font-normal text-neutral-400 font-sans ml-3">(Pine Cloud)</span></h2>
               <p class="text-neutral-500 text-sm font-medium tracking-wide">📍 전남 신안군 자은면</p>
             </div>
           </div>
@@ -6309,7 +6309,7 @@ export const postsMain = {
               </div>
             </div>
             <div class="absolute bottom-6 left-6 right-6 bg-white/95 backdrop-blur-sm p-5 rounded-xl border border-white/20 shadow-lg">
-              <p class="text-neutral-700 font-serif italic text-base md:text-lg text-center">"별장 하나 꿈꾸다, 정원이 인생이 되었습니다"</p>
+              <p class="text-neutral-700 font-sans tracking-[-0.03em] italic text-base md:text-lg text-center">"별장 하나 꿈꾸다, 정원이 인생이 되었습니다"</p>
             </div>
           </a>
 
@@ -6331,7 +6331,7 @@ export const postsMain = {
               </div>
             </div>
             <div class="bg-neutral-50 p-8 rounded-3xl border-2 border-primary/5">
-              <h4 class="text-lg font-bold text-neutral-900 border-b pb-4 border-neutral-100 italic font-serif">여행의 가장 아름다운 쉼표</h4>
+              <h4 class="text-lg font-bold text-neutral-900 border-b pb-4 border-neutral-100 italic font-sans tracking-[-0.03em]">여행의 가장 아름다운 쉼표</h4>
               <p class="text-neutral-600 font-light leading-relaxed text-sm">2022년 예쁜정원 콘테스트 대상이 말해주듯, 파인클라우드는 머무는 것만으로도 특별합니다. 동백 파마머리 벽화를 지나 이곳에 닿는 순간, 여행의 분주함은 멈추고 가장 여유로운 쉼표 하나가 당신 앞에 펼쳐집니다.</p>
               <div class="pt-6">
                 <a href="/posts/s2-pinecloud-photo" class="inline-flex items-center gap-2 text-primary font-bold uppercase tracking-widest text-sm hover:underline group">
@@ -6346,7 +6346,7 @@ export const postsMain = {
           <div class="flex flex-col md:flex-row md:items-end justify-between gap-6 border-b pb-8 border-neutral-200">
             <div class="space-y-3">
               <span class="text-primary/60 font-medium tracking-widest uppercase text-xs">Garden No.08</span>
-              <h2 class="text-3xl md:text-5xl font-serif font-bold text-neutral-900">🌳 포레스트 수목원 <span class="text-xl font-normal text-neutral-400 font-sans ml-3">(4est Arboretum)</span></h2>
+              <h2 class="text-3xl md:text-5xl font-sans font-bold tracking-[-0.035em] text-neutral-900">🌳 포레스트 수목원 <span class="text-xl font-normal text-neutral-400 font-sans ml-3">(4est Arboretum)</span></h2>
               <p class="text-neutral-500 text-sm font-medium tracking-wide">📍 전남 해남군 현산면</p>
             </div>
           </div>
@@ -6359,7 +6359,7 @@ export const postsMain = {
               </div>
             </div>
             <div class="absolute bottom-6 left-6 right-6 bg-white/95 backdrop-blur-sm p-5 rounded-xl border border-white/20 shadow-lg">
-              <p class="text-neutral-700 font-serif italic text-base md:text-lg text-center">"은퇴 후 시작된 여정, 숲이 인생의 마지막 표시가 되다"</p>
+              <p class="text-neutral-700 font-sans tracking-[-0.03em] italic text-base md:text-lg text-center">"은퇴 후 시작된 여정, 숲이 인생의 마지막 표시가 되다"</p>
             </div>
           </a>
 
@@ -6381,7 +6381,7 @@ export const postsMain = {
               </div>
             </div>
             <div class="bg-primary p-8 rounded-3xl text-white shadow-xl">
-              <h4 class="text-lg font-bold mb-4 font-serif">숲이 건네는 네 가지 선물</h4>
+              <h4 class="text-lg font-bold mb-4 font-sans tracking-[-0.03em]">숲이 건네는 네 가지 선물</h4>
               <p class="font-light leading-relaxed text-sm opacity-90">포레스트 수목원을 걷는다는 것은 별처럼 빛나는 순간을 발견하고, 돌의 기억을 읽으며, 숲이 써 내려간 이야기 속에서 당신만의 새로운 배움을 가져가는 여정입니다. 이 숲은 당신에게 깊은 성찰의 시간을 선물합니다.</p>
               <div class="pt-6">
                 <a href="/posts/h23-haenam-4est-arboretum" class="inline-flex items-center gap-2 text-white font-bold uppercase tracking-widest text-sm hover:underline group">
@@ -6394,7 +6394,7 @@ export const postsMain = {
 
         <div class="pt-24 border-t border-neutral-100 text-center space-y-12">
             <div class="inline-block w-20 h-1 bg-primary mb-6"></div>
-            <p class="text-2xl md:text-4xl font-serif text-neutral-400 italic font-light max-w-3xl mx-auto leading-relaxed">
+            <p class="text-2xl md:text-4xl font-sans tracking-[-0.03em] text-neutral-400 italic font-light max-w-3xl mx-auto leading-relaxed">
                 “정원을 가꾸는 일은<br /> 
                 곧 자신의 인생을 가꾸는 일과 같습니다.”
             </p>
@@ -6441,7 +6441,7 @@ export const postsMain = {
               </span>
               <span class="text-xs text-emerald-200/80 font-mono">2026.07.28</span>
             </div>
-            <h1 class="text-2xl md:text-4xl font-serif font-bold leading-tight md:leading-normal text-white">
+            <h1 class="text-2xl md:text-4xl font-sans font-bold tracking-[-0.035em] leading-tight md:leading-normal text-white">
               남도예술정원 협동조합<br />
               <span class="text-emerald-300 font-sans">"정원 관광의 새로운 이정표를 세우다"</span>
             </h1>
@@ -6467,7 +6467,7 @@ export const postsMain = {
 
         <!-- Keywords Analysis -->
         <div class="bg-emerald-50/70 rounded-3xl border border-emerald-200/80 p-8 md:p-10 space-y-6">
-          <h3 class="text-xl font-bold text-emerald-950 flex items-center gap-2 pb-4 border-b border-emerald-200 font-serif">
+          <h3 class="text-xl font-bold text-emerald-950 flex items-center gap-2 pb-4 border-b border-emerald-200 font-sans tracking-[-0.03em]">
             <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5 text-emerald-700" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><line x1="12" y1="16" x2="12" y2="12"/><line x1="12" y1="8" x2="12.01" y2="8"/></svg>
             남도예술정원 핵심 키워드 3
           </h3>
@@ -6501,7 +6501,7 @@ export const postsMain = {
 
         <!-- Main Body Story -->
         <div class="bg-white rounded-3xl border border-neutral-200/60 p-8 md:p-10 shadow-sm space-y-6 text-neutral-700 leading-relaxed font-light">
-          <h3 class="text-2xl font-serif font-bold text-neutral-900 pb-4 border-b border-neutral-100">
+          <h3 class="text-2xl font-sans font-bold tracking-[-0.035em] text-neutral-900 pb-4 border-b border-neutral-100">
             보도 내용 정리
           </h3>
 
@@ -6529,7 +6529,7 @@ export const postsMain = {
         <div class="bg-gradient-to-br from-emerald-900 via-emerald-800 to-[#143d2d] text-white rounded-3xl p-8 md:p-10 text-center space-y-5 shadow-2xl border border-emerald-500/30 relative overflow-hidden">
           <div class="absolute -right-10 -bottom-10 w-40 h-40 bg-emerald-400/20 rounded-full blur-2xl pointer-events-none"></div>
           <div class="relative z-10 space-y-4">
-            <h4 class="text-2xl md:text-3xl font-serif font-bold text-white tracking-tight drop-shadow-sm">
+            <h4 class="text-2xl md:text-3xl font-sans font-bold tracking-[-0.035em] text-white tracking-tight drop-shadow-sm">
               KBC광주방송 원문 기사 확인하기
             </h4>
             <p class="text-sm md:text-base text-emerald-100 font-light leading-relaxed max-w-xl mx-auto opacity-95">
