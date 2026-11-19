@@ -1,0 +1,10 @@
+node_modules
+dist
+.git
+raw_photos
+scratch
+.temp_inspect
+*.zip
+완도
+진도타워*
+docs
