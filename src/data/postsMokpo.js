@@ -1,6 +1,6 @@
 export const postsMokpo = {
   "m2-food-april": {
-    title: "🍽️ AI 리서처가 추천하는 4월의 목포 맛집 탐방",
+    title: "🍽️ AI 에디터가 큐레이션한 4월의 목포 맛집 탐방",
     description: "4월 목포 제철 맛집 8선. 꽃게무침·민어회·세발낙지 등 목포9미 완전 정복 가이드. 현지인 추천 맛집 상세 정보와 페르소나별 추천 코스 제공.",
     content: `
       <div class="bg-[#fafaf7] text-[#1a3a5c] font-sans leading-relaxed">
@@ -8,19 +8,18 @@ export const postsMokpo = {
         <section class="relative bg-gradient-to-br from-[#1a3a5c] to-[#2c5282] text-white py-20 px-6 rounded-3xl overflow-hidden mb-12 shadow-2xl">
           <div class="relative z-10 max-w-4xl mx-auto text-center">
             <span class="inline-block px-4 py-1 bg-[#c9a84c] text-[#1a3a5c] text-xs font-bold rounded-full mb-6 uppercase tracking-widest">Editor's Choice</span>
-            <h1 class="text-4xl md:text-6xl font-bold mb-6 tracking-tight">🍽️ AI 리서처가 추천하는<br/>4월의 목포 맛집 탐방</h1>
             <p class="text-xl md:text-2xl text-blue-100 font-light mb-10 italic">"당신이 목포에 가야 할 이유, 지금 바로 확인하세요"</p>
             <div class="flex items-center justify-center gap-4 text-sm text-blue-200 mb-12">
               <span>2026. 03. 27</span>
               <span>•</span>
-              <span>AI 리서처 포스팅</span>
+              <span>AI 에디터 큐레이션</span>
             </div>
             
             <!-- Highlight Box -->
             <div class="bg-white/10 backdrop-blur-md border border-white/20 p-8 rounded-2xl text-left max-w-2xl mx-auto shadow-inner">
               <p class="text-lg leading-relaxed">
                 <span class="text-[#c9a84c] text-2xl mr-2">🌟</span>
-                <strong>핵심 요약:</strong> 4월 목포는 꽃게·민어·세발낙지가 제철을 맞이하는 미식의 절정기 — 목포9미를 중심으로 현지인 단골 맛집 8선을 AI 리서처가 직접 선별했습니다.
+                <strong>핵심 요약:</strong> 4월 목포는 꽃게·민어·세발낙지가 제철을 맞이하는 미식의 절정기 — 목포9미를 중심으로 현지인 단골 맛집 8선을 AI 에디터가 직접 선별했습니다.
               </p>
             </div>
           </div>
@@ -362,7 +361,7 @@ export const postsMokpo = {
 
         <!-- [Section 8] Footer Info (Post Content Footer) -->
         <footer class="text-center pt-12 border-t border-neutral-200">
-          <p class="text-lg font-serif italic text-[#1a3a5c] mb-4">🌊 남도예술정원</p>
+          <p class="text-lg font-sans tracking-[-0.035em] italic text-[#1a3a5c] mb-4">🌊 남도예술정원</p>
           <p class="text-xs text-neutral-400 mb-8">© 2026 남도예술정원 | 본 게시물의 무단 전재 및 재배포를 금지합니다.</p>
           <div class="flex flex-wrap justify-center gap-2">
             <span class="px-3 py-1 bg-neutral-100 text-neutral-500 text-[10px] rounded-full">#목포맛집</span>
@@ -375,7 +374,7 @@ export const postsMokpo = {
     `,
     image: "/images/post-food-jokzakaya.webp",
     date: "2026. 04. 01",
-    author: "AI 리서처",
+    author: "AI 에디터",
     readTime: "6분",
     keywords: "목포맛집, 목포9미, 4월여행, 전라남도맛집, 꽃게무침, 민어회, 세발낙지, 아구탕, 목포여행"
   },
@@ -384,8 +383,7 @@ export const postsMokpo = {
     title: "[목포 맛집] 에디터 픽! 실패 없는 유달산 조각공원 주변 맛집 리스트 🍴",
     description: "조각공원 산책 후 즐기는 현지인 강력 추천 맛집! 페르소나별 맞춤 코스와 실패 없는 맛집 리스트를 공개합니다.",
     content: `
-      <h2>[목포 맛집] 에디터 픽! 실패 없는 유달산 조각공원 주변 맛집 리스트 🍴</h2>
-      <p>안녕하세요! 남도예술정원 AI리서처입니다. 😊</p>
+      <p>안녕하세요! 남도예술정원 AI 에디터입니다. 😊</p>
       
       <hr />
       
@@ -395,25 +393,25 @@ export const postsMokpo = {
       <p><strong>추천 경로:</strong> 조각공원 산책 ➔ 못잊어손만두</p>
       <p><strong>체험 요소:</strong> 자극적이지 않고 속이 꽉 찬 수제 만두와 뜨끈한 국수는 온 가족이 호불호 없이 즐길 수 있는 최고의 컴포트 푸드입니다.</p>
 
-      <img src="/images/shinan-food-1.webp" alt="못잊어손만두의 수제 만두" className="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
-      <p className="text-center text-sm text-neutral-500 mt-2">얇은 피 안 꽉 찬 속, 온 가족이 좋아하는 못잊어손만두 반반만두</p>
+      <img src="/images/shinan-food-1.webp" alt="못잊어손만두의 수제 만두" class="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
+      <p class="text-center text-sm text-neutral-500 mt-2">얇은 피 안 꽉 찬 속, 온 가족이 좋아하는 못잊어손만두 반반만두</p>
 
       <h3>👩‍❤️‍👨 [커플 데이트] 로맨틱한 분위기와 조용한 담소</h3>
       <p><strong>추천 경로:</strong> 조각공원 뷰 감상 ➔ 카페 수무 ➔ 족자카야</p>
       <p><strong>체험 요소:</strong> 차분한 수묵화 감성의 카페에서 인생샷을 남기고, '태국식 족발 덮밥'이라는 특별한 메뉴로 센스 있는 데이트 코스를 완성해 보세요.</p>
       
-      <img src="/images/shinan-food-2.webp" alt="카페 수무 외관" className="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
-      <p className="text-center text-sm text-neutral-500 mt-2">모던하고 차분한 무드로 입구부터 포토존인 카페 수무(SUMU)</p>
+      <img src="/images/shinan-food-2.webp" alt="카페 수무 외관" class="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
+      <p class="text-center text-sm text-neutral-500 mt-2">모던하고 차분한 무드로 입구부터 포토존인 카페 수무(SUMU)</p>
 
-      <img src="/images/shinan-food-3.webp" alt="족자카야의 특색 있는 태국식 족발 덮밥" className="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
-      <p className="text-center text-sm text-neutral-500 mt-2">부드럽게 입에서 녹는 족자카야의 영롱한 태국식 족발 덮밥 (카오카무)</p>
+      <img src="/images/shinan-food-3.webp" alt="족자카야의 특색 있는 태국식 족발 덮밥" class="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
+      <p class="text-center text-sm text-neutral-500 mt-2">부드럽게 입에서 녹는 족자카야의 영롱한 태국식 족발 덮밥 (카오카무)</p>
 
       <h3>📸 [MZ/사진작가] 노포 감성과 숏폼 영상 최적화</h3>
       <p><strong>추천 경로:</strong> 해질녘 조각공원 ➔ 연탄구이 구공탄</p>
       <p><strong>체험 요소:</strong> 지글거리는 연탄불 위에서 구워지는 막창과 오돌뼈! 날것 그대로의 노포 감성은 인스타그램 릴스나 스냅 사진 촬영에 가장 완벽한 배경이 됩니다.</p>
 
-      <img src="/images/shinan-food-1.webp" alt="구공탄의 매콤한 연탄구이 안주" className="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
-      <p className="text-center text-sm text-neutral-500 mt-2">치즈듬뿍 대파듬뿍, 불향이 가득한 매콤한 구공탄 안주 (Sexy Food)</p>
+      <img src="/images/shinan-food-1.webp" alt="구공탄의 매콤한 연탄구이 안주" class="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
+      <p class="text-center text-sm text-neutral-500 mt-2">치즈듬뿍 대파듬뿍, 불향이 가득한 매콤한 구공탄 안주 (Sexy Food)</p>
 
       <hr />
 
@@ -505,13 +503,13 @@ export const postsMokpo = {
       <hr />
 
       <blockquote>
-        <strong>남도예술정원 AI리서처의 한마디:</strong><br/>
+        <strong>남도예술정원 AI 에디터의 한마디:</strong><br/>
         "남도예술정원이 제안하는 이 코스대로만 가신다면 목포 식도락 여행은 이미 절반 이상 성공입니다!"
       </blockquote>
     `,
     image: "/images/shinan-food-3.webp",
     date: "2026. 03. 18",
-    author: "남도예술정원 AI리서처",
+    author: "남도예술정원 AI 에디터",
     readTime: "4분",
     keywords: "목포맛집, 유달산조각공원, 목포현지인맛집, 목포여행, 목포카페, 카페수무, 구공탄, 족자카야, 못잊어손만두, 남도예술정원"
   },
@@ -519,8 +517,7 @@ export const postsMokpo = {
     title: "[목포 숙소 추천] 유달산 조각공원 근처 인생 숙소 TOP 4",
     description: "취향 맞춤 큐레이션: 고즈넉한 한옥부터 가성비 오션뷰, 힙한 빈티지, 프라이빗 독채까지 4가지 테마 제공.",
     content: `
-      <h2>[목포 숙소 추천] 유달산 조각공원 근처 인생 숙소 TOP 4 (한옥/호텔/빈티지/독채)</h2>
-      <p>안녕하세요! 남도예술정원 AI리서처입니다. 😊</p>
+      <p>안녕하세요! 남도예술정원 AI 에디터입니다. 😊</p>
 
       <hr />
 
@@ -534,40 +531,40 @@ export const postsMokpo = {
       <hr />
       
       <h2>📍 목포 유달산 인근 숙소 상세 정보</h2>
-      <div className="overflow-x-auto my-8">
-        <table className="min-w-full text-sm text-left border-collapse">
-          <thead className="bg-primary/10 border-b-2 border-primary/20">
+      <div class="overflow-x-auto my-8">
+        <table class="min-w-full text-sm text-left border-collapse">
+          <thead class="bg-primary/10 border-b-2 border-primary/20">
             <tr>
-              <th className="py-3 px-4 font-bold text-neutral-900 border-r border-neutral-200">숙소명</th>
-              <th className="py-3 px-4 font-bold text-neutral-900 border-r border-neutral-200">유형</th>
-              <th className="py-3 px-4 font-bold text-neutral-900 border-r border-neutral-200">주요 특징</th>
-              <th className="py-3 px-4 font-bold text-neutral-900">추천 대상</th>
+              <th class="py-3 px-4 font-bold text-neutral-900 border-r border-neutral-200">숙소명</th>
+              <th class="py-3 px-4 font-bold text-neutral-900 border-r border-neutral-200">유형</th>
+              <th class="py-3 px-4 font-bold text-neutral-900 border-r border-neutral-200">주요 특징</th>
+              <th class="py-3 px-4 font-bold text-neutral-900">추천 대상</th>
             </tr>
           </thead>
-          <tbody className="divide-y divide-neutral-200 border-b border-neutral-200">
-            <tr className="hover:bg-neutral-50">
-              <td className="py-3 px-4 font-bold border-r border-neutral-200">춘화당 (구 목포1935)</td>
-              <td className="py-3 px-4 text-neutral-600 border-r border-neutral-200">한옥 스테이</td>
-              <td className="py-3 px-4 text-neutral-600 border-r border-neutral-200">1929년 고택, 비밀 정원, 툇마루 차 한 잔</td>
-              <td className="py-3 px-4 text-neutral-600">번아웃 치유, 부모님 동반</td>
+          <tbody class="divide-y divide-neutral-200 border-b border-neutral-200">
+            <tr class="hover:bg-neutral-50">
+              <td class="py-3 px-4 font-bold border-r border-neutral-200">춘화당 (구 목포1935)</td>
+              <td class="py-3 px-4 text-neutral-600 border-r border-neutral-200">한옥 스테이</td>
+              <td class="py-3 px-4 text-neutral-600 border-r border-neutral-200">1929년 고택, 비밀 정원, 툇마루 차 한 잔</td>
+              <td class="py-3 px-4 text-neutral-600">번아웃 치유, 부모님 동반</td>
             </tr>
-            <tr className="hover:bg-neutral-50">
-              <td className="py-3 px-4 font-bold border-r border-neutral-200">목포 오션 호텔</td>
-              <td className="py-3 px-4 text-neutral-600 border-r border-neutral-200">비즈니스 호텔</td>
-              <td className="py-3 px-4 text-neutral-600 border-r border-neutral-200">유달산/오션뷰, 깔끔한 침구, 뛰어난 가성비</td>
-              <td className="py-3 px-4 text-neutral-600">실용성 중시, 가족 여행</td>
+            <tr class="hover:bg-neutral-50">
+              <td class="py-3 px-4 font-bold border-r border-neutral-200">목포 오션 호텔</td>
+              <td class="py-3 px-4 text-neutral-600 border-r border-neutral-200">비즈니스 호텔</td>
+              <td class="py-3 px-4 text-neutral-600 border-r border-neutral-200">유달산/오션뷰, 깔끔한 침구, 뛰어난 가성비</td>
+              <td class="py-3 px-4 text-neutral-600">실용성 중시, 가족 여행</td>
             </tr>
-            <tr className="hover:bg-neutral-50">
-              <td className="py-3 px-4 font-bold border-r border-neutral-200">창성장</td>
-              <td className="py-3 px-4 text-neutral-600 border-r border-neutral-200">빈티지 부티크</td>
-              <td className="py-3 px-4 text-neutral-600 border-r border-neutral-200">레트로 인테리어, 홍콩 감성, 색감 맛집</td>
-              <td className="py-3 px-4 text-neutral-600">MZ세대, 사진작가, 커플</td>
+            <tr class="hover:bg-neutral-50">
+              <td class="py-3 px-4 font-bold border-r border-neutral-200">창성장</td>
+              <td class="py-3 px-4 text-neutral-600 border-r border-neutral-200">빈티지 부티크</td>
+              <td class="py-3 px-4 text-neutral-600 border-r border-neutral-200">레트로 인테리어, 홍콩 감성, 색감 맛집</td>
+              <td class="py-3 px-4 text-neutral-600">MZ세대, 사진작가, 커플</td>
             </tr>
-            <tr className="hover:bg-neutral-50">
-              <td className="py-3 px-4 font-bold border-r border-neutral-200">유달산 달빛</td>
-              <td className="py-3 px-4 text-neutral-600 border-r border-neutral-200">프리미엄 독채</td>
-              <td className="py-3 px-4 text-neutral-600 border-r border-neutral-200">야외 자쿠지(노천탕), 불멍, 프라이빗 마당</td>
-              <td className="py-3 px-4 text-neutral-600">신혼부부, 기념일 여행</td>
+            <tr class="hover:bg-neutral-50">
+              <td class="py-3 px-4 font-bold border-r border-neutral-200">유달산 달빛</td>
+              <td class="py-3 px-4 text-neutral-600 border-r border-neutral-200">프리미엄 독채</td>
+              <td class="py-3 px-4 text-neutral-600 border-r border-neutral-200">야외 자쿠지(노천탕), 불멍, 프라이빗 마당</td>
+              <td class="py-3 px-4 text-neutral-600">신혼부부, 기념일 여행</td>
             </tr>
           </tbody>
         </table>
@@ -580,20 +577,20 @@ export const postsMokpo = {
       <h3>👨‍👩‍👧‍👦 [가족 여행] 부모님, 아이와 함께하는 안심 여정</h3>
       <p><strong>추천 숙소:</strong> 목포 오션 호텔</p>
       <p><strong>가이드:</strong> 이동 동선 최소화가 핵심입니다. 호텔에서 조식을 든든히 드시고 도보로 유달산 조각공원을 산책하세요. 엘리베이터가 있어 유모차나 거동이 불편하신 어르신과 함께하기 가장 쾌적합니다.</p>
-      <img src="/images/post-stay-oceanhotel.webp" alt="목포 오션 호텔의 아늑한 객실과 연회장" className="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
-      <p className="text-center text-sm text-neutral-500 mt-2">유달산과 목포 앞바다를 조망할 수 있는 목포 오션 호텔</p>
+      <img src="/images/post-stay-oceanhotel.webp" alt="목포 오션 호텔의 아늑한 객실과 연회장" class="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
+      <p class="text-center text-sm text-neutral-500 mt-2">유달산과 목포 앞바다를 조망할 수 있는 목포 오션 호텔</p>
 
       <h3>👩‍❤️‍👨 [커플 데이트] 둘만의 로맨틱하고 프라이빗한 밤</h3>
       <p><strong>추천 숙소:</strong> 유달산 달빛</p>
       <p><strong>가이드:</strong> 낮에는 근대역사문화거리를 걷고, 저녁에는 독채 마당에서 야외 자쿠지를 즐기세요. 따뜻한 물에 몸을 담그고 밤하늘을 보며 즐기는 '불멍'은 목포 여행의 하이라이트가 됩니다.</p>
-      <img src="/images/post-stay-yudal.webp" alt="유달산 달빛 독채의 프라이빗한 야외 공간" className="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
-      <p className="text-center text-sm text-neutral-500 mt-2">로맨틱한 밤을 선사하는 프리미엄 독채 유달산 달빛</p>
+      <img src="/images/post-stay-yudal.webp" alt="유달산 달빛 독채의 프라이빗한 야외 공간" class="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
+      <p class="text-center text-sm text-neutral-500 mt-2">로맨틱한 밤을 선사하는 프리미엄 독채 유달산 달빛</p>
 
       <h3>📸 [MZ/사진작가] 인스타 피드를 채울 압도적 색감</h3>
       <p><strong>추천 숙소:</strong> 창성장</p>
       <p><strong>가이드:</strong> 숙소 복도와 객실 자체가 거대한 스튜디오입니다. 인근 <strong>근대역사관(호텔 델루나 촬영지)</strong>과 묶어 출사 코스를 짜보세요. 붉은 벽돌 배경의 외관 사진은 필수입니다.</p>
-      <img src="/images/post-stay-changsungjang.webp" alt="창성장의 빈티지하고 힙한 루프탑과 외관" className="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
-      <p className="text-center text-sm text-neutral-500 mt-2">독특한 색감과 홍콩 영화 같은 레트로 무드의 창성장</p>
+      <img src="/images/post-stay-changsungjang.webp" alt="창성장의 빈티지하고 힙한 루프탑과 외관" class="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
+      <p class="text-center text-sm text-neutral-500 mt-2">독특한 색감과 홍콩 영화 같은 레트로 무드의 창성장</p>
 
       <hr />
 
@@ -609,8 +606,8 @@ export const postsMokpo = {
           <strong>내용:</strong> 밤 9시 이후, 은은한 조명 아래서 즐기는 노천탕은 릴스나 숏폼 영상 촬영에 최적화된 구도를 선사합니다.
         </li>
       </ul>
-      <img src="/images/post-stay-chunhwadang.webp" alt="춘화당 한옥의 고즈넉한 풍경" className="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
-      <p className="text-center text-sm text-neutral-500 mt-2">비밀 정원을 품은 1929년 고택 한옥 스테이, 춘화당</p>
+      <img src="/images/post-stay-chunhwadang.webp" alt="춘화당 한옥의 고즈넉한 풍경" class="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
+      <p class="text-center text-sm text-neutral-500 mt-2">비밀 정원을 품은 1929년 고택 한옥 스테이, 춘화당</p>
 
       <hr />
 
@@ -630,13 +627,13 @@ export const postsMokpo = {
       <hr />
 
       <blockquote>
-        <strong>남도예술정원 AI리서처의 한마디:</strong><br/>
+        <strong>남도예술정원 AI 에디터의 한마디:</strong><br/>
         "남도예술정원은 여러분의 목포 여행이 예술 같은 휴식이 되길 진심으로 바랍니다."
       </blockquote>
     `,
     image: "/images/post-stay-chunhwadang.webp",
     date: "2026. 03. 18",
-    author: "남도예술정원 AI리서처",
+    author: "남도예술정원 AI 에디터",
     readTime: "5분",
     keywords: "목포숙소추천, 유달산조각공원근처숙박, 목포감성숙소, 목포한옥스테이, 목포자쿠지숙소, 창성장, 춘화당, 목포오션호텔"
   },
@@ -644,7 +641,6 @@ export const postsMokpo = {
     title: "[목포 캠핑 명소] 토박이가 찐 추천하는 유달산 조각공원",
     description: "낮에는 화사한 벚꽃 피크닉, 밤에는 로맨틱한 '야경 맛집'으로 변신하는 팔색조 명소. 야간 미식 여행 완벽 코스를 공개합니다.",
     content: `
-      <h2>[목포 캠핑 명소] 토박이가 찐 추천하는 유달산 조각공원</h2>
       <p>안녕하세요! 정비아입니다. 😊</p>
 
       <hr />
@@ -659,34 +655,34 @@ export const postsMokpo = {
       <hr />
       
       <h2>📍 관광지 상세 정보</h2>
-      <div className="overflow-x-auto my-8">
-        <table className="min-w-full text-sm text-left border-collapse">
-          <thead className="bg-primary/10 border-b-2 border-primary/20">
+      <div class="overflow-x-auto my-8">
+        <table class="min-w-full text-sm text-left border-collapse">
+          <thead class="bg-primary/10 border-b-2 border-primary/20">
             <tr>
-              <th className="py-3 px-4 font-bold text-neutral-900 border-r border-neutral-200">구분</th>
-              <th className="py-3 px-4 font-bold text-neutral-900">내용 및 팁</th>
+              <th class="py-3 px-4 font-bold text-neutral-900 border-r border-neutral-200">구분</th>
+              <th class="py-3 px-4 font-bold text-neutral-900">내용 및 팁</th>
             </tr>
           </thead>
-          <tbody className="divide-y divide-neutral-200 border-b border-neutral-200">
-            <tr className="hover:bg-neutral-50">
-              <td className="py-3 px-4 font-bold border-r border-neutral-200">위치</td>
-              <td className="py-3 px-4 text-neutral-600">전남 목포시 죽교동 산41-29 (유달산 일주도로변)</td>
+          <tbody class="divide-y divide-neutral-200 border-b border-neutral-200">
+            <tr class="hover:bg-neutral-50">
+              <td class="py-3 px-4 font-bold border-r border-neutral-200">위치</td>
+              <td class="py-3 px-4 text-neutral-600">전남 목포시 죽교동 산41-29 (유달산 일주도로변)</td>
             </tr>
-            <tr className="hover:bg-neutral-50">
-              <td className="py-3 px-4 font-bold border-r border-neutral-200">운영 시간</td>
-              <td className="py-3 px-4 text-neutral-600">24시간 연중무휴 (야간 조명은 일몰 후 상시 점등)</td>
+            <tr class="hover:bg-neutral-50">
+              <td class="py-3 px-4 font-bold border-r border-neutral-200">운영 시간</td>
+              <td class="py-3 px-4 text-neutral-600">24시간 연중무휴 (야간 조명은 일몰 후 상시 점등)</td>
             </tr>
-            <tr className="hover:bg-neutral-50">
-              <td className="py-3 px-4 font-bold border-r border-neutral-200">입장료</td>
-              <td className="py-3 px-4 text-neutral-600">무료 (누구나 자유롭게 관람 가능)</td>
+            <tr class="hover:bg-neutral-50">
+              <td class="py-3 px-4 font-bold border-r border-neutral-200">입장료</td>
+              <td class="py-3 px-4 text-neutral-600">무료 (누구나 자유롭게 관람 가능)</td>
             </tr>
-            <tr className="hover:bg-neutral-50">
-              <td className="py-3 px-4 font-bold border-r border-neutral-200">주차</td>
-              <td className="py-3 px-4 text-neutral-600">조각공원 바로 앞 공영주차장 이용 (접근성 매우 우수)</td>
+            <tr class="hover:bg-neutral-50">
+              <td class="py-3 px-4 font-bold border-r border-neutral-200">주차</td>
+              <td class="py-3 px-4 text-neutral-600">조각공원 바로 앞 공영주차장 이용 (접근성 매우 우수)</td>
             </tr>
-            <tr className="hover:bg-neutral-50">
-              <td className="py-3 px-4 font-bold border-r border-neutral-200">핵심 시설</td>
-              <td className="py-3 px-4 text-neutral-600">야외 조각 전시품, 관망대, 카페, 휴게소, 화장실 완비</td>
+            <tr class="hover:bg-neutral-50">
+              <td class="py-3 px-4 font-bold border-r border-neutral-200">핵심 시설</td>
+              <td class="py-3 px-4 text-neutral-600">야외 조각 전시품, 관망대, 카페, 휴게소, 화장실 완비</td>
             </tr>
           </tbody>
         </table>
@@ -699,14 +695,14 @@ export const postsMokpo = {
       <h3>[👨‍👩‍👧‍👦 가족 여행] 아이들과 함께하는 예술 체험 & 피크닉</h3>
       <p><strong>추천 동선:</strong> 정문 입구 → 메인 잔디광장 → 조각 작품 감상로</p>
       <p><strong>가이드:</strong> 경사가 완만해 유모차나 아이들도 걷기 좋습니다. 넓은 잔디밭에서 예술 작품을 자연스럽게 접하며 가족만의 소중한 추억을 만드세요.</p>
-      <img src="/images/post-night-1.webp" alt="유달산 조각공원의 밤 풍경과 몽환적인 조명 조각" className="w-full rounded-2xl my-6 object-cover shadow-lg border border-neutral-100" />
-      <p className="text-center text-sm text-neutral-500 mt-2">유달산 조각공원 야간 산책로에 전시된 거대 조각상의 신비로운 모습</p>
+      <img src="/images/post-night-1.webp" alt="유달산 조각공원의 밤 풍경과 몽환적인 조명 조각" class="w-full rounded-2xl my-6 object-cover shadow-lg border border-neutral-100" />
+      <p class="text-center text-sm text-neutral-500 mt-2">유달산 조각공원 야간 산책로에 전시된 거대 조각상의 신비로운 모습</p>
 
       <h3>[👩‍❤️‍👨 커플 데이트] 사랑이 깊어지는 로맨틱 야간 산책</h3>
       <p><strong>추천 동선:</strong> 카페 테라스 → 야간 전구 로드 → 관망대(야경 포인트)</p>
       <p><strong>가이드:</strong> 저녁 식사 후 방문을 강력 추천합니다. 은은한 알록달록 조명이 길을 밝혀주어 몽환적인 분위기를 자아냅니다. 목포 시내 야경을 배경으로 고백하기 가장 좋은 장소입니다.</p>
-      <img src="/images/post-night-2.webp" alt="은은한 조명이 켜진 야간 벚꽃나무 길" className="w-full rounded-2xl my-6 object-cover shadow-lg border border-neutral-100" />
-      <p className="text-center text-sm text-neutral-500 mt-2">별빛 다리처럼 조성된 유달산 조각공원의 아름다운 야간 전구 로드</p>
+      <img src="/images/post-night-2.webp" alt="은은한 조명이 켜진 야간 벚꽃나무 길" class="w-full rounded-2xl my-6 object-cover shadow-lg border border-neutral-100" />
+      <p class="text-center text-sm text-neutral-500 mt-2">별빛 다리처럼 조성된 유달산 조각공원의 아름다운 야간 전구 로드</p>
 
       <h3>[📸 MZ/사진작가] 시티뷰와 예술이 만나는 숏폼 스팟</h3>
       <p><strong>추천 동선:</strong> 입구 대형 조형물 → 유달산 조망점 → 하트 포토존</p>
@@ -723,38 +719,38 @@ export const postsMokpo = {
           <strong>골든타임:</strong> 밤 8시 이후. 목포 시내의 불빛이 보석처럼 반짝일 때 실루엣 사진을 남기세요.
         </li>
       </ul>
-      <img src="/images/post-night-3.webp" alt="유달산 매직아워와 웅장한 전경" className="w-full rounded-2xl my-6 object-cover shadow-lg border border-neutral-100" />
-      <p className="text-center text-sm text-neutral-500 mt-2">일몰 후 조명이 켜진 공원 입구와 밤하늘의 완벽한 조화</p>
+      <img src="/images/post-night-3.webp" alt="유달산 매직아워와 웅장한 전경" class="w-full rounded-2xl my-6 object-cover shadow-lg border border-neutral-100" />
+      <p class="text-center text-sm text-neutral-500 mt-2">일몰 후 조명이 켜진 공원 입구와 밤하늘의 완벽한 조화</p>
 
       <hr />
 
       <h2>🌙 [디렉터 픽] 조각공원 근처 심야 맛집 리스트</h2>
       <p>조각공원 산책 후 출출함을 달래줄 목포 현지인들의 심야 아지트입니다.</p>
       
-      <div className="overflow-x-auto my-8">
-        <table className="min-w-full text-sm text-left border-collapse">
-          <thead className="bg-primary/10 border-b-2 border-primary/20">
+      <div class="overflow-x-auto my-8">
+        <table class="min-w-full text-sm text-left border-collapse">
+          <thead class="bg-primary/10 border-b-2 border-primary/20">
             <tr>
-              <th className="py-3 px-4 font-bold text-neutral-900 border-r border-neutral-200">맛집 이름</th>
-              <th className="py-3 px-4 font-bold text-neutral-900 border-r border-neutral-200">주요 메뉴</th>
-              <th className="py-3 px-4 font-bold text-neutral-900">특징 및 운영 시간</th>
+              <th class="py-3 px-4 font-bold text-neutral-900 border-r border-neutral-200">맛집 이름</th>
+              <th class="py-3 px-4 font-bold text-neutral-900 border-r border-neutral-200">주요 메뉴</th>
+              <th class="py-3 px-4 font-bold text-neutral-900">특징 및 운영 시간</th>
             </tr>
           </thead>
-          <tbody className="divide-y divide-neutral-200 border-b border-neutral-200">
-            <tr className="hover:bg-neutral-50">
-              <td className="py-3 px-4 font-bold border-r border-neutral-200">해남해장국</td>
-              <td className="py-3 px-4 text-neutral-600 border-r border-neutral-200">맑은 돼지뼈해장국</td>
-              <td className="py-3 px-4 text-neutral-600">백종원 3대천왕 맛집, 맑고 깔끔한 국물 (새벽 늦게까지 운영)</td>
+          <tbody class="divide-y divide-neutral-200 border-b border-neutral-200">
+            <tr class="hover:bg-neutral-50">
+              <td class="py-3 px-4 font-bold border-r border-neutral-200">해남해장국</td>
+              <td class="py-3 px-4 text-neutral-600 border-r border-neutral-200">맑은 돼지뼈해장국</td>
+              <td class="py-3 px-4 text-neutral-600">백종원 3대천왕 맛집, 맑고 깔끔한 국물 (새벽 늦게까지 운영)</td>
             </tr>
-            <tr className="hover:bg-neutral-50">
-              <td className="py-3 px-4 font-bold border-r border-neutral-200">신비포차</td>
-              <td className="py-3 px-4 text-neutral-600 border-r border-neutral-200">해산물 모듬, 낙지탕탕이</td>
-              <td className="py-3 px-4 text-neutral-600">대반동 바다 바로 앞, 목포대교 야경을 보며 즐기는 낭만 포차</td>
+            <tr class="hover:bg-neutral-50">
+              <td class="py-3 px-4 font-bold border-r border-neutral-200">신비포차</td>
+              <td class="py-3 px-4 text-neutral-600 border-r border-neutral-200">해산물 모듬, 낙지탕탕이</td>
+              <td class="py-3 px-4 text-neutral-600">대반동 바다 바로 앞, 목포대교 야경을 보며 즐기는 낭만 포차</td>
             </tr>
-            <tr className="hover:bg-neutral-50">
-              <td className="py-3 px-4 font-bold border-r border-neutral-200">유달산 주차장 식당</td>
-              <td className="py-3 px-4 text-neutral-600 border-r border-neutral-200">파전, 도토리묵, 동동주</td>
-              <td className="py-3 px-4 text-neutral-600">유달산의 정취를 느끼며 즐기는 클래식한 야식 (야간 산책 후 필수 코스)</td>
+            <tr class="hover:bg-neutral-50">
+              <td class="py-3 px-4 font-bold border-r border-neutral-200">유달산 주차장 식당</td>
+              <td class="py-3 px-4 text-neutral-600 border-r border-neutral-200">파전, 도토리묵, 동동주</td>
+              <td class="py-3 px-4 text-neutral-600">유달산의 정취를 느끼며 즐기는 클래식한 야식 (야간 산책 후 필수 코스)</td>
             </tr>
           </tbody>
         </table>
@@ -788,7 +784,6 @@ export const postsMokpo = {
     title: "[목포 여행] 솜사탕 같은 힐링! 고하도 목화정원 & 주변 200% 즐기기 완벽 가이드",
     description: "역사적 유적지와 목화 정원, 다도해 절경을 한번에! '로맨틱 목포 시티투어 버스'와 '해상케이블카'로 100% 즐기는 고하도 완벽 가이드.",
     content: `
-      <h2>[목포 여행] 솜사탕 같은 힐링! 고하도 목화정원 & 주변 200% 즐기기 완벽 가이드</h2>
       <p>안녕하세요! 남도예술정원입니다. 😊</p>
 
       <hr />
@@ -803,34 +798,34 @@ export const postsMokpo = {
       <hr />
       
       <h2>📍 관광지 상세 정보</h2>
-      <div className="overflow-x-auto my-8">
-        <table className="min-w-full text-sm text-left border-collapse">
-          <thead className="bg-primary/10 border-b-2 border-primary/20">
+      <div class="overflow-x-auto my-8">
+        <table class="min-w-full text-sm text-left border-collapse">
+          <thead class="bg-primary/10 border-b-2 border-primary/20">
             <tr>
-              <th className="py-3 px-4 font-bold text-neutral-900 border-r border-neutral-200">구분</th>
-              <th className="py-3 px-4 font-bold text-neutral-900">내용 및 이용 팁</th>
+              <th class="py-3 px-4 font-bold text-neutral-900 border-r border-neutral-200">구분</th>
+              <th class="py-3 px-4 font-bold text-neutral-900">내용 및 이용 팁</th>
             </tr>
           </thead>
-          <tbody className="divide-y divide-neutral-200 border-b border-neutral-200">
-            <tr className="hover:bg-neutral-50">
-              <td className="py-3 px-4 font-bold border-r border-neutral-200">위치</td>
-              <td className="py-3 px-4 text-neutral-600">전남 목포시 고하도안길 (고하도 목화체험전시장 일대)</td>
+          <tbody class="divide-y divide-neutral-200 border-b border-neutral-200">
+            <tr class="hover:bg-neutral-50">
+              <td class="py-3 px-4 font-bold border-r border-neutral-200">위치</td>
+              <td class="py-3 px-4 text-neutral-600">전남 목포시 고하도안길 (고하도 목화체험전시장 일대)</td>
             </tr>
-            <tr className="hover:bg-neutral-50">
-              <td className="py-3 px-4 font-bold border-r border-neutral-200">운영 시간</td>
-              <td className="py-3 px-4 text-neutral-600">목화체험전시장: 09:00~18:00 (월요일 휴관 주의) / 산책로: 상시 개방</td>
+            <tr class="hover:bg-neutral-50">
+              <td class="py-3 px-4 font-bold border-r border-neutral-200">운영 시간</td>
+              <td class="py-3 px-4 text-neutral-600">목화체험전시장: 09:00~18:00 (월요일 휴관 주의) / 산책로: 상시 개방</td>
             </tr>
-            <tr className="hover:bg-neutral-50">
-              <td className="py-3 px-4 font-bold border-r border-neutral-200">입장료</td>
-              <td className="py-3 px-4 text-neutral-600">무료 (일부 유료 체험 프로그램 제외)</td>
+            <tr class="hover:bg-neutral-50">
+              <td class="py-3 px-4 font-bold border-r border-neutral-200">입장료</td>
+              <td class="py-3 px-4 text-neutral-600">무료 (일부 유료 체험 프로그램 제외)</td>
             </tr>
-            <tr className="hover:bg-neutral-50">
-              <td className="py-3 px-4 font-bold border-r border-neutral-200">교통편</td>
-              <td className="py-3 px-4 text-neutral-600">해상케이블카: '고하도 승강장' 하차 / 시티투어: '로맨틱 목포 버스' 이용</td>
+            <tr class="hover:bg-neutral-50">
+              <td class="py-3 px-4 font-bold border-r border-neutral-200">교통편</td>
+              <td class="py-3 px-4 text-neutral-600">해상케이블카: '고하도 승강장' 하차 / 시티투어: '로맨틱 목포 버스' 이용</td>
             </tr>
-            <tr className="hover:bg-neutral-50">
-              <td className="py-3 px-4 font-bold border-r border-neutral-200">주요 행사</td>
-              <td className="py-3 px-4 text-neutral-600">가을철 목화 축제 (솜사탕 만들기, 목화씨 뽑기 체험 등)</td>
+            <tr class="hover:bg-neutral-50">
+              <td class="py-3 px-4 font-bold border-r border-neutral-200">주요 행사</td>
+              <td class="py-3 px-4 text-neutral-600">가을철 목화 축제 (솜사탕 만들기, 목화씨 뽑기 체험 등)</td>
             </tr>
           </tbody>
         </table>
@@ -843,14 +838,14 @@ export const postsMokpo = {
       <h3>[가족 여행] 아이와 함께하는 역사 & 생태 체험</h3>
       <p><strong>추천 코스:</strong> 목화정원 체험관 → 이충무공 유적지 → 해안 숲길</p>
       <p><strong>가이드:</strong> 목화씨 뽑기나 솜사탕 만들기 체험은 아이들에게 인기 만점입니다. 정원에서 꽃구경 후 도보로 이동 가능한 이충무공 유적지에서 이순신 장군의 역사를 배우는 교육적 여정을 추천합니다.</p>
-      <img src="/images/post-gohado-1.webp" alt="판옥선 모양의 웅장한 고하도 전망대" className="w-full rounded-2xl my-6 object-cover shadow-lg border border-neutral-100" />
-      <p className="text-center text-sm text-neutral-500 mt-2">이순신 장군의 판옥선을 형상화한 고하도 전망대</p>
+      <img src="/images/post-gohado-1.webp" alt="판옥선 모양의 웅장한 고하도 전망대" class="w-full rounded-2xl my-6 object-cover shadow-lg border border-neutral-100" />
+      <p class="text-center text-sm text-neutral-500 mt-2">이순신 장군의 판옥선을 형상화한 고하도 전망대</p>
 
       <h3>[커플 데이트] 바다 위를 걷는 로맨틱 산책</h3>
       <p><strong>추천 코스:</strong> 해상케이블카 → 고하도 전망대 → 해안 데크길</p>
       <p><strong>가이드:</strong> 유달산에서 케이블카를 타고 바다를 건너오세요. 판옥선 모양의 고하도 전망대에서 커플 사진을 남기고, 해안선을 따라 조성된 데크길을 걸으며 끝없이 펼쳐진 바다를 배경으로 로맨틱한 시간을 보낼 수 있습니다.</p>
-      <img src="/images/post-gohado-2.webp" alt="바다 위를 지나는 목포 해상케이블카" className="w-full rounded-2xl my-6 object-cover shadow-lg border border-neutral-100" />
-      <p className="text-center text-sm text-neutral-500 mt-2">유달산과 고하도를 잇는 아름다운 목포 해상케이블카 전경</p>
+      <img src="/images/post-gohado-2.webp" alt="바다 위를 지나는 목포 해상케이블카" class="w-full rounded-2xl my-6 object-cover shadow-lg border border-neutral-100" />
+      <p class="text-center text-sm text-neutral-500 mt-2">유달산과 고하도를 잇는 아름다운 목포 해상케이블카 전경</p>
 
       <h3>[MZ/사진작가] 인스타 감성 '솜사탕' 포토존 순례</h3>
       <p><strong>추천 코스:</strong> 목화정원 포토존 → 고하도 5층 전망대 → 해안 숲길 출사</p>
@@ -888,7 +883,7 @@ export const postsMokpo = {
     `,
     image: "/images/post-gohado-main.webp",
     date: "2026. 03. 18",
-    author: "남도예술정원 AI리서처",
+    author: "남도예술정원 AI 에디터",
     readTime: "5분",
     keywords: "목포여행, 목포가볼만한곳, 고하도, 고하도목화정원, 고하도전망대, 목포해상케이블카, 목포시티투어, 목포데이트코스"
   },
@@ -947,54 +942,53 @@ export const postsMokpo = {
     keywords: "한옥마을, 전통건축, 이색카페, 핫플, 미식여행"
   },
   "m1": {
-    title: "[목포 여행] 인생샷 명소! 아이와 연인과 함께 걷기 좋은 \"고하도 목하정원\" 완벽 가이드",
+    title: "[목포 여행] 인생샷 명소! 아이와 연인과 함께 걷기 좋은 \"고하도 목화정원\" 완벽 가이드",
     description: "목포 앞바다의 푸른 파도와 새하얀 목화솜이 어우러지는 숨은 힐링 명소, '고하도 목화정원'을 소개해 드립니다.",
     content: `
-      <h2>[목포 여행] 인생샷 명소!<br/>아이와 연인과 함께 걷기 좋은<br/>"고하도 목하정원" 완벽 가이드</h2>
       <p>안녕하세요! 남도예술정원입니다. 😊</p>
       <p>오늘은 목포 앞바다의 푸른 파도와 새하얀 목화솜이 어우러지는 숨은 힐링 명소, <strong>'고하도 목화정원'</strong>을 소개해 드립니다. 우리나라 최초의 목화 재배지라는 역사적 상징성을 띠는 이곳은 낮에는 푸른 바다와, 밤에는 화려한 불빛 그림자와 완벽한 조화를 이루는 매력적인 장소입니다.</p>
 
       <h2>📸 인생샷 핫포인트 & 골든타임</h2>
       <p>정원 곳곳에 낮과 밤을 환하게 비추는 다채로운 포토존이 마련되어 있습니다. 특히 해 질 녘부터 켜지는 대형 목화 상징 조형물은 킨포크 스타일의 감성 스냅을 남기기에 최고의 스팟입니다.</p>
       
-      <img src="/images/gohado-main.webp" alt="대형 목화 상징 조형물 야간 전경" className="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
-      <p className="text-center text-sm text-neutral-500 mt-2 mb-8">화려하게 빛나는 대형 목화 상징 조형물의 아름다운 전경</p>
+      <img src="/images/gohado-main.webp" alt="대형 목화 상징 조형물 야간 전경" class="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
+      <p class="text-center text-sm text-neutral-500 mt-2 mb-8">화려하게 빛나는 대형 목화 상징 조형물의 아름다운 전경</p>
 
       <hr />
 
       <h2>🌟 사계절 하얀 솜이 반기는 '목화온실'</h2>
       <p>목화는 본래 따뜻한 계절에 주로 피어나지만, 고하도 목화정원에서는 계절에 구애받지 않고 <strong>사계절 내내 하얀 목화솜</strong>을 감상할 수 있는 감각적인 <strong>'목화온실'</strong>을 운영 중입니다. 온실 외벽에는 커다란 하얀 목화 송이들이 한 폭의 그림처럼 수놓아져 있어 방문객들에게 가장 먼저 사랑받는 포토존 역할을 합니다.</p>
 
-      <img src="/images/gohado-greenhouse.webp" alt="사계절 목화온실 외관" className="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
-      <p className="text-center text-sm text-neutral-500 mt-2 mb-8">감각적인 목화 벽화가 예쁘게 수놓아진 사계절 목화온실의 서정적인 외관</p>
+      <img src="/images/gohado-greenhouse.webp" alt="사계절 목화온실 외관" class="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
+      <p class="text-center text-sm text-neutral-500 mt-2 mb-8">감각적인 목화 벽화가 예쁘게 수놓아진 사계절 목화온실의 서정적인 외관</p>
 
       <hr />
 
       <h2>📍 관광지 상세 꿀팁 & 정보</h2>
-      <div className="overflow-x-auto my-8">
-        <table className="min-w-full text-sm text-left border-collapse">
-          <thead className="bg-primary/10 border-b-2 border-primary/20">
+      <div class="overflow-x-auto my-8">
+        <table class="min-w-full text-sm text-left border-collapse">
+          <thead class="bg-primary/10 border-b-2 border-primary/20">
             <tr>
-              <th className="py-3 px-4 font-bold text-neutral-900 border-r border-neutral-200">구분</th>
-              <th className="py-3 px-4 font-bold text-neutral-900">내용 및 방문 팁</th>
+              <th class="py-3 px-4 font-bold text-neutral-900 border-r border-neutral-200">구분</th>
+              <th class="py-3 px-4 font-bold text-neutral-900">내용 및 방문 팁</th>
             </tr>
           </thead>
-          <tbody className="divide-y divide-neutral-200 border-b border-neutral-200">
-            <tr className="hover:bg-neutral-50">
-              <td className="py-3 px-4 font-bold border-r border-neutral-200">위치</td>
-              <td className="py-3 px-4 text-neutral-600">전라남도 목포시 고하도안길 186 (내비게이션: '고하도 목화체험관')</td>
+          <tbody class="divide-y divide-neutral-200 border-b border-neutral-200">
+            <tr class="hover:bg-neutral-50">
+              <td class="py-3 px-4 font-bold border-r border-neutral-200">위치</td>
+              <td class="py-3 px-4 text-neutral-600">전라남도 목포시 고하도안길 186 (내비게이션: '고하도 목화체험관')</td>
             </tr>
-            <tr className="hover:bg-neutral-50">
-              <td className="py-3 px-4 font-bold border-r border-neutral-200">운영 시간</td>
-              <td className="py-3 px-4 text-neutral-600">매일 09:00 ~ 18:00 (동절기 11월~2월은 17:00 마감 / 매주 월요일 휴무) / 야외 상시 개방</td>
+            <tr class="hover:bg-neutral-50">
+              <td class="py-3 px-4 font-bold border-r border-neutral-200">운영 시간</td>
+              <td class="py-3 px-4 text-neutral-600">매일 09:00 ~ 18:00 (동절기 11월~2월은 17:00 마감 / 매주 월요일 휴무) / 야외 상시 개방</td>
             </tr>
-            <tr className="hover:bg-neutral-50">
-              <td className="py-3 px-4 font-bold border-r border-neutral-200">이용 요금</td>
-              <td className="py-3 px-4 text-neutral-600"><strong>무료</strong> (체험관 및 야외 정원 모두 부담없이 무료 관람)</td>
+            <tr class="hover:bg-neutral-50">
+              <td class="py-3 px-4 font-bold border-r border-neutral-200">이용 요금</td>
+              <td class="py-3 px-4 text-neutral-600"><strong>무료</strong> (체험관 및 야외 정원 모두 부담없이 무료 관람)</td>
             </tr>
-            <tr className="hover:bg-neutral-50">
-              <td className="py-3 px-4 font-bold border-r border-neutral-200">주차 안내</td>
-              <td className="py-3 px-4 text-neutral-600">목화정원 내 전용 주차장 무료 이용 가능</td>
+            <tr class="hover:bg-neutral-50">
+              <td class="py-3 px-4 font-bold border-r border-neutral-200">주차 안내</td>
+              <td class="py-3 px-4 text-neutral-600">목화정원 내 전용 주차장 무료 이용 가능</td>
             </tr>
           </tbody>
         </table>
@@ -1024,10 +1018,9 @@ export const postsMokpo = {
   },
   "m1-night": {
     title: "[목포 야경 명소] 🌙 밤에 피는 꽃, '고하도 목화정원' 완벽 가이드! 목포대교 야경 & 인생샷 명소 ✨",
-    description: "남도예술정원 AI리서처가 추천하는 목포 야경 끝판왕! 고하도 목화정원의 목포대교 뷰, 인생샷 포인트, 1박 2일 추천 일정과 주차 정보까지 모두 담았습니다.",
+    description: "남도예술정원 AI 에디터가 큐레이션한 목포 야경 끝판왕! 고하도 목화정원의 목포대교 뷰, 인생샷 포인트, 1박 2일 추천 일정과 주차 정보까지 모두 담았습니다.",
     content: `
-      <h2>[목포 야경 명소] 🌙 밤에 피는 꽃, '고하도 목화정원' 완벽 가이드! 목포대교 야경 & 인생샷 명소 ✨</h2>
-      <p>안녕하세요! 남도예술정원 AI리서처입니다. 😊</p>
+      <p>안녕하세요! 남도예술정원 AI 에디터입니다. 😊</p>
       <p>오늘은 목포 여행에서 절대 놓쳐선 안 될, 낮보다 밤이 훨씬 더 찬란한 <strong>'고하도 목화정원'</strong>의 모든 것을 정리해 드립니다. 인공지능이 분석한 최적의 방문 코스와 야경 꿀팁, 지금 바로 확인해 보세요!</p>
       
       <hr />
@@ -1039,8 +1032,8 @@ export const postsMokpo = {
         <li><strong>24시간 야간 개방:</strong> 야외 정원은 상시 개방되어 늦은 밤 드라이브나 조용한 심야 산책에 최적화되어 있습니다.</li>
       </ul>
       
-      <img src="/images/gohado-night-sculpture.webp" alt="온실 앞 백곰 동상" className="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
-      <p className="text-center text-sm text-neutral-500 mt-2">온실 앞을 지키는 귀여운 백곰 동상 가족</p>
+      <img src="/images/gohado-night-sculpture.webp" alt="온실 앞 백곰 동상" class="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
+      <p class="text-center text-sm text-neutral-500 mt-2">온실 앞을 지키는 귀여운 백곰 동상 가족</p>
 
       <hr />
 
@@ -1083,8 +1076,8 @@ export const postsMokpo = {
       <h3>[가족 여행] 아이들의 상상력이 자라는 '목화놀이터'</h3>
       <p>아이들과 함께라면 밤에도 은은한 조명이 켜지는 목화놀이터를 추천해요. 동화 속 마을 같은 분위기에서 짚라인과 각종 놀이기구를 즐길 수 있습니다. 정원 곳곳의 귀여운 토끼와 달 조형물은 아이들에게 인기 만점이랍니다!</p>
 
-      <img src="/images/post-night-2.webp" alt="야간 목화놀이터" className="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
-      <p className="text-center text-sm text-neutral-500 mt-2">아이들이 안전하게 뛰어놀 수 있는 야간 목화놀이터 전경</p>
+      <img src="/images/post-night-2.webp" alt="야간 목화놀이터" class="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
+      <p class="text-center text-sm text-neutral-500 mt-2">아이들이 안전하게 뛰어놀 수 있는 야간 목화놀이터 전경</p>
 
       <h3>[커플 데이트] 로맨틱한 밤바다와 '목화 이야기길'</h3>
       <p>사랑하는 연인과 함께라면 꽃잎광장에서 시작해 바다 방향 전망대로 이어지는 산책로를 걸어보세요. 조명을 받아 신비롭게 빛나는 목화 조형물과 목포대교의 야경이 두 분의 시간을 낭만적인 영화의 한 장면으로 만들어 드립니다.</p>
@@ -1097,12 +1090,12 @@ export const postsMokpo = {
       <h2>📸 인생샷 핫포인트 & 골든타임</h2>
       <ul>
         <li><strong>추천 스팟 1 [목포대교 전망 포인트]:</strong> 정원 끝자락 난간 쪽에서 대교를 정면으로 바라보며 찍으세요.
-          <img src="/images/post-night-1.webp" alt="고하도 야경" className="w-full rounded-2xl my-6 object-cover shadow-lg border border-neutral-100" />
-          <p className="text-center text-sm text-neutral-500 mt-2 mb-6">노을이 지는 평화로운 고하도의 실루엣과 야경</p>
+          <img src="/images/post-night-1.webp" alt="고하도 야경" class="w-full rounded-2xl my-6 object-cover shadow-lg border border-neutral-100" />
+          <p class="text-center text-sm text-neutral-500 mt-2 mb-6">노을이 지는 평화로운 고하도의 실루엣과 야경</p>
         </li>
         <li><strong>추천 스팟 2 [목화 상징 조형물]:</strong> 거대한 목화솜 아래에서 아래에서 위로 찍는 <strong>'로우 앵글'</strong>을 추천합니다.
-          <img src="/images/post-night-3.webp" alt="목화 상징 조형물" className="w-full rounded-2xl my-6 object-cover shadow-lg border border-neutral-100" />
-          <p className="text-center text-sm text-neutral-500 mt-2 mb-6">화려하게 빛나는 대형 목화 상징 조형물 앞 인생샷 스팟</p>
+          <img src="/images/post-night-3.webp" alt="목화 상징 조형물" class="w-full rounded-2xl my-6 object-cover shadow-lg border border-neutral-100" />
+          <p class="text-center text-sm text-neutral-500 mt-2 mb-6">화려하게 빛나는 대형 목화 상징 조형물 앞 인생샷 스팟</p>
         </li>
         <li><strong>골든타임:</strong> 일몰 직후 30분 <strong>(매직아워)</strong>. 하늘의 딥블루와 대교의 화려한 빛이 조화를 이루는 최고의 시간대입니다.</li>
       </ul>
@@ -1125,7 +1118,7 @@ export const postsMokpo = {
 
       <hr />
 
-      <h2>📅 AI 리서처 추천 '목포 감성 1박 2일' 일정</h2>
+      <h2>📅 AI 에디터 추천 '목포 감성 1박 2일' 일정</h2>
       <ul>
         <li><strong>1일차:</strong> 목포 해상케이블카(북항~고하도) 🚠 → 고하도 해안데크 산책 🌊 → <strong>고하도 목화정원 야경 감상</strong> 🌙 → 선경준치횟집 저녁 식사 🐟</li>
         <li><strong>2일차:</strong> 근대역사문화거리(호텔 델루나 촬영지) 🏛️ → 시화골목 & 바보마당 🎨 → 씨엘비베이커리 바게트 시식 🥖</li>
@@ -1134,13 +1127,13 @@ export const postsMokpo = {
       <hr />
 
       <blockquote>
-        <strong>남도예술정원 AI리서처의 한마디:</strong><br/>
+        <strong>남도예술정원 AI 에디터의 한마디:</strong><br/>
         "목화의 포근함과 밤바다의 화려함이 공존하는 이곳은 목포의 숨은 진주입니다. 야간에는 바닷바람이 다소 차가우니 따뜻한 외투와 삼각대를 챙겨 방문해 보세요!"
       </blockquote>
     `,
     image: "/images/night-gohado-1.webp",
     date: "2026. 03. 16",
-    author: "남도예술정원 AI리서처",
+    author: "남도예술정원 AI 에디터",
     readTime: "4분",
     keywords: "목포 야경 명소, 고하도 목화정원, 목포대교 야경, 목포 가볼만한곳, 목포 데이트 코스, 고하도 목화체험장, 남도예술정원"
   },
@@ -1148,8 +1141,7 @@ export const postsMokpo = {
     title: "[목화정원] 하얀 목화솜이 팡팡! 아이와 딱!! ☁️",
     description: "1904년 우리나라 최초로 육지면(목화) 재배에 성공한 역사적 터전 위에 세워진 특별한 테마 정원을 만나보세요.",
     content: `
-      <h2>[목화정원] 하얀 목화솜이 팡팡! 아이와 딱!! ☁️</h2>
-      <p>안녕하세요! 남도예술정원 AI리서처입니다. 😊</p>
+      <p>안녕하세요! 남도예술정원 AI 에디터입니다. 😊</p>
       
       <hr />
       
@@ -1160,14 +1152,14 @@ export const postsMokpo = {
         <li><strong>아이들의 천국:</strong> 대규모 '목화 놀이터'와 무장애 산책로가 있어 부모님들에게는 휴식을, 아이들에게는 최고의 에너자이저 공간입니다.</li>
       </ul>
       
-      <img src="/images/guide-gohado-1.webp" alt="목화체험장 안내도" className="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
-      <p className="text-center text-sm text-neutral-500 mt-2">고하도 목화정원의 한눈에 보는 전체 안내도</p>
+      <img src="/images/guide-gohado-1.webp" alt="목화체험장 안내도" class="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
+      <p class="text-center text-sm text-neutral-500 mt-2">고하도 목화정원의 한눈에 보는 전체 안내도</p>
 
       <hr />
 
       <h2>📍 관광지 상세 정보 (Quick Info)</h2>
-      <img src="/images/guide-gohado-2.webp" alt="고하도 육지면 유래 안내판" className="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
-      <p className="text-center text-sm text-neutral-500 mt-2">고하도 육지면 재배의 역사를 알려주는 안내판</p>
+      <img src="/images/guide-gohado-2.webp" alt="고하도 육지면 유래 안내판" class="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
+      <p class="text-center text-sm text-neutral-500 mt-2">고하도 육지면 재배의 역사를 알려주는 안내판</p>
 
       <hr />
 
@@ -1214,13 +1206,13 @@ export const postsMokpo = {
       <hr />
 
       <blockquote>
-        <strong>남도예술정원 AI리서처의 한마디:</strong><br/>
+        <strong>남도예술정원 AI 에디터의 한마디:</strong><br/>
         "목화의 꽃말은 '어머니의 사랑'이라고 해요. 포근한 목화솜처럼 따뜻한 추억을 만들고 싶다면, 이번 주말 고하도로 떠나보시는 건 어떨까요? ☁️"
       </blockquote>
     `,
     image: "/images/guide-gohado-1.webp",
     date: "2026. 03. 16",
-    author: "남도예술정원 AI리서처",
+    author: "남도예술정원 AI 에디터",
     readTime: "3분",
     keywords: "목포 가볼만한곳, 고하도 목화정원, 목포 아이와 가볼만한곳, 전남 겨울 여행지, 고하도 놀이터, 목포 데이트 코스, 목화 재배지, 남도예술정원, 목포 인생샷 명소"
   },
@@ -1228,8 +1220,7 @@ export const postsMokpo = {
     title: "[목포 맛집-선경준치횟집] 고하도 산책 후 필수 코스! 밥도둑 완전 정복",
     description: "목포 9미의 주인공 준치회무침! 고하도 산책 후 즐기는 현지인 강력 추천 로컬 맛집입니다.",
     content: `
-      <h2>[목포 맛집-선경준치횟집] 고하도 산책 후 필수 코스! 밥도둑 완전 정복</h2>
-      <p>안녕하세요! 남도예술정원 AI리서처입니다. 😊</p>
+      <p>안녕하세요! 남도예술정원 AI 에디터입니다. 😊</p>
       
       <hr />
       
@@ -1240,14 +1231,14 @@ export const postsMokpo = {
         <li><strong>역사적 서사:</strong> 이순신 장군의 기운이 서린 고하도 투어 후 즐기는 보양식 같은 한 끼입니다.</li>
       </ul>
       
-      <img src="/images/food-junchi-1.webp" alt="매콤새콤한 준치회무침 비주얼" className="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
-      <p className="text-center text-sm text-neutral-500 mt-2">압도적인 비주얼의 밥도둑, 선경준치횟집의 준치회무침</p>
+      <img src="/images/food-junchi-1.webp" alt="매콤새콤한 준치회무침 비주얼" class="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
+      <p class="text-center text-sm text-neutral-500 mt-2">압도적인 비주얼의 밥도둑, 선경준치횟집의 준치회무침</p>
 
       <hr />
 
       <h2>📍 식당 상세 정보 (Quick Info)</h2>
-      <img src="/images/food-junchi-2.webp" alt="선경준치횟집 메뉴판" className="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
-      <p className="text-center text-sm text-neutral-500 mt-2">다양한 남도 별미가 준비된 선경준치횟집의 메뉴</p>
+      <img src="/images/food-junchi-2.webp" alt="선경준치횟집 메뉴판" class="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
+      <p class="text-center text-sm text-neutral-500 mt-2">다양한 남도 별미가 준비된 선경준치횟집의 메뉴</p>
 
       <hr />
 
@@ -1272,7 +1263,7 @@ export const postsMokpo = {
     `,
     image: "/images/food-junchi-1.webp",
     date: "2026. 03. 16",
-    author: "남도예술정원 AI리서처",
+    author: "남도예술정원 AI 에디터",
     readTime: "3분",
     keywords: "고하도목화정원, 목포맛집, 선경준치횟집, 목포준치회, 목포여행, 고하도여행, 준치회무침, 목포현지인맛집, 남도별미, 목포9미, 목포대교맛집",
     aiRecommendation: "남들이 다 가는 뻔한 체인점이 지겨운 분, <strong>'진짜 전라도의 손맛'</strong>을 제대로 느끼고 싶은 미식가, 그리고 고하도에서 이순신 장군의 발자취를 따라가며 역사와 미식을 동시에 정복하고 싶은 여행자에게 강력 추천합니다!"
@@ -1281,8 +1272,7 @@ export const postsMokpo = {
     title: "[유달산 조각공원 완벽 가이드] 입장료 0원, 24시간 힐링명소",
     description: "국내 최초의 야외 조각공원. 탁 트인 목포 시내 전망과 멋진 야경을 감상할 수 있는 24시간 개방 힐링 공간입니다.",
     content: `
-      <h2>[유달산 조각공원 완벽 가이드]-입장료 0원, 24시간 힐링명소</h2>
-      <p>안녕하세요! 남도예술정원 AI리서처입니다. 😊</p>
+      <p>안녕하세요! 남도예술정원 AI 에디터입니다. 😊</p>
 
       <hr />
 
@@ -1293,14 +1283,14 @@ export const postsMokpo = {
         <li><strong>저체력 여행자의 성지:</strong> 유달산 정상까지 힘들게 오르지 않아도 목포 시내와 다도해를 한눈에 담을 수 있는 조망 요충지입니다.</li>
       </ul>
 
-      <img src="/images/yudal-sculpture-1.webp" alt="조각공원에 조성된 빛의 거리" className="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
-      <p className="text-center text-sm text-neutral-500 mt-2">반짝이는 조명으로 로맨틱한 분위기를 자아내는 야간 조각공원 산책로</p>
+      <img src="/images/yudal-sculpture-1.webp" alt="조각공원에 조성된 빛의 거리" class="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
+      <p class="text-center text-sm text-neutral-500 mt-2">반짝이는 조명으로 로맨틱한 분위기를 자아내는 야간 조각공원 산책로</p>
 
       <hr />
 
       <h2>📍 관광지 상세 정보 (Quick Info)</h2>
-      <img src="/images/yudal-sculpture-2.webp" alt="유달산 조각공원 표지석" className="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
-      <p className="text-center text-sm text-neutral-500 mt-2">공원 입구에 위치한 유달산 조각공원 표지석 야경</p>
+      <img src="/images/yudal-sculpture-2.webp" alt="유달산 조각공원 표지석" class="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
+      <p class="text-center text-sm text-neutral-500 mt-2">공원 입구에 위치한 유달산 조각공원 표지석 야경</p>
 
       <hr />
 
@@ -1321,8 +1311,8 @@ export const postsMokpo = {
       <ul>
         <li><strong>추천 스팟: "공원 상단 전망대 구역"</strong>
           <br />목포 시가지와 서남해, 고하도까지 한눈에 펼쳐지는 배경으로 사진을 찍어보세요.
-          <img src="/images/yudal-sculpture-3.webp" alt="전망대에서 바라본 목포 파노라마 야경" className="w-full rounded-2xl my-6 object-cover shadow-lg border border-neutral-100" />
-          <p className="text-center text-sm text-neutral-500 mt-2 mb-6">전망대 구역에서 한눈에 내려다보이는 목포 시내의 화려한 야경</p>
+          <img src="/images/yudal-sculpture-3.webp" alt="전망대에서 바라본 목포 파노라마 야경" class="w-full rounded-2xl my-6 object-cover shadow-lg border border-neutral-100" />
+          <p class="text-center text-sm text-neutral-500 mt-2 mb-6">전망대 구역에서 한눈에 내려다보이는 목포 시내의 화려한 야경</p>
         </li>
         <li><strong>추천 시간: "일몰 30분 전(매직아워) ~ 야간"</strong>
           <br />낮에는 푸른 바다가, 해 질 녘에는 붉은 노을이, 밤에는 보석 같은 도시 불빛이 각기 다른 매력을 뽐냅니다. 야간 조명 시설이 완비되어 있어 밤 촬영에도 최적화되어 있습니다.
@@ -1340,13 +1330,13 @@ export const postsMokpo = {
       <hr />
 
       <blockquote>
-        <strong>남도예술정원 AI리서처의 한마디:</strong><br/>
+        <strong>남도예술정원 AI 에디터의 한마디:</strong><br/>
         "복잡한 세상 속에서 가끔은 아무런 조건 없이 나를 받아주는 공간이 필요하죠. 입장료도, 시간 제한도 없는 유달산 조각공원에서 예술 작품과 함께 잠시 '멍 때리는' 시간을 가져보세요. 그게 바로 진짜 여행이니까요."
       </blockquote>
     `,
     image: "/images/yudal-sculpture-1.webp",
     date: "2026. 03. 16",
-    author: "남도예술정원 AI리서처",
+    author: "남도예술정원 AI 에디터",
     readTime: "3분",
     keywords: "목포유달산조각공원, 국내최초야외조각공원, 유달산조망점, 목포야경명소, 목포무료관광지, 죽교동가볼만한곳, 목포힐링코스, 목포24시간여행, 남도예술정원, 목포데이트코스",
     aiRecommendation: "여행 중 <strong>'계획의 압박'</strong>에서 벗어나고 싶은 분, 등산은 싫지만 <strong>'탁 트인 전망'</strong>은 포기할 수 없는 분, 그리고 <strong>'조용한 사색과 야경'</strong>을 사랑하는 감성 여행자에게 이보다 더 완벽한 장소는 없습니다."
@@ -1355,8 +1345,7 @@ export const postsMokpo = {
     title: "[유달산 조각공원 힐링 산책 & 빵집순례 완벽 코스]",
     description: "24시간 상시 개방 예술 놀이터 유달산 조각공원과 산책 후 즐기는 목포 빵지순례 BEST 코스",
     content: `
-      <h2>[유달산 조각공원 힐링 산책 & 빵집순례 완벽 코스]</h2>
-      <p>안녕하세요! 남도예술정원 AI리서처입니다. 😊</p>
+      <p>안녕하세요! 남도예술정원 AI 에디터입니다. 😊</p>
 
       <hr />
 
@@ -1367,14 +1356,14 @@ export const postsMokpo = {
         <li><strong>미식의 마무리:</strong> 산책 후 도보 이동 가능한 목포의 전설적인 빵집 투어까지, 몸과 마음이 모두 배부른 코스입니다.</li>
       </ul>
 
-      <img src="/images/yudal-bakery-1.webp" alt="조각공원 안내도 야경" className="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
-      <p className="text-center text-sm text-neutral-500 mt-2">유달산 조각공원 안내도 앞의 소담한 야간 풍경</p>
+      <img src="/images/yudal-bakery-1.webp" alt="조각공원 안내도 야경" class="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
+      <p class="text-center text-sm text-neutral-500 mt-2">유달산 조각공원 안내도 앞의 소담한 야간 풍경</p>
 
       <hr />
 
       <h2>📍 관광지 상세 정보 (Quick Info)</h2>
-      <img src="/images/yudal-bakery-2.webp" alt="야간 조각공원 이정표" className="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
-      <p className="text-center text-sm text-neutral-500 mt-2">로맨틱한 조명이 켜진 전망 좋은 곳 이정표</p>
+      <img src="/images/yudal-bakery-2.webp" alt="야간 조각공원 이정표" class="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
+      <p class="text-center text-sm text-neutral-500 mt-2">로맨틱한 조명이 켜진 전망 좋은 곳 이정표</p>
 
       <hr />
 
@@ -1389,8 +1378,8 @@ export const postsMokpo = {
       <h3>[📸 MZ/사진작가] "예술적 프레임과 시티뷰의 완벽한 앙상블"</h3>
       <p>104점의 조각 작품을 피사체로 삼아 나만의 감성 스냅을 남겨보세요. 특히 공원 상단 전망대에서 내려다보는 목포 시가지와 다도해의 풍경은 인스타그램 릴스나 숏폼 영상 제작에 최적화된 구도를 제공합니다.</p>
       
-      <img src="/images/yudal-bakery-3.webp" alt="전망대에서 바라본 조각상과 시티뷰" className="w-full rounded-2xl my-6 object-cover shadow-lg border border-neutral-100" />
-      <p className="text-center text-sm text-neutral-500 mt-2">전망대에서 바라본 아름다운 조각상과 불빛 가득한 시내 전경</p>
+      <img src="/images/yudal-bakery-3.webp" alt="전망대에서 바라본 조각상과 시티뷰" class="w-full rounded-2xl my-6 object-cover shadow-lg border border-neutral-100" />
+      <p class="text-center text-sm text-neutral-500 mt-2">전망대에서 바라본 아름다운 조각상과 불빛 가득한 시내 전경</p>
 
       <hr />
 
@@ -1401,7 +1390,7 @@ export const postsMokpo = {
           <br/>추천 메뉴: 새우바게트 (짭조름한 머스터드 맛) & 크림치즈바게트 (진한 풍미)
           <br/>팁: 목포 여행의 필수 기념품! 두 곳 모두 근거리에 있으니 줄이 짧은 곳을 공략하세요.
         </li>
-        <li className="mt-4"><strong>유달동의 로망스</strong>
+        <li class="mt-4"><strong>유달동의 로망스</strong>
           <br/>추천 메뉴: 수제 단팥빵 & 붕어빵
           <br/>팁: 일본식 가옥을 개조한 고즈넉한 카페입니다. 산책 후 차분하게 차 한 잔과 팥빵을 즐기며 여운을 즐기기 좋습니다.
         </li>
@@ -1412,8 +1401,8 @@ export const postsMokpo = {
       <h2>📸 인생샷 핫포인트 & 골든타임</h2>
       <ul>
         <li><strong>추천 스팟: 공원 상단 전망대 구역 (시가지+바다 배경)</strong>
-          <img src="/images/yudal-bakery-4.webp" alt="유달산 조각공원 표지석 야경" className="w-full rounded-2xl my-6 object-cover shadow-lg border border-neutral-100" />
-          <p className="text-center text-sm text-neutral-500 mt-2">감성 넘치는 유달산 조각공원 표지석의 밤 풍경</p>
+          <img src="/images/yudal-bakery-4.webp" alt="유달산 조각공원 표지석 야경" class="w-full rounded-2xl my-6 object-cover shadow-lg border border-neutral-100" />
+          <p class="text-center text-sm text-neutral-500 mt-2">감성 넘치는 유달산 조각공원 표지석의 밤 풍경</p>
         </li>
         <li><strong>추천 시간: 일몰 30분 전(매직아워)</strong>
           <br/>붉게 물드는 하늘과 조각상의 실루엣이 어우러지는 찰나를 놓치지 마세요. 밤 9시 이후 야간 조명이 켜진 시간대도 훌륭합니다.
@@ -1423,13 +1412,13 @@ export const postsMokpo = {
       <hr />
 
       <blockquote>
-        <strong>남도예술정원 AI리서처의 한마디:</strong><br/>
+        <strong>남도예술정원 AI 에디터의 한마디:</strong><br/>
         "숙제하듯 바쁘게 돌아다니는 여행은 이제 그만! 조각공원 벤치에서 멍하니 하늘을 보고, 내려오는 길에 맛있는 빵 한 입 베어 무는 여유. 그 단순한 행복이 당신의 하루를 특별하게 만들어줄 거예요. 🗿✨🥐"
       </blockquote>
     `,
     image: "/images/yudal-bakery-1.webp",
     date: "2026. 03. 16",
-    author: "남도예술정원 AI리서처",
+    author: "남도예술정원 AI 에디터",
     readTime: "4분",
     keywords: "유달산조각공원힐링산책, 목포빵지순례, 목포무료관광지, 유달산야경, 코롬방제과점, 씨엘비베이커리, 목포아이와가볼만한곳, 목포데이트코스, 남도예술정원, 목포노을명소, 죽교동명소",
     aiRecommendation: "번아웃 직전의 직장인, <strong>'가성비와 가심비'</strong>를 동시에 챙기고 싶은 여행자, 그리고 <strong>'등산은 싫지만 압도적인 전망'</strong>은 포기할 수 없는 미식가형 힐링족에게 강력 추천합니다!"
@@ -1438,8 +1427,7 @@ export const postsMokpo = {
     title: "[목포 여행] 길치도 스트레스 NO! 유달산 조각공원 가장 편하게 가는 법 3가지 🚗",
     description: "길 잃을 걱정 끝! 택시, 자차, 케이블카까지 유달산 조각공원으로 가는 가장 완벽하고 편안한 3가지 경로 안내",
     content: `
-      <h2>[목포 여행] 길치도 스트레스 NO! 유달산 조각공원 가장 편하게 가는 법 3가지 🚗</h2>
-      <p>안녕하세요! 남도예술정원 AI리서처입니다. 😊</p>
+      <p>안녕하세요! 남도예술정원 AI 에디터입니다. 😊</p>
 
       <hr />
 
@@ -1450,8 +1438,8 @@ export const postsMokpo = {
         <li><strong>이동도 여행처럼:</strong> 하늘을 날아 공원에 도착하고 싶다면 해상케이블카가 정답입니다.</li>
       </ul>
       
-      <img src="/images/yudal-map.webp" alt="유달산 조각공원 위치 안내 지도" className="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
-      <p className="text-center text-sm text-neutral-500 mt-2">길 잃을 걱정 없는 유달산 조각공원 위치와 접근로 상세 안내</p>
+      <img src="/images/yudal-map.webp" alt="유달산 조각공원 위치 안내 지도" class="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
+      <p class="text-center text-sm text-neutral-500 mt-2">길 잃을 걱정 없는 유달산 조각공원 위치와 접근로 상세 안내</p>
 
       <hr />
 
@@ -1489,13 +1477,13 @@ export const postsMokpo = {
       <hr />
 
       <blockquote>
-        <strong>남도예술정원 AI리서처의 한마디:</strong><br/>
+        <strong>남도예술정원 AI 에디터의 한마디:</strong><br/>
         "어디로 가는지가 중요하지만, 어떻게 가는지가 그날의 기분을 좌우하기도 합니다. 편안한 길로 도착해 그저 작품과 풍경에만 집중하세요!"
       </blockquote>
     `,
     image: "/images/yudal-map.webp",
     date: "2026. 03. 16",
-    author: "남도예술정원 AI리서처",
+    author: "남도예술정원 AI 에디터",
     readTime: "3분",
     keywords: "목포유달산조각공원, 유달산조각공원가는법, 목포역에서유달산, 목포택시요금, 목포해상케이블카, 목포무료관광지, 죽교동명소, 목포여행코스, 남도예술정원, 유달산주차정보",
     aiRecommendation: "길 찾기에 소질이 없는 프로 길치 여행자, 걷는 것보다 <strong>'가만히 앉아 경치 보는 것'</strong>을 선호하는 효율 중심형 휴식가, 그리고 짧은 일정 동안 스마트하게 핵심만 보고 싶은 분들에게 이 교통 가이드를 바칩니다."

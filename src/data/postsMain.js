@@ -16,11 +16,6 @@ export const postsMain = {
           <div class="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-teal-500/10 text-teal-800 text-xs font-bold uppercase tracking-wider tracking-[-0.02em]">
             🌊 진도 해안 드라이브 & 국가 생태습지 명소 | 진도 고군면·군내면
           </div>
-          <h2 class="font-sans font-extrabold text-neutral-900 tracking-[-0.04em] leading-[1.38] break-keep [text-wrap:balance] pt-1">
-            <span class="block text-base sm:text-lg md:text-[20px] font-bold text-neutral-700 tracking-[-0.03em] mb-1.5">진도 드라이브길에서 만난 보석 같은 자연!</span>
-            <span class="text-teal-700 font-sans block text-2xl sm:text-3xl md:text-[32px] font-extrabold tracking-[-0.04em] leading-[1.35]">“진도갯벌습지보호지역”</span>
-            <span class="text-sm sm:text-base md:text-[17px] text-neutral-600 font-medium font-sans block mt-2.5 tracking-[-0.025em] leading-[1.5]">해안 나무데크 산책로와 주황빛 코스모스 언덕, 진도휴식 정원까지 이어지는 하루 코스</span>
-          </h2>
           <p class="text-sm md:text-[15px] text-neutral-500 font-normal leading-relaxed max-w-2xl mx-auto break-keep [text-wrap:balance]">
             시원하게 뻗은 진도 해안도로 옆 청정 갯벌과 바다 위 나무데크길, 그리고 언덕 위 황홀한 주황빛 코스모스 꽃밭에서 만나는 남도의 여유
           </p>
@@ -142,11 +137,6 @@ export const postsMain = {
           <div class="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-sky-500/10 text-sky-800 text-xs font-bold uppercase tracking-wider tracking-[-0.02em]">
             ⚔️ 명량대첩 호국 성지 & 다도해 조망 명소 | 진도 고군면 벽파진
           </div>
-          <h2 class="font-sans font-extrabold text-neutral-900 tracking-[-0.04em] leading-[1.38] break-keep [text-wrap:balance] pt-1">
-            <span class="block text-base sm:text-lg md:text-[20px] font-bold text-neutral-700 tracking-[-0.03em] mb-1.5">진도의 바다를 품은 호국의 성지</span>
-            <span class="text-sky-700 font-sans block text-2xl sm:text-3xl md:text-[32px] font-extrabold tracking-[-0.04em] leading-[1.35]">“이충무공 벽파진전첩비”</span>
-            <span class="text-sm sm:text-base md:text-[17px] text-neutral-600 font-medium font-sans block mt-2.5 tracking-[-0.025em] leading-[1.5]">벽파정부터 민간정원 ‘진도휴식’까지 이어지는 역사와 힐링의 여정</span>
-          </h2>
           <p class="text-sm md:text-[15px] text-neutral-500 font-normal leading-relaxed max-w-2xl mx-auto break-keep [text-wrap:balance]">
             충무공 이순신 장군이 명량대첩을 앞두고 16일간 수군을 재건했던 역사의 바다, 벽파진전첩비와 벽파정에서 만나는 숭고한 울림
           </p>
@@ -306,11 +296,6 @@ export const postsMain = {
           <div class="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-amber-500/10 text-amber-800 text-xs font-bold uppercase tracking-wider tracking-[-0.02em]">
             🏯 고려 삼별초 대몽항쟁 사적 제126호 | 진도 군내면 용장성
           </div>
-          <h2 class="font-sans font-extrabold text-neutral-900 tracking-[-0.04em] leading-[1.38] break-keep [text-wrap:balance] pt-1">
-            <span class="block text-base sm:text-lg md:text-[20px] font-bold text-neutral-700 tracking-[-0.03em] mb-1.5">고려 삼별초의 붉은 기상이 숨 쉬는 곳</span>
-            <span class="text-amber-700 font-sans block text-2xl sm:text-3xl md:text-[32px] font-extrabold tracking-[-0.04em] leading-[1.35]">“진도 용장성 & 정충사”</span>
-            <span class="text-sm sm:text-base md:text-[17px] text-neutral-600 font-medium font-sans block mt-2.5 tracking-[-0.025em] leading-[1.5]">배중손 장군의 호국 성지에서 진도휴식 정원까지, 역사와 자연을 잇는 감성 코스</span>
-          </h2>
           <p class="text-sm md:text-[15px] text-neutral-500 font-normal leading-relaxed max-w-2xl mx-auto break-keep [text-wrap:balance]">
             몽골의 침략에 맞서 자주독립의 의지를 불태웠던 삼별초의 해상 왕국 수도, 계단식 궁궐 석축과 숭의문을 따라 걷는 천년의 시간
           </p>
@@ -421,11 +406,6 @@ export const postsMain = {
           <div class="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-amber-500/10 text-amber-800 text-xs font-bold uppercase tracking-wider tracking-[-0.02em]">
             🐕 천연기념물 제53호 생태 체험 & 가족 나들이 명소 | 진도읍
           </div>
-          <h2 class="font-sans font-extrabold text-neutral-900 tracking-[-0.04em] leading-[1.38] break-keep [text-wrap:balance] pt-1">
-            <span class="block text-base sm:text-lg md:text-[20px] font-bold text-neutral-700 tracking-[-0.03em] mb-1.5">진도개의 사랑스러움과 정원의 아늑함이 만나는 곳!</span>
-            <span class="text-amber-700 font-sans block text-2xl sm:text-3xl md:text-[32px] font-extrabold tracking-[-0.04em] leading-[1.35]">“진도개 테마파크”</span>
-            <span class="text-sm sm:text-base md:text-[17px] text-neutral-600 font-medium font-sans block mt-2.5 tracking-[-0.025em] leading-[1.5]">천연기념물 제53호 진도개 교감 체험부터 진도휴식 정원까지 이어지는 감성 여행</span>
-          </h2>
           <p class="text-sm md:text-[15px] text-neutral-500 font-normal leading-relaxed max-w-2xl mx-auto break-keep [text-wrap:balance]">
             순하고 영특한 아기 백구들과의 다정한 교감, 신나는 사계절 인조잔디 썰매장과 미니 동물농장까지 온 가족이 행복한 무료 생태 테마공원
           </p>
@@ -549,11 +529,6 @@ export const postsMain = {
           <div class="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-emerald-500/10 text-emerald-800 text-xs font-bold uppercase tracking-wider tracking-[-0.02em]">
             ☸️ 보물 석불좌상 & 서해랑길 진도 7코스 | 진도 고군면 용장사
           </div>
-          <h2 class="font-sans font-extrabold text-neutral-900 tracking-[-0.04em] leading-[1.38] break-keep [text-wrap:balance] pt-1">
-            <span class="block text-base sm:text-lg md:text-[20px] font-bold text-neutral-700 tracking-[-0.03em] mb-1.5">역사와 자연이 호흡하는 진도 고군면의 숨은 힐링 명소</span>
-            <span class="text-emerald-700 font-sans block text-2xl sm:text-3xl md:text-[32px] font-extrabold tracking-[-0.04em] leading-[1.35]">“진도 용장사 & 보물 석불좌상”</span>
-            <span class="text-sm sm:text-base md:text-[17px] text-neutral-600 font-medium font-sans block mt-2.5 tracking-[-0.025em] leading-[1.5]">삼별초 항몽 투쟁의 산성 터부터 서해랑길 진도 7코스까지 호국 역사 탐방기</span>
-          </h2>
           <p class="text-sm md:text-[15px] text-neutral-500 font-normal leading-relaxed max-w-2xl mx-auto break-keep [text-wrap:balance]">
             옛 용장산성의 고즈넉한 돌담 계단을 올라 마주하는 보물 석조여래좌상의 온화한 미소와 분홍빛 꽃나무가 어우러진 산사 산책
           </p>
@@ -690,11 +665,6 @@ export const postsMain = {
           <div class="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-emerald-500/10 text-emerald-800 text-xs font-bold uppercase tracking-wider tracking-[-0.02em]">
             🚌 남도한바퀴 명품 정원 인문학 버스투어 | 완도·해남·진도 권역
           </div>
-          <h2 class="font-sans font-extrabold text-neutral-900 tracking-[-0.04em] leading-[1.38] break-keep [text-wrap:balance] pt-1">
-            <span class="block text-base sm:text-lg md:text-[20px] font-bold text-neutral-700 tracking-[-0.03em] mb-1.5">운전 스트레스 제로! 뚜벅이도 완벽하게 즐기는 전남 명품 정원</span>
-            <span class="text-emerald-700 font-sans block text-2xl sm:text-3xl md:text-[32px] font-extrabold tracking-[-0.04em] leading-[1.35]">“남도한바퀴 인문 정원 여행”</span>
-            <span class="text-sm sm:text-base md:text-[17px] text-neutral-600 font-medium font-sans block mt-2.5 tracking-[-0.025em] leading-[1.5]">정도리 구계등 · 바하정원 · 월송한우촌 · 4est수목원 · 산이정원 원데이 버스투어</span>
-          </h2>
           <p class="text-sm md:text-[15px] text-neutral-500 font-normal leading-relaxed max-w-2xl mx-auto break-keep [text-wrap:balance]">
             광주송정역과 유스퀘어에서 출발해 정원주의 철학이 깃든 남도 대표 민간정원 3곳과 다도해 몽돌해변, 한우 불고기 전골 미식까지 하루에 만끽하는 정원 인문학 기행
           </p>
@@ -904,11 +874,6 @@ export const postsMain = {
           <div class="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-sky-500/10 text-sky-800 text-xs font-bold uppercase tracking-wider tracking-[-0.02em]">
             🐟 남도예술정원 공식 지역파트너 & 백반기행 맛집 | 진도읍 수품어장
           </div>
-          <h2 class="font-sans font-extrabold text-neutral-900 tracking-[-0.04em] leading-[1.38] break-keep [text-wrap:balance] pt-1">
-            <span class="block text-base sm:text-lg md:text-[20px] font-bold text-neutral-700 tracking-[-0.03em] mb-1.5">3대째 어부 집안의 자연산 바다 한 상, 백반기행 진도 맛집</span>
-            <span class="text-sky-700 font-sans block text-2xl sm:text-3xl md:text-[32px] font-extrabold tracking-[-0.04em] leading-[1.35]">“진도읍 수품어장”</span>
-            <span class="text-sm sm:text-base md:text-[17px] text-neutral-600 font-medium font-sans block mt-2.5 tracking-[-0.025em] leading-[1.5]">남도예술정원 지역파트너 전 메뉴 10% 할인 혜택과 연계 카페·관광지 완벽 코스</span>
-          </h2>
           <p class="text-sm md:text-[15px] text-neutral-500 font-normal leading-relaxed max-w-2xl mx-auto break-keep [text-wrap:balance]">
             수품항에서 매일 직접 조업한 싱싱한 자연산 회덮밥과 살얼음 수품물회, 생선구이백반, 전복장·간장게장 밑반찬까지 푸짐하게 차려지는 진도의 맛
           </p>
@@ -1044,11 +1009,6 @@ export const postsMain = {
           <div class="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-amber-500/10 text-amber-800 text-xs font-bold uppercase tracking-wider tracking-[-0.02em]">
             🐟 남도예술정원 지역 파트너 & 화덕생선구이 명소 | 완도
           </div>
-          <h2 class="font-sans font-extrabold text-neutral-900 tracking-[-0.04em] leading-[1.38] break-keep [text-wrap:balance] pt-1">
-            <span class="block text-base sm:text-lg md:text-[20px] font-bold text-neutral-700 tracking-[-0.03em] mb-1.5">완도맛집 추천</span>
-            <span class="text-amber-700 font-sans block text-2xl sm:text-3xl md:text-[32px] font-extrabold tracking-[-0.04em] leading-[1.35]">“완도어반”</span>
-            <span class="text-sm sm:text-base md:text-[17px] text-neutral-600 font-medium font-sans block mt-2.5 tracking-[-0.025em] leading-[1.5]">완도타워 여행코스로 즐기는 화덕생선구이 전문점</span>
-          </h2>
           <p class="text-sm md:text-[15px] text-neutral-500 font-normal leading-relaxed max-w-2xl mx-auto break-keep [text-wrap:balance]">
             완도타워 모노레일 승강장 바로 옆! 뜨거운 화덕에서 구워낸 겉바속촉 모둠 생선구이와 남도예술정원 여행주간 10% 할인 혜택까지
           </p>
@@ -1210,11 +1170,6 @@ export const postsMain = {
           <div class="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-amber-500/10 text-amber-800 text-xs font-bold uppercase tracking-wider tracking-[-0.02em]">
             🥐 완도 핫플레이스 & 전복빵 시그니처 카페 | 완도읍·완도타워
           </div>
-          <h2 class="font-sans font-extrabold text-neutral-900 tracking-[-0.04em] leading-[1.38] break-keep [text-wrap:balance] pt-1">
-            <span class="block text-base sm:text-lg md:text-[20px] font-bold text-neutral-700 tracking-[-0.03em] mb-1.5">완도여행 필수코스, 전복빵과 비파 사이다로 유명한</span>
-            <span class="text-amber-700 font-sans block text-2xl sm:text-3xl md:text-[32px] font-extrabold tracking-[-0.04em] leading-[1.35]">“달스윗 카페”</span>
-            <span class="text-sm sm:text-base md:text-[17px] text-neutral-600 font-medium font-sans block mt-2.5 tracking-[-0.025em] leading-[1.5]">남도예술정원 여행주간 10% 할인 혜택!</span>
-          </h2>
           <p class="text-sm md:text-[15px] text-neutral-500 font-normal leading-relaxed max-w-2xl mx-auto break-keep [text-wrap:balance]">
             과거 국립수산물관리원을 리모델링한 감성 본점부터 다도해가 펼쳐지는 완도타워점까지, 장보고빵(전복빵)과 비파 사이다로 완성하는 완도 미식 여행
           </p>
@@ -1377,11 +1332,6 @@ export const postsMain = {
           <div class="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-emerald-500/10 text-emerald-800 text-xs font-bold uppercase tracking-wider tracking-[-0.02em]">
             🍲 완도 아내의 정원 정원주 추천 로컬 맛집 | 완도
           </div>
-          <h2 class="font-sans font-extrabold text-neutral-900 tracking-[-0.04em] leading-[1.38] break-keep [text-wrap:balance] pt-1">
-            <span class="block text-base sm:text-lg md:text-[20px] font-bold text-neutral-700 tracking-[-0.03em] mb-1.5">남도예술정원 완도 아내의 정원 지역파트너</span>
-            <span class="text-emerald-700 font-sans block text-2xl sm:text-3xl md:text-[32px] font-extrabold tracking-[-0.04em] leading-[1.35]">“만남의 광장”</span>
-            <span class="text-sm sm:text-base md:text-[17px] text-neutral-600 font-medium font-sans block mt-2.5 tracking-[-0.025em] leading-[1.5]">현지인이 추천하는 남도 로컬 닭코스 맛집</span>
-          </h2>
           <p class="text-sm md:text-[15px] text-neutral-500 font-normal leading-relaxed max-w-2xl mx-auto break-keep [text-wrap:balance]">
             사랑이 꽃피는 민간정원 아내의 정원에서 차로 1분! 닭육회부터 닭구이, 닭주물럭, 닭백숙, 녹두 닭죽까지 남도의 넉넉한 인심이 담긴 로컬 노포 미식회
           </p>
@@ -1556,11 +1506,6 @@ export const postsMain = {
           <div class="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-sky-500/10 text-sky-800 text-xs font-bold uppercase tracking-wider tracking-[-0.02em]">
             🌊 다도해해상국립공원 & 지역파트너 카페 투어 | 완도 정도리·완도읍
           </div>
-          <h2 class="font-sans font-extrabold text-neutral-900 tracking-[-0.04em] leading-[1.38] break-keep [text-wrap:balance] pt-1">
-            <span class="block text-base sm:text-lg md:text-[20px] font-bold text-neutral-700 tracking-[-0.03em] mb-1.5">완도 가볼만한곳 다도해해상국립공원 구계등과</span>
-            <span class="text-sky-700 font-sans block text-2xl sm:text-3xl md:text-[32px] font-extrabold tracking-[-0.04em] leading-[1.35]">“완도어반 · 어반커피”</span>
-            <span class="text-sm sm:text-base md:text-[17px] text-neutral-600 font-medium font-sans block mt-2.5 tracking-[-0.025em] leading-[1.5]">남도예술정원 지역파트너와 함께하는 바다 & 미식 여행 후기</span>
-          </h2>
           <p class="text-sm md:text-[15px] text-neutral-500 font-normal leading-relaxed max-w-2xl mx-auto break-keep [text-wrap:balance]">
             갯돌이 파도에 속삭이는 정도리 구계등 해변 산책부터 화덕생선구이 맛집 완도어반, 루프탑 야외 테라스가 매력적인 어반커피까지 이어지는 힐링 코스
           </p>
@@ -1735,11 +1680,6 @@ export const postsMain = {
           <div class="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-emerald-500/10 text-emerald-800 text-xs font-bold uppercase tracking-wider tracking-[-0.02em]">
             🎸 남도예술정원 여행주간 예술무대 | 해남 포레스트(4est) 수목원
           </div>
-          <h2 class="font-sans font-extrabold text-neutral-900 tracking-[-0.04em] leading-[1.38] break-keep [text-wrap:balance] pt-1">
-            <span class="block text-base sm:text-lg md:text-[20px] font-bold text-neutral-700 tracking-[-0.03em] mb-1.5">남도예술정원 여행주간</span>
-            <span class="text-emerald-700 font-sans block text-2xl sm:text-3xl md:text-[32px] font-extrabold tracking-[-0.04em] leading-[1.35]">“해남 포레스트 수목원”</span>
-            <span class="text-sm sm:text-base md:text-[17px] text-neutral-600 font-medium font-sans block mt-2.5 tracking-[-0.025em] leading-[1.5]">귀촌 재즈기타리스트와 함께하는 가을 정원 재즈 공연</span>
-          </h2>
           <p class="text-sm md:text-[15px] text-neutral-500 font-normal leading-relaxed max-w-2xl mx-auto break-keep [text-wrap:balance]">
             6만 평 두륜산 숲을 물들인 가을빛 단풍 아래, 돗자리에 누워 감미로운 재즈 기타 선율에 귀 기울이는 로맨틱한 야외 정원 음악회
           </p>
@@ -1905,11 +1845,6 @@ export const postsMain = {
           <div class="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-teal-500/10 text-teal-800 text-xs font-bold uppercase tracking-wider tracking-[-0.02em]">
             🎨 남도예술정원 여행주간 특별 초대전 | 해남 민간정원 1호 문가든
           </div>
-          <h2 class="font-sans font-extrabold text-neutral-900 tracking-[-0.04em] leading-[1.38] break-keep [text-wrap:balance] pt-1">
-            <span class="block text-base sm:text-lg md:text-[20px] font-bold text-neutral-700 tracking-[-0.03em] mb-1.5">남도예술정원 여행주간</span>
-            <span class="text-teal-700 font-sans block text-2xl sm:text-3xl md:text-[32px] font-extrabold tracking-[-0.04em] leading-[1.35]">해남 민간정원 1호 “문가든”</span>
-            <span class="text-sm sm:text-base md:text-[17px] text-neutral-600 font-medium font-sans block mt-2.5 tracking-[-0.025em] leading-[1.5]">정원 속 작은 미술관에서 만난 최순임 작가 초대전</span>
-          </h2>
           <p class="text-sm md:text-[15px] text-neutral-500 font-normal leading-relaxed max-w-2xl mx-auto break-keep [text-wrap:balance]">
             〈보이는 것 모두 꽃, 생각하는 것 모두 달〉 — 아늑한 카페와 초록빛 앞마당 곳곳에 피어난 동화 같은 소녀와 고양이 조각·회화 전시
           </p>
@@ -2062,11 +1997,6 @@ export const postsMain = {
           <div class="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-emerald-500/10 text-emerald-800 text-xs font-bold uppercase tracking-wider tracking-[-0.02em]">
             🖼️ 남도예술정원 여행주간 크리에이터 특화체험 | 해남 문가든
           </div>
-          <h2 class="font-sans font-extrabold text-neutral-900 tracking-[-0.04em] leading-[1.38] break-keep [text-wrap:balance] pt-1">
-            <span class="block text-base sm:text-lg md:text-[20px] font-bold text-neutral-700 tracking-[-0.03em] mb-1.5">해남 가볼만한곳 “문가든”</span>
-            <span class="text-emerald-700 font-sans block text-2xl sm:text-3xl md:text-[32px] font-extrabold tracking-[-0.04em] leading-[1.35]">‘나만의 정원 액자 만들기’</span>
-            <span class="text-sm sm:text-base md:text-[17px] text-neutral-600 font-medium font-sans block mt-2.5 tracking-[-0.025em] leading-[1.5]">남도예술정원 여행주간 크리에이터 특화 체험 후기</span>
-          </h2>
           <p class="text-sm md:text-[15px] text-neutral-500 font-normal leading-relaxed max-w-2xl mx-auto break-keep [text-wrap:balance]">
             숲속 아지트 같은 그린 타임 갤러리에서 파스텔과 문가든의 가을 들꽃, 세라믹 소품으로 세상에 하나뿐인 정원 액자를 완성하는 감성 클래스
           </p>
@@ -2235,11 +2165,6 @@ export const postsMain = {
           <div class="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-emerald-500/10 text-emerald-800 text-xs font-bold uppercase tracking-wider">
             ☕ 남도예술정원 지역 파트너 & 오션뷰 정원카페 | 완도
           </div>
-          <h2 class="text-2xl sm:text-3xl md:text-[30px] font-sans font-extrabold text-neutral-900 tracking-[-0.04em] leading-[1.38] break-keep [text-wrap:balance]">
-            <span class="block text-lg sm:text-xl md:text-[22px] font-bold text-neutral-700 tracking-[-0.03em] mb-1">완도 카페 추천</span>
-            <span class="text-emerald-700 font-sans block font-extrabold tracking-[-0.04em]">"당인리포레스트"</span><br/>
-            <span class="text-sm sm:text-base md:text-[17px] text-neutral-600 font-medium font-sans block mt-2.5 tracking-[-0.025em] leading-[1.5]">남도예술정원 여행주간, 완도수목원과 함께 떠나는 정원여행</span>
-          </h2>
           <p class="text-base md:text-lg text-neutral-600 font-light leading-relaxed">
             사계절 푸른 완도수목원에서 만나는 난대림의 감동, 그리고 싱그러운 정원과 바다가 마주하는 당인리포레스트에서의 달콤한 휴식
           </p>
@@ -2539,10 +2464,6 @@ export const postsMain = {
           <div class="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-blue-500/10 text-blue-800 text-xs font-bold uppercase tracking-wider">
             🌿 완도 웰니스 & 해양치유 명소 | 신지 명사십리
           </div>
-          <h2 class="text-2xl sm:text-3xl md:text-[30px] font-sans font-extrabold text-neutral-900 tracking-[-0.04em] leading-[1.38] break-keep [text-wrap:balance]">
-            <span class="block text-lg sm:text-xl md:text-[22px] font-bold text-neutral-700 tracking-[-0.03em] mb-1">완도가볼만한곳 완도해양치유센터</span>
-            <span class="text-blue-700 font-sans block font-extrabold tracking-[-0.04em]">바다가 선물하는 특별한 힐링여행</span>
-          </h2>
           <p class="text-base md:text-lg text-neutral-600 font-light leading-relaxed">
             청정 해수와 해조류, 천연 머드를 활용한 웰니스 테라피로 지친 몸과 마음에 활력을 불어넣는 건강한 쉼의 공간
           </p>
@@ -2910,10 +2831,6 @@ export const postsMain = {
           <div class="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-teal-500/10 text-teal-800 text-xs font-bold uppercase tracking-wider">
             🐠 완도 실내 가족여행 & 생태 체험 명소 | 완도 해양생태전시관
           </div>
-          <h2 class="text-2xl sm:text-3xl md:text-[30px] font-sans font-extrabold text-neutral-900 tracking-[-0.04em] leading-[1.38] break-keep [text-wrap:balance]">
-            <span class="block text-lg sm:text-xl md:text-[22px] font-bold text-neutral-700 tracking-[-0.03em] mb-1">완도 아이와 가볼만한곳 해양생태전시관</span>
-            <span class="text-teal-700 font-sans block font-extrabold tracking-[-0.04em]">바닷속 생태계를 만나는 특별한 여행</span>
-          </h2>
           <p class="text-base md:text-lg text-neutral-600 font-light leading-relaxed">
             신비로운 바닷속 생태계 오감 체험부터 천년 해상왕 장보고의 청해진 역사까지, 온 가족이 함께 보고 배우고 즐기는 완도 대표 실내 여행지
           </p>
@@ -3281,10 +3198,6 @@ export const postsMain = {
           <div class="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-sky-500/10 text-sky-800 text-xs font-bold uppercase tracking-wider">
             🌊 남도 바다 & 맨발 걷기 힐링 명소 | 완도 신지면
           </div>
-          <h2 class="text-2xl sm:text-3xl md:text-[30px] font-sans font-extrabold text-neutral-900 tracking-[-0.04em] leading-[1.38] break-keep [text-wrap:balance]">
-            <span class="block text-lg sm:text-xl md:text-[22px] font-bold text-neutral-700 tracking-[-0.03em] mb-1">완도 가볼만한곳 신지 명사십리해수욕장</span>
-            <span class="text-sky-700 font-sans block font-extrabold tracking-[-0.04em]">사계절 아름다운 힐링 여행지</span>
-          </h2>
           <p class="text-base md:text-lg text-neutral-600 font-light leading-relaxed">
             끝없이 펼쳐진 3.8km 은빛 백사장과 청정 에메랄드빛 바다, 낮과 밤 그리고 이른 아침까지 다채로운 매력을 선사하는 아시아 최초 블루플래그 인증 해변
           </p>
@@ -3585,10 +3498,6 @@ export const postsMain = {
           <div class="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-cyan-500/10 text-cyan-800 text-xs font-bold uppercase tracking-wider">
             남도예술정원 트래블 가이드 Vol. 02
           </div>
-          <h2 class="text-2xl sm:text-3xl md:text-[30px] font-sans font-extrabold text-neutral-900 tracking-[-0.04em] leading-[1.38] break-keep [text-wrap:balance]">
-            <span class="block text-lg sm:text-xl md:text-[22px] font-bold text-neutral-700 tracking-[-0.03em] mb-1">필사즉생의 기상에서 초록빛 안식까지,</span>
-            <span class="text-cyan-700 font-sans block font-extrabold tracking-[-0.04em]">진도 감성 여행 완벽 가이드</span>
-          </h2>
           <p class="text-base md:text-lg text-neutral-600 font-light leading-relaxed">
             진도 이충무공 승전공원(해양에너지공원)부터 민간정원 '진도휴식', 그리고 마을 파트너 공간까지 이어지는 하루
           </p>
@@ -4060,10 +3969,6 @@ export const postsMain = {
           <div class="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-emerald-500/10 text-emerald-800 text-xs font-bold uppercase tracking-wider">
             🌿 감성 힐링 & 피크닉 명소 | 해남 문가든
           </div>
-          <h2 class="text-2xl sm:text-3xl md:text-[30px] font-sans font-extrabold text-neutral-900 tracking-[-0.04em] leading-[1.38] break-keep [text-wrap:balance]">
-            <span class="block text-lg sm:text-xl md:text-[22px] font-bold text-neutral-700 tracking-[-0.03em] mb-1">해남 필수 여행 코스!</span>
-            <span class="text-emerald-700 font-sans block font-extrabold tracking-[-0.04em]">맛있는 피크닉 명소 ‘문가든’ 정원 데이트</span>
-          </h2>
           <p class="text-base md:text-lg text-neutral-600 font-light leading-relaxed">
             잔잔한 오류제 저수지 수변 풍경과 온 가족의 사랑이 담긴 동화 같은 숲길. 귀한 황칠차와 달콤한 바움쿠헨이 함께하는 해남 최고의 힐링 정원 데이트 코스!
           </p>
@@ -4412,10 +4317,6 @@ export const postsMain = {
           <div class="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-amber-500/10 text-amber-700 text-xs font-bold uppercase tracking-wider">
             🍶 전통주 & 명품 정원 탐방 | 해남
           </div>
-          <h2 class="text-2xl sm:text-3xl md:text-[30px] font-sans font-extrabold text-neutral-900 tracking-[-0.04em] leading-[1.38] break-keep [text-wrap:balance]">
-            <span class="block text-lg sm:text-xl md:text-[22px] font-bold text-neutral-700 tracking-[-0.03em] mb-1">막걸리 매니아 방문 필수!</span>
-            <span class="text-amber-700 font-sans block font-extrabold tracking-[-0.04em]">무료 시음 가능한 해남 해창주조장 정원</span>
-          </h2>
           <p class="text-base md:text-lg text-neutral-600 font-light leading-relaxed">
             100년 가까운 세월을 품은 근대 역사 정원과 순수 유기농 찹쌀의 단맛! 술 익는 향기 솔솔 풍기는 해남의 독보적인 핫플레이스 해창주조장을 소개합니다.
           </p>
@@ -4820,10 +4721,6 @@ export const postsMain = {
           <div class="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-primary/10 text-primary text-xs font-bold uppercase tracking-wider">
             🍽️ 특별 기획 | 남도 맛있는 정원 투어
           </div>
-          <h2 class="text-2xl sm:text-3xl md:text-[30px] font-sans font-extrabold text-neutral-900 tracking-[-0.04em] leading-[1.38] break-keep [text-wrap:balance]">
-            <span class="block text-lg sm:text-xl md:text-[22px] font-bold text-neutral-700 tracking-[-0.03em] mb-1">남도와 정원에 관심있는 사람 모여라!</span>
-            <span class="text-primary font-sans block font-extrabold tracking-[-0.04em]">맛있는 정원투어 미식 여행</span>
-          </h2>
           <p class="text-base md:text-lg text-neutral-600 font-light leading-relaxed">
             남도의 아름다운 정원과 지역의 깊은 손맛이 어우러진 특별한 하루! 목포역에서 출발해 완도, 해남, 진도까지 오감을 사로잡는 생생한 당일치기 미식 로드무비를 전해드립니다.
           </p>
@@ -6418,7 +6315,7 @@ export const postsMain = {
     `,
     "image": "/images/main-intro-01.webp",
     "date": "2026-03-27",
-    "author": "남도예술정원 AI리서처",
+    "author": "남도예술정원 AI 에디터",
     "readTime": "15분"
   },
   "press-260728-ikbc-coop": {

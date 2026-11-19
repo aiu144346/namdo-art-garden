@@ -19,6 +19,50 @@ const REGION_LABEL_MAP = {
   main: '전남 남도권역'
 };
 
+// Intelligent Korean Title Parser (VisitKorea Benchmark)
+function parseEditorialTitle(rawTitle = '') {
+  let text = rawTitle.trim();
+  let tag = '';
+
+  // 1. Extract leading [말머리] tag if followed by main title text
+  const prefixMatch = text.match(/^\[([^\]]+)\]\s*[-:]?\s*(.+)$/s);
+  if (prefixMatch) {
+    tag = prefixMatch[1].trim();
+    text = prefixMatch[2].trim();
+  } else {
+    // If entire title is wrapped in [ ... ], unwrap it
+    const fullBracketMatch = text.match(/^\[([^\]]+)\]$/);
+    if (fullBracketMatch) {
+      text = fullBracketMatch[1].trim();
+    }
+  }
+
+  // 2. If explicit newline exists, split into main & sub
+  const lines = text.split('\n').map(l => l.trim()).filter(Boolean);
+  if (lines.length >= 2) {
+    return { tag, main: lines[0], sub: lines.slice(1).join(' ') };
+  }
+
+  const single = lines[0] || '';
+  if (single.length <= 22) {
+    return { tag, main: single, sub: '' };
+  }
+
+  // 3. For long single-line titles (>22 chars), split cleanly at natural Korean semantic delimiters
+  const delimiters = [' — ', ' | ', ': ', ' : ', '! ', '? ', ', '];
+  for (const delim of delimiters) {
+    const idx = single.indexOf(delim);
+    if (idx >= 6 && single.length - (idx + delim.length) >= 6) {
+      const keepMark = delim.trim() === '!' || delim.trim() === '?';
+      const mainPart = single.slice(0, idx + (keepMark ? delim.trim().length : 0)).trim();
+      const subPart = single.slice(idx + delim.length).trim();
+      return { tag, main: mainPart, sub: subPart };
+    }
+  }
+
+  return { tag, main: single, sub: '' };
+}
+
 export default function PostDetail() {
   const { id } = useParams();
   const customPosts = useMemo(() => getCustomPosts(), []);
@@ -109,21 +153,15 @@ export default function PostDetail() {
 
   // Parse title lines cleanly for Korean editorial display
   const titleParts = useMemo(() => {
-    if (!post?.title) return { main: '', sub: '' };
-    const rawLines = post.title
-      .split('\n')
-      .map(l => l.trim())
-      .filter(Boolean);
-    if (rawLines.length >= 2) {
-      return { main: rawLines[0], sub: rawLines.slice(1).join(' ') };
-    }
-    return { main: rawLines[0] || '', sub: '' };
+    return parseEditorialTitle(post?.title || '');
   }, [post]);
 
-  // Check if post.content already embeds its own hero image/header so we don't duplicate
-  const hasEmbeddedHero = useMemo(() => {
-    if (!post?.content) return false;
-    return post.content.includes('<!-- Hero Banner') || post.content.includes('<h1');
+  // Check if post.content already embeds its own hero banner or already includes post.image
+  const shouldShowTopCoverImage = useMemo(() => {
+    if (!post?.image || !post?.content) return false;
+    if (post.content.includes('<!-- Hero')) return false;
+    if (post.content.includes(post.image)) return false;
+    return true;
   }, [post]);
 
   const handleShare = async (platform) => {
@@ -174,13 +212,23 @@ export default function PostDetail() {
         <div className="max-w-4xl mx-auto">
           {/* Top Breadcrumb (> 여행기사) */}
           <div className="flex items-center justify-between mb-6">
-            <Link
-              to="/posts"
-              className="inline-flex items-center gap-1 text-xs md:text-sm font-semibold text-neutral-500 hover:text-primary transition-colors tracking-[-0.02em]"
-            >
-              <ChevronRight className="w-4 h-4 text-neutral-400 -ml-1" />
-              <span>여행기사</span>
-            </Link>
+            <div className="flex items-center gap-2">
+              <Link
+                to="/posts"
+                className="inline-flex items-center gap-1 text-xs md:text-sm font-semibold text-neutral-500 hover:text-primary transition-colors tracking-[-0.02em]"
+              >
+                <ChevronRight className="w-4 h-4 text-neutral-400 -ml-1" />
+                <span>여행기사</span>
+              </Link>
+              {titleParts.tag && (
+                <>
+                  <span className="text-neutral-300">·</span>
+                  <span className="px-2.5 py-0.5 rounded-full bg-primary/10 text-primary text-xs font-bold tracking-[-0.02em]">
+                    {titleParts.tag}
+                  </span>
+                </>
+              )}
+            </div>
             <Link
               to="/"
               className="inline-flex items-center gap-1.5 text-xs font-semibold text-neutral-400 hover:text-neutral-800 transition-colors"
@@ -205,8 +253,12 @@ export default function PostDetail() {
           {/* Centered Metadata Bar (지역 | 수정일 : YYYY. MM. DD.) */}
           <div className="mt-5 flex flex-wrap items-center justify-center gap-x-3 gap-y-1 text-xs sm:text-sm text-neutral-500 tracking-[-0.02em]">
             <span className="font-medium text-neutral-600">{regionDisplayName}</span>
-            <span className="text-neutral-300">|</span>
-            <span>수정일 : {post.date}</span>
+            {post.date && (
+              <>
+                <span className="text-neutral-300">|</span>
+                <span>수정일 : {post.date}</span>
+              </>
+            )}
             {post.readTime && (
               <>
                 <span className="text-neutral-300 hidden sm:inline">|</span>
@@ -226,8 +278,8 @@ export default function PostDetail() {
           
           {/* Main Content Area */}
           <div className="w-full md:w-3/4 bg-white rounded-3xl border border-neutral-200/70 shadow-sm p-6 sm:p-10 md:p-12">
-            {/* Show cover image at top if post.content does not embed its own full gallery header */}
-            {!hasEmbeddedHero && post.image && (
+            {/* Show cover image at top only when post.content does not already embed it */}
+            {shouldShowTopCoverImage && (
               <div className="rounded-2xl overflow-hidden shadow-md border border-neutral-100 mb-10 max-h-[520px]">
                 <img
                   src={post.image}
@@ -324,7 +376,7 @@ export default function PostDetail() {
                 </div>
 
                 <Link to={gardenLink} className="w-full inline-flex items-center justify-center gap-2 text-[11px] font-bold text-white bg-neutral-900 px-4 py-4 rounded-xl uppercase tracking-[0.2em] hover:bg-primary transition-colors shadow-lg">
-                  정원 알아보기 <ArrowRight className="w-3.5 h-3.5" />
+                  8대 정원 알아보기 <ArrowRight className="w-3.5 h-3.5" />
                 </Link>
               </div>
             </div>
@@ -351,7 +403,7 @@ export default function PostDetail() {
                   </div>
                   <div>
                     <p className="font-bold text-neutral-900 text-xs uppercase tracking-wider">Editor</p>
-                    <p className="text-neutral-600 text-xs font-medium mt-0.5">{post.author}</p>
+                    <p className="text-neutral-600 text-xs font-medium mt-0.5">{post.author || '남도예술정원 AI 에디터'}</p>
                   </div>
                 </div>
 

@@ -1,6 +1,6 @@
 export const postsShinan = {
   "s20-shinan-stay-best8": {
-    title: "🏝️ AI 리서처가 추천하는 신안권 숙소 심층 리뷰 BEST 8",
+    title: "🏝️ AI 에디터가 큐레이션한 신안권 숙소 심층 리뷰 BEST 8",
     description: "신안 1004섬 퍼플섬·증도·자은도·압해도 등 섬별 최고 숙소 8선. 리조트·한옥펜션·풀빌라·카라반·힐링캠프까지 페르소나별 완벽 가이드.",
     content: `
       <div class="bg-[#fafaf7] text-[#1e1b4b] font-sans leading-relaxed">
@@ -8,19 +8,18 @@ export const postsShinan = {
         <section class="relative bg-gradient-to-br from-[#4c1d95] to-[#7c3aed] text-white py-20 px-6 rounded-3xl overflow-hidden mb-12 shadow-2xl">
           <div class="relative z-10 max-w-4xl mx-auto text-center">
             <span class="inline-block px-4 py-1 bg-[#e9d5ff] text-[#6b21a8] text-xs font-bold rounded-full mb-6 uppercase tracking-widest tracking-widest">Special Review</span>
-            <h1 class="text-4xl md:text-6xl font-bold mb-6 tracking-tight">🏝️ AI 리서처가 추천하는<br/>신안권 숙소 심층 리뷰 BEST 8</h1>
             <p class="text-xl md:text-2xl text-purple-100 font-light mb-10 italic">"265개의 섬, 당신에게 딱 맞는 신안의 하룻밤을 찾아드립니다"</p>
             <div class="flex items-center justify-center gap-4 text-sm text-purple-200 mb-12">
               <span>2026. 03. 27</span>
               <span>•</span>
-              <span>AI 리서처 저널</span>
+              <span>AI 에디터 큐레이션</span>
             </div>
             
             <!-- Highlight Box -->
             <div class="bg-[#e9d5ff]/20 backdrop-blur-md border border-white/20 p-8 rounded-2xl text-left max-w-2xl mx-auto shadow-inner">
               <p class="text-lg leading-relaxed text-white">
                 <span class="text-[#e9d5ff] text-2xl mr-2">🌟</span>
-                <strong>핵심 요약:</strong> 신안은 퍼플섬·증도 슬로시티·자은도 리조트·압해도 한옥펜션 등 섬마다 전혀 다른 숙박 경험을 제공합니다. 리조트부터 카라반·풀빌라·한옥까지 — AI 리서처가 2026년 최신 기준으로 BEST 8을 직접 선별했습니다.
+                <strong>핵심 요약:</strong> 신안은 퍼플섬·증도 슬로시티·자은도 리조트·압해도 한옥펜션 등 섬마다 전혀 다른 숙박 경험을 제공합니다. 리조트부터 카라반·풀빌라·한옥까지 — AI 에디터가 2026년 최신 기준으로 BEST 8을 직접 선별했습니다.
               </p>
             </div>
           </div>
@@ -90,7 +89,7 @@ export const postsShinan = {
         <section class="mb-20">
           <div class="flex items-center gap-3 mb-12">
             <div class="w-2 h-8 bg-[#6b21a8]"></div>
-            <h2 class="text-3xl font-bold text-[#6b21a8]">🏆 AI 리서처 선정 신안권 숙소 BEST 8</h2>
+            <h2 class="text-3xl font-bold text-[#6b21a8]">🏆 AI 에디터 선정 신안권 숙소 BEST 8</h2>
           </div>
           
           <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
@@ -365,8 +364,8 @@ export const postsShinan = {
 
         <!-- Footer -->
         <footer class="text-center py-12 border-t border-neutral-200">
-          <p class="text-xl font-serif italic text-purple-900 mb-2">🌊 남도예술정원</p>
-          <p class="text-[10px] text-neutral-400 mb-6">© 2026 남도예술정원 | AI 리서처 심층 기획 시리즈</p>
+          <p class="text-xl font-sans tracking-[-0.035em] italic text-purple-900 mb-2">🌊 남도예술정원</p>
+          <p class="text-[10px] text-neutral-400 mb-6">© 2026 남도예술정원 | AI 에디터 심층 기획 시리즈</p>
           <div class="flex flex-wrap justify-center gap-2">
             <span class="px-3 py-1 bg-purple-100 text-[#6b21a8] text-[9px] rounded-full font-bold">#신안숙소</span>
             <span class="px-3 py-1 bg-purple-100 text-[#6b21a8] text-[9px] rounded-full font-bold">#자은도리조트</span>
@@ -378,7 +377,7 @@ export const postsShinan = {
     `,
     image: "/images/post-stay-chunhwadang.webp",
     date: "2026. 03. 27",
-    author: "AI 리서처",
+    author: "AI 에디터",
     readTime: "7분",
     keywords: "신안숙소,신안펜션,퍼플섬숙박,증도펜션,자은도리조트,라마다자은도,신안1004섬"
   },
@@ -391,12 +390,12 @@ export const postsShinan = {
       <h2>1004뮤지엄파크 맛집 가이드: 드라이브의 완성은 식도락! AI가 찾은 현지인 추천 찐맛집 & 카페 TOP 3</h2>
       
       <div style="border: 2px solid #2e7d32; padding: 20px; border-radius: 8px; background-color: #f1f8e9; margin: 25px 0;">
-        <strong style="color: #1b5e20; font-size: 1.1em;">🌿 [남도예술정원 AI리서처의 추천 한마디]</strong><br><br>
-        "안녕하세요. 주말 드라이브의 즐거움을 연구하는 AI리서처 남도예술정원 입니다. 완벽한 드라이브 코스는 눈이 즐거운 풍경뿐만 아니라, 입이 즐거운 미식 경험으로 마무리되어야 합니다. 오늘은 신안 자은도의 랜드마크인 '1004뮤지엄파크'를 방문한 후, 실패 없는 식사를 원하는 여러분을 위해 유튜브와 블로그 빅데이터를 분석하여 선정한 최적의 식음 매장을 소개합니다. 광고성 글을 배제하고, 실제 방문객의 평점과 언급량을 토대로 분석한 결과임을 알려드립니다."
+        <strong style="color: #1b5e20; font-size: 1.1em;">🌿 [남도예술정원 AI 에디터의 추천 한마디]</strong><br><br>
+        "안녕하세요. 주말 드라이브의 즐거움을 연구하는 AI 에디터 남도예술정원 입니다. 완벽한 드라이브 코스는 눈이 즐거운 풍경뿐만 아니라, 입이 즐거운 미식 경험으로 마무리되어야 합니다. 오늘은 신안 자은도의 랜드마크인 '1004뮤지엄파크'를 방문한 후, 실패 없는 식사를 원하는 여러분을 위해 유튜브와 블로그 빅데이터를 분석하여 선정한 최적의 식음 매장을 소개합니다. 광고성 글을 배제하고, 실제 방문객의 평점과 언급량을 토대로 분석한 결과임을 알려드립니다."
       </div>
       
-      <img src="/images/shinan-010.webp" alt="1004뮤지엄파크 주변 찐맛집 및 카페 TOP 3 소개" className="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
-      <p className="text-center text-sm text-neutral-500 mt-2">(▲ 신안 자은도 1004뮤지엄파크 주변의 현지인 추천 미식 코스)</p>
+      <img src="/images/shinan-010.webp" alt="1004뮤지엄파크 주변 찐맛집 및 카페 TOP 3 소개" class="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
+      <p class="text-center text-sm text-neutral-500 mt-2">(▲ 신안 자은도 1004뮤지엄파크 주변의 현지인 추천 미식 코스)</p>
       
       <hr />
       
@@ -410,8 +409,8 @@ export const postsShinan = {
         <li><strong>참고사항:</strong> 채식 메뉴가 별도로 표기되어 있지 않으나, 비빔밥 주문 시 소라 제외 및 나물 추가 요청이 가능하여 페스코 베지테리언 식사가 가능합니다. 주차는 식당 앞 전용 공간에 가능합니다.</li>
       </ul>
 
-      <img src="/images/shinan-011.webp" alt="현지인 찐맛집 맛나제 로컬 밥상 소개" className="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
-      <p className="text-center text-sm text-neutral-500 mt-2">(▲ 신선한 재료와 정갈한 반찬으로 현지인이 사랑하는 식당 '맛나제')</p>
+      <img src="/images/shinan-011.webp" alt="현지인 찐맛집 맛나제 로컬 밥상 소개" class="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
+      <p class="text-center text-sm text-neutral-500 mt-2">(▲ 신선한 재료와 정갈한 반찬으로 현지인이 사랑하는 식당 '맛나제')</p>
 
       <hr />
 
@@ -443,19 +442,19 @@ export const postsShinan = {
       <hr />
 
       <h3>📚 출처 및 데이터 기반 분석 자료</h3>
-      <p className="text-neutral-500 text-sm">본 자료는 네이버 플레이스 방문자 리뷰, 유튜브 여행 브이로그 내 식당 언급 데이터, 신안군 문화관광 맛집 리스트 등의 방대한 자료를 AI가 정밀 분석하여 작성되었습니다. 각 매장의 상세 위치 및 최신 메뉴 정보는 아래 데이터베이스의 URL을 참고하였습니다.</p>
-      <ul className="list-disc pl-5 text-neutral-500 text-sm">
-        <li><a href="https://www.diningcode.com/list.dc?query=1004%EB%AE%A4%EC%A7%80%EC%97%84%ED%8C%8C%ED%81%AC" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline">다이닝코드 (자은도 맛집 랭킹)</a></li>
+      <p class="text-neutral-500 text-sm">본 자료는 네이버 플레이스 방문자 리뷰, 유튜브 여행 브이로그 내 식당 언급 데이터, 신안군 문화관광 맛집 리스트 등의 방대한 자료를 AI가 정밀 분석하여 작성되었습니다. 각 매장의 상세 위치 및 최신 메뉴 정보는 아래 데이터베이스의 URL을 참고하였습니다.</p>
+      <ul class="list-disc pl-5 text-neutral-500 text-sm">
+        <li><a href="https://www.diningcode.com/list.dc?query=1004%EB%AE%A4%EC%A7%80%EC%97%84%ED%8C%8C%ED%81%AC" target="_blank" rel="noopener noreferrer" class="text-primary hover:underline">다이닝코드 (자은도 맛집 랭킹)</a></li>
       </ul>
 
-      <p className="text-neutral-500 text-sm mt-4">
-        <strong>작성자:</strong> [남도예술정원 AI리서처]<br/>
+      <p class="text-neutral-500 text-sm mt-4">
+        <strong>작성자:</strong> [남도예술정원 AI 에디터]<br/>
         #1004뮤지엄파크맛집 #자은도맛집 #신안맛집 #맛나제 #자은신안뻘낙지 #전남드라이브 #신안카페 #AI여행가이드 #자은도가볼만한곳 #1004뮤지엄파크식당
       </p>
     `,
     image: "/images/shinan-010.webp",
     date: "2026. 03. 21",
-    author: "남도예술정원 AI리서처",
+    author: "남도예술정원 AI 에디터",
     readTime: "4분",
     keywords: "1004뮤지엄파크맛집, 자은도맛집, 신안맛집, 맛나제, 자은신안뻘낙지, 신안카페"
   },
@@ -464,15 +463,13 @@ export const postsShinan = {
     title: "[신안 숙소 추천]\n1004 뮤지엄파크 정원 속에서 잠들다\n: 캠핑 vs 리조트 완벽 분석 가이드",
     description: "예술적인 하루의 완성! 뮤지엄파크 내 해송 숲 오토캠핑부터 백길해변 럭셔리 리조트까지 AI가 선별한 최적의 휴식처.",
     content: `
-      <h2>[신안 숙소 추천]<br/>1004 뮤지엄파크 정원 속에서 잠들다<br/>: 캠핑 vs 리조트 완벽 분석 가이드</h2>
-      
       <div style="border: 2px solid #2e7d32; padding: 20px; border-radius: 8px; background-color: #f1f8e9; margin: 25px 0;">
-        <strong style="color: #1b5e20; font-size: 1.1em;">🌿 [남도예술정원 AI리서처의 추천 한마디]</strong><br><br>
+        <strong style="color: #1b5e20; font-size: 1.1em;">🌿 [남도예술정원 AI 에디터의 추천 한마디]</strong><br><br>
         "예술적인 하루의 완성은 '어디서 눈을 뜨느냐'에 달려 있습니다. 해송 숲의 파도 소리를 자장가 삼는 오토캠핑과 백길해변의 낙조를 품은 럭셔리 리조트, 당신의 취향은 어디인가요? AI가 선별한 최적의 휴식처를 지금 공개합니다."
       </div>
       
-      <img src="/images/shinan-005.webp" alt="신안 1004 뮤지엄파크 정원과 어우러진 휴식" className="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
-      <p className="text-center text-sm text-neutral-500 mt-2">(▲ 정원과 바다가 맞닿은 오토캠핑장 및 럭셔리 리조트에서의 완벽한 휴식)</p>
+      <img src="/images/shinan-005.webp" alt="신안 1004 뮤지엄파크 정원과 어우러진 휴식" class="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
+      <p class="text-center text-sm text-neutral-500 mt-2">(▲ 정원과 바다가 맞닿은 오토캠핑장 및 럭셔리 리조트에서의 완벽한 휴식)</p>
 
       <hr />
       
@@ -486,34 +483,34 @@ export const postsShinan = {
       <hr />
 
       <h2>📍 1004 뮤지엄파크 연계 숙박 상세 정보</h2>
-      <div className="overflow-x-auto my-8">
-        <table className="min-w-full text-sm text-left border-collapse">
-          <thead className="bg-primary/10 border-b-2 border-primary/20">
+      <div class="overflow-x-auto my-8">
+        <table class="min-w-full text-sm text-left border-collapse">
+          <thead class="bg-primary/10 border-b-2 border-primary/20">
             <tr>
-              <th className="py-3 px-4 font-bold text-neutral-900 border-r border-neutral-200">숙소 유형</th>
-              <th className="py-3 px-4 font-bold text-neutral-900 border-r border-neutral-200">주요 특징</th>
-              <th className="py-3 px-4 font-bold text-neutral-900 border-r border-neutral-200">위치 및 접근성</th>
-              <th className="py-3 px-4 font-bold text-neutral-900">추천 포인트</th>
+              <th class="py-3 px-4 font-bold text-neutral-900 border-r border-neutral-200">숙소 유형</th>
+              <th class="py-3 px-4 font-bold text-neutral-900 border-r border-neutral-200">주요 특징</th>
+              <th class="py-3 px-4 font-bold text-neutral-900 border-r border-neutral-200">위치 및 접근성</th>
+              <th class="py-3 px-4 font-bold text-neutral-900">추천 포인트</th>
             </tr>
           </thead>
-          <tbody className="divide-y divide-neutral-200 border-b border-neutral-200">
-            <tr className="hover:bg-neutral-50">
-              <td className="py-3 px-4 font-bold border-r border-neutral-200">오토캠핑장</td>
-              <td className="py-3 px-4 text-neutral-600 border-r border-neutral-200">해송 숲 데크, 바다 뷰 명당</td>
-              <td className="py-3 px-4 text-neutral-600 border-r border-neutral-200">뮤지엄파크 내부 위치</td>
-              <td className="py-3 px-4 text-neutral-600">자연 속 하룻밤, 캠핑 마니아</td>
+          <tbody class="divide-y divide-neutral-200 border-b border-neutral-200">
+            <tr class="hover:bg-neutral-50">
+              <td class="py-3 px-4 font-bold border-r border-neutral-200">오토캠핑장</td>
+              <td class="py-3 px-4 text-neutral-600 border-r border-neutral-200">해송 숲 데크, 바다 뷰 명당</td>
+              <td class="py-3 px-4 text-neutral-600 border-r border-neutral-200">뮤지엄파크 내부 위치</td>
+              <td class="py-3 px-4 text-neutral-600">자연 속 하룻밤, 캠핑 마니아</td>
             </tr>
-            <tr className="hover:bg-neutral-50">
-              <td className="py-3 px-4 font-bold border-r border-neutral-200">라마다 & 씨원</td>
-              <td className="py-3 px-4 text-neutral-600 border-r border-neutral-200">전 객실 오션뷰, 인피니티 풀</td>
-              <td className="py-3 px-4 text-neutral-600 border-r border-neutral-200">차량 10~15분 (백길해변)</td>
-              <td className="py-3 px-4 text-neutral-600">부모님 동반, 럭셔리 커플 여행</td>
+            <tr class="hover:bg-neutral-50">
+              <td class="py-3 px-4 font-bold border-r border-neutral-200">라마다 & 씨원</td>
+              <td class="py-3 px-4 text-neutral-600 border-r border-neutral-200">전 객실 오션뷰, 인피니티 풀</td>
+              <td class="py-3 px-4 text-neutral-600 border-r border-neutral-200">차량 10~15분 (백길해변)</td>
+              <td class="py-3 px-4 text-neutral-600">부모님 동반, 럭셔리 커플 여행</td>
             </tr>
-            <tr className="hover:bg-neutral-50">
-              <td className="py-3 px-4 font-bold border-r border-neutral-200">감성/독채 펜션</td>
-              <td className="py-3 px-4 text-neutral-600 border-r border-neutral-200">한옥 테마, 조용한 프라이빗</td>
-              <td className="py-3 px-4 text-neutral-600 border-r border-neutral-200">차량 5~10분 (구영리 인근)</td>
-              <td className="py-3 px-4 text-neutral-600">조용한 힐링, 대가족 숙박</td>
+            <tr class="hover:bg-neutral-50">
+              <td class="py-3 px-4 font-bold border-r border-neutral-200">감성/독채 펜션</td>
+              <td class="py-3 px-4 text-neutral-600 border-r border-neutral-200">한옥 테마, 조용한 프라이빗</td>
+              <td class="py-3 px-4 text-neutral-600 border-r border-neutral-200">차량 5~10분 (구영리 인근)</td>
+              <td class="py-3 px-4 text-neutral-600">조용한 힐링, 대가족 숙박</td>
             </tr>
           </tbody>
         </table>
@@ -529,8 +526,8 @@ export const postsShinan = {
         <li><strong>인스타그램 사진 잘 나오는 법 - 인피니티 풀:</strong> 수영장 끝에 여자 친구를 세우고 바다와 수평선이 맞닿게 촬영하세요. 이때 카메라를 뒤집어 렌즈를 아래로 향하게 하면 다리가 놀랍도록 길어 보입니다.</li>
         <li><strong>황금 시간:</strong> 일몰 20분 전, 노을이 수영장 물에 반사될 때 실루엣 샷을 찍어주면 '인생샷' 등극 확정입니다.</li>
       </ul>
-      <img src="/images/shinan-006.webp" alt="리조트 오션뷰 배경 실루엣 촬영" className="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
-      <p className="text-center text-sm text-neutral-500 mt-2">(▲ 씨원리조트 인피니티 풀에서 촬영하는 환상적인 커플 실루엣 인생샷)</p>
+      <img src="/images/shinan-006.webp" alt="리조트 오션뷰 배경 실루엣 촬영" class="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
+      <p class="text-center text-sm text-neutral-500 mt-2">(▲ 씨원리조트 인피니티 풀에서 촬영하는 환상적인 커플 실루엣 인생샷)</p>
 
       <h3>2. [MZ/캠퍼] "인스타 감성 뿜뿜! 감성 캠핑 촬영법" (오토캠핑장)</h3>
       <ul>
@@ -538,19 +535,19 @@ export const postsShinan = {
         <li><strong>인생샷 포인트 - 프레임 활용:</strong> 텐트 입구(플라이)를 열고 내부에서 바다를 바라보는 뒷모습을 찍으세요. 텐트가 액자 프레임 역할을 하여 아늑한 감성이 극대화됩니다.</li>
         <li><strong>야간 촬영:</strong> 조명을 켠 텐트를 멀리서 담으세요. 노출을 살짝 낮추면 별빛과 텐트 불빛이 어우러진 몽환적인 사진이 나옵니다.</li>
       </ul>
-      <img src="/images/shinan-007.webp" alt="오토캠핑장 감성 텐트 프레임샷" className="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
-      <p className="text-center text-sm text-neutral-500 mt-2">(▲ 해송 숲 아래 텐트 입구를 프레임 삼아 담아내는 바다 뷰 감성 캠핑 샷)</p>
+      <img src="/images/shinan-007.webp" alt="오토캠핑장 감성 텐트 프레임샷" class="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
+      <p class="text-center text-sm text-neutral-500 mt-2">(▲ 해송 숲 아래 텐트 입구를 프레임 삼아 담아내는 바다 뷰 감성 캠핑 샷)</p>
       
-      <img src="/images/shinan-008.webp" alt="조명이 켜진 야간 텐트 감성 사진" className="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
-      <p className="text-center text-sm text-neutral-500 mt-2">(▲ 별빛 아래 감성적인 불빛이 새어나오는 몽환적인 야간 텐트 촬영)</p>
+      <img src="/images/shinan-008.webp" alt="조명이 켜진 야간 텐트 감성 사진" class="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
+      <p class="text-center text-sm text-neutral-500 mt-2">(▲ 별빛 아래 감성적인 불빛이 새어나오는 몽환적인 야간 텐트 촬영)</p>
 
       <h3>3. [가족 여행] "화목한 우리 가족 인생샷" (분재정원 및 숙소 마당)</h3>
       <ul>
         <li><strong>스팟:</strong> 한옥 펜션의 고즈넉한 마당 또는 리조트 로비 포토존</li>
         <li><strong>촬영 팁:</strong> 인위적인 포즈보다 가족이 함께 걷거나 대화하는 자연스러운 스냅을 연사로 촬영하세요. 배경에 초록색 정원이 가득 담기도록 광각 렌즈를 활용하는 것이 좋습니다.</li>
       </ul>
-      <img src="/images/shinan-009.webp" alt="가족 스냅 촬영 및 한옥 마당" className="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
-      <p className="text-center text-sm text-neutral-500 mt-2">(▲ 한옥 펜션이나 정원을 배경으로 자연스럽게 담아낸 화목한 가족 스냅)</p>
+      <img src="/images/shinan-009.webp" alt="가족 스냅 촬영 및 한옥 마당" class="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
+      <p class="text-center text-sm text-neutral-500 mt-2">(▲ 한옥 펜션이나 정원을 배경으로 자연스럽게 담아낸 화목한 가족 스냅)</p>
 
       <hr />
 
@@ -564,23 +561,23 @@ export const postsShinan = {
       <hr />
 
       <h3>📚 출처 및 데이터 기반 분석 자료 (Official URLs)</h3>
-      <p className="text-neutral-500 text-sm">본 자료는 신안군 공식 데이터와 글로벌 예약 사이트의 평점 데이터를 정밀 분석하여 작성되었습니다.</p>
-      <ul className="list-disc pl-5 text-neutral-500 text-sm">
-        <li><a href="https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=a8e1b383-9de3-4eec-a278-fa538887f9ea" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline">신안군 문화관광 (숙박 정보 종합)</a></li>
-        <li><a href="https://kr.trip.com/moments/detail/sinan-gun-1595750-119206830/" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline">Trip.com (자은도 숙소 리뷰 및 정보)</a></li>
-        <li><a href="https://kr.hotels.com/de822747539183292416/1004-museum-park-sin-an-hangug-jubyuneui-hotel/" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline">Hotels.com (1004 뮤지엄파크 주변 호텔)</a></li>
-        <li><a href="https://www.expedia.co.kr/1004-Museum-Park-Hotels.0-l822747539183292416-0.Travel-Guide-Filter-Hotels" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline">Expedia (반려동물 동반 및 주변 가이드)</a></li>
+      <p class="text-neutral-500 text-sm">본 자료는 신안군 공식 데이터와 글로벌 예약 사이트의 평점 데이터를 정밀 분석하여 작성되었습니다.</p>
+      <ul class="list-disc pl-5 text-neutral-500 text-sm">
+        <li><a href="https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=a8e1b383-9de3-4eec-a278-fa538887f9ea" target="_blank" rel="noopener noreferrer" class="text-primary hover:underline">신안군 문화관광 (숙박 정보 종합)</a></li>
+        <li><a href="https://kr.trip.com/moments/detail/sinan-gun-1595750-119206830/" target="_blank" rel="noopener noreferrer" class="text-primary hover:underline">Trip.com (자은도 숙소 리뷰 및 정보)</a></li>
+        <li><a href="https://kr.hotels.com/de822747539183292416/1004-museum-park-sin-an-hangug-jubyuneui-hotel/" target="_blank" rel="noopener noreferrer" class="text-primary hover:underline">Hotels.com (1004 뮤지엄파크 주변 호텔)</a></li>
+        <li><a href="https://www.expedia.co.kr/1004-Museum-Park-Hotels.0-l822747539183292416-0.Travel-Guide-Filter-Hotels" target="_blank" rel="noopener noreferrer" class="text-primary hover:underline">Expedia (반려동물 동반 및 주변 가이드)</a></li>
       </ul>
 
-      <p className="text-neutral-500 text-sm mt-4">
-        <strong>작성자:</strong> [남도예술정원 AI리서처]<br/>
+      <p class="text-neutral-500 text-sm mt-4">
+        <strong>작성자:</strong> [남도예술정원 AI 에디터]<br/>
         #1004뮤지엄파크숙박 #자은도캠핑장 #신안오토캠핑 #씨원리조트자은도 #라마다프라자자은 #인생샷잘나오는법 #여자친구사진잘찍어주는법 #신안숙소추천 #자은도펜션 #인스타그램명소 #남도예술정원 #AI여행가이드
       </p>
 
     `,
     image: "/images/shinan-005.webp",
     date: "2026. 03. 21",
-    author: "남도예술정원 AI리서처",
+    author: "남도예술정원 AI 에디터",
     readTime: "5분",
     keywords: "1004뮤지엄파크숙박, 자은도캠핑장, 신안오토캠핑, 씨원리조트자은도, 신안숙소추천"
   },
@@ -589,15 +586,13 @@ export const postsShinan = {
     title: "[신안 여행] 1004 뮤지엄파크 연계 완벽 코스! 무한의 다리부터 퍼플섬까지 '정원 풍류' 가이드",
     description: "1004 뮤지엄파크에서 예술의 향기를 맡으셨다면, 무한의 다리와 퍼플섬으로 이어지는 품격 있는 동선을 경험해 보세요.",
     content: `
-      <h2>[신안 여행] 1004 뮤지엄파크 연계 완벽 코스! 무한의 다리부터 퍼플섬까지 '정원 풍류' 가이드</h2>
-      
       <div style="border: 2px solid #2e7d32; padding: 20px; border-radius: 8px; background-color: #f1f8e9; margin: 25px 0;">
-        <strong style="color: #1b5e20; font-size: 1.1em;">🌿 [남도예술정원 AI리서처의 추천 한마디]</strong><br><br>
+        <strong style="color: #1b5e20; font-size: 1.1em;">🌿 [남도예술정원 AI 에디터의 추천 한마디]</strong><br><br>
         "신안의 진정한 매력은 '느림'에 있습니다. 1004 뮤지엄파크에서 예술의 향기를 맡으셨다면, 인근의 무한의 다리와 퍼플섬으로 이어지는 '바다 위 산책로'를 통해 자연과 물아일체(物我一體)가 되는 경험을 해보세요. AI가 분석한 가장 여유롭고 품격 있는 동선을 제안합니다."
       </div>
       
-      <img src="/images/shinan-003.webp" alt="신안 1004 뮤지엄파크 연계 여행지 인생샷" className="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
-      <p className="text-center text-sm text-neutral-500 mt-2">(▲ 퍼플섬, 무한의 다리 등 사진 찍기 좋은 1004 뮤지엄파크 주변 정원 연계 명소)</p>
+      <img src="/images/shinan-003.webp" alt="신안 1004 뮤지엄파크 연계 여행지 인생샷" class="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
+      <p class="text-center text-sm text-neutral-500 mt-2">(▲ 퍼플섬, 무한의 다리 등 사진 찍기 좋은 1004 뮤지엄파크 주변 정원 연계 명소)</p>
       
       <hr />
       
@@ -611,40 +606,40 @@ export const postsShinan = {
       <hr />
 
       <h2>📍 AI 엄선 정원 연계 명소 정보</h2>
-      <div className="overflow-x-auto my-8">
-        <table className="min-w-full text-sm text-left border-collapse">
-          <thead className="bg-primary/10 border-b-2 border-primary/20">
+      <div class="overflow-x-auto my-8">
+        <table class="min-w-full text-sm text-left border-collapse">
+          <thead class="bg-primary/10 border-b-2 border-primary/20">
             <tr>
-              <th className="py-3 px-4 font-bold text-neutral-900 border-r border-neutral-200">명소명</th>
-              <th className="py-3 px-4 font-bold text-neutral-900 border-r border-neutral-200">특징 및 주요 콘텐츠</th>
-              <th className="py-3 px-4 font-bold text-neutral-900 border-r border-neutral-200">위치/이동 (뮤지엄파크 기준)</th>
-              <th className="py-3 px-4 font-bold text-neutral-900">입장료 및 팁</th>
+              <th class="py-3 px-4 font-bold text-neutral-900 border-r border-neutral-200">명소명</th>
+              <th class="py-3 px-4 font-bold text-neutral-900 border-r border-neutral-200">특징 및 주요 콘텐츠</th>
+              <th class="py-3 px-4 font-bold text-neutral-900 border-r border-neutral-200">위치/이동 (뮤지엄파크 기준)</th>
+              <th class="py-3 px-4 font-bold text-neutral-900">입장료 및 팁</th>
             </tr>
           </thead>
-          <tbody className="divide-y divide-neutral-200 border-b border-neutral-200">
-            <tr className="hover:bg-neutral-50">
-              <td className="py-3 px-4 font-bold border-r border-neutral-200">무한의 다리</td>
-              <td className="py-3 px-4 text-neutral-600 border-r border-neutral-200">바다 위 1km 보행교, 사색의 길</td>
-              <td className="py-3 px-4 text-neutral-600 border-r border-neutral-200">자은면 둔장해변 (차량 10분)</td>
-              <td className="py-3 px-4 text-neutral-600">무료 / 일몰 감상 최적지</td>
+          <tbody class="divide-y divide-neutral-200 border-b border-neutral-200">
+            <tr class="hover:bg-neutral-50">
+              <td class="py-3 px-4 font-bold border-r border-neutral-200">무한의 다리</td>
+              <td class="py-3 px-4 text-neutral-600 border-r border-neutral-200">바다 위 1km 보행교, 사색의 길</td>
+              <td class="py-3 px-4 text-neutral-600 border-r border-neutral-200">자은면 둔장해변 (차량 10분)</td>
+              <td class="py-3 px-4 text-neutral-600">무료 / 일몰 감상 최적지</td>
             </tr>
-            <tr className="hover:bg-neutral-50">
-              <td className="py-3 px-4 font-bold border-r border-neutral-200">퍼플섬</td>
-              <td className="py-3 px-4 text-neutral-600 border-r border-neutral-200">온 세상이 보랏빛인 UN 선정 마을</td>
-              <td className="py-3 px-4 text-neutral-600 border-r border-neutral-200">안좌면 반월·박지도 (차량 25분)</td>
-              <td className="py-3 px-4 text-neutral-600">5,000원 (보라색 착용 시 무료)</td>
+            <tr class="hover:bg-neutral-50">
+              <td class="py-3 px-4 font-bold border-r border-neutral-200">퍼플섬</td>
+              <td class="py-3 px-4 text-neutral-600 border-r border-neutral-200">온 세상이 보랏빛인 UN 선정 마을</td>
+              <td class="py-3 px-4 text-neutral-600 border-r border-neutral-200">안좌면 반월·박지도 (차량 25분)</td>
+              <td class="py-3 px-4 text-neutral-600">5,000원 (보라색 착용 시 무료)</td>
             </tr>
-            <tr className="hover:bg-neutral-50">
-              <td className="py-3 px-4 font-bold border-r border-neutral-200">1004섬 분재정원</td>
-              <td className="py-3 px-4 text-neutral-600 border-r border-neutral-200">4천만 송이 애기동백 & 명품 분재</td>
-              <td className="py-3 px-4 text-neutral-600 border-r border-neutral-200">압해읍 (진출입로 위치)</td>
-              <td className="py-3 px-4 text-neutral-600">10,000원 (시니어 전액 환급)</td>
+            <tr class="hover:bg-neutral-50">
+              <td class="py-3 px-4 font-bold border-r border-neutral-200">1004섬 분재정원</td>
+              <td class="py-3 px-4 text-neutral-600 border-r border-neutral-200">4천만 송이 애기동백 & 명품 분재</td>
+              <td class="py-3 px-4 text-neutral-600 border-r border-neutral-200">압해읍 (진출입로 위치)</td>
+              <td class="py-3 px-4 text-neutral-600">10,000원 (시니어 전액 환급)</td>
             </tr>
-            <tr className="hover:bg-neutral-50">
-              <td className="py-3 px-4 font-bold border-r border-neutral-200">기동삼거리</td>
-              <td className="py-3 px-4 text-neutral-600 border-r border-neutral-200">동백파마 벽화 (SNS 핫플)</td>
-              <td className="py-3 px-4 text-neutral-600 border-r border-neutral-200">암태면 (이동 경로 중 위치)</td>
-              <td className="py-3 px-4 text-neutral-600">무료 / 정차 시 안전 주의</td>
+            <tr class="hover:bg-neutral-50">
+              <td class="py-3 px-4 font-bold border-r border-neutral-200">기동삼거리</td>
+              <td class="py-3 px-4 text-neutral-600 border-r border-neutral-200">동백파마 벽화 (SNS 핫플)</td>
+              <td class="py-3 px-4 text-neutral-600 border-r border-neutral-200">암태면 (이동 경로 중 위치)</td>
+              <td class="py-3 px-4 text-neutral-600">무료 / 정차 시 안전 주의</td>
             </tr>
           </tbody>
         </table>
@@ -662,8 +657,8 @@ export const postsShinan = {
         <li><strong>여친 칭찬 포인트:</strong> "배경보다 사람이 더 돋보이게" 촬영하세요. 카메라 렌즈 하단에 발끝을 맞추고 머리 위 공간을 40% 정도 남기면 8등신 황금 비율 사진이 완성됩니다.</li>
       </ul>
 
-      <img src="/images/shinan-004.webp" alt="무한의 다리, 퍼플섬 등 사진 촬영 구도 예시" className="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
-      <p className="text-center text-sm text-neutral-500 mt-2">(▲ 퍼플교 중앙이나 무한의 다리에서 중앙 집중 구도 또는 아웃포커싱 기능을 활용해 멋진 사진을 남겨보세요)</p>
+      <img src="/images/shinan-004.webp" alt="무한의 다리, 퍼플섬 등 사진 촬영 구도 예시" class="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
+      <p class="text-center text-sm text-neutral-500 mt-2">(▲ 퍼플교 중앙이나 무한의 다리에서 중앙 집중 구도 또는 아웃포커싱 기능을 활용해 멋진 사진을 남겨보세요)</p>
 
       <h3>2. [가족/효도여행] "부모님 프사 바꿔드리는 촬영 기술" - 분재정원</h3>
       <ul>
@@ -686,23 +681,23 @@ export const postsShinan = {
       <hr />
 
       <h3>📚 출처 및 데이터 기반 분석 자료 (Official URLs)</h3>
-      <p className="text-neutral-500 text-sm">본 리포트는 신안군 공식 데이터와 관광 공사 자료를 정밀 분석하여 작성되었습니다.</p>
-      <ul className="list-disc pl-5 text-neutral-500 text-sm">
-        <li><a href="https://tour.shinan.go.kr/home/tour/theme_tour/couple/couple_02/page.wbreg?mode=view&plan_idx=25" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline">신안군 문화관광 (무한의 다리/퍼플섬 정보)</a></li>
-        <li><a href="https://www.shinan.go.kr/home/bjpark" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline">1004섬 분재정원 (운영시간 및 입장료 안내)</a></li>
-        <li><a href="https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=ddc82528-0629-4e64-8385-0fb65f3b463a" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline">대한민국 구석구석 (퍼플섬 상세 여행 가이드)</a></li>
-        <li><a href="https://tour.shinan.go.kr/home/tour/city_tour/city_tour_01/page.wbreg" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline">1004섬 시티투어버스 (코스 확인 및 예약 안내)</a></li>
+      <p class="text-neutral-500 text-sm">본 리포트는 신안군 공식 데이터와 관광 공사 자료를 정밀 분석하여 작성되었습니다.</p>
+      <ul class="list-disc pl-5 text-neutral-500 text-sm">
+        <li><a href="https://tour.shinan.go.kr/home/tour/theme_tour/couple/couple_02/page.wbreg?mode=view&plan_idx=25" target="_blank" rel="noopener noreferrer" class="text-primary hover:underline">신안군 문화관광 (무한의 다리/퍼플섬 정보)</a></li>
+        <li><a href="https://www.shinan.go.kr/home/bjpark" target="_blank" rel="noopener noreferrer" class="text-primary hover:underline">1004섬 분재정원 (운영시간 및 입장료 안내)</a></li>
+        <li><a href="https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=ddc82528-0629-4e64-8385-0fb65f3b463a" target="_blank" rel="noopener noreferrer" class="text-primary hover:underline">대한민국 구석구석 (퍼플섬 상세 여행 가이드)</a></li>
+        <li><a href="https://tour.shinan.go.kr/home/tour/city_tour/city_tour_01/page.wbreg" target="_blank" rel="noopener noreferrer" class="text-primary hover:underline">1004섬 시티투어버스 (코스 확인 및 예약 안내)</a></li>
       </ul>
 
-      <p className="text-neutral-500 text-sm mt-4">
-        <strong>작성자:</strong> [남도예술정원 AI리서처]<br/>
+      <p class="text-neutral-500 text-sm mt-4">
+        <strong>작성자:</strong> [남도예술정원 AI 에디터]<br/>
         #1004뮤지엄파크 #신안여행코스 #인생샷잘나오는법 #여자친구사진잘찍어주는법 #무한의다리 #퍼플섬입장료 #신안시티투어 #1004섬분재정원 #전남가볼만한곳 #AI여행추천 #남도예술정원 #효도여행코스
       </p>
 
     `,
     image: "/images/shinan-003.webp",
     date: "2026. 03. 21",
-    author: "남도예술정원 AI리서처",
+    author: "남도예술정원 AI 에디터",
     readTime: "5분",
     keywords: "1004뮤지엄파크, 신안여행코스, 무한의다리, 퍼플섬, 신안시티투어"
   },
@@ -711,10 +706,8 @@ export const postsShinan = {
     title: "[신안 자은도] 1004 뮤지엄파크 완벽 가이드: 모래바람을 예술로 승화시킨 대지 예술의 성지",
     description: "1004 뮤지엄파크는 단순한 전시 공간이 아닙니다. 척박한 모래바람을 막아낸 주민들의 삶과 아픈 역사가 예술과 만나 탄생한 '살아있는 기록 보관소'입니다.",
     content: `
-      <h2>[신안 자은도] 1004 뮤지엄파크 완벽 가이드: 모래바람을 예술로 승화시킨 대지 예술의 성지</h2>
-      
       <div style="border: 2px solid #2e7d32; padding: 20px; border-radius: 8px; background-color: #f1f8e9; margin: 25px 0;">
-        <strong style="color: #1b5e20; font-size: 1.1em;">🌿 [남도예술정원 AI리서처의 추천 한마디]</strong><br><br>
+        <strong style="color: #1b5e20; font-size: 1.1em;">🌿 [남도예술정원 AI 에디터의 추천 한마디]</strong><br><br>
         "1004 뮤지엄파크는 단순한 전시 공간이 아닙니다. 척박한 모래바람을 막아낸 주민들의 삶(방풍림)과 아픈 역사(송진 채취 흔적)가 예술과 만나 탄생한 <strong>'살아있는 기록 보관소'</strong>입니다. 거대한 자연 속에서 인문학적 통찰을 얻고 싶은 여행자라면 이곳이 정답입니다."
       </div>
       
@@ -727,40 +720,40 @@ export const postsShinan = {
         <li><strong>오감 만족 콘텐츠:</strong> 희귀 새우란 관람부터 미니 짚라인, 지역 특산물 땅콩강정까지 남녀노소 즐길 거리가 가득합니다.</li>
       </ul>
 
-      <img src="/images/shinan-001.webp" alt="1004 뮤지엄파크 역사와 예술의 공존 공간 전경" className="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
-      <p className="text-center text-sm text-neutral-500 mt-2">(▲ 역사와 예술이 아름답게 공존하는 1004 뮤지엄파크 핵심 공간 전경)</p>
+      <img src="/images/shinan-001.webp" alt="1004 뮤지엄파크 역사와 예술의 공존 공간 전경" class="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
+      <p class="text-center text-sm text-neutral-500 mt-2">(▲ 역사와 예술이 아름답게 공존하는 1004 뮤지엄파크 핵심 공간 전경)</p>
 
       <hr />
 
       <h2>📍 1004 뮤지엄파크 상세 정보</h2>
-      <div className="overflow-x-auto my-8">
-        <table className="min-w-full text-sm text-left border-collapse">
-          <thead className="bg-primary/10 border-b-2 border-primary/20">
+      <div class="overflow-x-auto my-8">
+        <table class="min-w-full text-sm text-left border-collapse">
+          <thead class="bg-primary/10 border-b-2 border-primary/20">
             <tr>
-              <th className="py-3 px-4 font-bold text-neutral-900 border-r border-neutral-200">구분</th>
-              <th className="py-3 px-4 font-bold text-neutral-900">내용 및 팁</th>
+              <th class="py-3 px-4 font-bold text-neutral-900 border-r border-neutral-200">구분</th>
+              <th class="py-3 px-4 font-bold text-neutral-900">내용 및 팁</th>
             </tr>
           </thead>
-          <tbody className="divide-y divide-neutral-200 border-b border-neutral-200">
-            <tr className="hover:bg-neutral-50">
-              <td className="py-3 px-4 font-bold border-r border-neutral-200">주소</td>
-              <td className="py-3 px-4 text-neutral-600">전라남도 신안군 자은면 자은서부길 508-65 (양산해변 일원)</td>
+          <tbody class="divide-y divide-neutral-200 border-b border-neutral-200">
+            <tr class="hover:bg-neutral-50">
+              <td class="py-3 px-4 font-bold border-r border-neutral-200">주소</td>
+              <td class="py-3 px-4 text-neutral-600">전라남도 신안군 자은면 자은서부길 508-65 (양산해변 일원)</td>
             </tr>
-            <tr className="hover:bg-neutral-50">
-              <td className="py-3 px-4 font-bold border-r border-neutral-200">운영 시간</td>
-              <td className="py-3 px-4 text-neutral-600">하절기(3~10월): 09:00~18:00 / 동절기(11~2월): 09:00~17:00 (월요일 휴관)</td>
+            <tr class="hover:bg-neutral-50">
+              <td class="py-3 px-4 font-bold border-r border-neutral-200">운영 시간</td>
+              <td class="py-3 px-4 text-neutral-600">하절기(3~10월): 09:00~18:00 / 동절기(11~2월): 09:00~17:00 (월요일 휴관)</td>
             </tr>
-            <tr className="hover:bg-neutral-50">
-              <td className="py-3 px-4 font-bold border-r border-neutral-200">입장료</td>
-              <td className="py-3 px-4 text-neutral-600">성인 10,000원 (신안상품권 환급 혜택 확인 필요) / 디지털 관광주민증 지참 시 할인</td>
+            <tr class="hover:bg-neutral-50">
+              <td class="py-3 px-4 font-bold border-r border-neutral-200">입장료</td>
+              <td class="py-3 px-4 text-neutral-600">성인 10,000원 (신안상품권 환급 혜택 확인 필요) / 디지털 관광주민증 지참 시 할인</td>
             </tr>
-            <tr className="hover:bg-neutral-50">
-              <td className="py-3 px-4 font-bold border-r border-neutral-200">주차</td>
-              <td className="py-3 px-4 text-neutral-600">뮤지엄파크 전용 대형 주차장 완비 (무료)</td>
+            <tr class="hover:bg-neutral-50">
+              <td class="py-3 px-4 font-bold border-r border-neutral-200">주차</td>
+              <td class="py-3 px-4 text-neutral-600">뮤지엄파크 전용 대형 주차장 완비 (무료)</td>
             </tr>
-            <tr className="hover:bg-neutral-50">
-              <td className="py-3 px-4 font-bold border-r border-neutral-200">핵심 시설</td>
-              <td className="py-3 px-4 text-neutral-600">세계조개박물관, 수석미술관, 수석정원, 새우란전시관, 신안자생식물연구센터</td>
+            <tr class="hover:bg-neutral-50">
+              <td class="py-3 px-4 font-bold border-r border-neutral-200">핵심 시설</td>
+              <td class="py-3 px-4 text-neutral-600">세계조개박물관, 수석미술관, 수석정원, 새우란전시관, 신안자생식물연구센터</td>
             </tr>
           </tbody>
         </table>
@@ -788,8 +781,8 @@ export const postsShinan = {
         <li><strong>촬영 팁:</strong> 수석정원의 거대한 기암괴석은 광각 렌즈로 담았을 때 압도적인 분위기를 자아냅니다. 인스타그램 릴스를 위해 파도 소리와 피아노 조형물을 함께 담는 것을 추천합니다.</li>
       </ul>
 
-      <img src="/images/shinan-002.webp" alt="수석정원과 양산해변 바다 위 피아노 등 아름다운 포토존" className="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
-      <p className="text-center text-sm text-neutral-500 mt-2">(▲ 양산해변의 예술적인 피아노 조형물과 자연 풍경이 빚어내는 환상적인 포토존)</p>
+      <img src="/images/shinan-002.webp" alt="수석정원과 양산해변 바다 위 피아노 등 아름다운 포토존" class="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
+      <p class="text-center text-sm text-neutral-500 mt-2">(▲ 양산해변의 예술적인 피아노 조형물과 자연 풍경이 빚어내는 환상적인 포토존)</p>
 
       <hr />
 
@@ -824,27 +817,27 @@ export const postsShinan = {
       <hr />
 
       <h3>📚 출처 및 데이터 기반 분석 자료</h3>
-      <p className="text-neutral-500 text-sm">본 콘텐츠는 아래의 공식 자료 및 신뢰도 높은 데이터를 정밀 분석하여 작성되었습니다.</p>
-      <ul className="list-disc pl-5 text-neutral-500 text-sm">
-        <li><a href="https://blog.naver.com/1004_shinan/222056652022?trackingCode=blog_bloghome_searchlist" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline">신안군 공식 블로그: 1도 1뮤지엄 및 일출/일몰 명소</a></li>
-        <li><a href="https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=a8e1b383-9de3-4eec-a278-fa538887f9ea" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline">한국관광공사: 1004 뮤지엄파크 디지털 관광주민증 투어 안내</a></li>
-        <li><a href="https://blog.naver.com/mylvgh/224060511801" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline">남도예술정원: 1004뮤지엄파크 방풍림 역사 및 피아노 해변</a></li>
-        <li><a href="https://blog.naver.com/daichung/223689605902" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline">대청: 수석정원 내 일제강점기 송진 채취 흔적 (다크투어리즘)</a></li>
-        <li><a href="https://www.koreatriptips.com/tourist-attractions/3007160.html" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline">국내 최대 조개박물관 및 힐링 테마 분석</a></li>
-        <li><a href="https://blog.naver.com/klsa4316/224053629786" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline">새우란 전시관 및 자생식물 연구센터 (팜파스 포토존)</a></li>
-        <li><a href="https://blog.naver.com/han4869/222942439711" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline">수석미술관 및 미니 짚라인 체험</a></li>
-        <li><a href="https://blog.naver.com/9005050/224092248241" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline">신안 14개 읍면 깃대봉 학습</a></li>
+      <p class="text-neutral-500 text-sm">본 콘텐츠는 아래의 공식 자료 및 신뢰도 높은 데이터를 정밀 분석하여 작성되었습니다.</p>
+      <ul class="list-disc pl-5 text-neutral-500 text-sm">
+        <li><a href="https://blog.naver.com/1004_shinan/222056652022?trackingCode=blog_bloghome_searchlist" target="_blank" rel="noopener noreferrer" class="text-primary hover:underline">신안군 공식 블로그: 1도 1뮤지엄 및 일출/일몰 명소</a></li>
+        <li><a href="https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=a8e1b383-9de3-4eec-a278-fa538887f9ea" target="_blank" rel="noopener noreferrer" class="text-primary hover:underline">한국관광공사: 1004 뮤지엄파크 디지털 관광주민증 투어 안내</a></li>
+        <li><a href="https://blog.naver.com/mylvgh/224060511801" target="_blank" rel="noopener noreferrer" class="text-primary hover:underline">남도예술정원: 1004뮤지엄파크 방풍림 역사 및 피아노 해변</a></li>
+        <li><a href="https://blog.naver.com/daichung/223689605902" target="_blank" rel="noopener noreferrer" class="text-primary hover:underline">대청: 수석정원 내 일제강점기 송진 채취 흔적 (다크투어리즘)</a></li>
+        <li><a href="https://www.koreatriptips.com/tourist-attractions/3007160.html" target="_blank" rel="noopener noreferrer" class="text-primary hover:underline">국내 최대 조개박물관 및 힐링 테마 분석</a></li>
+        <li><a href="https://blog.naver.com/klsa4316/224053629786" target="_blank" rel="noopener noreferrer" class="text-primary hover:underline">새우란 전시관 및 자생식물 연구센터 (팜파스 포토존)</a></li>
+        <li><a href="https://blog.naver.com/han4869/222942439711" target="_blank" rel="noopener noreferrer" class="text-primary hover:underline">수석미술관 및 미니 짚라인 체험</a></li>
+        <li><a href="https://blog.naver.com/9005050/224092248241" target="_blank" rel="noopener noreferrer" class="text-primary hover:underline">신안 14개 읍면 깃대봉 학습</a></li>
       </ul>
 
-      <p className="text-neutral-500 text-sm mt-4">
-        <strong>작성자:</strong> [남도예술정원 AI리서처]<br/>
+      <p class="text-neutral-500 text-sm mt-4">
+        <strong>작성자:</strong> [남도예술정원 AI 에디터]<br/>
         #1004뮤지엄파크 #자은도가볼만한곳 #신안여행 #다크투어리즘 #수석정원 #세계조개박물관 #국내여행지추천 #대지예술 #인생샷명소 #남도예술정원 #신안역사여행 #디지털관광주민증
       </p>
 
     `,
     image: "/images/shinan-001.webp",
     date: "2026. 03. 21",
-    author: "남도예술정원 AI리서처",
+    author: "남도예술정원 AI 에디터",
     readTime: "4분",
     keywords: "1004뮤지엄파크, 자은도 가볼만한곳, 신안여행, 다크투어리즘, 수석정원, 대지예술, 인생샷명소"
   },
@@ -853,16 +846,15 @@ export const postsShinan = {
     title: "[신안 자은도] 인생샷 명소! 1004뮤지엄파크 완벽 공략 가이드 (관람 팁/편의시설/코스)",
     description: "1004뮤지엄파크는 단순히 보는 박물관을 넘어, 축구장 70배 크기의 압도적인 자연과 예술이 결합된 '탐험지'입니다.",
     content: `
-      <h2>[신안 자은도] 인생샷 명소! 1004뮤지엄파크 완벽 공략 가이드 (관람 팁/편의시설/코스)</h2>
-      <p>작성자: [남도예술정원 AI리서처]</p>
+      <p>작성자: [남도예술정원 AI 에디터]</p>
       
       <div style="border: 2px solid #2e7d32; padding: 20px; border-radius: 8px; background-color: #f1f8e9; margin: 25px 0;">
-        <strong style="color: #1b5e20; font-size: 1.1em;">🌿 [남도예술정원 AI리서처의 추천 한마디]</strong><br><br>
+        <strong style="color: #1b5e20; font-size: 1.1em;">🌿 [남도예술정원 AI 에디터의 추천 한마디]</strong><br><br>
         "1004뮤지엄파크는 단순히 보는 박물관을 넘어, 축구장 70배 크기의 압도적인 자연과 예술이 결합된 '탐험지'입니다. 무작정 걷기보다는 세계조개박물관의 백색 건축미와 양산해변의 일몰을 중심으로 동선을 짜보세요. 휠체어와 유모차 접근성이 뛰어나 교통약자와 함께하기에도 최적의 장소입니다."
       </div>
 
-      <img src="/images/shinan-museum-park-guide-1.webp" alt="1004뮤지엄파크 전경 및 드넓은 부지" className="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
-      <p className="text-center text-sm text-neutral-500 mt-2">(▲ 자연과 예술이 결합된 축구장 70배 크기의 압도적인 1004뮤지엄파크 전경)</p>
+      <img src="/images/shinan-museum-park-guide-1.webp" alt="1004뮤지엄파크 전경 및 드넓은 부지" class="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
+      <p class="text-center text-sm text-neutral-500 mt-2">(▲ 자연과 예술이 결합된 축구장 70배 크기의 압도적인 1004뮤지엄파크 전경)</p>
 
       <hr />
       
@@ -876,34 +868,34 @@ export const postsShinan = {
       <hr />
 
       <h2>📍 관광지 상세 정보 (Quick Info)</h2>
-      <div className="overflow-x-auto my-8">
-        <table className="min-w-full text-sm text-left border-collapse">
-          <thead className="bg-primary/10 border-b-2 border-primary/20">
+      <div class="overflow-x-auto my-8">
+        <table class="min-w-full text-sm text-left border-collapse">
+          <thead class="bg-primary/10 border-b-2 border-primary/20">
             <tr>
-              <th className="py-3 px-4 font-bold text-neutral-900 border-r border-neutral-200">구분</th>
-              <th className="py-3 px-4 font-bold text-neutral-900">내용 및 팁</th>
+              <th class="py-3 px-4 font-bold text-neutral-900 border-r border-neutral-200">구분</th>
+              <th class="py-3 px-4 font-bold text-neutral-900">내용 및 팁</th>
             </tr>
           </thead>
-          <tbody className="divide-y divide-neutral-200 border-b border-neutral-200">
-            <tr className="hover:bg-neutral-50">
-              <td className="py-3 px-4 font-bold border-r border-neutral-200">위치</td>
-              <td className="py-3 px-4 text-neutral-600">전남 신안군 자은면 자은서부길 508-65 <a href="https://maps.google.com/?q=전남+신안군+자은면+자은서부길+508-65" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline">(지도 보기)</a></td>
+          <tbody class="divide-y divide-neutral-200 border-b border-neutral-200">
+            <tr class="hover:bg-neutral-50">
+              <td class="py-3 px-4 font-bold border-r border-neutral-200">위치</td>
+              <td class="py-3 px-4 text-neutral-600">전남 신안군 자은면 자은서부길 508-65 <a href="https://maps.google.com/?q=전남+신안군+자은면+자은서부길+508-65" target="_blank" rel="noopener noreferrer" class="text-primary hover:underline">(지도 보기)</a></td>
             </tr>
-            <tr className="hover:bg-neutral-50">
-              <td className="py-3 px-4 font-bold border-r border-neutral-200">운영 시간</td>
-              <td className="py-3 px-4 text-neutral-600">하절기(3~10월) 09:00~18:00 / 동절기(11~2월) 09:00~17:00 (월요일 휴관)</td>
+            <tr class="hover:bg-neutral-50">
+              <td class="py-3 px-4 font-bold border-r border-neutral-200">운영 시간</td>
+              <td class="py-3 px-4 text-neutral-600">하절기(3~10월) 09:00~18:00 / 동절기(11~2월) 09:00~17:00 (월요일 휴관)</td>
             </tr>
-            <tr className="hover:bg-neutral-50">
-              <td className="py-3 px-4 font-bold border-r border-neutral-200">입장료</td>
-              <td className="py-3 px-4 text-neutral-600">성인 10,000원 (신안상품권 환급 혜택 확인 필수)</td>
+            <tr class="hover:bg-neutral-50">
+              <td class="py-3 px-4 font-bold border-r border-neutral-200">입장료</td>
+              <td class="py-3 px-4 text-neutral-600">성인 10,000원 (신안상품권 환급 혜택 확인 필수)</td>
             </tr>
-            <tr className="hover:bg-neutral-50">
-              <td className="py-3 px-4 font-bold border-r border-neutral-200">주차</td>
-              <td className="py-3 px-4 text-neutral-600">입구 앞 대형 전용 주차장 완비 (무료 이용 가능)</td>
+            <tr class="hover:bg-neutral-50">
+              <td class="py-3 px-4 font-bold border-r border-neutral-200">주차</td>
+              <td class="py-3 px-4 text-neutral-600">입구 앞 대형 전용 주차장 완비 (무료 이용 가능)</td>
             </tr>
-            <tr className="hover:bg-neutral-50">
-              <td className="py-3 px-4 font-bold border-r border-neutral-200">주요 시설</td>
-              <td className="py-3 px-4 text-neutral-600">세계조개박물관, 수석미술관, 수석정원, 새우란전시관, 양산해변</td>
+            <tr class="hover:bg-neutral-50">
+              <td class="py-3 px-4 font-bold border-r border-neutral-200">주요 시설</td>
+              <td class="py-3 px-4 text-neutral-600">세계조개박물관, 수석미술관, 수석정원, 새우란전시관, 양산해변</td>
             </tr>
           </tbody>
         </table>
@@ -941,8 +933,8 @@ export const postsShinan = {
           <br/>추천 시간: 오전 10시~11시 (순광일 때 화이트 톤이 가장 깨끗하게 나옵니다).
         </li>
       </ul>
-      <img src="/images/shinan-museum-park-guide-2.webp" alt="세계조개박물관 외부 조형물" className="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
-      <p className="text-center text-sm text-neutral-500 mt-2">(▲ 광각으로 촬영하면 화이트 톤과 하늘이 어우러져 화보가 되는 백합 조형물 앞)</p>
+      <img src="/images/shinan-museum-park-guide-2.webp" alt="세계조개박물관 외부 조형물" class="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
+      <p class="text-center text-sm text-neutral-500 mt-2">(▲ 광각으로 촬영하면 화이트 톤과 하늘이 어우러져 화보가 되는 백합 조형물 앞)</p>
 
       <ul>
         <li><strong>2. 수석정원 '석문(石門)'</strong>
@@ -974,21 +966,21 @@ export const postsShinan = {
       <hr />
 
       <h3>[출처 및 참고 자료]</h3>
-      <ul className="list-disc pl-5 text-neutral-600 text-sm">
-        <li>원문: 2.1004뮤지엄파크 관람 완벽 공략: 시설 평면도 분석부터 편의시설(휠체어/식수)까지 <a href="#" className="text-primary hover:underline">(가상 URL)</a></li>
-        <li>대한민국 구석구석 (장애인 편의시설) <a href="#" className="text-primary hover:underline">(링크 바로가기)</a></li>
-        <li>신안군청 (박물관 안내) <a href="#" className="text-primary hover:underline">(링크 바로가기)</a></li>
-        <li>트립인포 (관람 후기) <a href="#" className="text-primary hover:underline">(링크 바로가기)</a></li>
-        <li>유튜브 리뷰 <a href="#" className="text-primary hover:underline">(링크 바로가기)</a></li>
+      <ul class="list-disc pl-5 text-neutral-600 text-sm">
+        <li>원문: 2.1004뮤지엄파크 관람 완벽 공략: 시설 평면도 분석부터 편의시설(휠체어/식수)까지 <a href="#" class="text-primary hover:underline">(가상 URL)</a></li>
+        <li>대한민국 구석구석 (장애인 편의시설) <a href="#" class="text-primary hover:underline">(링크 바로가기)</a></li>
+        <li>신안군청 (박물관 안내) <a href="#" class="text-primary hover:underline">(링크 바로가기)</a></li>
+        <li>트립인포 (관람 후기) <a href="#" class="text-primary hover:underline">(링크 바로가기)</a></li>
+        <li>유튜브 리뷰 <a href="#" class="text-primary hover:underline">(링크 바로가기)</a></li>
       </ul>
 
-      <p className="text-neutral-500 text-sm mt-4">
+      <p class="text-neutral-500 text-sm mt-4">
         #1004뮤지엄파크 #신안여행꿀팁 #신안가볼만한곳 #자은도여행 #박물관투어 #AI여행가이드 #전남아이랑여행 #유모차여행코스 #배리어프리여행 #인생샷명소 #신안데이트코스 #천사대교 #남도예술정원 #신안아이와가볼만한곳 #자연학습 #여행SEO
       </p>
     `,
     image: "/images/shinan-museum-park-guide-1.webp",
     date: "2026. 03. 20",
-    author: "남도예술정원 AI리서처",
+    author: "남도예술정원 AI 에디터",
     readTime: "5분",
     keywords: "1004뮤지엄파크, 신안여행꿀팁, 신안가볼만한곳, 자은도여행, 배리어프리여행, 천사대교, 인생샷명소"
   },
@@ -997,12 +989,11 @@ export const postsShinan = {
     title: "[신안 자은도] 인생샷 명소! 1004뮤지엄파크 완벽 가이드 (입장료/주차/코스 총정리)",
     description: "섬과 예술이 만나는 이곳, 실패 없는 여행을 위해 이 글 하나만 저장해 두세요!",
     content: `
-      <h2>[신안 자은도] 인생샷 명소! 1004뮤지엄파크 완벽 가이드 (입장료/주차/코스 총정리)</h2>
-      <p>안녕하세요! 우리 아이들에게 더 넓은 세상을 보여주고 싶은 부모님들과 특별한 추억을 기록하고 싶은 여행자들을 위해, 남도예술정원 AI리서처가 직접 분석한 1004뮤지엄파크 완벽 가이드를 시작합니다.</p>
+      <p>안녕하세요! 우리 아이들에게 더 넓은 세상을 보여주고 싶은 부모님들과 특별한 추억을 기록하고 싶은 여행자들을 위해, 남도예술정원 AI 에디터가 직접 분석한 1004뮤지엄파크 완벽 가이드를 시작합니다.</p>
       <p>섬과 예술이 만나는 이곳, 실패 없는 여행을 위해 이 글 하나만 저장해 두세요!</p>
       
       <div style="border: 2px solid #2e7d32; padding: 20px; border-radius: 8px; background-color: #f1f8e9; margin: 25px 0;">
-        <strong style="color: #1b5e20; font-size: 1.1em;">🌿 [남도예술정원 AI리서처의 추천 한마디]</strong><br><br>
+        <strong style="color: #1b5e20; font-size: 1.1em;">🌿 [남도예술정원 AI 에디터의 추천 한마디]</strong><br><br>
         "1004뮤지엄파크는 단순히 보는 전시를 넘어, 파도 소리와 예술이 공존하는 복합 테마파크예요. 특히 세계조개박물관의 화려한 색감은 아이들의 상상력을 자극하기에 충분하죠. 입장료가 아깝지 않은 풍성한 볼거리를 놓치지 마세요!"
       </div>
 
@@ -1018,34 +1009,34 @@ export const postsShinan = {
       <hr />
 
       <h2>📍 관광지 상세 정보 (Quick Info)</h2>
-      <div className="overflow-x-auto my-8">
-        <table className="min-w-full text-sm text-left border-collapse">
-          <thead className="bg-primary/10 border-b-2 border-primary/20">
+      <div class="overflow-x-auto my-8">
+        <table class="min-w-full text-sm text-left border-collapse">
+          <thead class="bg-primary/10 border-b-2 border-primary/20">
             <tr>
-              <th className="py-3 px-4 font-bold text-neutral-900 border-r border-neutral-200">구분</th>
-              <th className="py-3 px-4 font-bold text-neutral-900">내용 및 방문 꿀팁</th>
+              <th class="py-3 px-4 font-bold text-neutral-900 border-r border-neutral-200">구분</th>
+              <th class="py-3 px-4 font-bold text-neutral-900">내용 및 방문 꿀팁</th>
             </tr>
           </thead>
-          <tbody className="divide-y divide-neutral-200 border-b border-neutral-200">
-            <tr className="hover:bg-neutral-50">
-              <td className="py-3 px-4 font-bold border-r border-neutral-200">위치</td>
-              <td className="py-3 px-4 text-neutral-600">전라남도 신안군 자은면 자은서부2길 508-65 <a href="https://maps.google.com/?q=전라남도+신안군+자은면+자은서부2길+508-65" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline">(지도 보기)</a></td>
+          <tbody class="divide-y divide-neutral-200 border-b border-neutral-200">
+            <tr class="hover:bg-neutral-50">
+              <td class="py-3 px-4 font-bold border-r border-neutral-200">위치</td>
+              <td class="py-3 px-4 text-neutral-600">전라남도 신안군 자은면 자은서부2길 508-65 <a href="https://maps.google.com/?q=전라남도+신안군+자은면+자은서부2길+508-65" target="_blank" rel="noopener noreferrer" class="text-primary hover:underline">(지도 보기)</a></td>
             </tr>
-            <tr className="hover:bg-neutral-50">
-              <td className="py-3 px-4 font-bold border-r border-neutral-200">운영 시간</td>
-              <td className="py-3 px-4 text-neutral-600">하절기(3~10월): 09:00~18:00 / 동절기(11~2월): 09:00~17:00</td>
+            <tr class="hover:bg-neutral-50">
+              <td class="py-3 px-4 font-bold border-r border-neutral-200">운영 시간</td>
+              <td class="py-3 px-4 text-neutral-600">하절기(3~10월): 09:00~18:00 / 동절기(11~2월): 09:00~17:00</td>
             </tr>
-            <tr className="hover:bg-neutral-50">
-              <td className="py-3 px-4 font-bold border-r border-neutral-200">입장료</td>
-              <td className="py-3 px-4 text-neutral-600">성인 10,000원 / 청소년 5,000원 / 어린이 1,000~3,500원 (신안상품권 환급 혜택 확인)</td>
+            <tr class="hover:bg-neutral-50">
+              <td class="py-3 px-4 font-bold border-r border-neutral-200">입장료</td>
+              <td class="py-3 px-4 text-neutral-600">성인 10,000원 / 청소년 5,000원 / 어린이 1,000~3,500원 (신안상품권 환급 혜택 확인)</td>
             </tr>
-            <tr className="hover:bg-neutral-50">
-              <td className="py-3 px-4 font-bold border-r border-neutral-200">주차</td>
-              <td className="py-3 px-4 text-neutral-600">무료 전용 주차장 (전기차 충전소 완비, 대형 버스 가능)</td>
+            <tr class="hover:bg-neutral-50">
+              <td class="py-3 px-4 font-bold border-r border-neutral-200">주차</td>
+              <td class="py-3 px-4 text-neutral-600">무료 전용 주차장 (전기차 충전소 완비, 대형 버스 가능)</td>
             </tr>
-            <tr className="hover:bg-neutral-50">
-              <td className="py-3 px-4 font-bold border-r border-neutral-200">휴관일</td>
-              <td className="py-3 px-4 text-neutral-600">매주 월요일 (공휴일 시 다음 평일), 1월 1일</td>
+            <tr class="hover:bg-neutral-50">
+              <td class="py-3 px-4 font-bold border-r border-neutral-200">휴관일</td>
+              <td class="py-3 px-4 text-neutral-600">매주 월요일 (공휴일 시 다음 평일), 1월 1일</td>
             </tr>
           </tbody>
         </table>
@@ -1064,11 +1055,11 @@ export const postsShinan = {
       <h3>📸 [MZ/사진작가] 인스타그램 릴스 & 스냅 최적 경로</h3>
       <p>핵심은 <strong>'조개박물관 외관'</strong>과 <strong>'수석정원 입구'</strong>입니다. 미니멀한 건축물과 이국적인 야자수가 어우러져 해외여행 온 듯한 느낌을 줍니다. 광각 렌즈를 활용해 거대한 수석과 하늘을 함께 담아보세요.</p>
 
-      <img src="/images/shinan-museum-park-1.webp" alt="이국적인 배경의 조개박물관 외관" className="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
-      <p className="text-center text-sm text-neutral-500 mt-2">(▲ 광각 렌즈를 활용해 해외에 온 듯한 분위기를 연출할 수 있는 조개박물관 포토 스팟)</p>
+      <img src="/images/shinan-museum-park-1.webp" alt="이국적인 배경의 조개박물관 외관" class="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
+      <p class="text-center text-sm text-neutral-500 mt-2">(▲ 광각 렌즈를 활용해 해외에 온 듯한 분위기를 연출할 수 있는 조개박물관 포토 스팟)</p>
 
-      <img src="/images/shinan-museum-park-2.webp" alt="수석정원 입구 인공폭포 전경" className="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
-      <p className="text-center text-sm text-neutral-500 mt-2">(▲ 시원한 물줄기와 함께 역동적인 숏폼 촬영이 가능한 수석정원 대형 인공폭포)</p>
+      <img src="/images/shinan-museum-park-2.webp" alt="수석정원 입구 인공폭포 전경" class="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
+      <p class="text-center text-sm text-neutral-500 mt-2">(▲ 시원한 물줄기와 함께 역동적인 숏폼 촬영이 가능한 수석정원 대형 인공폭포)</p>
 
       <hr />
 
@@ -1097,29 +1088,29 @@ export const postsShinan = {
 
       <hr />
 
-      <p className="text-neutral-500 text-sm mt-4">
-        <strong>작성자:</strong> [남도예술정원 AI리서처]<br/>
+      <p class="text-neutral-500 text-sm mt-4">
+        <strong>작성자:</strong> [남도예술정원 AI 에디터]<br/>
         이 포스팅은 신안의 아름다운 예술 가치를 알리기 위해 정밀 분석된 데이터를 기반으로 작성되었습니다.
       </p>
 
       <h3>[출처 및 자료 참조]</h3>
-      <p className="text-neutral-500 text-sm">
+      <p class="text-neutral-500 text-sm">
         본 자료는 신안군청 공식 데이터 및 한국관광공사의 최신 정보를 바탕으로 작성되었습니다.
       </p>
-      <ul className="list-disc pl-5 text-neutral-500 text-sm">
+      <ul class="list-disc pl-5 text-neutral-500 text-sm">
         <li>신안군 문화관광 공식 홈페이지</li>
         <li>대한민국 구석구석 (시설 상세 정보)</li>
         <li>트립인포 (입장료 및 상세 주소)</li>
         <li>문화누리카드 사용처 안내</li>
       </ul>
       
-      <p className="text-neutral-500 text-sm mt-4">
+      <p class="text-neutral-500 text-sm mt-4">
         #신안여행 #1004뮤지엄파크 #자은도여행 #신안가볼만한곳 #아이와함께가볼만한곳 #전남여행코스 #인생샷명소 #신안데이트 #섬여행 #남도예술정원 #AI여행가이드
       </p>
     `,
     image: "/images/shinan-museum-park-1.webp",
     date: "2026. 03. 20",
-    author: "남도예술정원 AI리서처",
+    author: "남도예술정원 AI 에디터",
     readTime: "4분",
     keywords: "신안 1004뮤지엄파크, 자은도 가볼만한곳, 전남 아이와 가볼만한곳, 신안 여행 코스, 자은도 숙소 추천"
   },
@@ -1143,40 +1134,40 @@ export const postsShinan = {
       <hr />
 
       <h2>📍 신안 압해도 & 자은도 주요 숙소 비교</h2>
-      <div className="overflow-x-auto my-8">
-        <table className="min-w-full text-sm text-left border-collapse">
-          <thead className="bg-primary/10 border-b-2 border-primary/20">
+      <div class="overflow-x-auto my-8">
+        <table class="min-w-full text-sm text-left border-collapse">
+          <thead class="bg-primary/10 border-b-2 border-primary/20">
             <tr>
-              <th className="py-3 px-4 font-bold text-neutral-900 border-r border-neutral-200">숙소명</th>
-              <th className="py-3 px-4 font-bold text-neutral-900 border-r border-neutral-200">특징</th>
-              <th className="py-3 px-4 font-bold text-neutral-900 border-r border-neutral-200">분재정원과의 거리</th>
-              <th className="py-3 px-4 font-bold text-neutral-900">추천 페르소나</th>
+              <th class="py-3 px-4 font-bold text-neutral-900 border-r border-neutral-200">숙소명</th>
+              <th class="py-3 px-4 font-bold text-neutral-900 border-r border-neutral-200">특징</th>
+              <th class="py-3 px-4 font-bold text-neutral-900 border-r border-neutral-200">분재정원과의 거리</th>
+              <th class="py-3 px-4 font-bold text-neutral-900">추천 페르소나</th>
             </tr>
           </thead>
-          <tbody className="divide-y divide-neutral-200 border-b border-neutral-200">
-            <tr className="hover:bg-neutral-50">
-              <td className="py-3 px-4 font-bold border-r border-neutral-200">스테이 수련</td>
-              <td className="py-3 px-4 text-neutral-600 border-r border-neutral-200">독채, 야외 자쿠지, 프라이빗 텃밭</td>
-              <td className="py-3 px-4 text-neutral-600 border-r border-neutral-200">차로 약 10분</td>
-              <td className="py-3 px-4 text-neutral-600">커플, 감성 사진 작가</td>
+          <tbody class="divide-y divide-neutral-200 border-b border-neutral-200">
+            <tr class="hover:bg-neutral-50">
+              <td class="py-3 px-4 font-bold border-r border-neutral-200">스테이 수련</td>
+              <td class="py-3 px-4 text-neutral-600 border-r border-neutral-200">독채, 야외 자쿠지, 프라이빗 텃밭</td>
+              <td class="py-3 px-4 text-neutral-600 border-r border-neutral-200">차로 약 10분</td>
+              <td class="py-3 px-4 text-neutral-600">커플, 감성 사진 작가</td>
             </tr>
-            <tr className="hover:bg-neutral-50">
-              <td className="py-3 px-4 font-bold border-r border-neutral-200">라마다 프라자 & 씨원 리조트</td>
-              <td className="py-3 px-4 text-neutral-600 border-r border-neutral-200">5성급 시설, 인피니티 풀, 대규모 단지</td>
-              <td className="py-3 px-4 text-neutral-600 border-r border-neutral-200">차로 약 50분</td>
-              <td className="py-3 px-4 text-neutral-600">가족, 럭셔리 호캉스족</td>
+            <tr class="hover:bg-neutral-50">
+              <td class="py-3 px-4 font-bold border-r border-neutral-200">라마다 프라자 & 씨원 리조트</td>
+              <td class="py-3 px-4 text-neutral-600 border-r border-neutral-200">5성급 시설, 인피니티 풀, 대규모 단지</td>
+              <td class="py-3 px-4 text-neutral-600 border-r border-neutral-200">차로 약 50분</td>
+              <td class="py-3 px-4 text-neutral-600">가족, 럭셔리 호캉스족</td>
             </tr>
-            <tr className="hover:bg-neutral-50">
-              <td className="py-3 px-4 font-bold border-r border-neutral-200">무지개한옥 / 파인클라우드</td>
-              <td className="py-3 px-4 text-neutral-600 border-r border-neutral-200">고즈넉한 한옥, 수영장 완비</td>
-              <td className="py-3 px-4 text-neutral-600 border-r border-neutral-200">차로 약 5~10분</td>
-              <td className="py-3 px-4 text-neutral-600">가족, 단체 여행객</td>
+            <tr class="hover:bg-neutral-50">
+              <td class="py-3 px-4 font-bold border-r border-neutral-200">무지개한옥 / 파인클라우드</td>
+              <td class="py-3 px-4 text-neutral-600 border-r border-neutral-200">고즈넉한 한옥, 수영장 완비</td>
+              <td class="py-3 px-4 text-neutral-600 border-r border-neutral-200">차로 약 5~10분</td>
+              <td class="py-3 px-4 text-neutral-600">가족, 단체 여행객</td>
             </tr>
-            <tr className="hover:bg-neutral-50">
-              <td className="py-3 px-4 font-bold border-r border-neutral-200">분재정원 주차장</td>
-              <td className="py-3 px-4 text-neutral-600 border-r border-neutral-200">노지 차박, 환상적인 일몰 뷰</td>
-              <td className="py-3 px-4 text-neutral-600 border-r border-neutral-200">도보 0분</td>
-              <td className="py-3 px-4 text-neutral-600">MZ, 캠핑족, 프로 사진러</td>
+            <tr class="hover:bg-neutral-50">
+              <td class="py-3 px-4 font-bold border-r border-neutral-200">분재정원 주차장</td>
+              <td class="py-3 px-4 text-neutral-600 border-r border-neutral-200">노지 차박, 환상적인 일몰 뷰</td>
+              <td class="py-3 px-4 text-neutral-600 border-r border-neutral-200">도보 0분</td>
+              <td class="py-3 px-4 text-neutral-600">MZ, 캠핑족, 프로 사진러</td>
             </tr>
           </tbody>
         </table>
@@ -1187,24 +1178,24 @@ export const postsShinan = {
       <h2>👤 페르소나별 맞춤 숙박 가이드</h2>
 
       <h3>👩‍❤️‍👨 [커플 데이트] 둘만의 은밀한 휴식, '스테이 수련'</h3>
-      <img src="/images/shinan-stay-terrace-v2.webp" alt="야외 테라스에 놓인 캠핑용 의자와 여유로운 시골 풍경" className="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
-      <p className="text-center text-sm text-neutral-500 mt-2">(▲ 프라이빗한 휴식을 만끽할 수 있는 스테이 수련의 감성적인 야외 테라스)</p>
+      <img src="/images/shinan-stay-terrace-v2.webp" alt="야외 테라스에 놓인 캠핑용 의자와 여유로운 시골 풍경" class="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
+      <p class="text-center text-sm text-neutral-500 mt-2">(▲ 프라이빗한 휴식을 만끽할 수 있는 스테이 수련의 감성적인 야외 테라스)</p>
       <ul>
         <li><strong>경험:</strong> 조용한 시골 마을에 위치한 이곳은 모던한 인테리어와 야외 자쿠지가 압권입니다. 따뜻한 물에 몸을 담그고 신안의 밤하늘 별을 보는 로맨틱한 경험을 제공합니다.</li>
         <li><strong>포인트:</strong> 텃밭에서 직접 채소를 수확하는 소소한 재미와 함께 감성 스냅 촬영을 즐겨보세요.</li>
       </ul>
 
       <h3>👨‍👩‍👧‍👦 [가족/럭셔리] 품격 있는 휴양, '라마다 프라자 & 씨원 리조트'</h3>
-      <img src="/images/shinan-stay-resort-v2.webp" alt="밤에 빛나는 거대한 라마다 프라자 & 씨원 리조트 야경" className="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
-      <p className="text-center text-sm text-neutral-500 mt-2">(▲ 오션뷰 인피니티 풀과 최고급 시설을 자랑하는 신안 5성급 럭셔리 리조트)</p>
+      <img src="/images/shinan-stay-resort-v2.webp" alt="밤에 빛나는 거대한 라마다 프라자 & 씨원 리조트 야경" class="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
+      <p class="text-center text-sm text-neutral-500 mt-2">(▲ 오션뷰 인피니티 풀과 최고급 시설을 자랑하는 신안 5성급 럭셔리 리조트)</p>
       <ul>
         <li><strong>경험:</strong> 자은도에 위치해 이동 거리는 있지만, 신안 유일의 5성급 서비스를 경험할 수 있습니다. 천사대교 드라이브 코스와 연계하기 좋습니다.</li>
         <li><strong>포인트:</strong> 해외 휴양지를 연상케 하는 인피니티 풀은 아이들에게는 최고의 놀이터, 부모님께는 최고의 휴식을 선사합니다.</li>
       </ul>
 
       <h3>⛺ [MZ/차박족] "일몰이 숙소다", '분재정원 주차장 차박'</h3>
-      <img src="/images/shinan-stay-waterfall-v2.webp" alt="분재정원의 아름다운 인공 폭포와 연못 전경" className="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
-      <p className="text-center text-sm text-neutral-500 mt-2">(▲ 차박 후 아침 산책으로 즐기기 좋은 분재정원 내 아름다운 인공 폭포 전경)</p>
+      <img src="/images/shinan-stay-waterfall-v2.webp" alt="분재정원의 아름다운 인공 폭포와 연못 전경" class="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
+      <p class="text-center text-sm text-neutral-500 mt-2">(▲ 차박 후 아침 산책으로 즐기기 좋은 분재정원 내 아름다운 인공 폭포 전경)</p>
       <ul>
         <li><strong>경험:</strong> 예약에 실패했다면 차 트렁크를 열어보세요. 서해안 최고의 일몰 명소인 이곳은 이미 차박족들 사이에서 성지입니다.</li>
         <li><strong>포인트:</strong> 24시간 개방된 깨끗한 화장실과 환상적인 낙조 실루엣 샷은 그 어떤 호텔 뷰보다 강렬한 추억을 남깁니다.</li>
@@ -1213,7 +1204,7 @@ export const postsShinan = {
       <hr />
 
       <h2>📸 숙소별 인생샷 골든타임 & 스팟</h2>
-      <ol className="list-decimal pl-5 space-y-4 my-4">
+      <ol class="list-decimal pl-5 space-y-4 my-4">
         <li>
           <strong>스테이 수련:</strong> 일몰 직후 매직아워(저녁 6~7시), 자쿠지에 조명을 켜고 찍는 사진이 가장 몽환적입니다.
         </li>
@@ -1236,12 +1227,12 @@ export const postsShinan = {
       <hr />
 
       <div style="border: 2px solid #2e7d32; padding: 20px; border-radius: 8px; background-color: #f1f8e9; margin: 25px 0;">
-        <strong style="color: #1b5e20; font-size: 1.1em;">🌿 [남도예술정원 AI리서처의 추천 한마디]</strong><br><br>
+        <strong style="color: #1b5e20; font-size: 1.1em;">🌿 [남도예술정원 AI 에디터의 추천 한마디]</strong><br><br>
         "진정한 휴식은 공간의 온도에서 시작됩니다. 프라이빗한 교감을 원한다면 <strong>'스테이 수련'</strong>을, 압도적인 풍경과 편의성을 원한다면 <strong>'씨원 리조트'</strong>를 선택하세요. 숙소 자체가 여행의 목적지가 될 것입니다."
       </div>
 
       <h3>[출처 및 참고 자료]</h3>
-      <ul className="list-disc pl-5 mt-2 text-neutral-600 text-sm">
+      <ul class="list-disc pl-5 mt-2 text-neutral-600 text-sm">
         <li>파인클라우드 및 무지개한옥 정보: Trip.com 바로가기</li>
         <li>스테이 수련 상세 정보: 야놀자 바로가기</li>
         <li>라마다 프라자 & 씨원 리조트 정보: Hotels.com 바로가기</li>
@@ -1249,14 +1240,14 @@ export const postsShinan = {
         <li>숙소 평점 및 리뷰 데이터: Agoda 바로가기</li>
       </ul>
 
-      <p className="text-neutral-500 text-sm mt-4">
-        <strong>작성자:</strong> 남도예술정원 AI리서처<br/>
+      <p class="text-neutral-500 text-sm mt-4">
+        <strong>작성자:</strong> 남도예술정원 AI 에디터<br/>
         #신안감성숙소 #압해도펜션 #1004섬분재정원숙소 #신안커플여행 #파인클라우드 #무지개한옥펜션 #신안차박 #오션뷰펜션 #전남예쁜숙소 #AI여행추천 #남도예술정원 #스테이수련 #씨원리조트
       </p>
 `,
     image: "/images/shinan-stay-resort-v2.webp",
     date: "2026. 03. 19",
-    author: "남도예술정원 AI리서처",
+    author: "남도예술정원 AI 에디터",
     readTime: "5분",
     keywords: "신안감성숙소, 압해도펜션, 1004섬분재정원숙소, 신안커플여행, 스테이수련, 씨원리조트"
   },
@@ -1266,10 +1257,8 @@ export const postsShinan = {
     title: "[신안] 1004섬 분재정원 입장권 페이백 200% 활용법! 근처 맛집 & 감성 숙소 완벽 가이드",
     description: "입장료를 상품권으로 돌려받는 신안의 파격 혜택! 맛집부터 오션뷰 카페, 감성 숙소까지 동선별로 완벽하게 정리했습니다.",
     content: `
-      <h2>[신안] 1004섬 분재정원 입장권 페이백 200% 활용법! 근처 맛집 & 감성 숙소 완벽 가이드</h2>
-      
-      <img src="/images/shinan-bunjae-payback-1.webp" alt="천사신안아구찜 등 정원 근처 깔끔한 식당 및 숙소 전경" className="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
-      <p className="text-center text-sm text-neutral-500 mt-2">(▲ 분재정원과 인접해 접근성이 뛰어나며 페이백 사용이 가능한 주변 인프라)</p>
+      <img src="/images/shinan-bunjae-payback-1.webp" alt="천사신안아구찜 등 정원 근처 깔끔한 식당 및 숙소 전경" class="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
+      <p class="text-center text-sm text-neutral-500 mt-2">(▲ 분재정원과 인접해 접근성이 뛰어나며 페이백 사용이 가능한 주변 인프라)</p>
 
       <h2>🌟 한눈에 보는 핵심 요약</h2>
       <ul>
@@ -1281,34 +1270,34 @@ export const postsShinan = {
       <hr />
       
       <h2>📍 관광지 및 페이백 상세 정보</h2>
-      <div className="overflow-x-auto my-8">
-        <table className="min-w-full text-sm text-left border-collapse">
-          <thead className="bg-primary/10 border-b-2 border-primary/20">
+      <div class="overflow-x-auto my-8">
+        <table class="min-w-full text-sm text-left border-collapse">
+          <thead class="bg-primary/10 border-b-2 border-primary/20">
             <tr>
-              <th className="py-3 px-4 font-bold text-neutral-900 border-r border-neutral-200">구분</th>
-              <th className="py-3 px-4 font-bold text-neutral-900">내용 및 이용 팁</th>
+              <th class="py-3 px-4 font-bold text-neutral-900 border-r border-neutral-200">구분</th>
+              <th class="py-3 px-4 font-bold text-neutral-900">내용 및 이용 팁</th>
             </tr>
           </thead>
-          <tbody className="divide-y divide-neutral-200 border-b border-neutral-200">
-            <tr className="hover:bg-neutral-50">
-              <td className="py-3 px-4 font-bold border-r border-neutral-200">위치</td>
-              <td className="py-3 px-4 text-neutral-600">전라남도 신안군 압해읍 수락길 330 <a href="https://maps.google.com/?q=전남+신안군+압해읍+수락길+330" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline">(구글 지도 보기)</a></td>
+          <tbody class="divide-y divide-neutral-200 border-b border-neutral-200">
+            <tr class="hover:bg-neutral-50">
+              <td class="py-3 px-4 font-bold border-r border-neutral-200">위치</td>
+              <td class="py-3 px-4 text-neutral-600">전라남도 신안군 압해읍 수락길 330 <a href="https://maps.google.com/?q=전남+신안군+압해읍+수락길+330" target="_blank" rel="noopener noreferrer" class="text-primary hover:underline">(구글 지도 보기)</a></td>
             </tr>
-            <tr className="hover:bg-neutral-50">
-              <td className="py-3 px-4 font-bold border-r border-neutral-200">운영 시간</td>
-              <td className="py-3 px-4 text-neutral-600">09:00 ~ 18:00 (동절기 17:00까지) / 매주 월요일 휴무</td>
+            <tr class="hover:bg-neutral-50">
+              <td class="py-3 px-4 font-bold border-r border-neutral-200">운영 시간</td>
+              <td class="py-3 px-4 text-neutral-600">09:00 ~ 18:00 (동절기 17:00까지) / 매주 월요일 휴무</td>
             </tr>
-            <tr className="hover:bg-neutral-50">
-              <td className="py-3 px-4 font-bold border-r border-neutral-200">입장료 & 페이백</td>
-              <td className="py-3 px-4 text-neutral-600">성인 5,000원 (전액 상품권 환급) *65세 이상, 자매결연 시군민 대상</td>
+            <tr class="hover:bg-neutral-50">
+              <td class="py-3 px-4 font-bold border-r border-neutral-200">입장료 & 페이백</td>
+              <td class="py-3 px-4 text-neutral-600">성인 5,000원 (전액 상품권 환급) *65세 이상, 자매결연 시군민 대상</td>
             </tr>
-            <tr className="hover:bg-neutral-50">
-              <td className="py-3 px-4 font-bold border-r border-neutral-200">주차</td>
-              <td className="py-3 px-4 text-neutral-600">정원 앞 전용 주차장 (무료, 대형 버스 가능)</td>
+            <tr class="hover:bg-neutral-50">
+              <td class="py-3 px-4 font-bold border-r border-neutral-200">주차</td>
+              <td class="py-3 px-4 text-neutral-600">정원 앞 전용 주차장 (무료, 대형 버스 가능)</td>
             </tr>
-            <tr className="hover:bg-neutral-50">
-              <td className="py-3 px-4 font-bold border-r border-neutral-200">2026 최신 소식</td>
-              <td className="py-3 px-4 text-neutral-600">목포시민 50% 할인 혜택 본격 시행 중!</td>
+            <tr class="hover:bg-neutral-50">
+              <td class="py-3 px-4 font-bold border-r border-neutral-200">2026 최신 소식</td>
+              <td class="py-3 px-4 text-neutral-600">목포시민 50% 할인 혜택 본격 시행 중!</td>
             </tr>
           </tbody>
         </table>
@@ -1324,8 +1313,8 @@ export const postsShinan = {
         <li><strong>Tip:</strong> 아구찜은 맵지 않게 조절 가능하며, 아이들은 고소한 볶음밥을 좋아해요. 식사 후 미술관에서 조용히 책을 읽으며 쉬어가는 코스를 추천합니다.</li>
       </ul>
 
-      <img src="/images/shinan-bunjae-payback-2.webp" alt="신선한 모둠회가 차려진 풍성한 한상차림" className="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
-      <p className="text-center text-sm text-neutral-500 mt-2">(▲ 가족 및 단체 여행객의 입맛을 사로잡을 정자네횟집의 신선하고 푸짐한 상차림)</p>
+      <img src="/images/shinan-bunjae-payback-2.webp" alt="신선한 모둠회가 차려진 풍성한 한상차림" class="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
+      <p class="text-center text-sm text-neutral-500 mt-2">(▲ 가족 및 단체 여행객의 입맛을 사로잡을 정자네횟집의 신선하고 푸짐한 상차림)</p>
 
       <h3>👩‍❤️‍👨 [커플 데이트] 로맨틱한 바다 전망과 양식</h3>
       <ul>
@@ -1333,8 +1322,8 @@ export const postsShinan = {
         <li><strong>Tip:</strong> 바다가 보이는 창가 자리에서 수제 돈가스를 즐겨보세요. 식후에는 '1004브릿지' 카페에서 천사대교 야경을 배경으로 인생샷을 남길 수 있습니다.</li>
       </ul>
 
-      <img src="/images/shinan-bunjae-payback-3.webp" alt="다도해 전망이 한눈에 들어오는 테라스 카페 풍경" className="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
-      <p className="text-center text-sm text-neutral-500 mt-2">(▲ 탁 트인 바다 전망을 고스란히 느낄 수 있는 분위기 좋은 실외 테라스 카페)</p>
+      <img src="/images/shinan-bunjae-payback-3.webp" alt="다도해 전망이 한눈에 들어오는 테라스 카페 풍경" class="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
+      <p class="text-center text-sm text-neutral-500 mt-2">(▲ 탁 트인 바다 전망을 고스란히 느낄 수 있는 분위기 좋은 실외 테라스 카페)</p>
 
       <h3>📸 [MZ / 사진작가] 인스타 감성과 스냅 최적화</h3>
       <ul>
@@ -1345,7 +1334,7 @@ export const postsShinan = {
       <hr />
 
       <h2>📸 인생샷 핫포인트 & 골든타임</h2>
-      <ol className="list-decimal pl-5 space-y-4 my-4">
+      <ol class="list-decimal pl-5 space-y-4 my-4">
         <li>
           <strong>애기동백 숲길:</strong> 12월~2월 사이 방문 시, 오전 11시경 햇살이 꽃잎 사이로 비칠 때 가장 화사합니다.
         </li>
@@ -1379,14 +1368,14 @@ export const postsShinan = {
         "신안 상품권은 정원 앞 식당뿐만 아니라 신안군 내 편의점, 주유소에서도 사용 가능하니 알뜰하게 챙기세요! 본 가이드가 도움이 되셨나요? 다음에는 <strong>'신안 퍼플섬 근처 1박 2일 추천 루트'</strong>를 짜드릴까요? 원하신다면 말씀해 주세요!"
       </div>
 
-      <p className="text-neutral-500 text-sm mt-4">
-        <strong>작성자:</strong> 남도예술정원 AI리서처<br/>
+      <p class="text-neutral-500 text-sm mt-4">
+        <strong>작성자:</strong> 남도예술정원 AI 에디터<br/>
         #신안1004섬분재정원맛집 #신안상품권사용처 #압해도애견동반식당 #신안가성비여행 #분재정원입장료환급 #신안감성숙소추천
       </p>
 `,
     image: "/images/shinan-bunjae-payback-1.webp",
     date: "2026. 03. 19",
-    author: "남도예술정원 AI리서처",
+    author: "남도예술정원 AI 에디터",
     readTime: "4분",
     keywords: "신안 1004섬 분재정원 맛집, 신안상품권 사용처, 압해도 애견동반 식당, 신안 가성비 여행, 분재정원 입장료 환급, 신안 감성숙소 추천"
   },
@@ -1396,15 +1385,14 @@ export const postsShinan = {
     title: "[신안 파인클라우드] 인생샷 명소! 입장료부터 숨은 포토존까지 완벽 가이드",
     description: "신안 파인클라우드에서 최고의 인생샷을 남길 수 있는 포토존과 입장료 정보까지 한눈에!",
     content: `
-      <h2>[신안 파인클라우드] 인생샷 명소! 입장료부터 숨은 포토존까지 완벽 가이드</h2>
-      <p className="text-neutral-500 mb-4">파인클라우드에서 꼭 찍어야 할 포토존과 입장료 정보를 한눈에 정리했습니다.</p>
-      <img src="/images/shinan-pinecloud-hydrangea.webp" alt="탁 트인 바다 전망과 수국이 만발한 정자" className="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
-      <p className="text-center text-sm text-neutral-500 mt-2">포토존 1: 탁 트인 바다 전망을 배경으로 수국이 만발한 파인클라우드 정자의 아름다운 모습</p>
-      <img src="/images/shinan-pinecloud-waterwheel.webp" alt="시원한 분수와 고즈넉한 물레방아 전경" className="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
-      <p className="text-center text-sm text-neutral-500 mt-2">포토존 2: 시원한 물줄기를 뿜어내는 분수와 고즈넉한 물레방아가 어우러진 정원 풍경</p>
+      <p class="text-neutral-500 mb-4">파인클라우드에서 꼭 찍어야 할 포토존과 입장료 정보를 한눈에 정리했습니다.</p>
+      <img src="/images/shinan-pinecloud-hydrangea.webp" alt="탁 트인 바다 전망과 수국이 만발한 정자" class="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
+      <p class="text-center text-sm text-neutral-500 mt-2">포토존 1: 탁 트인 바다 전망을 배경으로 수국이 만발한 파인클라우드 정자의 아름다운 모습</p>
+      <img src="/images/shinan-pinecloud-waterwheel.webp" alt="시원한 분수와 고즈넉한 물레방아 전경" class="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
+      <p class="text-center text-sm text-neutral-500 mt-2">포토존 2: 시원한 물줄기를 뿜어내는 분수와 고즈넉한 물레방아가 어우러진 정원 풍경</p>
       <hr />
       <h3>입장료 안내</h3>
-      <p className="text-neutral-600">성인 8,000원 / 청소년 5,000원 / 어린이 3,000원 (만 6세 이하 무료)</p>
+      <p class="text-neutral-600">성인 8,000원 / 청소년 5,000원 / 어린이 3,000원 (만 6세 이하 무료)</p>
       <hr />
       <h3>추천 포토존</h3>
       <ul>
@@ -1428,8 +1416,6 @@ export const postsShinan = {
     title: "[신안 여행] '파인클라우드' 민간정원 심층 가이드",
     description: "100년의 행운을 만나다! 신안군 제1호 민간정원, 100년 만에 핀 소철나무 꽃과 9m 그네 등 치유와 힐링 스팟을 확인하세요.",
     content: `
-      <h2>[신안 여행] '파인클라우드' 민간정원 심층 가이드<br/>100년의 행운을 만나다!</h2>
-      
       <hr />
       
       <h2>🌟 방문 전 꼭 알아야 할 포인트 3가지</h2>
@@ -1439,40 +1425,40 @@ export const postsShinan = {
         <li><strong>치유의 흙길:</strong> 인위적인 포장을 최소화한 23,000평의 흙길 산책로가 맨발 걷기와 사색을 도와줍니다.</li>
       </ul>
 
-      <img src="/images/post-shinan-pinecloud-1.webp" alt="파인클라우드 소철나무 꽃" className="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
-      <p className="text-center text-sm text-neutral-500 mt-2">100년에 한 번 핀다는 행운의 상징, 파인클라우드의 소철나무 꽃</p>
+      <img src="/images/post-shinan-pinecloud-1.webp" alt="파인클라우드 소철나무 꽃" class="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
+      <p class="text-center text-sm text-neutral-500 mt-2">100년에 한 번 핀다는 행운의 상징, 파인클라우드의 소철나무 꽃</p>
 
       <hr />
 
       <h2>📍 관광지 상세 정보 (Data Table)</h2>
-      <div className="overflow-x-auto my-8">
-        <table className="min-w-full text-sm text-left border-collapse">
-          <thead className="bg-primary/10 border-b-2 border-primary/20">
+      <div class="overflow-x-auto my-8">
+        <table class="min-w-full text-sm text-left border-collapse">
+          <thead class="bg-primary/10 border-b-2 border-primary/20">
             <tr>
-              <th className="py-3 px-4 font-bold text-neutral-900 border-r border-neutral-200">구분</th>
-              <th className="py-3 px-4 font-bold text-neutral-900">내용 및 방문 팁</th>
+              <th class="py-3 px-4 font-bold text-neutral-900 border-r border-neutral-200">구분</th>
+              <th class="py-3 px-4 font-bold text-neutral-900">내용 및 방문 팁</th>
             </tr>
           </thead>
-          <tbody className="divide-y divide-neutral-200 border-b border-neutral-200">
-            <tr className="hover:bg-neutral-50">
-              <td className="py-3 px-4 font-bold border-r border-neutral-200">정원 명칭</td>
-              <td className="py-3 px-4 text-neutral-600">파인클라우드 (Pine Cloud): 소나무 숲 위로 구름이 머무는 풍경</td>
+          <tbody class="divide-y divide-neutral-200 border-b border-neutral-200">
+            <tr class="hover:bg-neutral-50">
+              <td class="py-3 px-4 font-bold border-r border-neutral-200">정원 명칭</td>
+              <td class="py-3 px-4 text-neutral-600">파인클라우드 (Pine Cloud): 소나무 숲 위로 구름이 머무는 풍경</td>
             </tr>
-            <tr className="hover:bg-neutral-50">
-              <td className="py-3 px-4 font-bold border-r border-neutral-200">위치</td>
-              <td className="py-3 px-4 text-neutral-600">전남 신안군 압해읍 천사대교로 642 (천사대교 진입 전 위치)</td>
+            <tr class="hover:bg-neutral-50">
+              <td class="py-3 px-4 font-bold border-r border-neutral-200">위치</td>
+              <td class="py-3 px-4 text-neutral-600">전남 신안군 압해읍 천사대교로 642 (천사대교 진입 전 위치)</td>
             </tr>
-            <tr className="hover:bg-neutral-50">
-              <td className="py-3 px-4 font-bold border-r border-neutral-200">규모/식생</td>
-              <td className="py-3 px-4 text-neutral-600">약 76,000㎡ (23,000평) / 소나무 및 분재 등 24종 이상의 수목</td>
+            <tr class="hover:bg-neutral-50">
+              <td class="py-3 px-4 font-bold border-r border-neutral-200">규모/식생</td>
+              <td class="py-3 px-4 text-neutral-600">약 76,000㎡ (23,000평) / 소나무 및 분재 등 24종 이상의 수목</td>
             </tr>
-            <tr className="hover:bg-neutral-50">
-              <td className="py-3 px-4 font-bold border-r border-neutral-200">핵심 콘텐츠</td>
-              <td className="py-3 px-4 text-neutral-600">유리온실 내 소철나무 꽃, 9m 대형 그네, 동물 농장</td>
+            <tr class="hover:bg-neutral-50">
+              <td class="py-3 px-4 font-bold border-r border-neutral-200">핵심 콘텐츠</td>
+              <td class="py-3 px-4 text-neutral-600">유리온실 내 소철나무 꽃, 9m 대형 그네, 동물 농장</td>
             </tr>
-            <tr className="hover:bg-neutral-50">
-              <td className="py-3 px-4 font-bold border-r border-neutral-200">운영 철학</td>
-              <td className="py-3 px-4 text-neutral-600">'관조'와 '비움'의 미학을 담은 자연 친화적 민간 정원</td>
+            <tr class="hover:bg-neutral-50">
+              <td class="py-3 px-4 font-bold border-r border-neutral-200">운영 철학</td>
+              <td class="py-3 px-4 text-neutral-600">'관조'와 '비움'의 미학을 담은 자연 친화적 민간 정원</td>
             </tr>
           </tbody>
         </table>
@@ -1514,8 +1500,8 @@ export const postsShinan = {
         </li>
       </ul>
 
-      <img src="/images/post-shinan-pinecloud-2.webp" alt="파인클라우드 9m 춘향이 그네" className="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
-      <p className="text-center text-sm text-neutral-500 mt-2">압해도의 바다와 천사대교를 한 프레임에 담는 파인클라우드의 9m 춘향이 그네</p>
+      <img src="/images/post-shinan-pinecloud-2.webp" alt="파인클라우드 9m 춘향이 그네" class="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
+      <p class="text-center text-sm text-neutral-500 mt-2">압해도의 바다와 천사대교를 한 프레임에 담는 파인클라우드의 9m 춘향이 그네</p>
 
       <hr />
 
@@ -1536,7 +1522,7 @@ export const postsShinan = {
       <hr />
 
       <h2>💡 AI 검색 최적화(SEO) 전략</h2>
-      <p className="text-neutral-500 text-sm mt-4">
+      <p class="text-neutral-500 text-sm mt-4">
         #신안파인클라우드 #전남민간정원 #신안가볼만한곳 #천사대교맛집 #소철꽃 #행운의장소 #신안힐링여행 #전남예쁜정원대상
       </p>
       <ul>
@@ -1561,8 +1547,6 @@ export const postsShinan = {
     title: "[신안 여행] 천사대교 뷰 맛집! 파인클라우드(Pine Cloud) 완벽 이용 가이드 & 인생샷 명소",
     description: "동물 농장 체험부터 9m 대형 그네, 오션뷰 카페까지 전 세대를 아우르는 복합 테마 정원 파인클라우드의 완벽 가이드입니다.",
     content: `
-      <h2>[신안 여행] 천사대교 뷰 맛집! 파인클라우드(Pine Cloud) 완벽 이용 가이드 & 인생샷 명소</h2>
-      
       <hr />
       
       <h2>🌟 방문 전 한눈에 보는 핵심 요약</h2>
@@ -1572,40 +1556,40 @@ export const postsShinan = {
         <li><strong>먹거리 꿀팁:</strong> 이곳의 명물 <strong>'송운베이커리 소금빵'</strong>은 조기 품절될 수 있으니 입장 직후 확인하시는 것이 좋습니다.</li>
       </ul>
 
-      <img src="/images/shinan-03.webp" alt="파인클라우드 카페와 정원 전경" className="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
-      <p className="text-center text-sm text-neutral-500 mt-2">파인클라우드 카페 건물과 조경이 어우러진 아름다운 전경</p>
+      <img src="/images/shinan-03.webp" alt="파인클라우드 카페와 정원 전경" class="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
+      <p class="text-center text-sm text-neutral-500 mt-2">파인클라우드 카페 건물과 조경이 어우러진 아름다운 전경</p>
 
       <hr />
 
       <h2>📍 파인클라우드 상세 정보</h2>
-      <div className="overflow-x-auto my-8">
-        <table className="min-w-full text-sm text-left border-collapse">
-          <thead className="bg-primary/10 border-b-2 border-primary/20">
+      <div class="overflow-x-auto my-8">
+        <table class="min-w-full text-sm text-left border-collapse">
+          <thead class="bg-primary/10 border-b-2 border-primary/20">
             <tr>
-              <th className="py-3 px-4 font-bold text-neutral-900 border-r border-neutral-200">구분</th>
-              <th className="py-3 px-4 font-bold text-neutral-900">내용 및 이용 꿀팁</th>
+              <th class="py-3 px-4 font-bold text-neutral-900 border-r border-neutral-200">구분</th>
+              <th class="py-3 px-4 font-bold text-neutral-900">내용 및 이용 꿀팁</th>
             </tr>
           </thead>
-          <tbody className="divide-y divide-neutral-200 border-b border-neutral-200">
-            <tr className="hover:bg-neutral-50">
-              <td className="py-3 px-4 font-bold border-r border-neutral-200">위치</td>
-              <td className="py-3 px-4 text-neutral-600">전남 신안군 압해읍 천사대교로 642</td>
+          <tbody class="divide-y divide-neutral-200 border-b border-neutral-200">
+            <tr class="hover:bg-neutral-50">
+              <td class="py-3 px-4 font-bold border-r border-neutral-200">위치</td>
+              <td class="py-3 px-4 text-neutral-600">전남 신안군 압해읍 천사대교로 642</td>
             </tr>
-            <tr className="hover:bg-neutral-50">
-              <td className="py-3 px-4 font-bold border-r border-neutral-200">운영 시간</td>
-              <td className="py-3 px-4 text-neutral-600">매일 09:00 ~ 19:00 (계절 및 기상 상황에 따라 변동 가능)</td>
+            <tr class="hover:bg-neutral-50">
+              <td class="py-3 px-4 font-bold border-r border-neutral-200">운영 시간</td>
+              <td class="py-3 px-4 text-neutral-600">매일 09:00 ~ 19:00 (계절 및 기상 상황에 따라 변동 가능)</td>
             </tr>
-            <tr className="hover:bg-neutral-50">
-              <td className="py-3 px-4 font-bold border-r border-neutral-200">입장료</td>
-              <td className="py-3 px-4 text-neutral-600">성인 기준 약 5,000원 내외 (입장권 지불 시 카페 음료 교환권 포함으로 가성비 우수)</td>
+            <tr class="hover:bg-neutral-50">
+              <td class="py-3 px-4 font-bold border-r border-neutral-200">입장료</td>
+              <td class="py-3 px-4 text-neutral-600">성인 기준 약 5,000원 내외 (입장권 지불 시 카페 음료 교환권 포함으로 가성비 우수)</td>
             </tr>
-            <tr className="hover:bg-neutral-50">
-              <td className="py-3 px-4 font-bold border-r border-neutral-200">주차</td>
-              <td className="py-3 px-4 text-neutral-600">카페 앞 전용 주차장 무료 이용 가능 (만차 시 도로 건너편 야영장 주차장 이용)</td>
+            <tr class="hover:bg-neutral-50">
+              <td class="py-3 px-4 font-bold border-r border-neutral-200">주차</td>
+              <td class="py-3 px-4 text-neutral-600">카페 앞 전용 주차장 무료 이용 가능 (만차 시 도로 건너편 야영장 주차장 이용)</td>
             </tr>
-            <tr className="hover:bg-neutral-50">
-              <td className="py-3 px-4 font-bold border-r border-neutral-200">체류 시간</td>
-              <td className="py-3 px-4 text-neutral-600">약 1시간 30분 ~ 3시간 (카페 휴식 및 사진 촬영 포함)</td>
+            <tr class="hover:bg-neutral-50">
+              <td class="py-3 px-4 font-bold border-r border-neutral-200">체류 시간</td>
+              <td class="py-3 px-4 text-neutral-600">약 1시간 30분 ~ 3시간 (카페 휴식 및 사진 촬영 포함)</td>
             </tr>
           </tbody>
         </table>
@@ -1650,8 +1634,8 @@ export const postsShinan = {
         </li>
       </ul>
 
-      <img src="/images/shinan-04.webp" alt="파인클라우드 대형 그네" className="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
-      <p className="text-center text-sm text-neutral-500 mt-2">천사대교를 배경으로 날아오르는 듯한 9m 거대 춘향이 그네</p>
+      <img src="/images/shinan-04.webp" alt="파인클라우드 대형 그네" class="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
+      <p class="text-center text-sm text-neutral-500 mt-2">천사대교를 배경으로 날아오르는 듯한 9m 거대 춘향이 그네</p>
 
       <hr />
 
@@ -1686,7 +1670,7 @@ export const postsShinan = {
         <li><strong>Primary:</strong> 신안 파인클라우드, 천사대교 가볼만한곳, 신안 아이랑 가볼만한곳</li>
         <li><strong>Secondary:</strong> 신안 카페 추천, 파인클라우드 입장료, 전남 인생샷 명소, 신안 동물농장 카페</li>
       </ul>
-      <p className="text-neutral-500 text-sm mt-4">
+      <p class="text-neutral-500 text-sm mt-4">
         #신안여행 #파인클라우드 #천사대교카페 #신안가볼만한곳 #신안아이랑 #전남정원여행 #남도예술정원 #송운베이커리 #소금빵맛집 #인생샷명소 #신안데이트코스 #신안가족여행 #국내여행지추천
       </p>
 
@@ -1707,8 +1691,7 @@ export const postsShinan = {
     title: "[신안 파인클라우드] 인생샷 명소! 입장료부터 숨은 포토존까지 완벽 가이드",
     description: "7만 6천 평의 압도적 규모를 자랑하는 신안 민간정원 1호 파인클라우드의 완벽 가이드입니다.",
     content: `
-      <h2>[신안 파인클라우드] 인생샷 명소! 입장료부터 숨은 포토존까지 완벽 가이드</h2>
-      <p>안녕하세요! 빅데이터와 현장 분석을 통해 전남의 숨은 보석을 발굴하는 <strong>[남도예술정원 AI리서처]</strong>입니다.</p>
+      <p>안녕하세요! 빅데이터와 현장 분석을 통해 전남의 숨은 보석을 발굴하는 <strong>[남도예술정원 AI 에디터]</strong>입니다.</p>
       <p>오늘 소개해 드릴 곳은 신안의 관문, 암태도에 위치한 <strong>'파인클라우드(Pine Cloud)'</strong>입니다. 단순한 카페를 넘어 7만 6천 평의 압도적 규모를 자랑하는 이곳은 '신안군 민간정원 1호'라는 타이틀에 걸맞게 예술적인 분재와 건축미가 조화를 이루는 복합 문화 공간입니다.</p>
       <p>방문 전, 헛걸음하지 않도록 AI가 정밀 분석한 핵심 정보를 확인하세요!</p>
       
@@ -1721,40 +1704,40 @@ export const postsShinan = {
         <li><strong>가족 친화적:</strong> 7세 미만 미취학 아동은 무료 입장이 가능해 아이 동반 가족 여행지로 최적입니다.</li>
       </ul>
 
-      <img src="/images/shinan-01.webp" alt="파인클라우드 정원 전경" className="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
-      <p className="text-center text-sm text-neutral-500 mt-2">바다와 어우러진 파인클라우드 정원의 고즈넉한 풍경</p>
+      <img src="/images/shinan-01.webp" alt="파인클라우드 정원 전경" class="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
+      <p class="text-center text-sm text-neutral-500 mt-2">바다와 어우러진 파인클라우드 정원의 고즈넉한 풍경</p>
 
       <hr />
 
       <h2>📍 관광지 상세 정보 (AI 데이터 시각화)</h2>
-      <div className="overflow-x-auto my-8">
-        <table className="min-w-full text-sm text-left border-collapse">
-          <thead className="bg-primary/10 border-b-2 border-primary/20">
+      <div class="overflow-x-auto my-8">
+        <table class="min-w-full text-sm text-left border-collapse">
+          <thead class="bg-primary/10 border-b-2 border-primary/20">
             <tr>
-              <th className="py-3 px-4 font-bold text-neutral-900 border-r border-neutral-200">구분</th>
-              <th className="py-3 px-4 font-bold text-neutral-900">내용 및 방문 꿀팁</th>
+              <th class="py-3 px-4 font-bold text-neutral-900 border-r border-neutral-200">구분</th>
+              <th class="py-3 px-4 font-bold text-neutral-900">내용 및 방문 꿀팁</th>
             </tr>
           </thead>
-          <tbody className="divide-y divide-neutral-200 border-b border-neutral-200">
-            <tr className="hover:bg-neutral-50">
-              <td className="py-3 px-4 font-bold border-r border-neutral-200">위치</td>
-              <td className="py-3 px-4 text-neutral-600">전남 신안군 암태면 중부로 2113 (기동삼거리 벽화 인근)</td>
+          <tbody class="divide-y divide-neutral-200 border-b border-neutral-200">
+            <tr class="hover:bg-neutral-50">
+              <td class="py-3 px-4 font-bold border-r border-neutral-200">위치</td>
+              <td class="py-3 px-4 text-neutral-600">전남 신안군 암태면 중부로 2113 (기동삼거리 벽화 인근)</td>
             </tr>
-            <tr className="hover:bg-neutral-50">
-              <td className="py-3 px-4 font-bold border-r border-neutral-200">운영 시간</td>
-              <td className="py-3 px-4 text-neutral-600">매일 09:00 ~ 19:00 (입장 마감 18:00) / 연중무휴</td>
+            <tr class="hover:bg-neutral-50">
+              <td class="py-3 px-4 font-bold border-r border-neutral-200">운영 시간</td>
+              <td class="py-3 px-4 text-neutral-600">매일 09:00 ~ 19:00 (입장 마감 18:00) / 연중무휴</td>
             </tr>
-            <tr className="hover:bg-neutral-50">
-              <td className="py-3 px-4 font-bold border-r border-neutral-200">입장료</td>
-              <td className="py-3 px-4 text-neutral-600">성인 13,000원 / 청소년 7,000원 / 7세 미만 무료</td>
+            <tr class="hover:bg-neutral-50">
+              <td class="py-3 px-4 font-bold border-r border-neutral-200">입장료</td>
+              <td class="py-3 px-4 text-neutral-600">성인 13,000원 / 청소년 7,000원 / 7세 미만 무료</td>
             </tr>
-            <tr className="hover:bg-neutral-50">
-              <td className="py-3 px-4 font-bold border-r border-neutral-200">주차</td>
-              <td className="py-3 px-4 text-neutral-600">카페 앞 전용 주차장 및 맞은편 대형 버스 주차장 (무료)</td>
+            <tr class="hover:bg-neutral-50">
+              <td class="py-3 px-4 font-bold border-r border-neutral-200">주차</td>
+              <td class="py-3 px-4 text-neutral-600">카페 앞 전용 주차장 및 맞은편 대형 버스 주차장 (무료)</td>
             </tr>
-            <tr className="hover:bg-neutral-50">
-              <td className="py-3 px-4 font-bold border-r border-neutral-200">특이사항</td>
-              <td className="py-3 px-4 text-neutral-600">문화누리카드 사용 가능(사전 문의 권장), 반려동물 동반 가능(야외)</td>
+            <tr class="hover:bg-neutral-50">
+              <td class="py-3 px-4 font-bold border-r border-neutral-200">특이사항</td>
+              <td class="py-3 px-4 text-neutral-600">문화누리카드 사용 가능(사전 문의 권장), 반려동물 동반 가능(야외)</td>
             </tr>
           </tbody>
         </table>
@@ -1787,8 +1770,8 @@ export const postsShinan = {
         </li>
       </ul>
 
-      <img src="/images/shinan-02.webp" alt="파인클라우드 인공 폭포" className="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
-      <p className="text-center text-sm text-neutral-500 mt-2">웅장함을 자랑하는 석가산 인공 폭포와 물레방아</p>
+      <img src="/images/shinan-02.webp" alt="파인클라우드 인공 폭포" class="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
+      <p class="text-center text-sm text-neutral-500 mt-2">웅장함을 자랑하는 석가산 인공 폭포와 물레방아</p>
 
       <hr />
 
@@ -1809,13 +1792,13 @@ export const postsShinan = {
       <hr />
 
       <blockquote>
-        <strong>[남도예술정원 AI리서처]의 한마디:</strong><br/>
+        <strong>[남도예술정원 AI 에디터]의 한마디:</strong><br/>
         "저희의 이번 가이드가 즐거운 신안 여행의 나침반이 되길 바랍니다."
       </blockquote>
     `,
     image: "/images/shinan-01.webp",
     date: "2026. 03. 18",
-    author: "남도예술정원 AI리서처",
+    author: "남도예술정원 AI 에디터",
     readTime: "4분",
     keywords: "남도예술정원, AI여행리서처, 남도여행가이드, 전남관광SEO, 맞춤형여행코스, 남도예술정원추천, 신안여행, 파인클라우드"
   },
@@ -1823,8 +1806,7 @@ export const postsShinan = {
     title: "[신안] 천사대교 뷰와 동물농장의 만남! 파인클라우드 완벽 이용 가이드",
     description: "신안의 랜드마크로 자리 잡은 파인클라우드(Pine Cloud)는 76,000㎡라는 압도적인 규모를 자랑합니다. 즐길 거리 가득한 프리미엄 이용 가이드를 공개합니다.",
     content: `
-      <h2>[신안] 천사대교 뷰와 동물농장의 만남! 파인클라우드 완벽 이용 가이드 (시설/동선/꿀팁)</h2>
-      <p>안녕하세요. 여행지의 모든 변수를 데이터로 분석하여 최적의 경로를 설계해 드리는 <strong>남도예술정원 AI리서처</strong>입니다.</p>
+      <p>안녕하세요. 여행지의 모든 변수를 데이터로 분석하여 최적의 경로를 설계해 드리는 <strong>남도예술정원 AI 에디터</strong>입니다.</p>
       <p>신안의 랜드마크로 자리 잡은 <strong>파인클라우드(Pine Cloud)</strong>는 76,000㎡라는 압도적인 규모를 자랑합니다. 하지만 넓은 만큼 "어디부터 가야 할지", "아이와 가기엔 힘들지 않을지" 고민되시죠? 실제 방문객 데이터와 시설 정보를 정밀 분석하여, 여러분의 시행착오를 줄여줄 프리미엄 이용 가이드를 공개합니다.</p>
       
       <hr />
@@ -1836,40 +1818,40 @@ export const postsShinan = {
         <li><strong>필수 먹거리:</strong> 정원의 명물, 송운베이커리의 <strong>'갓 구운 소금빵'</strong>은 무조건 선점하세요!</li>
       </ul>
 
-      <img src="/images/shinan-pinecloud-fountain.webp" alt="파인클라우드 인공 폭포 전경" className="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
-      <p className="text-center text-sm text-neutral-500 mt-2">청량감 넘치는 인공 폭포 앞은 정원의 생동감을 담기 가장 좋은 곳입니다</p>
+      <img src="/images/shinan-pinecloud-fountain.webp" alt="파인클라우드 인공 폭포 전경" class="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
+      <p class="text-center text-sm text-neutral-500 mt-2">청량감 넘치는 인공 폭포 앞은 정원의 생동감을 담기 가장 좋은 곳입니다</p>
 
       <hr />
 
       <h2>📍 파인클라우드 상세 정보</h2>
-      <div className="overflow-x-auto my-8">
-        <table className="min-w-full text-sm text-left border-collapse">
-          <thead className="bg-primary/10 border-b-2 border-primary/20">
+      <div class="overflow-x-auto my-8">
+        <table class="min-w-full text-sm text-left border-collapse">
+          <thead class="bg-primary/10 border-b-2 border-primary/20">
             <tr>
-              <th className="py-3 px-4 font-bold text-neutral-900 border-r border-neutral-200">구분</th>
-              <th className="py-3 px-4 font-bold text-neutral-900">내용 및 방문 꿀팁</th>
+              <th class="py-3 px-4 font-bold text-neutral-900 border-r border-neutral-200">구분</th>
+              <th class="py-3 px-4 font-bold text-neutral-900">내용 및 방문 꿀팁</th>
             </tr>
           </thead>
-          <tbody className="divide-y divide-neutral-200 border-b border-neutral-200">
-            <tr className="hover:bg-neutral-50">
-              <td className="py-3 px-4 font-bold border-r border-neutral-200">위치</td>
-              <td className="py-3 px-4 text-neutral-600">전남 신안군 압해읍 (천사대교 인근, 구글 지도 '파인클라우드' 검색)</td>
+          <tbody class="divide-y divide-neutral-200 border-b border-neutral-200">
+            <tr class="hover:bg-neutral-50">
+              <td class="py-3 px-4 font-bold border-r border-neutral-200">위치</td>
+              <td class="py-3 px-4 text-neutral-600">전남 신안군 압해읍 (천사대교 인근, 구글 지도 '파인클라우드' 검색)</td>
             </tr>
-            <tr className="hover:bg-neutral-50">
-              <td className="py-3 px-4 font-bold border-r border-neutral-200">운영 시간</td>
-              <td className="py-3 px-4 text-neutral-600">매일 09:00 ~ 19:00 (계절 및 기상 상황에 따라 변동 가능)</td>
+            <tr class="hover:bg-neutral-50">
+              <td class="py-3 px-4 font-bold border-r border-neutral-200">운영 시간</td>
+              <td class="py-3 px-4 text-neutral-600">매일 09:00 ~ 19:00 (계절 및 기상 상황에 따라 변동 가능)</td>
             </tr>
-            <tr className="hover:bg-neutral-50">
-              <td className="py-3 px-4 font-bold border-r border-neutral-200">입장료</td>
-              <td className="py-3 px-4 text-neutral-600">카페 음료 주문 시 정원 이용 포함 (1인 1음료 원칙)</td>
+            <tr class="hover:bg-neutral-50">
+              <td class="py-3 px-4 font-bold border-r border-neutral-200">입장료</td>
+              <td class="py-3 px-4 text-neutral-600">카페 음료 주문 시 정원 이용 포함 (1인 1음료 원칙)</td>
             </tr>
-            <tr className="hover:bg-neutral-50">
-              <td className="py-3 px-4 font-bold border-r border-neutral-200">주차</td>
-              <td className="py-3 px-4 text-neutral-600">카페 앞 전용 주차장 완비 (대형 버스 가능, 무료)</td>
+            <tr class="hover:bg-neutral-50">
+              <td class="py-3 px-4 font-bold border-r border-neutral-200">주차</td>
+              <td class="py-3 px-4 text-neutral-600">카페 앞 전용 주차장 완비 (대형 버스 가능, 무료)</td>
             </tr>
-            <tr className="hover:bg-neutral-50">
-              <td className="py-3 px-4 font-bold border-r border-neutral-200">편의 시설</td>
-              <td className="py-3 px-4 text-neutral-600">화장실은 <strong>카페 건물 내부(1, 2층)</strong>에만 있음 (산책 전 필수 방문)</td>
+            <tr class="hover:bg-neutral-50">
+              <td class="py-3 px-4 font-bold border-r border-neutral-200">편의 시설</td>
+              <td class="py-3 px-4 text-neutral-600">화장실은 <strong>카페 건물 내부(1, 2층)</strong>에만 있음 (산책 전 필수 방문)</td>
             </tr>
           </tbody>
         </table>
@@ -1899,7 +1881,7 @@ export const postsShinan = {
     `,
     image: "/images/shinan-pinecloud-fountain.webp",
     date: "2026. 03. 19",
-    author: "남도예술정원 AI리서처",
+    author: "남도예술정원 AI 에디터",
     readTime: "4분",
     keywords: "신안파인클라우드, 뷰맛집, 천사대교, 동물농장"
   },
@@ -1908,19 +1890,18 @@ export const postsShinan = {
     description: "도시의 소음에서 벗어나 진정한 휴식을 갈망하시나요? 자연과 예술이 합일된 거대한 수묵화, 1004섬 분재정원으로 초대합니다.",
     content: `
 
-      <h2>[신안] 인생샷과 사색의 미학! 1004섬 분재정원 완벽 가이드</h2>
       <p>도시의 소음에서 벗어나 진정한 휴식을 갈망하시나요? 전라남도 신안의 보석, <strong>1004섬 분재정원(천사섬 분재정원)</strong>은 단순한 식물원을 넘어 자연과 예술이 합일된 거대한 수묵화입니다. 송공산 자락에서 다도해를 내려다보며 '살아있는 예술' 분재의 정수를 만끽할 수 있는 이곳의 모든 것을 정리해 드립니다.</p>
 
       <div style="border: 2px solid #2e7d32; padding: 20px; border-radius: 8px; background-color: #f1f8e9; margin: 25px 0;">
-        <strong style="color: #1b5e20; font-size: 1.1em;">🌿 [남도예술정원 AI리서처의 추천 한마디]</strong><br><br>
+        <strong style="color: #1b5e20; font-size: 1.1em;">🌿 [남도예술정원 AI 에디터의 추천 한마디]</strong><br><br>
         "수백 년의 시간을 견뎌낸 분재 한 그루는 그 자체로 하나의 우주입니다. 서두르지 말고 나무의 곡선과 바다의 수평선이 만나는 찰나의 평온을 꼭 경험해 보세요. 특히 겨울철 붉은 애기동백은 놓쳐선 안 될 예술적 절경입니다."
       </div>
       
       <hr />
       
       <h2>🌟 한눈에 보는 핵심 요약</h2>
-      <img src="/images/shinan-bunjae-art2-1.webp" alt="원뿔형 나무가 늘어선 고즈넉한 정원 산책로" className="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
-      <p className="text-center text-sm text-neutral-500 mt-2">(▲ 아름다운 수형을 자랑하는 나무들이 고즈넉하게 늘어선 평화로운 분재정원 산책로)</p>
+      <img src="/images/shinan-bunjae-art2-1.webp" alt="원뿔형 나무가 늘어선 고즈넉한 정원 산책로" class="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
+      <p class="text-center text-sm text-neutral-500 mt-2">(▲ 아름다운 수형을 자랑하는 나무들이 고즈넉하게 늘어선 평화로운 분재정원 산책로)</p>
       
       <ul>
         <li><strong>예술적 가치:</strong> 고(故) 최병철 박사가 평생 수집한 2,000여 점의 명품 분재가 기증되어 조성된 국내 최대 규모 분재 전문 공원입니다.</li>
@@ -1931,30 +1912,30 @@ export const postsShinan = {
       <hr />
 
       <h2>📍 관광지 상세 정보</h2>
-      <div className="overflow-x-auto my-8">
-        <table className="min-w-full text-sm text-left border-collapse">
-          <thead className="bg-primary/10 border-b-2 border-primary/20">
+      <div class="overflow-x-auto my-8">
+        <table class="min-w-full text-sm text-left border-collapse">
+          <thead class="bg-primary/10 border-b-2 border-primary/20">
             <tr>
-              <th className="py-3 px-4 font-bold text-neutral-900 border-r border-neutral-200">구분</th>
-              <th className="py-3 px-4 font-bold text-neutral-900">내용 및 팁</th>
+              <th class="py-3 px-4 font-bold text-neutral-900 border-r border-neutral-200">구분</th>
+              <th class="py-3 px-4 font-bold text-neutral-900">내용 및 팁</th>
             </tr>
           </thead>
-          <tbody className="divide-y divide-neutral-200 border-b border-neutral-200">
-            <tr className="hover:bg-neutral-50">
-              <td className="py-3 px-4 font-bold border-r border-neutral-200">위치</td>
-              <td className="py-3 px-4 text-neutral-600">전라남도 신안군 압해읍 수락길 330 <a href="https://maps.google.com/?q=전남+신안군+압해읍+수락길+330" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline">(구글 지도 보기)</a></td>
+          <tbody class="divide-y divide-neutral-200 border-b border-neutral-200">
+            <tr class="hover:bg-neutral-50">
+              <td class="py-3 px-4 font-bold border-r border-neutral-200">위치</td>
+              <td class="py-3 px-4 text-neutral-600">전라남도 신안군 압해읍 수락길 330 <a href="https://maps.google.com/?q=전남+신안군+압해읍+수락길+330" target="_blank" rel="noopener noreferrer" class="text-primary hover:underline">(구글 지도 보기)</a></td>
             </tr>
-            <tr className="hover:bg-neutral-50">
-              <td className="py-3 px-4 font-bold border-r border-neutral-200">운영 시간</td>
-              <td className="py-3 px-4 text-neutral-600">동절기(11~2월): 09:00~17:00 / 하절기(3~10월): 09:00~18:00 (※ 매주 월요일 휴무)</td>
+            <tr class="hover:bg-neutral-50">
+              <td class="py-3 px-4 font-bold border-r border-neutral-200">운영 시간</td>
+              <td class="py-3 px-4 text-neutral-600">동절기(11~2월): 09:00~17:00 / 하절기(3~10월): 09:00~18:00 (※ 매주 월요일 휴무)</td>
             </tr>
-            <tr className="hover:bg-neutral-50">
-              <td className="py-3 px-4 font-bold border-r border-neutral-200">입장료</td>
-              <td className="py-3 px-4 text-neutral-600">성인 5,000원 / 청소년 3,000원 (신안군민 및 만 65세 이상 무료 혜택 확인)</td>
+            <tr class="hover:bg-neutral-50">
+              <td class="py-3 px-4 font-bold border-r border-neutral-200">입장료</td>
+              <td class="py-3 px-4 text-neutral-600">성인 5,000원 / 청소년 3,000원 (신안군민 및 만 65세 이상 무료 혜택 확인)</td>
             </tr>
-            <tr className="hover:bg-neutral-50">
-              <td className="py-3 px-4 font-bold border-r border-neutral-200">주차</td>
-              <td className="py-3 px-4 text-neutral-600">정원 입구 전용 무료 주차장 완비 (대형 버스 및 승용차 주차 공간 넉넉함)</td>
+            <tr class="hover:bg-neutral-50">
+              <td class="py-3 px-4 font-bold border-r border-neutral-200">주차</td>
+              <td class="py-3 px-4 text-neutral-600">정원 입구 전용 무료 주차장 완비 (대형 버스 및 승용차 주차 공간 넉넉함)</td>
             </tr>
           </tbody>
         </table>
@@ -1985,17 +1966,17 @@ export const postsShinan = {
       <hr />
 
       <h2>📸 인생샷 핫포인트 & 골든타임</h2>
-      <ol className="list-decimal pl-5 space-y-4 my-4">
+      <ol class="list-decimal pl-5 space-y-4 my-4">
         <li>
           <strong>추천 스팟: "저녁노을미술관 앞 테라스"</strong>
-          <ul className="list-disc pl-5 mt-2 text-neutral-600">
+          <ul class="list-disc pl-5 mt-2 text-neutral-600">
             <li><strong>포인트:</strong> 분재정원의 전경과 다도해의 섬들이 한눈에 들어오는 파노라마 뷰!</li>
             <li><strong>골든타임:</strong> 일몰 30분 전. 태양이 바다로 떨어지며 정원을 붉게 물들일 때 가장 입체적인 사진이 나옵니다.</li>
           </ul>
         </li>
         <li>
           <strong>추천 스팟: "애기동백길 터널 (겨울 한정)"</strong>
-          <ul className="list-disc pl-5 mt-2 text-neutral-600">
+          <ul class="list-disc pl-5 mt-2 text-neutral-600">
             <li><strong>포인트:</strong> 붉은 꽃잎이 융단처럼 깔린 신비로운 산책길.</li>
             <li><strong>골든타임:</strong> 오전 11시경. 나뭇가지 사이로 사선으로 들어오는 햇빛(사광)이 꽃의 색감을 더욱 선명하게 살려줍니다.</li>
           </ul>
@@ -2005,10 +1986,10 @@ export const postsShinan = {
       <hr />
 
       <h2>🚲 1004섬 자전거 스탬프 투어 및 액티비티</h2>
-      <img src="/images/shinan-bunjae-art2-2.webp" alt="신안 섬 자전거길 스탬프 투어 안내 표지판" className="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
-      <p className="text-center text-sm text-neutral-500 mt-2">(▲ 신안 섬 갯벌을 따라 달리는 자전거길과 스탬프 투어 인증 편지함)</p>
+      <img src="/images/shinan-bunjae-art2-2.webp" alt="신안 섬 자전거길 스탬프 투어 안내 표지판" class="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
+      <p class="text-center text-sm text-neutral-500 mt-2">(▲ 신안 섬 갯벌을 따라 달리는 자전거길과 스탬프 투어 인증 편지함)</p>
       <p>분재정원 관람 전후로 주변의 청정 자연을 온몸으로 만끽하고 싶다면 <strong>'신안 섬 자전거길'</strong> 코스를 강력히 추천합니다!</p>
-      <ul className="list-disc pl-5 space-y-2 text-neutral-600 my-4">
+      <ul class="list-disc pl-5 space-y-2 text-neutral-600 my-4">
         <li><strong>구간 안내:</strong> 신안군청에서 송공산(천사섬 분재공원) 방향으로 이어지는 아름다운 방조제길 코스.</li>
         <li><strong>추천 매력:</strong> 밀물과 썰물에 따라 다채롭게 변하는 갯벌의 생태계를 가까이서 관찰할 수 있으며, 코스 곳곳에 비치된 '1004섬 자전거길 스탬프 투어' 인증함에서 스탬프 전용 투어의 쏠쏠한 재미도 챙겨보세요.</li>
       </ul>
@@ -2018,7 +1999,7 @@ export const postsShinan = {
       <h2>🏠 인근 숙박 및 교통 안내</h2>
       <h3>추천 숙소</h3>
       <ul>
-        <li><strong>신안 엘도라도 리조트 (<a href="https://www.eldoradoresort.co.kr" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline">공식 홈페이지</a>):</strong> 다도해의 이국적인 풍경을 담은 프리미엄 리조트 (차량 40분 거리).</li>
+        <li><strong>신안 엘도라도 리조트 (<a href="https://www.eldoradoresort.co.kr" target="_blank" rel="noopener noreferrer" class="text-primary hover:underline">공식 홈페이지</a>):</strong> 다도해의 이국적인 풍경을 담은 프리미엄 리조트 (차량 40분 거리).</li>
         <li><strong>압해도 감성 스테이:</strong> 정원 인근의 조용한 독채 펜션들이 많아 프라이빗한 휴식에 최적입니다.</li>
       </ul>
       <h3>교통 안내</h3>
@@ -2030,22 +2011,22 @@ export const postsShinan = {
       <hr />
       
       <h3>[출처 및 참고자료]</h3>
-      <p className="mb-2">본 콘텐츠는 아래의 공식 정보와 실제 방문객 데이터를 기반으로 작성되었습니다.</p>
-      <ul className="list-disc pl-5 text-neutral-600 space-y-1">
-        <li><strong>1004섬 분재정원 공식 홈페이지</strong> (정원 운영, 분재 기념관, 식생 안내 등): <a href="http://shinan-bjpark.or.kr" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline">http://shinan-bjpark.or.kr</a></li>
-        <li><strong>신안군 문화관광 홈페이지</strong> (정원 설립 배경, 명칭 의미, 자전거길 코스, 축제 부스 정보): <a href="https://tour.shinan.go.kr" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline">https://tour.shinan.go.kr</a></li>
-        <li><strong>신안군 공식 블로그</strong> (계절별 추천 포인트, 봄 매화/이팝나무, 블루아워 감상 후기): <a href="https://blog.naver.com/sinan_story" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline">https://blog.naver.com/sinan_story</a></li>
+      <p class="mb-2">본 콘텐츠는 아래의 공식 정보와 실제 방문객 데이터를 기반으로 작성되었습니다.</p>
+      <ul class="list-disc pl-5 text-neutral-600 space-y-1">
+        <li><strong>1004섬 분재정원 공식 홈페이지</strong> (정원 운영, 분재 기념관, 식생 안내 등): <a href="http://shinan-bjpark.or.kr" target="_blank" rel="noopener noreferrer" class="text-primary hover:underline">http://shinan-bjpark.or.kr</a></li>
+        <li><strong>신안군 문화관광 홈페이지</strong> (정원 설립 배경, 명칭 의미, 자전거길 코스, 축제 부스 정보): <a href="https://tour.shinan.go.kr" target="_blank" rel="noopener noreferrer" class="text-primary hover:underline">https://tour.shinan.go.kr</a></li>
+        <li><strong>신안군 공식 블로그</strong> (계절별 추천 포인트, 봄 매화/이팝나무, 블루아워 감상 후기): <a href="https://blog.naver.com/sinan_story" target="_blank" rel="noopener noreferrer" class="text-primary hover:underline">https://blog.naver.com/sinan_story</a></li>
       </ul>
 
-      <p className="text-neutral-500 text-sm mt-4">
-        <strong>작성자:</strong> 남도예술정원 AI리서처<br/>
+      <p class="text-neutral-500 text-sm mt-4">
+        <strong>작성자:</strong> 남도예술정원 AI 에디터<br/>
         #신안여행 #1004섬분재정원 #전남미술관투어 #사색여행 #분재예술 #최병철분재기념관 #신안가볼만한곳 #AI여행리포트 #문화예술여행 #힐링여행 #애기동백축제 #신안일몰명소 #국내최대분재공원 #신안자전거길 #스탬프투어
       </p>
 
     `,
     image: "/images/shinan-bunjae-art2-1.webp",
     date: "2026. 03. 19",
-    author: "남도예술정원 AI리서처",
+    author: "남도예술정원 AI 에디터",
     readTime: "4분",
     keywords: "신안여행, 1004섬분재정원, 전남미술관투어, 사색여행, 분재예술, 최병철분재기념관, 신안가볼만한곳, AI여행리포트, 문화예술여행, 힐링여행"
     },
@@ -2053,32 +2034,31 @@ export const postsShinan = {
     title: "[신안] 100년의 행운을 품은 소나무 숲, '파인클라우드' 정원 심층 가이드",
     description: "단순한 관광지를 넘어, 설립자의 집념과 자연의 미학이 76,000㎡ 대지에 새겨진 아이다운 천사대교 파인클라우드 심층 분석",
     content: `
-      <h2>[신안] 100년의 행운을 품은 소나무 숲, '파인클라우드' 정원 심층 가이드</h2>
       <p>단순한 관광지를 넘어, 설립자의 집념과 자연의 미학이 76,000㎡ 대지에 새겨진 아이다운 천사대교 파인클라우드 심층 분석</p>
       
-      <div className="overflow-x-auto my-8">
-        <table className="min-w-full text-sm text-left border-collapse">
-          <thead className="bg-primary/10 border-b-2 border-primary/20">
+      <div class="overflow-x-auto my-8">
+        <table class="min-w-full text-sm text-left border-collapse">
+          <thead class="bg-primary/10 border-b-2 border-primary/20">
             <tr>
-              <th className="py-3 px-4 font-bold text-neutral-900 border-r border-neutral-200">구분</th>
-              <th className="py-3 px-4 font-bold text-neutral-900">내용 및 팁</th>
+              <th class="py-3 px-4 font-bold text-neutral-900 border-r border-neutral-200">구분</th>
+              <th class="py-3 px-4 font-bold text-neutral-900">내용 및 팁</th>
             </tr>
           </thead>
-          <tbody className="divide-y divide-neutral-200 border-b border-neutral-200">
-            <tr className="hover:bg-neutral-50">
-              <td className="py-3 px-4 font-bold border-r border-neutral-200">주요 식생</td>
-              <td className="py-3 px-4 text-neutral-600">명품 소나무(주종), 분재 온실, 24종 이상의 수목 및 초화류</td>
+          <tbody class="divide-y divide-neutral-200 border-b border-neutral-200">
+            <tr class="hover:bg-neutral-50">
+              <td class="py-3 px-4 font-bold border-r border-neutral-200">주요 식생</td>
+              <td class="py-3 px-4 text-neutral-600">명품 소나무(주종), 분재 온실, 24종 이상의 수목 및 초화류</td>
             </tr>
-            <tr className="hover:bg-neutral-50">
-              <td className="py-3 px-4 font-bold border-r border-neutral-200">대표 먹거리</td>
-              <td className="py-3 px-4 text-neutral-600">시그니처 '갓 구운 소금빵', 클라우드/파인 에이드</td>
+            <tr class="hover:bg-neutral-50">
+              <td class="py-3 px-4 font-bold border-r border-neutral-200">대표 먹거리</td>
+              <td class="py-3 px-4 text-neutral-600">시그니처 '갓 구운 소금빵', 클라우드/파인 에이드</td>
             </tr>
           </tbody>
         </table>
       </div>
 
-      <img src="/images/shinan-pinecloud-indoor-rock.webp" alt="파인클라우드 오션뷰 카페 실내 석가산 수경 공간" className="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
-      <p className="text-center text-sm text-neutral-500 mt-2">바다 전망을 품은 쾌적한 카페 내부의 이색적인 석가산 수경 인테리어</p>
+      <img src="/images/shinan-pinecloud-indoor-rock.webp" alt="파인클라우드 오션뷰 카페 실내 석가산 수경 공간" class="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
+      <p class="text-center text-sm text-neutral-500 mt-2">바다 전망을 품은 쾌적한 카페 내부의 이색적인 석가산 수경 인테리어</p>
 
       <hr />
 
@@ -2111,8 +2091,8 @@ export const postsShinan = {
         <li><strong>POINT 3. 카페 테라스:</strong> 신안의 시그니처 컬러를 담은 에이드와 소금빵을 배치하여 '미식 여행' 컨셉의 사진을 남기기 좋습니다.</li>
       </ul>
 
-      <img src="/images/shinan-pinecloud-red-flower.webp" alt="빛 내림이 아름다운 파인클라우드의 꽃과 산책로" className="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
-      <p className="text-center text-sm text-neutral-500 mt-2">소나무 사이로 따스한 빛 내림이 쏟아지는 아름다운 정원 붉은 꽃의 자태</p>
+      <img src="/images/shinan-pinecloud-red-flower.webp" alt="빛 내림이 아름다운 파인클라우드의 꽃과 산책로" class="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
+      <p class="text-center text-sm text-neutral-500 mt-2">소나무 사이로 따스한 빛 내림이 쏟아지는 아름다운 정원 붉은 꽃의 자태</p>
 
       <hr />
 
@@ -2131,14 +2111,14 @@ export const postsShinan = {
         <li>해피니스님 블로그 (계단/안전)</li>
       </ul>
 
-      <p className="text-neutral-500 text-sm mt-4">
-        <strong>글 작성자:</strong> 남도예술정원 AI리서처<br/>
+      <p class="text-neutral-500 text-sm mt-4">
+        <strong>글 작성자:</strong> 남도예술정원 AI 에디터<br/>
         #신안파인클라우드 #신안민간정원 #전남예쁜정원대상 #소철나무꽃 #행운의꽃 #신안소나무정원 #송운베이커리 #신안부모님여행 #AI여행분석 #정원투어 #남도예술정원 #신안가볼만한곳
       </p>
     `,
     image: "/images/shinan-pinecloud-indoor-rock.webp",
     date: "2026. 03. 19",
-    author: "남도예술정원 AI리서처",
+    author: "남도예술정원 AI 에디터",
     readTime: "5분",
     keywords: "신안파인클라우드, 신안민간정원, 전남예쁜정원대상, 소철나무꽃, 행운의꽃, 신안소나무정원, 송운베이커리, 신안부모님여행, AI여행분석, 정원투어, 남도예술정원, 신안가볼만한곳"
   },
@@ -2146,8 +2126,7 @@ export const postsShinan = {
     title: "[신안] 차 없이도 가능할까? 파인클라우드 완벽 접근 가이드",
     description: "신안군의 아름다운 민간정원 '파인클라우드'를 찾아가는 가장 확실하고 편안한 방법! 대중교통부터 자가용 드라이브 코스까지 상세히 안내합니다.",
     content: `
-      <h2>[신안] 차 없이도 가능할까? 파인클라우드 완벽 접근 가이드 (버스/자차/주차/꿀팁)</h2>
-      <p>안녕하세요. 복잡한 길 찾기 데이터를 명쾌한 경로로 변환하여 전달해 드리는 <strong>[남도예술정원 AI리서처]</strong>입니다.</p>
+      <p>안녕하세요. 복잡한 길 찾기 데이터를 명쾌한 경로로 변환하여 전달해 드리는 <strong>[남도예술정원 AI 에디터]</strong>입니다.</p>
       <p>신안군은 '천사대교' 개통으로 육로 이동이 비약적으로 편리해졌지만, 섬 지역 특유의 파편화된 대중교통 정보는 여전히 여행자들에게 큰 숙제입니다. 오늘 저희 남도예술정원에서는 파인클라우드(Pine Cloud)를 향하는 모든 여정을 정밀 분석하여, 현장에서 당황하지 않는 <strong>'최적의 도달 공식'</strong>을 브리핑해 드립니다.</p>
       
       <hr />
@@ -2159,41 +2138,41 @@ export const postsShinan = {
         <li><strong>뚜벅이 팁:</strong> 버스 정류장에서 정원까지 도보 20분, 짐이 많다면 콜택시 환승이 필수입니다.</li>
       </ul>
 
-      <img src="/images/shinan-bus-white.webp" alt="신안 2004 공영버스" className="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
-      <p className="text-center text-sm text-neutral-500 mt-2">대중교통 여행의 필수 코스, 천사대교를 건너는 신안군 공영버스</p>
+      <img src="/images/shinan-bus-white.webp" alt="신안 2004 공영버스" class="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
+      <p class="text-center text-sm text-neutral-500 mt-2">대중교통 여행의 필수 코스, 천사대교를 건너는 신안군 공영버스</p>
 
       <hr />
 
       <h2>📍 파인클라우드 교통 및 주차 정보</h2>
-      <div className="overflow-x-auto my-8">
-        <table className="min-w-full text-sm text-left border-collapse">
-          <thead className="bg-primary/10 border-b-2 border-primary/20">
+      <div class="overflow-x-auto my-8">
+        <table class="min-w-full text-sm text-left border-collapse">
+          <thead class="bg-primary/10 border-b-2 border-primary/20">
             <tr>
-              <th className="py-3 px-4 font-bold text-neutral-900 border-r border-neutral-200">구분</th>
-              <th className="py-3 px-4 font-bold text-neutral-900 border-r border-neutral-200">이동 수단별 핵심 정보</th>
-              <th className="py-3 px-4 font-bold text-neutral-900">AI 추천 팁</th>
+              <th class="py-3 px-4 font-bold text-neutral-900 border-r border-neutral-200">구분</th>
+              <th class="py-3 px-4 font-bold text-neutral-900 border-r border-neutral-200">이동 수단별 핵심 정보</th>
+              <th class="py-3 px-4 font-bold text-neutral-900">AI 추천 팁</th>
             </tr>
           </thead>
-          <tbody className="divide-y divide-neutral-200 border-b border-neutral-200">
-            <tr className="hover:bg-neutral-50">
-              <td className="py-3 px-4 font-bold border-r border-neutral-200">대중교통</td>
-              <td className="py-3 px-4 text-neutral-600 border-r border-neutral-200">목포역/터미널 → 2004번 버스 → 기동삼거리 하차</td>
-              <td className="py-3 px-4 text-neutral-600">기사님께 "동백 벽화에서 내려주세요"라고 하세요!</td>
+          <tbody class="divide-y divide-neutral-200 border-b border-neutral-200">
+            <tr class="hover:bg-neutral-50">
+              <td class="py-3 px-4 font-bold border-r border-neutral-200">대중교통</td>
+              <td class="py-3 px-4 text-neutral-600 border-r border-neutral-200">목포역/터미널 → 2004번 버스 → 기동삼거리 하차</td>
+              <td class="py-3 px-4 text-neutral-600">기사님께 "동백 벽화에서 내려주세요"라고 하세요!</td>
             </tr>
-            <tr className="hover:bg-neutral-50">
-              <td className="py-3 px-4 font-bold border-r border-neutral-200">자가용</td>
-              <td className="py-3 px-4 text-neutral-600 border-r border-neutral-200">내비게이션 '파인클라우드' 또는 '기동리 1495' 검색</td>
-              <td className="py-3 px-4 text-neutral-600">천사대교 건너 기동삼거리에서 자은도 방면 우회전</td>
+            <tr class="hover:bg-neutral-50">
+              <td class="py-3 px-4 font-bold border-r border-neutral-200">자가용</td>
+              <td class="py-3 px-4 text-neutral-600 border-r border-neutral-200">내비게이션 '파인클라우드' 또는 '기동리 1495' 검색</td>
+              <td class="py-3 px-4 text-neutral-600">천사대교 건너 기동삼거리에서 자은도 방면 우회전</td>
             </tr>
-            <tr className="hover:bg-neutral-50">
-              <td className="py-3 px-4 font-bold border-r border-neutral-200">주차장</td>
-              <td className="py-3 px-4 text-neutral-600 border-r border-neutral-200">카페 앞 전용 주차장 & 야영장 구역 대형 공터</td>
-              <td className="py-3 px-4 text-neutral-600">주차비 무료, 공간 넉넉 (대형 버스 가능)</td>
+            <tr class="hover:bg-neutral-50">
+              <td class="py-3 px-4 font-bold border-r border-neutral-200">주차장</td>
+              <td class="py-3 px-4 text-neutral-600 border-r border-neutral-200">카페 앞 전용 주차장 & 야영장 구역 대형 공터</td>
+              <td class="py-3 px-4 text-neutral-600">주차비 무료, 공간 넉넉 (대형 버스 가능)</td>
             </tr>
-            <tr className="hover:bg-neutral-50">
-              <td className="py-3 px-4 font-bold border-r border-neutral-200">자전거</td>
-              <td className="py-3 px-4 text-neutral-600 border-r border-neutral-200">차량 적재 후 암태도 이동 또는 목포항 배편 이용</td>
-              <td className="py-3 px-4 text-neutral-600">방문 전 실내 보관 가능 여부 유선 확인 권장</td>
+            <tr class="hover:bg-neutral-50">
+              <td class="py-3 px-4 font-bold border-r border-neutral-200">자전거</td>
+              <td class="py-3 px-4 text-neutral-600 border-r border-neutral-200">차량 적재 후 암태도 이동 또는 목포항 배편 이용</td>
+              <td class="py-3 px-4 text-neutral-600">방문 전 실내 보관 가능 여부 유선 확인 권장</td>
             </tr>
           </tbody>
         </table>
@@ -2235,8 +2214,8 @@ export const postsShinan = {
       <h2>🏠 교통약자 및 셔틀 정보 안내</h2>
       <p>파인클라우드 자체 셔틀은 운영되지 않으나, 신안군 <strong>'1004 공영버스(보라버스)'</strong>가 훌륭한 대안입니다. 다만 배차 간격이 길기 때문에 사전에 신안군 홈페이지의 버스 시간표를 반드시 확인하시기 바랍니다. 교통약자의 경우 기동삼거리에서 도보 이동(20분)은 무리가 있으므로, 반드시 차량 이동을 권장합니다.</p>
       
-      <img src="/images/shinan-bus-purple.webp" alt="신안 1004 보라버스" className="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
-      <p className="text-center text-sm text-neutral-500 mt-2">신안군 내부 이동에 편리함을 더하는 1004 공영버스(보라버스)</p>
+      <img src="/images/shinan-bus-purple.webp" alt="신안 1004 보라버스" class="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
+      <p class="text-center text-sm text-neutral-500 mt-2">신안군 내부 이동에 편리함을 더하는 1004 공영버스(보라버스)</p>
 
       <hr />
       
@@ -2248,14 +2227,14 @@ export const postsShinan = {
         <li>또치의 일상님 블로그 (주차): <a href="https://blog.naver.com/im_ddo_chi/223461054701" target="_blank" rel="noopener noreferrer">링크</a></li>
       </ul>
 
-      <p className="text-neutral-500 text-sm mt-4">
-        <strong>글 작성자:</strong> 남도예술정원 AI리서처<br/>
+      <p class="text-neutral-500 text-sm mt-4">
+        <strong>글 작성자:</strong> 남도예술정원 AI 에디터<br/>
         #신안파인클라우드가는법 #파인클라우드뚜벅이 #목포에서신안버스 #신안2004번버스 #기동삼거리 #천사대교드라이브 #신안자전거여행 #AI여행경로분석 #신안교통정보 #파인클라우드주차 #남도예술정원
       </p>
     `,
     image: "/images/shinan-bus-purple.webp",
     date: "2026. 03. 19",
-    author: "남도예술정원 AI리서처",
+    author: "남도예술정원 AI 에디터",
     readTime: "4분",
     keywords: "신안파인클라우드가는법, 파인클라우드뚜벅이, 목포에서신안버스, 신안2004번버스, 기동삼거리, 천사대교드라이브, 신안자전거여행, AI여행경로분석, 신안교통정보, 파인클라우드주차, 남도예술정원"
   },
@@ -2263,8 +2242,7 @@ export const postsShinan = {
     title: '[신안] 파인클라우드 근처 맛집 TOP 3! 실패 없는 로컬 미식 코스 정리',
     description: "파인클라우드를 감상한 뒤 든든한 한 끼를 책임질 주변 로컬 식당! AI가 분석한 최적의 이동 동선과 방문객 맛 평가를 기반으로 엄선한 맛집 리포트입니다.",
     content: `
-      <h2>[신안] 파인클라우드 근처 맛집 TOP 3! 실패 없는 로컬 미식 코스 정리</h2>
-      <p>안녕하세요. 여행의 만족도를 결정짓는 가장 중요한 데이터, '미식(Gastronomy)' 정보를 정밀 분석하여 전해드리는 <strong>[남도예술정원 AI리서처]</strong>입니다.</p>
+      <p>안녕하세요. 여행의 만족도를 결정짓는 가장 중요한 데이터, '미식(Gastronomy)' 정보를 정밀 분석하여 전해드리는 <strong>[남도예술정원 AI 에디터]</strong>입니다.</p>
       <p>금강산도 식후경! 파인클라우드(Pine Cloud)의 아름다운 정원을 감상한 뒤, 든든한 한 끼를 책임질 주변 로컬 식당 연계는 필수입니다. AI가 분석한 최적의 이동 동선과 <strong>실제 방문객들의 맛 평가(Taste Score)</strong>를 기반으로 엄선한 맛집 리포트를 공개합니다.</p>
       
       <hr />
@@ -2279,30 +2257,30 @@ export const postsShinan = {
       <hr />
 
       <h2>📍 파인클라우드 연계 로컬 맛집 & 카페 정보</h2>
-      <div className="overflow-x-auto my-8">
-        <table className="min-w-full text-sm text-left border-collapse">
-          <thead className="bg-primary/10 border-b-2 border-primary/20">
+      <div class="overflow-x-auto my-8">
+        <table class="min-w-full text-sm text-left border-collapse">
+          <thead class="bg-primary/10 border-b-2 border-primary/20">
             <tr>
-              <th className="py-3 px-4 font-bold text-neutral-900 border-r border-neutral-200">식당명</th>
-              <th className="py-3 px-4 font-bold text-neutral-900 border-r border-neutral-200">대표 메뉴 및 특징</th>
-              <th className="py-3 px-4 font-bold text-neutral-900">파인클라우드와의 거리</th>
+              <th class="py-3 px-4 font-bold text-neutral-900 border-r border-neutral-200">식당명</th>
+              <th class="py-3 px-4 font-bold text-neutral-900 border-r border-neutral-200">대표 메뉴 및 특징</th>
+              <th class="py-3 px-4 font-bold text-neutral-900">파인클라우드와의 거리</th>
             </tr>
           </thead>
-          <tbody className="divide-y divide-neutral-200 border-b border-neutral-200">
-            <tr className="hover:bg-neutral-50">
-              <td className="py-3 px-4 font-bold border-r border-neutral-200">신안맛집</td>
-              <td className="py-3 px-4 text-neutral-600 border-r border-neutral-200">모듬물회, 낙지탕탕이, 해물파전 (푸짐한 세트 구성)</td>
-              <td className="py-3 px-4 text-neutral-600">차량 3분 (약 2.4km)</td>
+          <tbody class="divide-y divide-neutral-200 border-b border-neutral-200">
+            <tr class="hover:bg-neutral-50">
+              <td class="py-3 px-4 font-bold border-r border-neutral-200">신안맛집</td>
+              <td class="py-3 px-4 text-neutral-600 border-r border-neutral-200">모듬물회, 낙지탕탕이, 해물파전 (푸짐한 세트 구성)</td>
+              <td class="py-3 px-4 text-neutral-600">차량 3분 (약 2.4km)</td>
             </tr>
-            <tr className="hover:bg-neutral-50">
-              <td className="py-3 px-4 font-bold border-r border-neutral-200">퍼플교식당</td>
-              <td className="py-3 px-4 text-neutral-600 border-r border-neutral-200">정갈한 생선구이 정식, 제철 회 (위생 만점)</td>
-              <td className="py-3 px-4 text-neutral-600">차량 15분 (퍼플섬 이동 경로)</td>
+            <tr class="hover:bg-neutral-50">
+              <td class="py-3 px-4 font-bold border-r border-neutral-200">퍼플교식당</td>
+              <td class="py-3 px-4 text-neutral-600 border-r border-neutral-200">정갈한 생선구이 정식, 제철 회 (위생 만점)</td>
+              <td class="py-3 px-4 text-neutral-600">차량 15분 (퍼플섬 이동 경로)</td>
             </tr>
-            <tr className="hover:bg-neutral-50">
-              <td className="py-3 px-4 font-bold border-r border-neutral-200">정원 내 카페</td>
-              <td className="py-3 px-4 text-neutral-600 border-r border-neutral-200">갓 구운 소금빵, 파인/클라우드 에이드</td>
-              <td className="py-3 px-4 text-neutral-600">정원 내부 (이동 불필요)</td>
+            <tr class="hover:bg-neutral-50">
+              <td class="py-3 px-4 font-bold border-r border-neutral-200">정원 내 카페</td>
+              <td class="py-3 px-4 text-neutral-600 border-r border-neutral-200">갓 구운 소금빵, 파인/클라우드 에이드</td>
+              <td class="py-3 px-4 text-neutral-600">정원 내부 (이동 불필요)</td>
             </tr>
           </tbody>
         </table>
@@ -2317,24 +2295,24 @@ export const postsShinan = {
         <li><strong>추천 메뉴:</strong> 세트 2번 (물회+낙지+파전+칼국수)</li>
         <li><strong>이유:</strong> 아이들은 바지락칼국수와 해물파전을, 어른들은 신선한 낙지와 물회를 즐길 수 있어 대가족 식사에 최적화되어 있습니다. 하나로마트 건너편이라 찾기도 쉽습니다.</li>
       </ul>
-      <img src="/images/shinan-food-1.webp" alt="신안맛집 전경" className="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
-      <p className="text-center text-sm text-neutral-500 mt-2">가족 여행객에게 안성맞춤인 푸짐하고 다양한 메뉴를 판매하는 신안맛집</p>
+      <img src="/images/shinan-food-1.webp" alt="신안맛집 전경" class="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
+      <p class="text-center text-sm text-neutral-500 mt-2">가족 여행객에게 안성맞춤인 푸짐하고 다양한 메뉴를 판매하는 신안맛집</p>
 
       <h3>👵👴 [부모님 효도 관광] "깔끔함과 정성이 가득한 '퍼플교식당'"</h3>
       <ul>
         <li><strong>추천 메뉴:</strong> 생선구이 정식</li>
         <li><strong>이유:</strong> 부모님들은 위생과 정갈함을 중요하게 생각하시죠. 이곳은 사장님의 철저한 위생 관리와 담백한 생선구이 맛으로 "이름값 한다"는 평을 받는 곳입니다.</li>
       </ul>
-      <img src="/images/shinan-food-2.webp" alt="퍼플교식당 전경" className="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
-      <p className="text-center text-sm text-neutral-500 mt-2">위생적이고 정갈한 상차림으로 이름을 알린 퍼플교식당</p>
+      <img src="/images/shinan-food-2.webp" alt="퍼플교식당 전경" class="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
+      <p class="text-center text-sm text-neutral-500 mt-2">위생적이고 정갈한 상차림으로 이름을 알린 퍼플교식당</p>
 
       <h3>👩‍❤️‍👨 [커플/MZ] "가성비와 뷰를 동시에 잡는 '정원 내 카페'"</h3>
       <ul>
         <li><strong>추천 메뉴:</strong> 상하목장 아이스크림, 파인 에이드</li>
         <li><strong>이유:</strong> 이미 지불한 입장료에 포함된 소금빵을 놓치지 마세요. 2층 통창 너머로 보이는 바다 뷰는 그 어떤 카페보다 로맨틱한 디저트 타임을 선사합니다.</li>
       </ul>
-      <img src="/images/shinan-food-3.webp" alt="파인클라우드 정원 내 베이컬 카페" className="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
-      <p className="text-center text-sm text-neutral-500 mt-2">탁 트인 전망과 함께 맛있는 디저트를 즐길 수 있는 파인클라우드 정원 내 카페</p>
+      <img src="/images/shinan-food-3.webp" alt="파인클라우드 정원 내 베이컬 카페" class="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
+      <p class="text-center text-sm text-neutral-500 mt-2">탁 트인 전망과 함께 맛있는 디저트를 즐길 수 있는 파인클라우드 정원 내 카페</p>
 
       <hr />
 
@@ -2348,7 +2326,7 @@ export const postsShinan = {
       <hr />
 
       <h2>남도예술정원의 미식 공식</h2>
-      <blockquote className="border-l-4 border-primary/50 pl-4 my-4 font-bold text-neutral-700">
+      <blockquote class="border-l-4 border-primary/50 pl-4 my-4 font-bold text-neutral-700">
         "점심은 <strong>'신안맛집'</strong>에서 낙지와 물회로 푸짐하게! 디저트는 <strong>'파인클라우드 카페'</strong>에서 바다를 보며 소금빵으로 마무리! 이 코스라면 누구에게나 칭찬받는 완벽한 신안 여행이 될 것입니다."
       </blockquote>
 
@@ -2356,21 +2334,21 @@ export const postsShinan = {
       
       <h3>[데이터베이스 및 자료 출처]</h3>
       <ul>
-        <li>블로그 wonhee (메뉴/가격): <a href="https://blog.naver.com/ihopeyoushine/223536107490" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline">링크</a></li>
-        <li>블로그 아이유 뷰티 (퍼플교식당): <a href="https://blog.naver.com/eyeu8997/223924973433" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline">링크</a></li>
-        <li>블로그 호수까미 (주변 맛집 동선): <a href="https://blog.naver.com/huhajung/223151291265" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline">링크</a></li>
-        <li>블로그 나는 송구리 (디저트/카페): <a href="https://blog.naver.com/gosla101/223534787354" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline">링크</a></li>
-        <li>블로그 해피니스 (카페 메뉴 상세): <a href="https://blog.naver.com/flower_book_/223190330721" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline">링크</a></li>
+        <li>블로그 wonhee (메뉴/가격): <a href="https://blog.naver.com/ihopeyoushine/223536107490" target="_blank" rel="noopener noreferrer" class="text-primary hover:underline">링크</a></li>
+        <li>블로그 아이유 뷰티 (퍼플교식당): <a href="https://blog.naver.com/eyeu8997/223924973433" target="_blank" rel="noopener noreferrer" class="text-primary hover:underline">링크</a></li>
+        <li>블로그 호수까미 (주변 맛집 동선): <a href="https://blog.naver.com/huhajung/223151291265" target="_blank" rel="noopener noreferrer" class="text-primary hover:underline">링크</a></li>
+        <li>블로그 나는 송구리 (디저트/카페): <a href="https://blog.naver.com/gosla101/223534787354" target="_blank" rel="noopener noreferrer" class="text-primary hover:underline">링크</a></li>
+        <li>블로그 해피니스 (카페 메뉴 상세): <a href="https://blog.naver.com/flower_book_/223190330721" target="_blank" rel="noopener noreferrer" class="text-primary hover:underline">링크</a></li>
       </ul>
 
-      <p className="text-neutral-500 text-sm mt-4">
-        <strong>글 작성자:</strong> 남도예술정원 AI리서처<br/>
+      <p class="text-neutral-500 text-sm mt-4">
+        <strong>글 작성자:</strong> 남도예술정원 AI 에디터<br/>
         #신안암태도맛집 #파인클라우드근처맛집 #신안맛집 #퍼플교식당 #암태면맛집 #신안물회맛집 #신안여행코스 #AI맛집추천 #빅데이터미식여행 #남도예술정원 #신안가볼만한곳
       </p>
     `,
     image: "/images/shinan-food-1.webp",
     date: "2026. 03. 19",
-    author: "남도예술정원 AI리서처",
+    author: "남도예술정원 AI 에디터",
     readTime: "4분",
     keywords: "신안암태도맛집, 파인클라우드근처맛집, 신안맛집, 퍼플교식당, 암태면맛집, 신안물회맛집, 신안여행코스, AI맛집추천, 빅데이터미식여행, 남도예술정원, 신안가볼만한곳"
   },
@@ -2378,8 +2356,7 @@ export const postsShinan = {
     title: '[신안] 파인클라우드 인근 감성 숙소 TOP 2! 정원의 여운을 잇는 힐링 스테이',
     description: "관람 후 이동하기 좋은 신안 감성 숙소! 유튜브 브이로그와 인스타그램을 정밀 분석하여 도출한 최적의 힐링 스테이 숙박 리포트입니다.",
     content: `
-      <h2>[신안] 파인클라우드 인근<br/>감성 숙소 TOP 2!<br/>정원의 여운을 잇는 힐링 스테이</h2>
-      <p>안녕하세요. 여행의 무드와 감성을 중요하게 생각하는 <strong>[남도예술정원 AI리서처]</strong>입니다.</p>
+      <p>안녕하세요. 여행의 무드와 감성을 중요하게 생각하는 <strong>[남도예술정원 AI 에디터]</strong>입니다.</p>
       <p>파인클라우드의 웅장한 소나무와 시원한 인공 폭포 앞에서 인생 사진을 남기셨나요? 그 초록빛 감동이 휘발되지 않도록, 관람 후 이동하기 좋은 가장 감성적인 숙소들을 엄선했습니다. 유튜브 브이로그와 인스타그램의 '신안 감성 숙소' 해시태그를 정밀 분석하여 도출한 최적의 숙박 리포트를 확인해 보세요.</p>
       
       <hr />
@@ -2394,35 +2371,35 @@ export const postsShinan = {
       <hr />
 
       <h2>📍 파인클라우드 근교 추천 숙소 비교</h2>
-      <div className="overflow-x-auto my-8">
-        <table className="min-w-full text-sm text-left border-collapse">
-          <thead className="bg-primary/10 border-b-2 border-primary/20">
+      <div class="overflow-x-auto my-8">
+        <table class="min-w-full text-sm text-left border-collapse">
+          <thead class="bg-primary/10 border-b-2 border-primary/20">
             <tr>
-              <th className="py-3 px-4 font-bold text-neutral-900 border-r border-neutral-200">구분</th>
-              <th className="py-3 px-4 font-bold text-neutral-900 border-r border-neutral-200">라마다 프라자 & 씨원리조트</th>
-              <th className="py-3 px-4 font-bold text-neutral-900">암태한옥민박 (독채/민박)</th>
+              <th class="py-3 px-4 font-bold text-neutral-900 border-r border-neutral-200">구분</th>
+              <th class="py-3 px-4 font-bold text-neutral-900 border-r border-neutral-200">라마다 프라자 & 씨원리조트</th>
+              <th class="py-3 px-4 font-bold text-neutral-900">암태한옥민박 (독채/민박)</th>
             </tr>
           </thead>
-          <tbody className="divide-y divide-neutral-200 border-b border-neutral-200">
-            <tr className="hover:bg-neutral-50">
-              <td className="py-3 px-4 font-bold border-r border-neutral-200">특징</td>
-              <td className="py-3 px-4 text-neutral-600 border-r border-neutral-200">오션뷰 호텔, 인피니티 풀, 모던 인테리어</td>
-              <td className="py-3 px-4 text-neutral-600">프라이빗 독채, 마당 보유, 로컬 감성</td>
+          <tbody class="divide-y divide-neutral-200 border-b border-neutral-200">
+            <tr class="hover:bg-neutral-50">
+              <td class="py-3 px-4 font-bold border-r border-neutral-200">특징</td>
+              <td class="py-3 px-4 text-neutral-600 border-r border-neutral-200">오션뷰 호텔, 인피니티 풀, 모던 인테리어</td>
+              <td class="py-3 px-4 text-neutral-600">프라이빗 독채, 마당 보유, 로컬 감성</td>
             </tr>
-            <tr className="hover:bg-neutral-50">
-              <td className="py-3 px-4 font-bold border-r border-neutral-200">위치</td>
-              <td className="py-3 px-4 text-neutral-600 border-r border-neutral-200">자은도 백길해수욕장 인근</td>
-              <td className="py-3 px-4 text-neutral-600">암태면 기동리 (정원 바로 옆)</td>
+            <tr class="hover:bg-neutral-50">
+              <td class="py-3 px-4 font-bold border-r border-neutral-200">위치</td>
+              <td class="py-3 px-4 text-neutral-600 border-r border-neutral-200">자은도 백길해수욕장 인근</td>
+              <td class="py-3 px-4 text-neutral-600">암태면 기동리 (정원 바로 옆)</td>
             </tr>
-            <tr className="hover:bg-neutral-50">
-              <td className="py-3 px-4 font-bold border-r border-neutral-200">이동 시간</td>
-              <td className="py-3 px-4 text-neutral-600 border-r border-neutral-200">차량 약 15~20분 (14km)</td>
-              <td className="py-3 px-4 text-neutral-600">차량 1분 (초근접)</td>
+            <tr class="hover:bg-neutral-50">
+              <td class="py-3 px-4 font-bold border-r border-neutral-200">이동 시간</td>
+              <td class="py-3 px-4 text-neutral-600 border-r border-neutral-200">차량 약 15~20분 (14km)</td>
+              <td class="py-3 px-4 text-neutral-600">차량 1분 (초근접)</td>
             </tr>
-            <tr className="hover:bg-neutral-50">
-              <td className="py-3 px-4 font-bold border-r border-neutral-200">추천 대상</td>
-              <td className="py-3 px-4 text-neutral-600 border-r border-neutral-200">2030 커플, 호캉스족, 가족 단위</td>
-              <td className="py-3 px-4 text-neutral-600">조용한 사색을 즐기는 여행자, 뚜벅이</td>
+            <tr class="hover:bg-neutral-50">
+              <td class="py-3 px-4 font-bold border-r border-neutral-200">추천 대상</td>
+              <td class="py-3 px-4 text-neutral-600 border-r border-neutral-200">2030 커플, 호캉스족, 가족 단위</td>
+              <td class="py-3 px-4 text-neutral-600">조용한 사색을 즐기는 여행자, 뚜벅이</td>
             </tr>
           </tbody>
         </table>
@@ -2437,19 +2414,19 @@ export const postsShinan = {
         <li><strong>감성 포인트:</strong> 호텔 로비와 라운지에서 바라보는 백길해수욕장의 낙조는 예술 그 자체입니다. 정원 산책 후 피곤한 몸을 고급 침구에 맡기고 오션뷰를 감상하며 와인을 즐기기에 완벽합니다.</li>
         <li><strong>이동 경로:</strong> 파인클라우드 출차 → 기동삼거리 좌회전 → 은암대교 진입 → 자은도 도착. 도로는 포장이 잘 되어 있어 야간 주행도 안전합니다.</li>
       </ul>
-      <div className="flex flex-col md:flex-row gap-4 my-8">
-        <img src="/images/shinan-hotel-1.webp" alt="라마다 프라자 자은도 전경 1" className="w-full md:w-1/2 rounded-2xl object-cover shadow-lg border border-neutral-100" />
-        <img src="/images/shinan-hotel-2.webp" alt="라마다 프라자 자은도 전경 2" className="w-full md:w-1/2 rounded-2xl object-cover shadow-lg border border-neutral-100" />
+      <div class="flex flex-col md:flex-row gap-4 my-8">
+        <img src="/images/shinan-hotel-1.webp" alt="라마다 프라자 자은도 전경 1" class="w-full md:w-1/2 rounded-2xl object-cover shadow-lg border border-neutral-100" />
+        <img src="/images/shinan-hotel-2.webp" alt="라마다 프라자 자은도 전경 2" class="w-full md:w-1/2 rounded-2xl object-cover shadow-lg border border-neutral-100" />
       </div>
-      <p className="text-center text-sm text-neutral-500 mt-2">백길해수욕장의 아름다운 해변과 인접한 라마다 프라자 & 씨원리조트</p>
+      <p class="text-center text-sm text-neutral-500 mt-2">백길해수욕장의 아름다운 해변과 인접한 라마다 프라자 & 씨원리조트</p>
 
       <h3>👨‍👩‍👧‍👦 [가족/사색가] "나만의 정원을 품은 하룻밤, 암태한옥민박"</h3>
       <ul>
         <li><strong>감성 포인트:</strong> 대형 호텔의 북적임보다 아기자기한 감성을 원하신다면 정원 바로 옆 독채를 추천합니다. 파인클라우드에서 느꼈던 '비움의 미학'을 숙소 마당에서도 이어갈 수 있습니다.</li>
         <li><strong>이동 경로:</strong> 파인클라우드 주차장에서 왼쪽 '동백 파마머리 벽화' 방향으로 이동하면 1분 만에 도착하는 최강의 접근성을 자랑합니다.</li>
       </ul>
-      <img src="/images/shinan-hotel-3.webp" alt="암태한옥민박 전경" className="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
-      <p className="text-center text-sm text-neutral-500 mt-2">고즈넉한 매력이 돋보이는 정원 근처의 암태한옥민박</p>
+      <img src="/images/shinan-hotel-3.webp" alt="암태한옥민박 전경" class="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
+      <p class="text-center text-sm text-neutral-500 mt-2">고즈넉한 매력이 돋보이는 정원 근처의 암태한옥민박</p>
 
       <hr />
 
@@ -2462,7 +2439,7 @@ export const postsShinan = {
       <hr />
 
       <h2>남도예술정원의 한 줄 평</h2>
-      <blockquote className="border-l-4 border-primary/50 pl-4 my-4 font-bold text-neutral-700">
+      <blockquote class="border-l-4 border-primary/50 pl-4 my-4 font-bold text-neutral-700">
         "파인클라우드의 여운을 바다로 잇고 싶다면 자은도 호텔을, 정원의 고요함을 침실까지 들여놓고 싶다면 암태도 민박을 선택하세요. 어느 쪽이든 신안의 밤은 당신에게 깊은 휴식을 선사할 것입니다."
       </blockquote>
 
@@ -2470,20 +2447,20 @@ export const postsShinan = {
       
       <h3>[데이터베이스 및 자료 출처]</h3>
       <ul>
-        <li>야놀자 (라마다 프라자 숙박 정보): <a href="https://nol.yanolja.com/stay/domestic/10051054" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline">링크</a></li>
-        <li>인터파크 투어 (실시간 예약): <a href="https://travel.interpark.com/checkinnow/goods/GY0002203169" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline">링크</a></li>
-        <li>파인클라우드 공식 홈페이지: <a href="https://pinecloud.kr/sub.php?menu_number=218" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline">링크</a></li>
-        <li>새콤달콤님 블로그 (암태도 이동 상세): <a href="https://blog.naver.com/sc720902/223624496153" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline">링크</a></li>
+        <li>야놀자 (라마다 프라자 숙박 정보): <a href="https://nol.yanolja.com/stay/domestic/10051054" target="_blank" rel="noopener noreferrer" class="text-primary hover:underline">링크</a></li>
+        <li>인터파크 투어 (실시간 예약): <a href="https://travel.interpark.com/checkinnow/goods/GY0002203169" target="_blank" rel="noopener noreferrer" class="text-primary hover:underline">링크</a></li>
+        <li>파인클라우드 공식 홈페이지: <a href="https://pinecloud.kr/sub.php?menu_number=218" target="_blank" rel="noopener noreferrer" class="text-primary hover:underline">링크</a></li>
+        <li>새콤달콤님 블로그 (암태도 이동 상세): <a href="https://blog.naver.com/sc720902/223624496153" target="_blank" rel="noopener noreferrer" class="text-primary hover:underline">링크</a></li>
       </ul>
 
-      <p className="text-neutral-500 text-sm mt-4">
-        <strong>글 작성자:</strong> 남도예술정원 AI리서처<br/>
+      <p class="text-neutral-500 text-sm mt-4">
+        <strong>글 작성자:</strong> 남도예술정원 AI 에디터<br/>
         #신안여행 #파인클라우드주변숙소 #자은도라마다 #신안감성숙소 #오션뷰호텔 #전남여행코스 #커플여행 #힐링스테이 #신안가족여행 #아이와함께신안 #파인클라우드코스 #씨원아일랜드 #자은도리조트 #암태도숙소 #신안호캉스 #남도예술정원 #신안가볼만한곳 #국내여행지추천
       </p>
     `,
     image: "/images/shinan-hotel-1.webp",
     date: "2026. 03. 19",
-    author: "남도예술정원 AI리서처",
+    author: "남도예술정원 AI 에디터",
     readTime: "4분",
     keywords: "신안여행, 파인클라우드주변숙소, 자은도라마다, 신안감성숙소, 오션뷰호텔, 전남여행코스, 커플여행, 힐링스테이, 신안가족여행, 아이와함께신안, 파인클라우드코스, 씨원아일랜드, 자은도리조트, 암태도숙소, 신안호캉스, 남도예술정원, 신안가볼만한곳, 국내여행지추천"
   },
@@ -2491,8 +2468,7 @@ export const postsShinan = {
     title: '[신안] 인생샷 성지 순례! 파인클라우드와 함께 가기 좋은 핫플레이스 BEST 3',
     description: "유튜브 브이로그와 인스타그램 핫플레이스를 정밀 분석한 신안 감성 폭발 연계 코스 브리핑! 파인클라우드와 함께 방문했을 때 가장 만족도 높은 인생샷 명소를 소개합니다.",
     content: `
-      <h2>[신안] 인생샷 성지 순례! 파인클라우드와 함께 가기 좋은 핫플레이스 BEST 3</h2>
-      <p>안녕하세요. 여행의 색채와 감성을 데이터로 수집하여 최적의 루트를 설계해 드리는 <strong>[남도예술정원 AI리서처]</strong>입니다.</p>
+      <p>안녕하세요. 여행의 색채와 감성을 데이터로 수집하여 최적의 루트를 설계해 드리는 <strong>[남도예술정원 AI 에디터]</strong>입니다.</p>
       <p>신안 파인클라우드의 웅장한 소나무와 폭포 소리로 마음의 위로를 받으셨나요? 여기까지 오셨다면 정원만 보고 돌아가기엔 너무나 아쉽습니다. 유튜브 브이로그와 인스타그램 핫플레이스 해시태그를 정밀 분석한 결과, 파인클라우드와 함께 방문했을 때 만족도가 가장 높았던 <strong>'감성 폭발 연계 코스'</strong>를 브리핑해 드립니다.</p>
       
       <hr />
@@ -2507,30 +2483,30 @@ export const postsShinan = {
       <hr />
 
       <h2>📍 신안 감성 연계 코스 상세 정보</h2>
-      <div className="overflow-x-auto my-8">
-        <table className="min-w-full text-sm text-left border-collapse">
-          <thead className="bg-primary/10 border-b-2 border-primary/20">
+      <div class="overflow-x-auto my-8">
+        <table class="min-w-full text-sm text-left border-collapse">
+          <thead class="bg-primary/10 border-b-2 border-primary/20">
             <tr>
-              <th className="py-3 px-4 font-bold text-neutral-900 border-r border-neutral-200">장소명</th>
-              <th className="py-3 px-4 font-bold text-neutral-900 border-r border-neutral-200">특징 및 매력 포인트</th>
-              <th className="py-3 px-4 font-bold text-neutral-900">파인클라우드와의 거리</th>
+              <th class="py-3 px-4 font-bold text-neutral-900 border-r border-neutral-200">장소명</th>
+              <th class="py-3 px-4 font-bold text-neutral-900 border-r border-neutral-200">특징 및 매력 포인트</th>
+              <th class="py-3 px-4 font-bold text-neutral-900">파인클라우드와의 거리</th>
             </tr>
           </thead>
-          <tbody className="divide-y divide-neutral-200 border-b border-neutral-200">
-            <tr className="hover:bg-neutral-50">
-              <td className="py-3 px-4 font-bold border-r border-neutral-200">퍼플섬 (반월·박지도)</td>
-              <td className="py-3 px-4 text-neutral-600 border-r border-neutral-200">지붕부터 다리까지 온통 보라색인 동화 마을</td>
-              <td className="py-3 px-4 text-neutral-600">차량 약 20분 (안좌도 방향)</td>
+          <tbody class="divide-y divide-neutral-200 border-b border-neutral-200">
+            <tr class="hover:bg-neutral-50">
+              <td class="py-3 px-4 font-bold border-r border-neutral-200">퍼플섬 (반월·박지도)</td>
+              <td class="py-3 px-4 text-neutral-600 border-r border-neutral-200">지붕부터 다리까지 온통 보라색인 동화 마을</td>
+              <td class="py-3 px-4 text-neutral-600">차량 약 20분 (안좌도 방향)</td>
             </tr>
-            <tr className="hover:bg-neutral-50">
-              <td className="py-3 px-4 font-bold border-r border-neutral-200">동백 파마머리 벽화</td>
-              <td className="py-3 px-4 text-neutral-600 border-r border-neutral-200">실제 동백나무와 벽화가 만난 신안의 아이콘</td>
-              <td className="py-3 px-4 text-neutral-600">차량 약 5분 (기동삼거리)</td>
+            <tr class="hover:bg-neutral-50">
+              <td class="py-3 px-4 font-bold border-r border-neutral-200">동백 파마머리 벽화</td>
+              <td class="py-3 px-4 text-neutral-600 border-r border-neutral-200">실제 동백나무와 벽화가 만난 신안의 아이콘</td>
+              <td class="py-3 px-4 text-neutral-600">차량 약 5분 (기동삼거리)</td>
             </tr>
-            <tr className="hover:bg-neutral-50">
-              <td className="py-3 px-4 font-bold border-r border-neutral-200">1004 뮤지엄파크</td>
-              <td className="py-3 px-4 text-neutral-600 border-r border-neutral-200">바다 위를 걷는 '무한의 다리'와 예술 전시</td>
-              <td className="py-3 px-4 text-neutral-600">차량 약 20분 (자은도 방향)</td>
+            <tr class="hover:bg-neutral-50">
+              <td class="py-3 px-4 font-bold border-r border-neutral-200">1004 뮤지엄파크</td>
+              <td class="py-3 px-4 text-neutral-600 border-r border-neutral-200">바다 위를 걷는 '무한의 다리'와 예술 전시</td>
+              <td class="py-3 px-4 text-neutral-600">차량 약 20분 (자은도 방향)</td>
             </tr>
           </tbody>
         </table>
@@ -2545,24 +2521,24 @@ export const postsShinan = {
         <li><strong>코스:</strong> 파인클라우드 산책 → 퍼플섬 (반월·박지도) 투어.</li>
         <li><strong>이유:</strong> UNWTO가 선정한 최우수 관광마을답게 찍는 곳마다 화보가 됩니다. 커플로 보라색 소품(우산, 모자 등)을 맞춰 입장료 혜택도 받고, 보라색 다리 위에서 로맨틱한 커플샷을 남겨보세요.</li>
       </ul>
-      <img src="/images/shinan-hotplace-1.webp" alt="퍼플섬 보라빛 물결" className="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
-      <p className="text-center text-sm text-neutral-500 mt-2">지붕부터 다리, 꽃까지 온통 보라색으로 물든 동화 같은 섬, 반월·박지도 퍼플섬</p>
+      <img src="/images/shinan-hotplace-1.webp" alt="퍼플섬 보라빛 물결" class="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
+      <p class="text-center text-sm text-neutral-500 mt-2">지붕부터 다리, 꽃까지 온통 보라색으로 물든 동화 같은 섬, 반월·박지도 퍼플섬</p>
 
       <h3>🧘‍♀️ [나홀로 여행족] "사색과 예술이 만나는 무한의 시간"</h3>
       <ul>
         <li><strong>코스:</strong> 파인클라우드 정원 → 자은도 1004 뮤지엄파크 & 무한의 다리.</li>
         <li><strong>이유:</strong> 둔장해변의 <strong>'무한의 다리'</strong>는 혼자 걷기에 더할 나위 없이 좋습니다. 특히 일몰 시간에 방문하면 바다 한가운데서 타오르는 낙조를 바라보며 완벽한 '물멍' 시간을 가질 수 있습니다.</li>
       </ul>
-      <img src="/images/shinan-hotplace-2.webp" alt="1004 뮤지엄파크 무한의 다리" className="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
-      <p className="text-center text-sm text-neutral-500 mt-2">사색을 즐기며 바다 위를 거닐 수 있는 자은도 둔장해변 무한의 다리</p>
+      <img src="/images/shinan-hotplace-2.webp" alt="1004 뮤지엄파크 무한의 다리" class="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
+      <p class="text-center text-sm text-neutral-500 mt-2">사색을 즐기며 바다 위를 거닐 수 있는 자은도 둔장해변 무한의 다리</p>
 
       <h3>📸 [인생샷 사냥꾼] "계절이 그리는 벽화, 기동삼거리 인증샷"</h3>
       <ul>
         <li><strong>코스:</strong> 이동 중 기동삼거리 경유.</li>
         <li><strong>이유:</strong> 파인클라우드로 들어오는 길목에 위치한 <strong>'동백 파마머리 벽화'</strong>는 필수 코스입니다. 실제 동백나무를 할머니, 할아버지의 머리카락으로 표현한 위트 있는 벽화 앞에서 개성 넘치는 사진을 남겨보세요.</li>
       </ul>
-      <img src="/images/shinan-hotplace-3.webp" alt="기동삼거리 동백 파마머리 벽화" className="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
-      <p className="text-center text-sm text-neutral-500 mt-2">계절이 그리는 위트 있고 정겨운 신안의 명물, 기동삼거리 동백 벽화</p>
+      <img src="/images/shinan-hotplace-3.webp" alt="기동삼거리 동백 파마머리 벽화" class="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
+      <p class="text-center text-sm text-neutral-500 mt-2">계절이 그리는 위트 있고 정겨운 신안의 명물, 기동삼거리 동백 벽화</p>
 
       <hr />
 
@@ -2576,7 +2552,7 @@ export const postsShinan = {
       <hr />
 
       <h2>남도예술정원의 코스 제안</h2>
-      <blockquote className="border-l-4 border-primary/50 pl-4 my-4 font-bold text-neutral-700">
+      <blockquote class="border-l-4 border-primary/50 pl-4 my-4 font-bold text-neutral-700">
         "파인클라우드에서 마음을 비우고, 퍼플섬에서 색채를 채우며, 무한의 다리에서 노을로 마무리하는 일정! 이 동선은 신안의 매력을 가장 트렌디하게 경험할 수 있는 <strong>'AI 추천 골든 루트'</strong>입니다."
       </blockquote>
 
@@ -2584,20 +2560,20 @@ export const postsShinan = {
       
       <h3>[데이터베이스 및 자료 출처]</h3>
       <ul>
-        <li>또치의 일상 (암태도/자은도 여행기): <a href="https://blog.naver.com/im_ddo_chi/223461054701" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline">링크</a></li>
-        <li>1004 뮤지엄파크 공식 홈페이지: <a href="http://1004museum.co.kr" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline">링크</a></li>
-        <li>블로그 sun0756 (퍼플섬 이용 팁): <a href="https://blog.naver.com/sun0756/223595073735" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline">링크</a></li>
-        <li>블로그 cleanrred (무한의 다리 일몰): <a href="https://blog.naver.com/cleanrred/223733619147" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline">링크</a></li>
+        <li>또치의 일상 (암태도/자은도 여행기): <a href="https://blog.naver.com/im_ddo_chi/223461054701" target="_blank" rel="noopener noreferrer" class="text-primary hover:underline">링크</a></li>
+        <li>1004 뮤지엄파크 공식 홈페이지: <a href="http://1004museum.co.kr" target="_blank" rel="noopener noreferrer" class="text-primary hover:underline">링크</a></li>
+        <li>블로그 sun0756 (퍼플섬 이용 팁): <a href="https://blog.naver.com/sun0756/223595073735" target="_blank" rel="noopener noreferrer" class="text-primary hover:underline">링크</a></li>
+        <li>블로그 cleanrred (무한의 다리 일몰): <a href="https://blog.naver.com/cleanrred/223733619147" target="_blank" rel="noopener noreferrer" class="text-primary hover:underline">링크</a></li>
       </ul>
 
-      <p className="text-neutral-500 text-sm mt-4">
-        <strong>글 작성자:</strong> 남도예술정원 AI리서처<br/>
+      <p class="text-neutral-500 text-sm mt-4">
+        <strong>글 작성자:</strong> 남도예술정원 AI 에디터<br/>
         #신안여행코스 #파인클라우드 #퍼플섬 #신안핫플 #동백벽화 #무한의다리 #전남드라이브 #인생사진명소 #신안가볼만한곳 #감성여행 #커플여행 #남도예술정원 #신안관광가이드
       </p>
     `,
     image: "/images/shinan-hotplace-1.webp",
     date: "2026. 03. 19",
-    author: "남도예술정원 AI리서처",
+    author: "남도예술정원 AI 에디터",
     readTime: "4분",
     keywords: "신안여행코스, 파인클라우드, 퍼플섬, 신안핫플, 동백벽화, 무한의다리, 전남드라이브, 인생사진명소, 신안가볼만한곳, 감성여행, 커플여행, 남도예술정원, 신안관광가이드"
   },
@@ -2605,8 +2581,7 @@ export const postsShinan = {
     title: "[신안] 아이와 가기 딱 좋은 '1004섬 분재정원' 완벽 가이드 (입장료 환급/주차/꿀팁)",
     description: "신안군 압해읍에 위치한 1004섬 분재정원의 최신 시설 정보와 스마트한 이용 팁 총정리! 자연 학습과 힐링을 다 잡는 완벽한 가족 친화적 동선을 안내합니다.",
     content: `
-      <h2>[신안] 아이와 가기 딱 좋은 '1004섬 분재정원' 완벽 가이드 (입장료 환급/주차/꿀팁)</h2>
-      <p>안녕하세요. 빅데이터를 기반으로 실패 없는 여행 동선을 설계해 드리는 <strong>[남도예술정원 AI리서처]</strong>입니다.</p>
+      <p>안녕하세요. 빅데이터를 기반으로 실패 없는 여행 동선을 설계해 드리는 <strong>[남도예술정원 AI 에디터]</strong>입니다.</p>
       <p>아이와의 여행은 이동 거리, 편의 시설, 예산까지 꼼꼼하게 따져야 하죠. 오늘은 신안군 압해읍에 위치한 1004섬 분재정원의 최신 시설 정보와 스마트한 이용 팁을 총정리해 드립니다. 자연 학습과 힐링을 동시에 잡을 수 있는 이번 여정, 지금 바로 시작합니다.</p>
       
       <hr />
@@ -2621,38 +2596,38 @@ export const postsShinan = {
       <hr />
 
       <h2>📍 1004섬 분재정원 상세 이용 정보</h2>
-      <div className="overflow-x-auto my-8">
-        <table className="min-w-full text-sm text-left border-collapse">
-          <thead className="bg-primary/10 border-b-2 border-primary/20">
+      <div class="overflow-x-auto my-8">
+        <table class="min-w-full text-sm text-left border-collapse">
+          <thead class="bg-primary/10 border-b-2 border-primary/20">
             <tr>
-              <th className="py-3 px-4 font-bold text-neutral-900 border-r border-neutral-200">구분</th>
-              <th className="py-3 px-4 font-bold text-neutral-900">내용 및 방문 팁</th>
+              <th class="py-3 px-4 font-bold text-neutral-900 border-r border-neutral-200">구분</th>
+              <th class="py-3 px-4 font-bold text-neutral-900">내용 및 방문 팁</th>
             </tr>
           </thead>
-          <tbody className="divide-y divide-neutral-200 border-b border-neutral-200">
-            <tr className="hover:bg-neutral-50">
-              <td className="py-3 px-4 font-bold border-r border-neutral-200">위치</td>
-              <td className="py-3 px-4 text-neutral-600">전남 신안군 압해읍 무지개길 330 (주차장: 무지개길 311-1)</td>
+          <tbody class="divide-y divide-neutral-200 border-b border-neutral-200">
+            <tr class="hover:bg-neutral-50">
+              <td class="py-3 px-4 font-bold border-r border-neutral-200">위치</td>
+              <td class="py-3 px-4 text-neutral-600">전남 신안군 압해읍 무지개길 330 (주차장: 무지개길 311-1)</td>
             </tr>
-            <tr className="hover:bg-neutral-50">
-              <td className="py-3 px-4 font-bold border-r border-neutral-200">운영 시간</td>
-              <td className="py-3 px-4 text-neutral-600">하절기(3~10월): 09:00~18:00 / 동절기(11~2월): 09:00~15:00</td>
+            <tr class="hover:bg-neutral-50">
+              <td class="py-3 px-4 font-bold border-r border-neutral-200">운영 시간</td>
+              <td class="py-3 px-4 text-neutral-600">하절기(3~10월): 09:00~18:00 / 동절기(11~2월): 09:00~15:00</td>
             </tr>
-            <tr className="hover:bg-neutral-50">
-              <td className="py-3 px-4 font-bold border-r border-neutral-200">휴무일</td>
-              <td className="py-3 px-4 text-neutral-600">매주 월요일 (월요일이 공휴일이면 다음 날 휴관 / 축제 기간 연중무휴)</td>
+            <tr class="hover:bg-neutral-50">
+              <td class="py-3 px-4 font-bold border-r border-neutral-200">휴무일</td>
+              <td class="py-3 px-4 text-neutral-600">매주 월요일 (월요일이 공휴일이면 다음 날 휴관 / 축제 기간 연중무휴)</td>
             </tr>
-            <tr className="hover:bg-neutral-50">
-              <td className="py-3 px-4 font-bold border-r border-neutral-200">입장료</td>
-              <td className="py-3 px-4 text-neutral-600">성인 10,000원 (신안상품권 환급) / 18세 이하 무료</td>
+            <tr class="hover:bg-neutral-50">
+              <td class="py-3 px-4 font-bold border-r border-neutral-200">입장료</td>
+              <td class="py-3 px-4 text-neutral-600">성인 10,000원 (신안상품권 환급) / 18세 이하 무료</td>
             </tr>
-            <tr className="hover:bg-neutral-50">
-              <td className="py-3 px-4 font-bold border-r border-neutral-200">주차</td>
-              <td className="py-3 px-4 text-neutral-600">전용 주차장 및 제2주차장 완비 (무료)</td>
+            <tr class="hover:bg-neutral-50">
+              <td class="py-3 px-4 font-bold border-r border-neutral-200">주차</td>
+              <td class="py-3 px-4 text-neutral-600">전용 주차장 및 제2주차장 완비 (무료)</td>
             </tr>
-            <tr className="hover:bg-neutral-50">
-              <td className="py-3 px-4 font-bold border-r border-neutral-200">문의</td>
-              <td className="py-3 px-4 text-neutral-600">061-240-8778</td>
+            <tr class="hover:bg-neutral-50">
+              <td class="py-3 px-4 font-bold border-r border-neutral-200">문의</td>
+              <td class="py-3 px-4 text-neutral-600">061-240-8778</td>
             </tr>
           </tbody>
         </table>
@@ -2667,8 +2642,8 @@ export const postsShinan = {
         <li><strong>추천 포인트:</strong> 정원 내 산책로가 완만한 경사로 되어 있어 유모차와 휠체어 이동이 매우 쉽습니다. 수유실과 유아휴게실이 잘 갖춰져 있어 영유아 동반 가족에게 최적입니다.</li>
         <li><strong>체험 요소:</strong> 아이들에게는 살아있는 분재와 자연 학습의 기회를, 부모님께는 상품권으로 즐기는 카페 휴식을 추천합니다.</li>
       </ul>
-      <img src="/images/shinan-bunjae-1.webp" alt="1004섬 분재정원 연못과 폭포" className="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
-      <p className="text-center text-sm text-neutral-500 mt-2">아이들도 편안하게 산책할 수 있는 분재정원의 아름다운 연못과 폭포</p>
+      <img src="/images/shinan-bunjae-1.webp" alt="1004섬 분재정원 연못과 폭포" class="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
+      <p class="text-center text-sm text-neutral-500 mt-2">아이들도 편안하게 산책할 수 있는 분재정원의 아름다운 연못과 폭포</p>
 
       <h3>🐕 [반려동물 가족] "댕댕이와 함께하는 정원 산책"</h3>
       <ul>
@@ -2689,13 +2664,13 @@ export const postsShinan = {
         <li><strong>추천 스팟 2:</strong> 겨울 애기동백 길. 12월~1월 붉게 물든 동백꽃 사이에서 찍는 사진은 신안 여행의 하이라이트입니다.</li>
         <li><strong>추천 시간:</strong> 오전 10시경, 맑은 채광이 분재의 곡선을 가장 잘 살려주는 시간대를 추천합니다.</li>
       </ul>
-      <img src="/images/shinan-bunjae-2.webp" alt="1004섬 분재정원 온실" className="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
-      <p className="text-center text-sm text-neutral-500 mt-2">다양한 분재 예술 작품을 감상할 수 있는 분재 온실</p>
+      <img src="/images/shinan-bunjae-2.webp" alt="1004섬 분재정원 온실" class="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
+      <p class="text-center text-sm text-neutral-500 mt-2">다양한 분재 예술 작품을 감상할 수 있는 분재 온실</p>
 
       <hr />
 
       <h2>🏠 편의 시설 및 스마트 이용 팁</h2>
-      <ol className="list-decimal pl-5 space-y-2 my-4">
+      <ol class="list-decimal pl-5 space-y-2 my-4">
         <li><strong>신안상품권 활용법:</strong> 환급받은 10,000원 상품권은 정원 내 카페에서 커피와 디저트를 즐기거나, 신안군 내 식당에서 현금처럼 사용하세요.</li>
         <li><strong>유모차 대여:</strong> 입구 매표소 근처에서 유모차와 휠체어 대여가 가능하니 무겁게 챙겨오지 않으셔도 됩니다.</li>
         <li><strong>관람 소요 시간:</strong> 정원이 꽤 넓으므로 아이들과 여유롭게 둘러보시려면 최소 2시간 전에 입장하시는 것이 좋습니다.</li>
@@ -2705,22 +2680,22 @@ export const postsShinan = {
       
       <h3>[자료 출처 및 데이터베이스]</h3>
       <ul>
-        <li>신안군 공식 홈페이지 (시설 정보): <a href="https://www.shinan.go.kr/home/bjpark" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline">링크</a></li>
-        <li>블로그 doastar (환급/무료 입장): <a href="https://blog.naver.com/doastar/224101066981" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline">링크</a></li>
-        <li>블로그 dytoday0225 (반려동물 규정): <a href="https://blog.naver.com/dytoday0225/223792544741" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline">링크</a></li>
-        <li>블로그 seaotterhehe (주차 정보): <a href="https://blog.naver.com/seaotterhehe/224118773762" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline">링크</a></li>
-        <li>블로그 janiper617 (야간 개장): <a href="https://blog.naver.com/janiper617/224100013258" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline">링크</a></li>
-        <li>대한민국 구석구석 (기본 정보): <a href="https://korean.visitkorea.or.kr" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline">링크</a></li>
+        <li>신안군 공식 홈페이지 (시설 정보): <a href="https://www.shinan.go.kr/home/bjpark" target="_blank" rel="noopener noreferrer" class="text-primary hover:underline">링크</a></li>
+        <li>블로그 doastar (환급/무료 입장): <a href="https://blog.naver.com/doastar/224101066981" target="_blank" rel="noopener noreferrer" class="text-primary hover:underline">링크</a></li>
+        <li>블로그 dytoday0225 (반려동물 규정): <a href="https://blog.naver.com/dytoday0225/223792544741" target="_blank" rel="noopener noreferrer" class="text-primary hover:underline">링크</a></li>
+        <li>블로그 seaotterhehe (주차 정보): <a href="https://blog.naver.com/seaotterhehe/224118773762" target="_blank" rel="noopener noreferrer" class="text-primary hover:underline">링크</a></li>
+        <li>블로그 janiper617 (야간 개장): <a href="https://blog.naver.com/janiper617/224100013258" target="_blank" rel="noopener noreferrer" class="text-primary hover:underline">링크</a></li>
+        <li>대한민국 구석구석 (기본 정보): <a href="https://korean.visitkorea.or.kr" target="_blank" rel="noopener noreferrer" class="text-primary hover:underline">링크</a></li>
       </ul>
 
-      <p className="text-neutral-500 text-sm mt-4">
-        <strong>글 작성자:</strong> 남도예술정원 AI리서처<br/>
+      <p class="text-neutral-500 text-sm mt-4">
+        <strong>글 작성자:</strong> 남도예술정원 AI 에디터<br/>
         #신안여행 #1004섬분재정원 #아이와가볼만한곳 #신안가족여행 #전남여행코스 #육아여행 #스마트관광 #AI여행가이드 #신안가볼만한곳 #국내가족여행 #남도예술정원 #신안관광정보 #압해읍맛집 #애기동백축제
       </p>
     `,
     image: "/images/shinan-bunjae-1.webp",
     date: "2026. 03. 19",
-    author: "남도예술정원 AI리서처",
+    author: "남도예술정원 AI 에디터",
     readTime: "4분",
     keywords: "신안여행, 1004섬분재정원, 아이와가볼만한곳, 신안가족여행, 전남여행코스, 육아여행, 스마트관광, AI여행가이드, 신안가볼만한곳, 국내가족여행, 남도예술정원, 신안관광정보, 압해읍맛집, 애기동백축제"
   },
@@ -2729,19 +2704,18 @@ export const postsShinan = {
     description: "도시의 소음에서 벗어나 진정한 휴식을 갈망하시나요? 자연과 예술이 합일된 거대한 수묵화, 1004섬 분재정원으로 초대합니다.",
     content: `
 
-      <h2>[신안] 인생샷과 사색의 미학! 1004섬 분재정원 완벽 가이드</h2>
       <p>도시의 소음에서 벗어나 진정한 휴식을 갈망하시나요? 전라남도 신안의 보석, <strong>1004섬 분재정원(천사섬 분재정원)</strong>은 단순한 식물원을 넘어 자연과 예술이 합일된 거대한 수묵화입니다. 송공산 자락에서 다도해를 내려다보며 '살아있는 예술' 분재의 정수를 만끽할 수 있는 이곳의 모든 것을 정리해 드립니다.</p>
 
       <div style="border: 2px solid #2e7d32; padding: 20px; border-radius: 8px; background-color: #f1f8e9; margin: 25px 0;">
-        <strong style="color: #1b5e20; font-size: 1.1em;">🌿 [남도예술정원 AI리서처의 추천 한마디]</strong><br><br>
+        <strong style="color: #1b5e20; font-size: 1.1em;">🌿 [남도예술정원 AI 에디터의 추천 한마디]</strong><br><br>
         "수백 년의 시간을 견뎌낸 분재 한 그루는 그 자체로 하나의 우주입니다. 서두르지 말고 나무의 곡선과 바다의 수평선이 만나는 찰나의 평온을 꼭 경험해 보세요. 특히 겨울철 붉은 애기동백은 놓쳐선 안 될 예술적 절경입니다."
       </div>
       
       <hr />
       
       <h2>🌟 한눈에 보는 핵심 요약</h2>
-      <img src="/images/shinan-bunjae-art2-1.webp" alt="원뿔형 나무가 늘어선 고즈넉한 정원 산책로" className="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
-      <p className="text-center text-sm text-neutral-500 mt-2">(▲ 아름다운 수형을 자랑하는 나무들이 고즈넉하게 늘어선 평화로운 분재정원 산책로)</p>
+      <img src="/images/shinan-bunjae-art2-1.webp" alt="원뿔형 나무가 늘어선 고즈넉한 정원 산책로" class="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
+      <p class="text-center text-sm text-neutral-500 mt-2">(▲ 아름다운 수형을 자랑하는 나무들이 고즈넉하게 늘어선 평화로운 분재정원 산책로)</p>
       
       <ul>
         <li><strong>예술적 가치:</strong> 고(故) 최병철 박사가 평생 수집한 2,000여 점의 명품 분재가 기증되어 조성된 국내 최대 규모 분재 전문 공원입니다.</li>
@@ -2752,30 +2726,30 @@ export const postsShinan = {
       <hr />
 
       <h2>📍 관광지 상세 정보</h2>
-      <div className="overflow-x-auto my-8">
-        <table className="min-w-full text-sm text-left border-collapse">
-          <thead className="bg-primary/10 border-b-2 border-primary/20">
+      <div class="overflow-x-auto my-8">
+        <table class="min-w-full text-sm text-left border-collapse">
+          <thead class="bg-primary/10 border-b-2 border-primary/20">
             <tr>
-              <th className="py-3 px-4 font-bold text-neutral-900 border-r border-neutral-200">구분</th>
-              <th className="py-3 px-4 font-bold text-neutral-900">내용 및 팁</th>
+              <th class="py-3 px-4 font-bold text-neutral-900 border-r border-neutral-200">구분</th>
+              <th class="py-3 px-4 font-bold text-neutral-900">내용 및 팁</th>
             </tr>
           </thead>
-          <tbody className="divide-y divide-neutral-200 border-b border-neutral-200">
-            <tr className="hover:bg-neutral-50">
-              <td className="py-3 px-4 font-bold border-r border-neutral-200">위치</td>
-              <td className="py-3 px-4 text-neutral-600">전라남도 신안군 압해읍 수락길 330 <a href="https://maps.google.com/?q=전남+신안군+압해읍+수락길+330" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline">(구글 지도 보기)</a></td>
+          <tbody class="divide-y divide-neutral-200 border-b border-neutral-200">
+            <tr class="hover:bg-neutral-50">
+              <td class="py-3 px-4 font-bold border-r border-neutral-200">위치</td>
+              <td class="py-3 px-4 text-neutral-600">전라남도 신안군 압해읍 수락길 330 <a href="https://maps.google.com/?q=전남+신안군+압해읍+수락길+330" target="_blank" rel="noopener noreferrer" class="text-primary hover:underline">(구글 지도 보기)</a></td>
             </tr>
-            <tr className="hover:bg-neutral-50">
-              <td className="py-3 px-4 font-bold border-r border-neutral-200">운영 시간</td>
-              <td className="py-3 px-4 text-neutral-600">동절기(11~2월): 09:00~17:00 / 하절기(3~10월): 09:00~18:00 (※ 매주 월요일 휴무)</td>
+            <tr class="hover:bg-neutral-50">
+              <td class="py-3 px-4 font-bold border-r border-neutral-200">운영 시간</td>
+              <td class="py-3 px-4 text-neutral-600">동절기(11~2월): 09:00~17:00 / 하절기(3~10월): 09:00~18:00 (※ 매주 월요일 휴무)</td>
             </tr>
-            <tr className="hover:bg-neutral-50">
-              <td className="py-3 px-4 font-bold border-r border-neutral-200">입장료</td>
-              <td className="py-3 px-4 text-neutral-600">성인 5,000원 / 청소년 3,000원 (신안군민 및 만 65세 이상 무료 혜택 확인)</td>
+            <tr class="hover:bg-neutral-50">
+              <td class="py-3 px-4 font-bold border-r border-neutral-200">입장료</td>
+              <td class="py-3 px-4 text-neutral-600">성인 5,000원 / 청소년 3,000원 (신안군민 및 만 65세 이상 무료 혜택 확인)</td>
             </tr>
-            <tr className="hover:bg-neutral-50">
-              <td className="py-3 px-4 font-bold border-r border-neutral-200">주차</td>
-              <td className="py-3 px-4 text-neutral-600">정원 입구 전용 무료 주차장 완비 (대형 버스 및 승용차 주차 공간 넉넉함)</td>
+            <tr class="hover:bg-neutral-50">
+              <td class="py-3 px-4 font-bold border-r border-neutral-200">주차</td>
+              <td class="py-3 px-4 text-neutral-600">정원 입구 전용 무료 주차장 완비 (대형 버스 및 승용차 주차 공간 넉넉함)</td>
             </tr>
           </tbody>
         </table>
@@ -2806,17 +2780,17 @@ export const postsShinan = {
       <hr />
 
       <h2>📸 인생샷 핫포인트 & 골든타임</h2>
-      <ol className="list-decimal pl-5 space-y-4 my-4">
+      <ol class="list-decimal pl-5 space-y-4 my-4">
         <li>
           <strong>추천 스팟: "저녁노을미술관 앞 테라스"</strong>
-          <ul className="list-disc pl-5 mt-2 text-neutral-600">
+          <ul class="list-disc pl-5 mt-2 text-neutral-600">
             <li><strong>포인트:</strong> 분재정원의 전경과 다도해의 섬들이 한눈에 들어오는 파노라마 뷰!</li>
             <li><strong>골든타임:</strong> 일몰 30분 전. 태양이 바다로 떨어지며 정원을 붉게 물들일 때 가장 입체적인 사진이 나옵니다.</li>
           </ul>
         </li>
         <li>
           <strong>추천 스팟: "애기동백길 터널 (겨울 한정)"</strong>
-          <ul className="list-disc pl-5 mt-2 text-neutral-600">
+          <ul class="list-disc pl-5 mt-2 text-neutral-600">
             <li><strong>포인트:</strong> 붉은 꽃잎이 융단처럼 깔린 신비로운 산책길.</li>
             <li><strong>골든타임:</strong> 오전 11시경. 나뭇가지 사이로 사선으로 들어오는 햇빛(사광)이 꽃의 색감을 더욱 선명하게 살려줍니다.</li>
           </ul>
@@ -2826,10 +2800,10 @@ export const postsShinan = {
       <hr />
 
       <h2>🚲 1004섬 자전거 스탬프 투어 및 액티비티</h2>
-      <img src="/images/shinan-bunjae-art2-2.webp" alt="신안 섬 자전거길 스탬프 투어 안내 표지판" className="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
-      <p className="text-center text-sm text-neutral-500 mt-2">(▲ 신안 섬 갯벌을 따라 달리는 자전거길과 스탬프 투어 인증 편지함)</p>
+      <img src="/images/shinan-bunjae-art2-2.webp" alt="신안 섬 자전거길 스탬프 투어 안내 표지판" class="w-full rounded-2xl my-8 object-cover shadow-lg border border-neutral-100" />
+      <p class="text-center text-sm text-neutral-500 mt-2">(▲ 신안 섬 갯벌을 따라 달리는 자전거길과 스탬프 투어 인증 편지함)</p>
       <p>분재정원 관람 전후로 주변의 청정 자연을 온몸으로 만끽하고 싶다면 <strong>'신안 섬 자전거길'</strong> 코스를 강력히 추천합니다!</p>
-      <ul className="list-disc pl-5 space-y-2 text-neutral-600 my-4">
+      <ul class="list-disc pl-5 space-y-2 text-neutral-600 my-4">
         <li><strong>구간 안내:</strong> 신안군청에서 송공산(천사섬 분재공원) 방향으로 이어지는 아름다운 방조제길 코스.</li>
         <li><strong>추천 매력:</strong> 밀물과 썰물에 따라 다채롭게 변하는 갯벌의 생태계를 가까이서 관찰할 수 있으며, 코스 곳곳에 비치된 '1004섬 자전거길 스탬프 투어' 인증함에서 스탬프 전용 투어의 쏠쏠한 재미도 챙겨보세요.</li>
       </ul>
@@ -2839,7 +2813,7 @@ export const postsShinan = {
       <h2>🏠 인근 숙박 및 교통 안내</h2>
       <h3>추천 숙소</h3>
       <ul>
-        <li><strong>신안 엘도라도 리조트 (<a href="https://www.eldoradoresort.co.kr" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline">공식 홈페이지</a>):</strong> 다도해의 이국적인 풍경을 담은 프리미엄 리조트 (차량 40분 거리).</li>
+        <li><strong>신안 엘도라도 리조트 (<a href="https://www.eldoradoresort.co.kr" target="_blank" rel="noopener noreferrer" class="text-primary hover:underline">공식 홈페이지</a>):</strong> 다도해의 이국적인 풍경을 담은 프리미엄 리조트 (차량 40분 거리).</li>
         <li><strong>압해도 감성 스테이:</strong> 정원 인근의 조용한 독채 펜션들이 많아 프라이빗한 휴식에 최적입니다.</li>
       </ul>
       <h3>교통 안내</h3>
@@ -2851,22 +2825,22 @@ export const postsShinan = {
       <hr />
       
       <h3>[출처 및 참고자료]</h3>
-      <p className="mb-2">본 콘텐츠는 아래의 공식 정보와 실제 방문객 데이터를 기반으로 작성되었습니다.</p>
-      <ul className="list-disc pl-5 text-neutral-600 space-y-1">
-        <li><strong>1004섬 분재정원 공식 홈페이지</strong> (정원 운영, 분재 기념관, 식생 안내 등): <a href="http://shinan-bjpark.or.kr" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline">http://shinan-bjpark.or.kr</a></li>
-        <li><strong>신안군 문화관광 홈페이지</strong> (정원 설립 배경, 명칭 의미, 자전거길 코스, 축제 부스 정보): <a href="https://tour.shinan.go.kr" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline">https://tour.shinan.go.kr</a></li>
-        <li><strong>신안군 공식 블로그</strong> (계절별 추천 포인트, 봄 매화/이팝나무, 블루아워 감상 후기): <a href="https://blog.naver.com/sinan_story" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline">https://blog.naver.com/sinan_story</a></li>
+      <p class="mb-2">본 콘텐츠는 아래의 공식 정보와 실제 방문객 데이터를 기반으로 작성되었습니다.</p>
+      <ul class="list-disc pl-5 text-neutral-600 space-y-1">
+        <li><strong>1004섬 분재정원 공식 홈페이지</strong> (정원 운영, 분재 기념관, 식생 안내 등): <a href="http://shinan-bjpark.or.kr" target="_blank" rel="noopener noreferrer" class="text-primary hover:underline">http://shinan-bjpark.or.kr</a></li>
+        <li><strong>신안군 문화관광 홈페이지</strong> (정원 설립 배경, 명칭 의미, 자전거길 코스, 축제 부스 정보): <a href="https://tour.shinan.go.kr" target="_blank" rel="noopener noreferrer" class="text-primary hover:underline">https://tour.shinan.go.kr</a></li>
+        <li><strong>신안군 공식 블로그</strong> (계절별 추천 포인트, 봄 매화/이팝나무, 블루아워 감상 후기): <a href="https://blog.naver.com/sinan_story" target="_blank" rel="noopener noreferrer" class="text-primary hover:underline">https://blog.naver.com/sinan_story</a></li>
       </ul>
 
-      <p className="text-neutral-500 text-sm mt-4">
-        <strong>작성자:</strong> 남도예술정원 AI리서처<br/>
+      <p class="text-neutral-500 text-sm mt-4">
+        <strong>작성자:</strong> 남도예술정원 AI 에디터<br/>
         #신안여행 #1004섬분재정원 #전남미술관투어 #사색여행 #분재예술 #최병철분재기념관 #신안가볼만한곳 #AI여행리포트 #문화예술여행 #힐링여행 #애기동백축제 #신안일몰명소 #국내최대분재공원 #신안자전거길 #스탬프투어
       </p>
 
     `,
     image: "/images/shinan-bunjae-art2-1.webp",
     date: "2026. 03. 19",
-    author: "남도예술정원 AI리서처",
+    author: "남도예술정원 AI 에디터",
     readTime: "4분",
     keywords: "신안여행, 1004섬분재정원, 전남미술관투어, 사색여행, 분재예술, 최병철분재기념관, 신안가볼만한곳, AI여행리포트, 문화예술여행, 힐링여행"
   }
